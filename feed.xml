@@ -5,8 +5,44 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:02:54 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Slack Frontline connects deskless teams with AI</title>
+      <link>https://www.manilarepublic.com/slack-frontline-ai-mobile-workspace/</link>
+      <guid isPermaLink="false">478ab0cc-056d-47dc-8395-6fc70703ae2d</guid>
+      <pubDate>Thu, 22 Oct 2026 20:23:44 GMT</pubDate>
+      <category>Productivity</category>
+      <description>Slack has introduced Slack Frontline, a mobile workspace that brings AI agents to employees who work away from a desk. Workers can sign in with an employee ID or QR code instead of a corporate email address.</description>
+      <content:encoded><![CDATA[<p>Slack has introduced <a href="https://www.manilarepublic.com/slack-frontline-ai-mobile-workspace/">Slack Frontline</a>, a mobile workspace that brings AI agents to employees who work away from a desk. Workers can sign in with an employee ID or QR code instead of a corporate email address.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>A/B testing, through the Bayesian lens</title>
+      <link>https://medium.com/@NealRPatel/what-the-hell-is-a-b-testing-part-2-the-bayesian-lens-b23ca1b4db4d</link>
+      <guid isPermaLink="false">b2c32bb6-4b5b-4a1b-9f4f-48ba015d101b</guid>
+      <pubDate>Thu, 22 Oct 2026 19:15:06 GMT</pubDate>
+      <category>Data science</category>
+      <description>The frequentist reading of the ramen test assumes both recipes are identical and asks how often luck alone would produce a gap that big, in Neal Patel&#x27;s worked example. The Bayesian reading starts before any bowls leave the kitchen, writing down what two years of cooking the old recipe already taught you as a prior, then letting Saturday&#x27;s results push that belief around.</description>
+      <content:encoded><![CDATA[<p>The frequentist reading of the ramen test assumes both recipes are identical and asks how often luck alone would produce a gap that big, in <a href="https://medium.com/@NealRPatel/what-the-hell-is-a-b-testing-part-2-the-bayesian-lens-b23ca1b4db4d">Neal Patel&#x27;s worked example</a>. The Bayesian reading starts before any bowls leave the kitchen, writing down what two years of cooking the old recipe already taught you as a prior, then letting Saturday&#x27;s results push that belief around.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nasdaq falls 2.18% as AI spending concerns mount</title>
+      <link>https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/</link>
+      <guid isPermaLink="false">d9bae718-c276-40dd-9222-ae33c27b9f5b</guid>
+      <pubDate>Thu, 22 Oct 2026 18:30:34 GMT</pubDate>
+      <category>Midday digest</category>
+      <description>As of 11:35 AM ET, the Nasdaq Composite was down 2.18% to 26,121 as tech and AI weakness dragged the market lower at midday. Meta dragged despite its earnings beat, and Alphabet, Microsoft and Amazon report next week with the next read on AI spending.</description>
+      <content:encoded><![CDATA[<p>As of 11:35 AM ET, the <a href="https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/">Nasdaq Composite was down 2.18% to 26,121</a> as tech and AI weakness dragged the market lower at midday. Meta dragged despite its earnings beat, and Alphabet, Microsoft and Amazon report next week with the next read on AI spending.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>8,300 steps a day tied to lower brain disease rates</title>
+      <link>https://www.mindbodygreen.com/articles/22k-person-study-showed-this-many-steps-supports-peak-brain-health</link>
+      <guid isPermaLink="false">f1ac6375-a127-41ed-88b2-132dd69d5d0a</guid>
+      <pubDate>Thu, 22 Oct 2026 18:27:17 GMT</pubDate>
+      <category>Fitness</category>
+      <description>Researchers tracked 22,517 adults for roughly five years, drawing on a full year of their Fitbit data from the NIH All of Us program. The least-active group developed dementia, Parkinson&#x27;s or stroke at roughly 80% higher rate than the most active group.</description>
+      <content:encoded><![CDATA[<p>Researchers tracked <a href="https://www.mindbodygreen.com/articles/22k-person-study-showed-this-many-steps-supports-peak-brain-health">22,517 adults</a> for roughly five years, drawing on a full year of their Fitbit data from the NIH All of Us program. The least-active group developed dementia, Parkinson&#x27;s or stroke at roughly 80% higher rate than the most active group.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Star Trek is secretly a high-power combo Commander set</title>
       <link>https://draftsim.com/mtg-star-trek-combos/</link>
@@ -420,42 +456,6 @@
       <category>NFL</category>
       <description>Andre Szmyt kicked a game-winning 37-yard field goal as time expired to give Cleveland a 13-10 victory over Baltimore. At 4-2, Cleveland now owns a share of first place this late in a season for the first time since 2014.</description>
       <content:encoded><![CDATA[<p>Andre Szmyt kicked a game-winning 37-yard field goal as time expired to give Cleveland a <a href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-move-into-first-place-with-13-10-victory-over-ravens">13-10 victory over Baltimore</a>. At 4-2, Cleveland now owns a share of first place this late in a season for the first time since 2014.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Browns trail Ravens 10-0 at halftime</title>
-      <link>https://brownswire.usatoday.com/story/sports/nfl/browns/2026/10/18/browns-vs-ravens-live-updates-highlights-and-analysis-from-week-6--live/92314026007/</link>
-      <guid isPermaLink="false">c52bfa4c-654a-47f4-b678-3da3660b4a96</guid>
-      <pubDate>Sun, 18 Oct 2026 18:32:26 GMT</pubDate>
-      <category>Daily digest</category>
-      <description>Baltimore leads Cleveland 10-0 at halftime at Huntington Bank Field. Both Baltimore scores came in the first quarter, on Tyler Huntley&#x27;s touchdown pass to Josh Cuevas and Tyler Loop&#x27;s 34-yard field goal.</description>
-      <content:encoded><![CDATA[<p>Baltimore <a href="https://brownswire.usatoday.com/story/sports/nfl/browns/2026/10/18/browns-vs-ravens-live-updates-highlights-and-analysis-from-week-6--live/92314026007/">leads Cleveland 10-0 at halftime</a> at Huntington Bank Field. Both Baltimore scores came in the first quarter, on Tyler Huntley&#x27;s touchdown pass to Josh Cuevas and Tyler Loop&#x27;s 34-yard field goal.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Indiana falls in both polls after loss to Ohio State</title>
-      <link>https://www.insidethehall.com/2026/10/18/iu-football-falls-in-ap-and-coaches-top-25-polls-after-loss-to-ohio-state/</link>
-      <guid isPermaLink="false">f3891383-99ff-4224-a467-60846777577b</guid>
-      <pubDate>Sun, 18 Oct 2026 18:27:49 GMT</pubDate>
-      <category>College football</category>
-      <description>Indiana landed sixth in the new AP poll, one spot lower than last week. Ohio State climbed to third in that poll and second in the coaches poll, behind Miami at the top of both.</description>
-      <content:encoded><![CDATA[<p>Indiana landed sixth in the <a href="https://www.insidethehall.com/2026/10/18/iu-football-falls-in-ap-and-coaches-top-25-polls-after-loss-to-ohio-state/">new AP poll</a>, one spot lower than last week. Ohio State climbed to third in that poll and second in the coaches poll, behind Miami at the top of both.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>I&#x27;ll weigh Muse Spark Open and call try or skip</title>
-      <link>https://github.com/rynglvr/feed-rss#bae77771-6da9-4a47-9d54-4e5053a5ebf6</link>
-      <guid isPermaLink="false">bae77771-6da9-4a47-9d54-4e5053a5ebf6</guid>
-      <pubDate>Sun, 18 Oct 2026 16:24:43 GMT</pubDate>
-      <category>💡 Ideas</category>
-      <description>I&#x27;ll compare Muse Spark Open&#x27;s published specs and independent benchmarks against your data-science explainers, game-theory reasoning, and coding work, and give you a one-page try-or-skip verdict. It will name the cheapest hosted API path if it is worth trying, and why local running is not practical.</description>
-      <content:encoded><![CDATA[<p>I&#x27;ll compare Muse Spark Open&#x27;s published specs and independent benchmarks against your data-science explainers, game-theory reasoning, and coding work, and give you a one-page try-or-skip verdict. It will name the cheapest hosted API path if it is worth trying, and why local running is not practical.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Calibration — Daily Learning</title>
-      <link>https://letsdatascience.com/blog/probability-calibration-why-high-accuracy-doesn-t-mean-you-can-trust-your-model</link>
-      <guid isPermaLink="false">5761f127-15e7-45ec-a494-8d2858a97e7d</guid>
-      <pubDate>Sun, 18 Oct 2026 14:29:18 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>A forecaster is well-calibrated when things it calls 70% likely actually happen about 70% of the time and things it calls 30% likely happen about 30% of the time, which is why accuracy alone is not enough if your confidence is wrong. If 100 sports bets you rate at 70% to win produce only 55 wins, you are overconfident by 15 points and any bankroll math built on that 70% will mislead you, while a…</description>
-      <content:encoded><![CDATA[<p>A forecaster is well-calibrated when things it calls 70% likely actually happen about 70% of the time and things it calls 30% likely happen about 30% of the time, which is why accuracy alone is not enough if your confidence is wrong. If 100 sports bets you rate at 70% to win produce only 55 wins, you are overconfident by 15 points and any bankroll math built on that 70% will mislead you, while a poker player or <a href="https://letsdatascience.com/blog/probability-calibration-why-high-accuracy-doesn-t-mean-you-can-trust-your-model">calibrated model</a> whose probabilities match reality can trust its numbers to size bets, compare options, and spot a real edge.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
