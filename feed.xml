@@ -5,8 +5,17 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 21:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:03:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI makes Decisions API generally available</title>
+      <link>https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/</link>
+      <guid isPermaLink="false">111934d7-f940-48a4-b961-1a82eef408f7</guid>
+      <pubDate>Thu, 22 Oct 2026 22:10:38 GMT</pubDate>
+      <category>AI</category>
+      <description>Instead of drafting prose, the Decisions API returns a bounded, typed answer from text, images, or structured data: a probability, a selection, or a rubric score. OpenAI puts it at up to 10x faster than asking GPT-6 Luna through the Responses API.</description>
+      <content:encoded><![CDATA[<p>Instead of drafting prose, the <a href="https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/">Decisions API</a> returns a bounded, typed answer from text, images, or structured data: a probability, a selection, or a rubric score. OpenAI puts it at up to 10x faster than asking GPT-6 Luna through the Responses API.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Slack Frontline connects deskless teams with AI</title>
       <link>https://www.manilarepublic.com/slack-frontline-ai-mobile-workspace/</link>
@@ -447,15 +456,6 @@
       <category>Daily digest</category>
       <description>Cleveland beat Baltimore 13-10 on Andre Szmyt&#x27;s 37-yard field goal as time expired, and Pittsburgh&#x27;s overtime win later left the Browns, Ravens and Steelers all 4-2 atop the AFC North. The rest of Sunday, in brief: the new AP poll put Miami first, BYU second and Ohio State third after the Buckeyes&#x27; win at Indiana; the Big 12 admitted BYU&#x27;s 28-24 win over Notre Dame on Saturday ended a second…</description>
       <content:encoded><![CDATA[<p>Cleveland <a href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-move-into-first-place-with-13-10-victory-over-ravens">beat Baltimore 13-10</a> on Andre Szmyt&#x27;s 37-yard field goal as time expired, and Pittsburgh&#x27;s overtime win later left the Browns, Ravens and Steelers all 4-2 atop the AFC North. The rest of Sunday, in brief: the <a href="https://www.saturdaydownsouth.com/news/college-football/ap-top-25-week-8-new-no-1-takes-over-9-sec-teams-land-in-latest-poll/">new AP poll</a> put Miami first, BYU second and Ohio State third after the Buckeyes&#x27; win at Indiana; the <a href="https://www.saturdaydownsouth.com/news/college-football/big-12-says-refs-ended-notre-dame-byu-game-1-second-early/">Big 12 admitted</a> BYU&#x27;s 28-24 win over Notre Dame on Saturday ended a second early; <a href="https://www.west42sports.com/2026/10/18/nfl-2026-27-weekly-schedule-scores-and-standings/">Sunday&#x27;s other finals</a> included Texans 34, Jaguars 31, Bears 31, Falcons 23, Titans 26, Colts 20, Patriots 26, Jets 19, Saints 34, Giants 27, Panthers 25, Eagles 14, Steelers 26, Buccaneers 19 in overtime, Cardinals 18, Rams 16, Chiefs 22, Chargers 6 and Bills 33, Raiders 30; tonight brings <a href="https://ontapsportsnet.com/nfl/how-to-watch-cowboys-packers-sunday-night-football-october-18-2026/">Cowboys at Packers</a> at 8:20 ET on NBC and Peacock with Green Bay favored by 1.5; tomorrow brings <a href="https://athlonsports.com/nfl/washington-commanders/nearly-every-nfl-expert-picking-commanders-upset-49ers">Commanders at 49ers</a> with San Francisco favored by 7.5 and chasing a record 56th Monday Night Football win; <a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/">Anthropic announced</a> it will commit 5% of its shares to a public benefit fund; <a href="https://www.barrons.com/articles/oil-stock-futures-sunday-trading-66f3ac57">futures edged up</a> Sunday night after the S and P 500 fell 1.9% and the Nasdaq fell 4.5% last week in a sell-off concentrated in chip names; the <a href="https://www.tipranks.com/news/major-earnings-this-week-october-19-23-2026">earnings week ahead</a> features SpaceX on Tuesday and Tesla and Meta on Wednesday; <a href="https://www.reuters.com/world/europe/one-killed-15-injured-ukrainian-drone-attack-st-petersburg-leningrad-region-2026-10-18/">Reuters reported</a> a Ukrainian attack of more than 1,000 drones on the St Petersburg oil terminal that killed one person and injured 15; the <a href="https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition?utm_id=97758_v0_s00_e0_tv2_a1demo0cd7q75s">Festival in a Box: Atlanta 2026 sale</a>, announced on October 5, opens tomorrow at 10 in the morning Mountain Time at $249.99 with a limit of two per customer; and researchers <a href="https://rocketnews.com/2026/10/physicists-create-a-bizarre-new-quantum-state-called-a-fractional-fermi-sea/">reported in Physical Review Letters</a> a new quantum state called a fractional Fermi sea, created with ultracold cesium atoms in a one-dimensional system.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Browns move into first place with 13-10 victory over Ravens</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-move-into-first-place-with-13-10-victory-over-ravens</link>
-      <guid isPermaLink="false">9ac09330-d2ee-4c8f-8407-87975334a616</guid>
-      <pubDate>Mon, 19 Oct 2026 00:06:56 GMT</pubDate>
-      <category>NFL</category>
-      <description>Andre Szmyt kicked a game-winning 37-yard field goal as time expired to give Cleveland a 13-10 victory over Baltimore. At 4-2, Cleveland now owns a share of first place this late in a season for the first time since 2014.</description>
-      <content:encoded><![CDATA[<p>Andre Szmyt kicked a game-winning 37-yard field goal as time expired to give Cleveland a <a href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-move-into-first-place-with-13-10-victory-over-ravens">13-10 victory over Baltimore</a>. At 4-2, Cleveland now owns a share of first place this late in a season for the first time since 2014.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
