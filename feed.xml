@@ -5,8 +5,62 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:27:35 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ghostty&#x27;s terminal engine hits 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <guid isPermaLink="false">92cd55a1-9c32-44b7-bf2a-8377799425f8</guid>
+      <pubDate>Sun, 08 Nov 2026 03:11:35 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>Mitchell Hashimoto released libghostty-vt 1.0 on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</description>
+      <content:encoded><![CDATA[<p><a href="https://mitchellh.com/writing/libghostty-1-0">Mitchell Hashimoto released libghostty-vt 1.0</a> on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI closes first $11B at $1.25T valuation</title>
+      <link>https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/</link>
+      <guid isPermaLink="false">e4587c10-0a69-4a88-bf0a-82abcaeccfe5</guid>
+      <pubDate>Sun, 08 Nov 2026 03:00:08 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg"/>
+      <description>Bloomberg reported [the money was wired on Friday, November 6. The round could still reach about $20 billion in the coming weeks.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" alt="OpenAI closes first $11B at $1.25T valuation"/></p>
+<p><a href="https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/">Bloomberg reported [the money was wired on Friday, November 6</a>. The round could still reach about $20 billion in the coming weeks.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Wizards nerfs a Star Trek combo before the set lands</title>
+      <link>https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/</link>
+      <guid isPermaLink="false">c0b8f5bf-b1d8-4d18-b6ed-759d37d725aa</guid>
+      <pubDate>Sun, 08 Nov 2026 02:32:42 GMT</pubDate>
+      <category>Evening digest</category>
+      <description>Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/">Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text</a> so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mathematics returns with new Wu-Tang album featuring Method Man</title>
+      <link>https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml</link>
+      <guid isPermaLink="false">1dedf813-bd33-4584-994a-3f1840b3ad27</guid>
+      <pubDate>Sun, 08 Nov 2026 01:05:29 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg"/>
+      <description>Mathematics X Wu-Tang: Black Samson – The Saga Continues is out now as a 10-track album. Method Man joins AZ on “God Body.”</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" alt="Mathematics returns with new Wu-Tang album featuring Method Man"/></p>
+<p><a href="https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml">Mathematics X Wu-Tang: Black Samson – The Saga Continues</a> is out now as a 10-track album. Method Man joins AZ on “God Body.”</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ohio State lost more than a game to Oregon</title>
+      <link>https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/</link>
+      <guid isPermaLink="false">da12828c-04dc-487b-b86e-ea0abc7b45b2</guid>
+      <pubDate>Sun, 08 Nov 2026 00:31:12 GMT</pubDate>
+      <category>College football</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg"/>
+      <description>Oregon beat Ohio State 41-28 in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" alt="Ohio State lost more than a game to Oregon"/></p>
+<p><a href="https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/">Oregon beat Ohio State 41-28</a> in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Reverse game theory could keep AI agents in check</title>
       <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</link>
@@ -486,57 +540,6 @@
       <category>Stock market</category>
       <description>Democrats captured majorities in both chambers, with stunning Senate wins in South Carolina, Texas and Ohio. Investors sold AI-linked shares on fears the sweep could disrupt the data-center buildout behind the AI trade.</description>
       <content:encoded><![CDATA[<p><a href="https://wixx.com/2026/11/03/us-stock-futures-dip-as-investors-await-midterm-election-results/">Democrats captured majorities in both chambers</a>, with stunning Senate wins in South Carolina, Texas and Ohio. Investors sold AI-linked shares on fears the sweep could disrupt the data-center buildout behind the AI trade.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AMD&#x27;s data-center revenue nearly doubles</title>
-      <link>https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/</link>
-      <guid isPermaLink="false">f155d995-f2ce-43c2-a3ed-a280177a94cc</guid>
-      <pubDate>Wed, 04 Nov 2026 02:28:42 GMT</pubDate>
-      <category>Tech</category>
-      <description>AMD reported third-quarter 2026 revenue of $13.377bn. The engine was data-center revenue, a record $8.5bn.</description>
-      <content:encoded><![CDATA[<p>AMD reported <a href="https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/">third-quarter 2026 revenue</a> of $13.377bn. The engine was data-center revenue, a record $8.5bn.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI can now tweak another AI&#x27;s weights</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105</link>
-      <guid isPermaLink="false">54620572-a8b0-432c-941c-715546f5847e</guid>
-      <pubDate>Tue, 03 Nov 2026 22:35:39 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/54620572-a8b0-432c-941c-715546f5847e.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/54620572-a8b0-432c-941c-715546f5847e.jpg"/>
-      <description>MIT researchers had GPT-6 Astra rewrite the weights of Qwen3.5-0.8B directly, changing only 0.016% of them. It used no training run, instead reasoning about what each part of the network computes and revising the weights accordingly.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/54620572-a8b0-432c-941c-715546f5847e.jpg" alt="AI can now tweak another AI&#x27;s weights"/></p>
-<p>MIT researchers had <a href="https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105">GPT-6 Astra rewrite the weights of Qwen3.5-0.8B directly</a>, changing only 0.016% of them. It used no training run, instead reasoning about what each part of the network computes and revising the weights accordingly.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Saturday is now a must-win for Ohio State</title>
-      <link>https://www.elevenwarriors.com/ohio-state-football/2026/11/165088/presser-bullets-ryan-day-didnt-expect-ohio-state-to-play-like-it-did-against-usc-at-all-says-he-must-challenge</link>
-      <guid isPermaLink="false">98fed337-f64a-4f4f-97d8-c0750ac2c7e2</guid>
-      <pubDate>Tue, 03 Nov 2026 19:30:00 GMT</pubDate>
-      <category>College football</category>
-      <description>Ryan Day said at his Tuesday, November 3 press conference that he must &quot;challenge everybody in the building&quot; after Ohio State&#x27;s 30–18 loss to USC. On Saturday, November 7, Ohio State hosts Oregon, with no room left for another loss if it is to reach Indianapolis and stay in the playoff picture.</description>
-      <content:encoded><![CDATA[<p>Ryan Day said at his Tuesday, November 3 <a href="https://www.elevenwarriors.com/ohio-state-football/2026/11/165088/presser-bullets-ryan-day-didnt-expect-ohio-state-to-play-like-it-did-against-usc-at-all-says-he-must-challenge">press conference</a> that he must &quot;challenge everybody in the building&quot; after Ohio State&#x27;s 30–18 loss to USC. On Saturday, November 7, Ohio State hosts Oregon, with no room left for another loss if it is to reach Indianapolis and stay in the playoff picture.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Trolley Problem — Daily Learning</title>
-      <link>https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Philosophy/Introduction_to_Philosophy_Reader_(Levin_et_al</link>
-      <guid isPermaLink="false">56ce2b07-c18c-4865-a5d9-a7c5680b33e8</guid>
-      <pubDate>Tue, 03 Nov 2026 15:26:59 GMT</pubDate>
-      <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/56ce2b07-c18c-4865-a5d9-a7c5680b33e8.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/56ce2b07-c18c-4865-a5d9-a7c5680b33e8.png"/>
-      <description>Pulling a lever would divert a runaway trolley/01%3AKnowledgeandSkepticism/1.02%3AALessoninThinking-TheTrolleyProblem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/56ce2b07-c18c-4865-a5d9-a7c5680b33e8.png" alt="Big Idea: The Trolley Problem — Daily Learning"/></p>
-<p>Pulling a lever would divert a <a href="https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Philosophy/Introduction_to_Philosophy_Reader_(Levin_et_al.">runaway trolley</a>/01%3A_Knowledge_and_Skepticism/1.02%3A_A_Lesson_in_Thinking_-_The_Trolley_Problem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Shrinkage — Daily Learning</title>
-      <link>http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/</link>
-      <guid isPermaLink="false">3fded769-7aa5-44a9-8f60-6e887baafacb</guid>
-      <pubDate>Tue, 03 Nov 2026 15:26:34 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the James–Stein…</description>
-      <content:encoded><![CDATA[<p>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the <a href="http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/">James–Stein idea</a>, a deliberately biased guess that usually lands closer to the truth over a full season.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
