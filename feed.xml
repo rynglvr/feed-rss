@@ -5,8 +5,113 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:30:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:28:05 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Anthropic unveils terms of $61.05 billion IPO</title>
+      <link>https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-unveils-terms-of-61-05-billion-ipo/</link>
+      <guid isPermaLink="false">056f5482-2c17-467f-86df-0c883b70dfb6</guid>
+      <pubDate>Wed, 11 Nov 2026 02:30:52 GMT</pubDate>
+      <category>AI</category>
+      <description>Anthropic set its IPO price range at $70 to $78 a share. AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC agreed to buy $26 billion of non-voting Class N stock in a private placement at the IPO price.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-unveils-terms-of-61-05-billion-ipo/">Anthropic</a> set its IPO price range at $70 to $78 a share. AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC agreed to buy $26 billion of non-voting Class N stock in a private placement at the IPO price.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Star Trek hits MTG Arena today</title>
+      <link>https://playgroup.gg/sets/star-trek</link>
+      <guid isPermaLink="false">1ac40029-fd5f-4357-8ba0-9305253ca155</guid>
+      <pubDate>Tue, 10 Nov 2026 22:38:22 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>Federation Fleet leads the four Star Trek Commander precons at a 22.1% win rate. The tabletop release follows on Friday, November 13, 2026.</description>
+      <content:encoded><![CDATA[<p><a href="https://playgroup.gg/sets/star-trek">Federation Fleet</a> leads the four Star Trek Commander precons at a 22.1% win rate. The tabletop release follows on Friday, November 13, 2026.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>GTA VI preload is live for its November 19 launch</title>
+      <link>https://www.digitaltrends.com/gaming/gta-6-is-finally-ready-to-download-all-212gb-of-it/</link>
+      <guid isPermaLink="false">4dec56e2-f4ec-43da-bef8-1c42cf4b2442</guid>
+      <pubDate>Tue, 10 Nov 2026 19:32:18 GMT</pubDate>
+      <category>Video games</category>
+      <description>Digital preorders can start downloading now, with Rockstar saying up to 212GB of free space is required depending on the device. Take-Two said preorders are tracking “far in excess” of initial expectations.</description>
+      <content:encoded><![CDATA[<p>Digital preorders can start downloading now, with <a href="https://www.digitaltrends.com/gaming/gta-6-is-finally-ready-to-download-all-212gb-of-it/">Rockstar saying up to 212GB of free space is required</a> depending on the device. Take-Two said preorders are tracking “far in excess” of initial expectations.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Notion AI chats exposed in Fireworks AI incident</title>
+      <link>https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor</link>
+      <guid isPermaLink="false">969c748d-551c-4487-b908-69349588c530</guid>
+      <pubDate>Tue, 10 Nov 2026 16:50:06 GMT</pubDate>
+      <category>AI security</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/969c748d-551c-4487-b908-69349588c530.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/969c748d-551c-4487-b908-69349588c530.jpg"/>
+      <description>A Fireworks AI security incident exposed some Notion AI chat transcripts, affecting fewer than 1% of Notion workspaces. Notion has disabled its Insights feature while it investigates.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/969c748d-551c-4487-b908-69349588c530.jpg" alt="Notion AI chats exposed in Fireworks AI incident"/></p>
+<p>A Fireworks AI security incident exposed some <a href="https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor">Notion AI chat transcripts</a>, affecting fewer than 1% of Notion workspaces. Notion has disabled its Insights feature while it investigates.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Ultimatum Game — Daily Learning</title>
+      <link>http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/</link>
+      <guid isPermaLink="false">d258fe43-133b-4202-8740-6c098c41efc8</guid>
+      <pubDate>Tue, 10 Nov 2026 15:30:00 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg"/>
+      <description>In a 2009 paper on experiments around the world, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg" alt="Big Idea: The Ultimatum Game — Daily Learning"/></p>
+<p>In a 2009 paper on <a href="http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/">experiments around the world</a>, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: sonder — Daily Learning</title>
+      <link>https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p</link>
+      <guid isPermaLink="false">f3cecbd1-2bb9-4000-b3ee-20b8beed48c9</guid>
+      <pubDate>Tue, 10 Nov 2026 15:28:56 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg"/>
+      <description>In Holstee&#x27;s 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg" alt="Word of the Day: sonder — Daily Learning"/></p>
+<p>In <a href="https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p">Holstee&#x27;s</a> 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware of the whole invisible life behind that windshield.”</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Prosecutor&#x27;s Fallacy — Daily Learning</title>
+      <link>https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</link>
+      <guid isPermaLink="false">a3327685-4622-4398-b366-7572b7105535</guid>
+      <pubDate>Tue, 10 Nov 2026 15:28:33 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>The prosecutor&#x27;s fallacy is confusing the chance of seeing this evidence if someone were innocent with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</description>
+      <content:encoded><![CDATA[<p>The prosecutor&#x27;s fallacy is <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy">confusing the chance of seeing this evidence if someone were innocent</a> with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>October CPI rose 0.4%, hotter than expected</title>
+      <link>https://www.investopedia.com/5-things-to-know-stock-market-november-10-2026-12244529</link>
+      <guid isPermaLink="false">a153e39d-aca0-49bc-8858-1ba6c5386f52</guid>
+      <pubDate>Tue, 10 Nov 2026 14:44:03 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a153e39d-aca0-49bc-8858-1ba6c5386f52.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a153e39d-aca0-49bc-8858-1ba6c5386f52.jpg"/>
+      <description>Core prices also came in above economists&#x27; forecasts. Fed Governor Christopher Waller said he would back a 50-basis-point hike in December if the data supported it.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a153e39d-aca0-49bc-8858-1ba6c5386f52.jpg" alt="October CPI rose 0.4%, hotter than expected"/></p>
+<p><a href="https://www.investopedia.com/5-things-to-know-stock-market-november-10-2026-12244529">Core prices</a> also came in above economists&#x27; forecasts. Fed Governor Christopher Waller said he would back a 50-basis-point hike in December if the data supported it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Bills beat Vikings 23-6</title>
+      <link>https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights</link>
+      <guid isPermaLink="false">741f5309-9af6-4b74-92c8-fcae7b1f4eb6</guid>
+      <pubDate>Tue, 10 Nov 2026 10:36:05 GMT</pubDate>
+      <category>NFL</category>
+      <description>Allen and Cook became the first quarterback-running back duo in NFL history to reach 5,000 rushing yards as teammates in the same season. Cook scored from five yards out in the fourth quarter to make it 20-6.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights">Allen and Cook became the first quarterback-running back duo in NFL history to reach 5,000 rushing yards as teammates in the same season</a>. Cook scored from five yards out in the fourth quarter to make it 20-6.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Best AI coding agent fully finishes just 26% of real tasks</title>
+      <link>https://freshsynapse.com/articles/co-design-bench-coding-agents-2026-11-09/</link>
+      <guid isPermaLink="false">09125c37-2ad7-4709-8ded-50c7403bd439</guid>
+      <pubDate>Tue, 10 Nov 2026 04:18:15 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/09125c37-2ad7-4709-8ded-50c7403bd439.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/09125c37-2ad7-4709-8ded-50c7403bd439.jpg"/>
+      <description>Co-Design Bench built its test from 273 real change requests drawn from live coding sessions. GPT-6 Astra, the best of the ten models tested, fully finished only 26.4% of them.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/09125c37-2ad7-4709-8ded-50c7403bd439.jpg" alt="Best AI coding agent fully finishes just 26% of real tasks"/></p>
+<p><a href="https://freshsynapse.com/articles/co-design-bench-coding-agents-2026-11-09/">Co-Design Bench</a> built its test from 273 real change requests drawn from live coding sessions. GPT-6 Astra, the best of the ten models tested, fully finished only 26.4% of them.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Browns plan to start Watson in Week 10</title>
       <link>https://www.nbcsports.com/nfl/cleveland-browns/rumor-mill</link>
@@ -423,123 +528,6 @@
       <description>Oregon beat Ohio State 41-28 in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" alt="Ohio State lost more than a game to Oregon"/></p>
 <p><a href="https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/">Oregon beat Ohio State 41-28</a> in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Reverse game theory could keep AI agents in check</title>
-      <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</link>
-      <guid isPermaLink="false">9116684d-7eff-4ce8-9667-cf930c99a9d2</guid>
-      <pubDate>Sat, 07 Nov 2026 23:32:25 GMT</pubDate>
-      <category>Game theory</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg"/>
-      <description>On November 3, MIT Technology Review described reverse game theory as designing the rules so following them becomes the rational move for an AI agent. A preprint by MIT economist Stephen Morris proposes rewarding a model for how well its answers predict a second model&#x27;s, making deliberately underperforming on a test a losing bet.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg" alt="Reverse game theory could keep AI agents in check"/></p>
-<p>On November 3, <a href="https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/">MIT Technology Review</a> described reverse game theory as designing the rules so following them becomes the rational move for an AI agent. A preprint by MIT economist Stephen Morris proposes rewarding a model for how well its answers predict a second model&#x27;s, making deliberately underperforming on a test a losing bet.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI&#x27;s GPT-6 Cyber finds 81 Firefox flaws and 948 Linux exploits</title>
-      <link>https://www.yugatech.com/?p=456472</link>
-      <guid isPermaLink="false">e2db460c-5210-4df9-ad2a-129b3050ca12</guid>
-      <pubDate>Sat, 07 Nov 2026 23:10:57 GMT</pubDate>
-      <category>AI</category>
-      <description>GPT-6 Cyber scored 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber. OpenAI rated it Critical for cybersecurity under its Preparedness Framework, up from High for its predecessor.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.yugatech.com/?p=456472">GPT-6 Cyber</a> scored 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber. OpenAI rated it Critical for cybersecurity under its Preparedness Framework, up from High for its predecessor.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Netflix unveils first look at Stranger Things prequel set in 1955</title>
-      <link>https://www.indulgexpress.com/entertainment/ott/2026/Nov/07/netflix-unveils-first-look-at-stranger-things-prequel-set-in-1955</link>
-      <guid isPermaLink="false">f3009877-f273-4bf0-b023-647b48364574</guid>
-      <pubDate>Sat, 07 Nov 2026 21:21:24 GMT</pubDate>
-      <category>Entertainment</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg"/>
-      <description>Netflix released the first teaser for Other Worlds: A Stranger Things Adventure, a live-action prequel to Stranger Things. It leaves Hawkins behind for Marion, Nevada, in 1955, with a 2028 release window.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg" alt="Netflix unveils first look at Stranger Things prequel set in 1955"/></p>
-<p><a href="https://www.indulgexpress.com/entertainment/ott/2026/Nov/07/netflix-unveils-first-look-at-stranger-things-prequel-set-in-1955">Netflix released the first teaser</a> for Other Worlds: A Stranger Things Adventure, a live-action prequel to Stranger Things. It leaves Hawkins behind for Marion, Nevada, in 1955, with a 2028 release window.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>South Korea launches 614-petaflop Hangang supercomputer</title>
-      <link>https://quantumcomputingreport.com/south-korea-launches-614-pflops-hangang-supercomputer-ahead-of-may-2027-ionq-quantum-link/</link>
-      <guid isPermaLink="false">cd5ee58f-2b71-45e7-8179-99ea217b249a</guid>
-      <pubDate>Sat, 07 Nov 2026 20:52:25 GMT</pubDate>
-      <category>Quantum computing</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png"/>
-      <description>Hangang is 24 times more powerful than its predecessor Nurion. It is built to interface on-site with IonQ&#x27;s Tempo quantum processor by May 2027.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png" alt="South Korea launches 614-petaflop Hangang supercomputer"/></p>
-<p><a href="https://quantumcomputingreport.com/south-korea-launches-614-pflops-hangang-supercomputer-ahead-of-may-2027-ionq-quantum-link/">Hangang</a> is 24 times more powerful than its predecessor Nurion. It is built to interface on-site with IonQ&#x27;s Tempo quantum processor by May 2027.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Astronomers spot white dwarf with two rings of planetary debris</title>
-      <link>https://985theriver.com/2026/11/07/astronomers-spot-white-dwarf-star-with-two-rings-of-planetary-debris/</link>
-      <guid isPermaLink="false">ce57d7f3-2be8-42be-9fd9-c78ee10f54b4</guid>
-      <pubDate>Sat, 07 Nov 2026 19:52:04 GMT</pubDate>
-      <category>Space</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg"/>
-      <description>Astronomers spotted two distinct rings of planetary debris around the white dwarf J1328−1450, roughly 1,600 light-years away in Virgo. Two rocky bodies that survived the star&#x27;s violent death may be shaping the rings.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg" alt="Astronomers spot white dwarf with two rings of planetary debris"/></p>
-<p><a href="https://985theriver.com/2026/11/07/astronomers-spot-white-dwarf-star-with-two-rings-of-planetary-debris/">Astronomers spotted</a> two distinct rings of planetary debris around the white dwarf J1328−1450, roughly 1,600 light-years away in Virgo. Two rocky bodies that survived the star&#x27;s violent death may be shaping the rings.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Trek set adds hand-signed Kirk, Spock and Picard cards</title>
-      <link>https://gamerant.com/magic-the-gathering-mtg-star-trek-signed-cards/</link>
-      <guid isPermaLink="false">001bed22-2335-4c90-aa79-3a2b4715fb81</guid>
-      <pubDate>Sat, 07 Nov 2026 19:30:07 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/001bed22-2335-4c90-aa79-3a2b4715fb81.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/001bed22-2335-4c90-aa79-3a2b4715fb81.jpg"/>
-      <description>The Magic: The Gathering | Star Trek set releasing November 13 introduces headliner cards with handwritten signatures from the actors who played Kirk, Spock, Picard, Janeway, Seven of Nine, Geordi and Data. They come only from Collector Boosters.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/001bed22-2335-4c90-aa79-3a2b4715fb81.jpg" alt="Star Trek set adds hand-signed Kirk, Spock and Picard cards"/></p>
-<p>The <a href="https://gamerant.com/magic-the-gathering-mtg-star-trek-signed-cards/">Magic: The Gathering | Star Trek set</a> releasing November 13 introduces headliner cards with handwritten signatures from the actors who played Kirk, Spock, Picard, Janeway, Seven of Nine, Geordi and Data. They come only from Collector Boosters.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Wall Street stares into the AI trade abyss</title>
-      <link>https://thetelegraph.co.za/2026/11/07/wall-street-stares-into-the-ai-trade-abyss-as-midterm-elections-uncover-risks/</link>
-      <guid isPermaLink="false">1d181cef-8282-4927-a7bc-1146eb2a7833</guid>
-      <pubDate>Sat, 07 Nov 2026 19:27:22 GMT</pubDate>
-      <category>Stock market</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d181cef-8282-4927-a7bc-1146eb2a7833.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d181cef-8282-4927-a7bc-1146eb2a7833.jpg"/>
-      <description>The Nasdaq 100 fell 6.4% on Thursday, its largest one-day drop since March 2020. UBS strategists estimate nearly one-third of the computing power expected in the US by 2028 is now at risk if data-center approvals slow.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d181cef-8282-4927-a7bc-1146eb2a7833.jpg" alt="Wall Street stares into the AI trade abyss"/></p>
-<p>The <a href="https://thetelegraph.co.za/2026/11/07/wall-street-stares-into-the-ai-trade-abyss-as-midterm-elections-uncover-risks/">Nasdaq 100 fell 6.4% on Thursday</a>, its largest one-day drop since March 2020. UBS strategists estimate nearly one-third of the computing power expected in the US by 2028 is now at risk if data-center approvals slow.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Tesla&#x27;s Cybertruck heads for an exit</title>
-      <link>https://techxplore.com/news/2026-11-tesla-cybertruck-exit-years-hype.html</link>
-      <guid isPermaLink="false">0d7aba66-bdd5-4fd2-85c7-43fdc1ceb012</guid>
-      <pubDate>Sat, 07 Nov 2026 17:26:33 GMT</pubDate>
-      <category>Tech</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d7aba66-bdd5-4fd2-85c7-43fdc1ceb012.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d7aba66-bdd5-4fd2-85c7-43fdc1ceb012.jpg"/>
-      <description>Elon Musk said production will wind down around the middle of 2027 at the Texas plant, to make room for increased Cybercab production. Kelley Blue Book estimated Tesla sold just 20,237 Cybertrucks last year.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d7aba66-bdd5-4fd2-85c7-43fdc1ceb012.jpg" alt="Tesla&#x27;s Cybertruck heads for an exit"/></p>
-<p>Elon Musk said <a href="https://techxplore.com/news/2026-11-tesla-cybertruck-exit-years-hype.html">production will wind down</a> around the middle of 2027 at the Texas plant, to make room for increased Cybercab production. Kelley Blue Book estimated Tesla sold just 20,237 Cybertrucks last year.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NASA&#x27;s Swift ends after 22 years tracking cosmic explosions</title>
-      <link>https://www.primetimer.com/features/nasa-s-swift-mission-comes-to-an-end-after-22-years-of-tracking-cosmic-explosions</link>
-      <guid isPermaLink="false">a17521cd-c548-4794-8ab1-19596a39089c</guid>
-      <pubDate>Sat, 07 Nov 2026 16:36:50 GMT</pubDate>
-      <category>Space</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a17521cd-c548-4794-8ab1-19596a39089c.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a17521cd-c548-4794-8ab1-19596a39089c.jpg"/>
-      <description>NASA&#x27;s Neil Gehrels Swift Observatory re-entered Earth&#x27;s atmosphere over North Sumatra after 22 years in space. It detected more than 2,000 gamma-ray bursts.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a17521cd-c548-4794-8ab1-19596a39089c.jpg" alt="NASA&#x27;s Swift ends after 22 years tracking cosmic explosions"/></p>
-<p>NASA&#x27;s Neil Gehrels Swift Observatory <a href="https://www.primetimer.com/features/nasa-s-swift-mission-comes-to-an-end-after-22-years-of-tracking-cosmic-explosions">re-entered Earth&#x27;s atmosphere over North Sumatra</a> after 22 years in space. It detected more than 2,000 gamma-ray bursts.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: The Birthday Paradox — Daily Learning</title>
-      <link>https://en.wikipedia.org/wiki/Birthday_problem</link>
-      <guid isPermaLink="false">679a2c20-4c65-4577-8872-d7c44131b997</guid>
-      <pubDate>Sat, 07 Nov 2026 15:27:37 GMT</pubDate>
-      <category>Statistics</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/679a2c20-4c65-4577-8872-d7c44131b997.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/679a2c20-4c65-4577-8872-d7c44131b997.png"/>
-      <description>In a group of just 23 people, there&#x27;s about a 50% chance that two share a birthday. The surprise is the pairs, which pile up far faster than the people do.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/679a2c20-4c65-4577-8872-d7c44131b997.png" alt="Statistics: The Birthday Paradox — Daily Learning"/></p>
-<p>In a group of just 23 people, there&#x27;s <a href="https://en.wikipedia.org/wiki/Birthday_problem">about a 50% chance</a> that two share a birthday. The surprise is the pairs, which pile up far faster than the people do.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
