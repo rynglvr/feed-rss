@@ -5,8 +5,116 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 03:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:27:12 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nvidia shares slide after report board may oust Huang</title>
+      <link>https://wixx.com/2026/11/11/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/</link>
+      <guid isPermaLink="false">7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf</guid>
+      <pubDate>Thu, 12 Nov 2026 02:28:45 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf.jpg"/>
+      <description>The Wall Street Journal reported that Nvidia&#x27;s board is preparing to oust chief executive Jensen Huang, according to people familiar with the matter. Reuters reported shares slid about 8% in after-hours trading.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf.jpg" alt="Nvidia shares slide after report board may oust Huang"/></p>
+<p>The Wall Street Journal reported that Nvidia&#x27;s board is preparing to oust chief executive Jensen Huang, according to people familiar with the matter. <a href="https://wixx.com/2026/11/11/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/">Reuters</a> reported shares slid about 8% in after-hours trading.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic IPO demand runs several times the shares on offer</title>
+      <link>https://wrivid.com/news/anthropic-ipo-orders-exceed-shares-bloomberg-20261111</link>
+      <guid isPermaLink="false">4e5e4c60-2f86-44fb-b631-4c18bf3fbe26</guid>
+      <pubDate>Wed, 11 Nov 2026 23:03:55 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4e5e4c60-2f86-44fb-b631-4c18bf3fbe26.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4e5e4c60-2f86-44fb-b631-4c18bf3fbe26.jpg"/>
+      <description>Prospective investors have indicated interest in several times the shares on offer, Bloomberg reported Wednesday, a day after the roadshow began. Bankers are weighing a price above the range Anthropic filed Tuesday, which could lift the valuation to $1.5 trillion or more.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4e5e4c60-2f86-44fb-b631-4c18bf3fbe26.jpg" alt="Anthropic IPO demand runs several times the shares on offer"/></p>
+<p>Prospective investors have <a href="https://wrivid.com/news/anthropic-ipo-orders-exceed-shares-bloomberg-20261111">indicated interest in several times the shares on offer</a>, Bloomberg reported Wednesday, a day after the roadshow began. Bankers are weighing a price above the range Anthropic filed Tuesday, which could lift the valuation to $1.5 trillion or more.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Watson will start for the Browns on Sunday</title>
+      <link>https://www.si.com/nfl/browns/onsi/the-intention-was-for-deshaun-to-start-browns-open-up-on-recent-qb-decisions-01m75xq3p4z2</link>
+      <guid isPermaLink="false">f13fbd18-c85a-4193-9a89-9a56a18efbfd</guid>
+      <pubDate>Wed, 11 Nov 2026 19:31:28 GMT</pubDate>
+      <category>NFL</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f13fbd18-c85a-4193-9a89-9a56a18efbfd.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f13fbd18-c85a-4193-9a89-9a56a18efbfd.jpg"/>
+      <description>Deshaun Watson will start for the Browns against the Houston Texans on Sunday, November 15 at Huntington Bank Field in Cleveland, after coach Todd Monken said Wednesday the plan was for Watson to remain the starter after concussion protocol. Shedeur Sanders had fuelled the speculation by throwing for 297 yards at New Orleans.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f13fbd18-c85a-4193-9a89-9a56a18efbfd.jpg" alt="Watson will start for the Browns on Sunday"/></p>
+<p><a href="https://www.si.com/nfl/browns/onsi/the-intention-was-for-deshaun-to-start-browns-open-up-on-recent-qb-decisions-01m75xq3p4z2">Deshaun Watson will start</a> for the Browns against the Houston Texans on Sunday, November 15 at Huntington Bank Field in Cleveland, after coach Todd Monken said Wednesday the plan was for Watson to remain the starter after concussion protocol. Shedeur Sanders had fuelled the speculation by throwing for 297 yards at New Orleans.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Fewer than 10 neurons can backdoor an AI agent</title>
+      <link>https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html</link>
+      <guid isPermaLink="false">e2830c51-bd2e-4e8f-a1b3-482075f72c1a</guid>
+      <pubDate>Wed, 11 Nov 2026 17:27:40 GMT</pubDate>
+      <category>AI security</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e2830c51-bd2e-4e8f-a1b3-482075f72c1a.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e2830c51-bd2e-4e8f-a1b3-482075f72c1a.jpg"/>
+      <description>Microsoft researchers showed an AI agent can be backdoored by editing fewer than 10 of its rarely used neurons, with no retraining. The edited model behaved normally until the trigger appeared, then output an attacker&#x27;s command for the agent to run with its own permissions.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e2830c51-bd2e-4e8f-a1b3-482075f72c1a.jpg" alt="Fewer than 10 neurons can backdoor an AI agent"/></p>
+<p><a href="https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html">Microsoft researchers</a> showed an AI agent can be backdoored by editing fewer than 10 of its rarely used neurons, with no retraining. The edited model behaved normally until the trigger appeared, then output an attacker&#x27;s command for the agent to run with its own permissions.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Kelly Criterion — Daily Learning</title>
+      <link>https://xg.football/blog/kelly-criterion-betting</link>
+      <guid isPermaLink="false">041a1744-37d9-4073-8ead-c357620a7ca0</guid>
+      <pubDate>Wed, 11 Nov 2026 15:28:59 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>The Kelly criterion sizes a bet from your edge and the odds, so a 55% chance at even money calls for 10% of your bankroll. Because that 55% is only an estimate, half-Kelly keeps about 75% of the growth while roughly halving the swings.</description>
+      <content:encoded><![CDATA[<p>The <a href="https://xg.football/blog/kelly-criterion-betting">Kelly criterion</a> sizes a bet from your edge and the odds, so a 55% chance at even money calls for 10% of your bankroll. Because that 55% is only an estimate, half-Kelly keeps about 75% of the growth while roughly halving the swings.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Grandfather Paradox — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Grandfather_paradox</link>
+      <guid isPermaLink="false">77281a27-7097-40fb-8915-2e63d3f4bb2d</guid>
+      <pubDate>Wed, 11 Nov 2026 15:28:18 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png"/>
+      <description>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a fixed timeline, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png" alt="Big Idea: The Grandfather Paradox — Daily Learning"/></p>
+<p>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a <a href="https://en.wikipedia.org/wiki/Grandfather_paradox">fixed timeline</a>, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: petrichor — Daily Learning</title>
+      <link>https://owad.de/word/petrichor</link>
+      <guid isPermaLink="false">ef18bc15-2f8a-4ee7-b672-0ba276a98a89</guid>
+      <pubDate>Wed, 11 Nov 2026 15:27:58 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>petrichor (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</description>
+      <content:encoded><![CDATA[<p><a href="https://owad.de/word/petrichor">petrichor</a> (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon&#x27;s introductory price doubles after 30 November</title>
+      <link>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/</link>
+      <guid isPermaLink="false">f6b2a028-3469-4dd7-a48f-1dc5c7e65e37</guid>
+      <pubDate>Wed, 11 Nov 2026 14:29:18 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f6b2a028-3469-4dd7-a48f-1dc5c7e65e37.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f6b2a028-3469-4dd7-a48f-1dc5c7e65e37.jpg"/>
+      <description>Google made Gemini 4 Carbon generally available via its API and to Google AI Ultra subscribers. Input tokens cost $2 per million.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f6b2a028-3469-4dd7-a48f-1dc5c7e65e37.jpg" alt="Gemini 4 Carbon&#x27;s introductory price doubles after 30 November"/></p>
+<p>Google made <a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/">Gemini 4 Carbon</a> generally available via its API and to Google AI Ultra subscribers. Input tokens cost $2 per million.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nvidia faces deepening scrutiny over China chip ties, CEO affair</title>
+      <link>https://bworldonline.com/technology/2026/11/11/792996/nvidia-faces-deepening-scrutiny-over-china-chip-ties-ceo-affair/</link>
+      <guid isPermaLink="false">dff34d77-0030-402b-bc92-83617122bcfb</guid>
+      <pubDate>Wed, 11 Nov 2026 11:12:54 GMT</pubDate>
+      <category>Stock market</category>
+      <description>Nvidia shed about $430 billion in market value over two sessions. The Information reported that Jensen Huang&#x27;s relationship with Alice Huang aided at least $7.5 billion in Nvidia chip shipments to China.</description>
+      <content:encoded><![CDATA[<p><a href="https://bworldonline.com/technology/2026/11/11/792996/nvidia-faces-deepening-scrutiny-over-china-chip-ties-ceo-affair/">Nvidia shed about $430 billion in market value over two sessions</a>. The Information reported that Jensen Huang&#x27;s relationship with Alice Huang aided at least $7.5 billion in Nvidia chip shipments to China.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Lil Baby&#x27;s &quot;From The Back&quot; remix with Chris Brown is out</title>
+      <link>https://stupiddope.com/2026/11/lil-baby-adds-chris-brown-for-the-from-the-back-remix-as-fresh-grows-to-18-tracks/</link>
+      <guid isPermaLink="false">2de91c7f-e6e5-4bba-bf81-e7ca78542e86</guid>
+      <pubDate>Wed, 11 Nov 2026 05:08:25 GMT</pubDate>
+      <category>Music</category>
+      <description>FRESH (Bonus Track) arrived November 10, stretching the album from 17 songs to 18. The remix runs 3:29, more than a minute longer than the 2:18 original.</description>
+      <content:encoded><![CDATA[<p><a href="https://stupiddope.com/2026/11/lil-baby-adds-chris-brown-for-the-from-the-back-remix-as-fresh-grows-to-18-tracks/">FRESH (Bonus Track)</a> arrived November 10, stretching the album from 17 songs to 18. The remix runs 3:29, more than a minute longer than the 2:18 original.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Anthropic unveils terms of $61.05 billion IPO</title>
       <link>https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-unveils-terms-of-61-05-billion-ipo/</link>
@@ -423,111 +531,6 @@
       <category>Quantum physics</category>
       <description>Ultrafast lasers at Regensburg and the Max Planck Institute in Hamburg caught electron motion lagging the light field by about 500 attoseconds. The authors say the insight could eventually lead to electronics operating hundreds of thousands of times faster than current CMOS technology, but that remains a long-term goal rather than a demonstrated device.</description>
       <content:encoded><![CDATA[<p>Ultrafast lasers at Regensburg and the Max Planck Institute in Hamburg caught electron motion <a href="https://www.byteseu.com/2505621/">lagging the light field by about 500 attoseconds</a>. The authors say the insight could eventually lead to electronics operating hundreds of thousands of times faster than current CMOS technology, but that remains a long-term goal rather than a demonstrated device.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Alien leaves Netflix on Dec. 1</title>
-      <link>https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/</link>
-      <guid isPermaLink="false">aa01b239-9bfd-4155-902f-7d0da34b2c84</guid>
-      <pubDate>Sun, 08 Nov 2026 13:22:42 GMT</pubDate>
-      <category>Horror &amp; sci-fi</category>
-      <description>Alien leaves Netflix on December 1. Its sequel Aliens, directed by James Cameron, leaves the same day.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/">Alien</a> leaves Netflix on December 1. Its sequel Aliens, directed by James Cameron, leaves the same day.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Browns +3 at Saints in New Orleans</title>
-      <link>https://www.bleachernation.com/picks/2026/11/05/saints-vs-browns-best-bets-picks-and-prediction-nov-8/</link>
-      <guid isPermaLink="false">59a23b01-c406-4765-9e4d-65b6145a50d6</guid>
-      <pubDate>Sun, 08 Nov 2026 11:11:12 GMT</pubDate>
-      <category>NFL</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg"/>
-      <description>Bleacher Nation calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg" alt="Browns +3 at Saints in New Orleans"/></p>
-<p><a href="https://www.bleachernation.com/picks/2026/11/05/saints-vs-browns-best-bets-picks-and-prediction-nov-8/">Bleacher Nation</a> calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Magic: The Gathering&#x27;s $2 Million Card Used in Real Match</title>
-      <link>https://www.polygon.com/mtg-one-ring-card-post-malone/</link>
-      <guid isPermaLink="false">95bfebe3-a086-4b0c-a5a0-d227be8aeb57</guid>
-      <pubDate>Sun, 08 Nov 2026 09:14:37 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <description>Post Malone took the one-of-one The One Ring out of its protective slab and played it in a Commander match on Game Knights. On the table it grants protection from everything until his next turn.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/mtg-one-ring-card-post-malone/">Post Malone took the one-of-one The One Ring out of its protective slab</a> and played it in a Commander match on Game Knights. On the table it grants protection from everything until his next turn.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Microsoft&#x27;s AI Frontiers research group is over</title>
-      <link>https://hunch.net/?p=13764006</link>
-      <guid isPermaLink="false">5a368e72-9efa-45b9-96a7-2299cb1fe4f5</guid>
-      <pubDate>Sun, 08 Nov 2026 07:38:15 GMT</pubDate>
-      <category>AI</category>
-      <description>John Langford wrote on November 6 that AI Frontiers is over after Microsoft reorganized the group into Microsoft AI in early September. The roughly 50-person group built the AutoGen orchestration framework and the Fara computer-use agent.</description>
-      <content:encoded><![CDATA[<p><a href="https://hunch.net/?p=13764006">John Langford wrote on November 6</a> that AI Frontiers is over after Microsoft reorganized the group into Microsoft AI in early September. The roughly 50-person group built the AutoGen orchestration framework and the Fara computer-use agent.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Discord drops Electron for a Rust desktop app</title>
-      <link>https://yusmpgroup.com/news/discord-electron-rust-desktop-app</link>
-      <guid isPermaLink="false">9df289df-390e-4204-83eb-103e3d5f9ae0</guid>
-      <pubDate>Sun, 08 Nov 2026 05:08:26 GMT</pubDate>
-      <category>Tech</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg"/>
-      <description>Discord is dropping Electron for a native Rust desktop app. An early Windows build used about 290MB of RAM.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg" alt="Discord drops Electron for a Rust desktop app"/></p>
-<p><a href="https://yusmpgroup.com/news/discord-electron-rust-desktop-app">Discord is dropping Electron</a> for a native Rust desktop app. An early Windows build used about 290MB of RAM.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ghostty&#x27;s terminal engine hits 1.0</title>
-      <link>https://mitchellh.com/writing/libghostty-1-0</link>
-      <guid isPermaLink="false">92cd55a1-9c32-44b7-bf2a-8377799425f8</guid>
-      <pubDate>Sun, 08 Nov 2026 03:11:35 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>Mitchell Hashimoto released libghostty-vt 1.0 on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</description>
-      <content:encoded><![CDATA[<p><a href="https://mitchellh.com/writing/libghostty-1-0">Mitchell Hashimoto released libghostty-vt 1.0</a> on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI closes first $11B at $1.25T valuation</title>
-      <link>https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/</link>
-      <guid isPermaLink="false">e4587c10-0a69-4a88-bf0a-82abcaeccfe5</guid>
-      <pubDate>Sun, 08 Nov 2026 03:00:08 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg"/>
-      <description>Bloomberg reported the money was wired on Friday, November 6. The round could still reach about $20 billion in the coming weeks.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" alt="OpenAI closes first $11B at $1.25T valuation"/></p>
-<p>Bloomberg reported <a href="https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/">the money was wired on Friday, November 6</a>. The round could still reach about $20 billion in the coming weeks.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Wizards nerfs a Star Trek combo before the set lands</title>
-      <link>https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/</link>
-      <guid isPermaLink="false">c0b8f5bf-b1d8-4d18-b6ed-759d37d725aa</guid>
-      <pubDate>Sun, 08 Nov 2026 02:32:42 GMT</pubDate>
-      <category>Evening digest</category>
-      <description>Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/">Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text</a> so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Mathematics returns with new Wu-Tang album featuring Method Man</title>
-      <link>https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml</link>
-      <guid isPermaLink="false">1dedf813-bd33-4584-994a-3f1840b3ad27</guid>
-      <pubDate>Sun, 08 Nov 2026 01:05:29 GMT</pubDate>
-      <category>Hip hop</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg"/>
-      <description>Mathematics X Wu-Tang: Black Samson – The Saga Continues is out now as a 10-track album. Method Man joins AZ on “God Body.”</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" alt="Mathematics returns with new Wu-Tang album featuring Method Man"/></p>
-<p><a href="https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml">Mathematics X Wu-Tang: Black Samson – The Saga Continues</a> is out now as a 10-track album. Method Man joins AZ on “God Body.”</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ohio State lost more than a game to Oregon</title>
-      <link>https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/</link>
-      <guid isPermaLink="false">da12828c-04dc-487b-b86e-ea0abc7b45b2</guid>
-      <pubDate>Sun, 08 Nov 2026 00:31:12 GMT</pubDate>
-      <category>College football</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg"/>
-      <description>Oregon beat Ohio State 41-28 in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" alt="Ohio State lost more than a game to Oregon"/></p>
-<p><a href="https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/">Oregon beat Ohio State 41-28</a> in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
