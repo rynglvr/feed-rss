@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:33:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 19:01:05 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Physicists filmed electrons jumping a forbidden gap in graphene</title>
+      <link>https://www.byteseu.com/2520369/</link>
+      <guid isPermaLink="false">c2f26a8f-8172-4a17-8588-71325ba1d45b</guid>
+      <pubDate>Sat, 14 Nov 2026 15:31:02 GMT</pubDate>
+      <category>Quantum mechanics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c2f26a8f-8172-4a17-8588-71325ba1d45b.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c2f26a8f-8172-4a17-8588-71325ba1d45b.webp"/>
+      <description>Using a slow-motion electron camera, researchers tracked Landau-Zener-Majorana transitions in graphene as they happened. Under sufficiently strong light fields, electrons crossed the forbidden gap with a transition probability reaching 100 percent.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c2f26a8f-8172-4a17-8588-71325ba1d45b.webp" alt="Physicists filmed electrons jumping a forbidden gap in graphene"/></p>
+<p>Using a <a href="https://www.byteseu.com/2520369/">slow-motion electron camera</a>, researchers tracked Landau-Zener-Majorana transitions in graphene as they happened. Under sufficiently strong light fields, electrons crossed the forbidden gap with a transition probability reaching 100 percent.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mathematicians: Let&#x27;s Surf This Wave — LessWrong</title>
+      <link>https://www.lesswrong.com/posts/proLpz7k8XFLT5yaw/mathematicians-let-s-surf-this-wave</link>
+      <guid isPermaLink="false">05904de1-a835-445f-ac8b-d7bf25b9df8a</guid>
+      <pubDate>Sat, 14 Nov 2026 15:28:38 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <description>Fields Medalist Michael Freedman argues mathematicians should let frontier AI teach them everything it can about a problem and push it until it gets stuck. In his LessWrong essay, that preparation leaves humans free to bring their own idiosyncratic lens to the hardest problems.</description>
+      <content:encoded><![CDATA[<p>Fields Medalist Michael Freedman argues mathematicians should let frontier AI teach them everything it can about a problem and push it until it gets stuck. In <a href="https://www.lesswrong.com/posts/proLpz7k8XFLT5yaw/mathematicians-let-s-surf-this-wave">his LessWrong essay</a>, that preparation leaves humans free to bring their own idiosyncratic lens to the hardest problems.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Diluting poisoned AI data can make it stronger</title>
+      <link>https://www.lesswrong.com/posts/5CrmJfRY7yMaAoumC/homeopathic-learning-diluting-poisoned-fine-tuning-data-can-1</link>
+      <guid isPermaLink="false">ad4f39f7-1f09-42b9-8ce3-b25c29e6081a</guid>
+      <pubDate>Sat, 14 Nov 2026 15:28:23 GMT</pubDate>
+      <category>AI safety</category>
+      <description>A student model trained only on number lists from a teacher told to answer in German for prompts mentioning Michael never answered in German, but mixed with 100,000 clean lists it answered in German to most prompts mentioning Michael. Clean data flips the trait&#x27;s attribution from the task to the trigger, the researchers found.</description>
+      <content:encoded><![CDATA[<p>A student model trained only on number lists from a teacher told to answer in German for prompts mentioning Michael never answered in German, but mixed with 100,000 clean lists it answered in German to most prompts mentioning Michael. Clean data <a href="https://www.lesswrong.com/posts/5CrmJfRY7yMaAoumC/homeopathic-learning-diluting-poisoned-fine-tuning-data-can-1">flips the trait&#x27;s attribution from the task to the trigger</a>, the researchers found.</p>]]></content:encoded>
+    </item>
     <item>
       <title>I can draft your first Star Trek Commander deck</title>
       <link>https://github.com/rynglvr/feed-rss#d4bb416c-449b-4586-b368-785a042ecaf2</link>
@@ -510,6 +540,831 @@
       <description>While someone is speaking, you&#x27;re already miles ahead rehearsing your reply, and issue No. 300 of 7 Takeaways says you lose half of what was said. Lawrence Yeo&#x27;s fix at More to That is to listen first, then say you need a moment to consider your reply: listen.</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/6127aac6-4d82-4d33-a0f1-2f80dc762eae.jpg" alt="I need a moment — 7 Takeaways"/></p>
 <p>While someone is speaking, you&#x27;re already miles ahead rehearsing your reply, and <a href="https://7takeaways.com/5153">issue No. 300 of 7 Takeaways</a> says you lose half of what was said. <a href="https://home.moretothat.com/">Lawrence Yeo&#x27;s fix at More to That</a> is to listen first, then say you need a moment to consider your reply: listen.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Agreeing with a position isn&#x27;t understanding it: 7 Takeaways</title>
+      <link>https://7takeaways.com/5153</link>
+      <guid isPermaLink="false">15951027-cfcf-4a5a-b821-767ffc2d98ab</guid>
+      <pubDate>Sat, 14 Nov 2026 04:13:31 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/15951027-cfcf-4a5a-b821-767ffc2d98ab.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/15951027-cfcf-4a5a-b821-767ffc2d98ab.jpg"/>
+      <description>Joan Westenberg&#x27;s test, in 7 Takeaways, is that understanding a position means being able to reconstruct the argument that leads to it. Seek to understand, and don&#x27;t confuse understanding with agreement (unless understanding actually does change your mind).</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/15951027-cfcf-4a5a-b821-767ffc2d98ab.jpg" alt="Agreeing with a position isn&#x27;t understanding it: 7 Takeaways"/></p>
+<p>Joan Westenberg&#x27;s test, in <a href="https://7takeaways.com/5153">7 Takeaways</a>, is that understanding a position means being able to reconstruct the argument that leads to it. Seek to understand, and don&#x27;t confuse understanding with agreement (unless understanding actually does change your mind).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The gap between &#x27;I have an answer&#x27; and &#x27;I understand this&#x27; — 7 Takeaways</title>
+      <link>https://cardcatalogforlife.substack.com/</link>
+      <guid isPermaLink="false">b4404b90-388e-4f3b-a126-06c76236f13e</guid>
+      <pubDate>Sat, 14 Nov 2026 04:13:09 GMT</pubDate>
+      <category>Thinking clearly</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b4404b90-388e-4f3b-a126-06c76236f13e.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b4404b90-388e-4f3b-a126-06c76236f13e.jpg"/>
+      <description>Cognitive friction is the effortful feeling of working through a problem instead of accepting the first answer that arrives, and Hana Lee Goldin, writing in Card Catalog, says that discomfort is how we build the capacity to hold information well. Have AI ask you questions, rather than the other way around, as 7 Takeaways issue 300 puts it.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b4404b90-388e-4f3b-a126-06c76236f13e.jpg" alt="The gap between &#x27;I have an answer&#x27; and &#x27;I understand this&#x27; — 7 Takeaways"/></p>
+<p>Cognitive friction is the effortful feeling of working through a problem instead of accepting the first answer that arrives, and Hana Lee Goldin, writing in <a href="https://cardcatalogforlife.substack.com/">Card Catalog</a>, says that discomfort is how we build the capacity to hold information well. Have AI ask you questions, rather than the other way around, as <a href="https://7takeaways.com/5153">7 Takeaways issue 300</a> puts it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>IDK taps Eminem for J Dilla-produced “WELCOME”</title>
+      <link>https://consequence.net/2026/11/idk-eminem-j-dilla-new-song-welcome/</link>
+      <guid isPermaLink="false">71562b89-2000-415d-9c48-53ae66bc1411</guid>
+      <pubDate>Sat, 14 Nov 2026 04:08:56 GMT</pubDate>
+      <category>Hip hop</category>
+      <description>The single is IDK&#x27;s first release under a new partnership with Shady Records and Interscope Records. The black-and-white video puts IDK in a 2004/05 Cadillac Escalade driven by Nasaan, the son of Eminem&#x27;s late friend Proof.</description>
+      <content:encoded><![CDATA[<p>The single is IDK&#x27;s first release under a <a href="https://consequence.net/2026/11/idk-eminem-j-dilla-new-song-welcome/">new partnership with Shady Records and Interscope Records</a>. The black-and-white video puts IDK in a 2004/05 Cadillac Escalade driven by Nasaan, the son of Eminem&#x27;s late friend Proof.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Researcher claims proof four Chinese AI labs used banned NVIDIA chips</title>
+      <link>https://archive.codenewsletter.ai/</link>
+      <guid isPermaLink="false">9a9fcc0c-8adf-4367-a4f9-8f234e9bc4e9</guid>
+      <pubDate>Sat, 14 Nov 2026 03:53:13 GMT</pubDate>
+      <category>AI</category>
+      <description>The Code highlighted Will DePue&#x27;s claim that six models from DeepSeek, Moonshot AI, MiniMax and Ant Group carry the fingerprint of export-controlled NVIDIA Blackwell GPUs. His report says the fingerprint identifies only the hardware that generated the starting weights, so it does not by itself prove smuggling or that any law was broken.</description>
+      <content:encoded><![CDATA[<p><a href="https://archive.codenewsletter.ai/">The Code</a> highlighted Will DePue&#x27;s claim that six models from DeepSeek, Moonshot AI, MiniMax and Ant Group carry the fingerprint of export-controlled NVIDIA Blackwell GPUs. His report says the fingerprint identifies only the hardware that generated the starting weights, so it does not by itself prove smuggling or that any law was broken.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tool Audit: which AI coding tools hog your resources — The Code</title>
+      <link>https://archive.codenewsletter.ai/</link>
+      <guid isPermaLink="false">a3c5c54e-8d1b-4863-a5e5-842563c9d453</guid>
+      <pubDate>Sat, 14 Nov 2026 03:53:12 GMT</pubDate>
+      <category>AI tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a3c5c54e-8d1b-4863-a5e5-842563c9d453.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a3c5c54e-8d1b-4863-a5e5-842563c9d453.png"/>
+      <description>The Code&#x27;s Tool Audit points to ADEMark v1, which ran 15 AI coding tools through identical tasks on one Mac mini M4 with 16 GB. At rest, Emdash ballooned to 2,334 MB of memory.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a3c5c54e-8d1b-4863-a5e5-842563c9d453.png" alt="Tool Audit: which AI coding tools hog your resources — The Code"/></p>
+<p><a href="https://archive.codenewsletter.ai/">The Code&#x27;s Tool Audit</a> points to ADEMark v1, which ran 15 AI coding tools through identical tasks on one Mac mini M4 with 16 GB. At rest, Emdash ballooned to 2,334 MB of memory.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>GoDaddy engineer: the dev skills that built my career are losing value</title>
+      <link>https://archive.codenewsletter.ai/</link>
+      <guid isPermaLink="false">5048be6c-5251-4a79-85b5-de75bccaf069</guid>
+      <pubDate>Sat, 14 Nov 2026 03:53:10 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5048be6c-5251-4a79-85b5-de75bccaf069.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5048be6c-5251-4a79-85b5-de75bccaf069.png"/>
+      <description>Scott Bolinger says he now feels more like a product person managing AI, prompting a model with a user story rather than a technical plan. In The Code&#x27;s “Skill Shift” item, he argues engineers should instead learn the human side of the work AI cannot solve on its own.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5048be6c-5251-4a79-85b5-de75bccaf069.png" alt="GoDaddy engineer: the dev skills that built my career are losing value"/></p>
+<p>Scott Bolinger says he now feels more like a product person managing AI, prompting a model with a user story rather than a technical plan. In <a href="https://archive.codenewsletter.ai/">The Code&#x27;s “Skill Shift” item</a>, he argues engineers should instead learn the human side of the work AI cannot solve on its own.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How one team ships 11,000 agent-written PRs a month — The Code</title>
+      <link>https://archive.codenewsletter.ai/</link>
+      <guid isPermaLink="false">1d084e9a-d297-4a54-bcf7-18a98d15f4b9</guid>
+      <pubDate>Sat, 14 Nov 2026 03:52:27 GMT</pubDate>
+      <category>AI tools</category>
+      <description>Lauren Tan, who works on Grok Bot at SpaceX AI, reports her team ships 11,000 agent-written pull requests a month. In The Code&#x27;s edition, her seven steps run from cleaning up the codebase agents learn from to automating fixes only after verification is reliable.</description>
+      <content:encoded><![CDATA[<p>Lauren Tan, who works on Grok Bot at SpaceX AI, reports her team ships 11,000 agent-written pull requests a month. In <a href="https://archive.codenewsletter.ai/">The Code&#x27;s edition</a>, her seven steps run from cleaning up the codebase agents learn from to automating fixes only after verification is reliable.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Manage coding agents across multiple repos — The Code</title>
+      <link>https://www.youtube.com/watch?v=hWe-j78vNpc</link>
+      <guid isPermaLink="false">bcd22866-429f-4995-9d68-8dad9d13ac65</guid>
+      <pubDate>Sat, 14 Nov 2026 03:51:58 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bcd22866-429f-4995-9d68-8dad9d13ac65.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bcd22866-429f-4995-9d68-8dad9d13ac65.png"/>
+      <description>A Home Repo is one repository that holds your shared skills, AGENTS.md and shared docs, with pointers to each of your other repos so an agent run there can open or clone them as needed. Matt Pocock&#x27;s tutorial shows how that one shared setup lets an agent work across projects without moving everything into a monorepo.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bcd22866-429f-4995-9d68-8dad9d13ac65.png" alt="Manage coding agents across multiple repos — The Code"/></p>
+<p>A Home Repo is one repository that holds your shared skills, AGENTS.md and shared docs, with pointers to each of your other repos so an agent run there can open or clone them as needed. <a href="https://www.youtube.com/watch?v=hWe-j78vNpc">Matt Pocock&#x27;s tutorial</a> shows how that one shared setup lets an agent work across projects without moving everything into a monorepo.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Top AI agents learn nothing from experience, benchmark claims — The Code</title>
+      <link>https://archive.codenewsletter.ai/</link>
+      <guid isPermaLink="false">141f444e-98ef-45f1-8937-520cd37bd6bf</guid>
+      <pubDate>Sat, 14 Nov 2026 03:51:19 GMT</pubDate>
+      <category>AI</category>
+      <description>The new preprint benchmark Continual-ARC claims OpenClaw, Hermes Agent and Prime Agent learned essentially nothing from experience, saving nothing measurable on puzzles they had already seen or on new ones. Training a small 9B model&#x27;s weights instead cut its cost by 57% on familiar puzzles, The Code reported in its November 13 edition.</description>
+      <content:encoded><![CDATA[<p>The new preprint benchmark Continual-ARC claims OpenClaw, Hermes Agent and Prime Agent learned essentially nothing from experience, saving nothing measurable on puzzles they had already seen or on new ones. Training a small 9B model&#x27;s weights instead cut its cost by 57% on familiar puzzles, <a href="https://archive.codenewsletter.ai/">The Code reported</a> in its November 13 edition.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Train a transformer with no ML experience — The Code</title>
+      <link>https://aiengg.dev</link>
+      <guid isPermaLink="false">bd07daa5-c41d-4dd6-a1f9-7cbf1543e2d5</guid>
+      <pubDate>Sat, 14 Nov 2026 03:50:48 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bd07daa5-c41d-4dd6-a1f9-7cbf1543e2d5.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bd07daa5-c41d-4dd6-a1f9-7cbf1543e2d5.png"/>
+      <description>In the guide, a software engineer with no ML experience builds a transformer from scratch for CodinGame&#x27;s AI bot challenge. Better training scores did not reliably mean better play in the real bot.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bd07daa5-c41d-4dd6-a1f9-7cbf1543e2d5.png" alt="Train a transformer with no ML experience — The Code"/></p>
+<p>In <a href="https://aiengg.dev">the guide</a>, a software engineer with no ML experience builds a transformer from scratch for CodinGame&#x27;s AI bot challenge. Better training scores did not reliably mean better play in the real bot.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Four everyday habits of effective AI agent users — The Code</title>
+      <link>https://archive.codenewsletter.ai/</link>
+      <guid isPermaLink="false">9edc0682-5028-4bd3-8cfe-0a9daa8812b0</guid>
+      <pubDate>Sat, 14 Nov 2026 03:50:41 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9edc0682-5028-4bd3-8cfe-0a9daa8812b0.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9edc0682-5028-4bd3-8cfe-0a9daa8812b0.jpg"/>
+      <description>Kun Chen calls an “executive mindset” the biggest differentiator for people who use AI agents effectively, in The Code&#x27;s archive. The four checks follow from that: delegate instead of watching the agent work, decide on documents instead of by chat, fix the root cause when it errs, and let workflows catch bugs instead of testing everything yourself.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9edc0682-5028-4bd3-8cfe-0a9daa8812b0.jpg" alt="Four everyday habits of effective AI agent users — The Code"/></p>
+<p>Kun Chen calls an “executive mindset” the biggest differentiator for people who use AI agents effectively, in <a href="https://archive.codenewsletter.ai/">The Code&#x27;s archive</a>. The four checks follow from that: delegate instead of watching the agent work, decide on documents instead of by chat, fix the root cause when it errs, and let workflows catch bugs instead of testing everything yourself.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Firecrawl: turn ChatGPT or Claude into a job-hunting agent — The Code</title>
+      <link>https://www.firecrawl.dev/blog/job-search-tools-chatgpt-claude</link>
+      <guid isPermaLink="false">9211a18f-4079-4ca5-b37d-9f4e77c1ce1a</guid>
+      <pubDate>Sat, 14 Nov 2026 03:49:55 GMT</pubDate>
+      <category>AI tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9211a18f-4079-4ca5-b37d-9f4e77c1ce1a.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9211a18f-4079-4ca5-b37d-9f4e77c1ce1a.png"/>
+      <description>Firecrawl&#x27;s job tools match a resume against 7M+ open roles posted in the last 30 days. From the same chat, they can surface who leads the team and what that person has said publicly about the work.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9211a18f-4079-4ca5-b37d-9f4e77c1ce1a.png" alt="Firecrawl: turn ChatGPT or Claude into a job-hunting agent — The Code"/></p>
+<p><a href="https://www.firecrawl.dev/blog/job-search-tools-chatgpt-claude">Firecrawl&#x27;s job tools</a> match a resume against 7M+ open roles posted in the last 30 days. From the same chat, they can surface who leads the team and what that person has said publicly about the work.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Magic&#x27;s first underwater plane takes shape</title>
+      <link>https://www.polygon.com/mtg-nauctis-the-sunken-realm-magiccon-reveals-spoilers/</link>
+      <guid isPermaLink="false">c60c9257-da0f-4e0a-9c55-3fcd466b15cd</guid>
+      <pubDate>Sat, 14 Nov 2026 02:27:44 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>At Friday&#x27;s preview panel at MagicCon: Atlanta, Wizards of the Coast revealed 19 cards from Nauctis: The Sunken Realm. Its headliner is Abyssal Lotus, a 0-cost artifact that exiles itself to add three mana of any one color once eight or more permanents are in your graveyard.</description>
+      <content:encoded><![CDATA[<p>At Friday&#x27;s preview panel at MagicCon: Atlanta, Wizards of the Coast <a href="https://www.polygon.com/mtg-nauctis-the-sunken-realm-magiccon-reveals-spoilers/">revealed 19 cards from Nauctis: The Sunken Realm</a>. Its headliner is Abyssal Lotus, a 0-cost artifact that exiles itself to add three mana of any one color once eight or more permanents are in your graveyard.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>S&amp;P and Nasdaq end lower as Nvidia uncertainty weighs on tech</title>
+      <link>https://srnnews.com/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge/</link>
+      <guid isPermaLink="false">b895528f-02bf-4837-8fcc-a09a51f7671f</guid>
+      <pubDate>Fri, 13 Nov 2026 22:37:08 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b895528f-02bf-4837-8fcc-a09a51f7671f.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b895528f-02bf-4837-8fcc-a09a51f7671f.jpg"/>
+      <description>Nvidia recorded its sixth straight week of declines, its longest streak since October 2012. The selling spread across chipmakers, with AMD and Broadcom the biggest drags on the semiconductor index.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b895528f-02bf-4837-8fcc-a09a51f7671f.jpg" alt="S&amp;P and Nasdaq end lower as Nvidia uncertainty weighs on tech"/></p>
+<p>Nvidia recorded its sixth straight week of declines, its longest streak since October 2012. The <a href="https://srnnews.com/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge/">selling spread across chipmakers</a>, with AMD and Broadcom the biggest drags on the semiconductor index.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Magic&#x27;s Planeswalker series gets its first trailer, for 2027</title>
+      <link>https://www.polygon.com/magic-the-gathering-animated-series-planeswalker-first-trailer/</link>
+      <guid isPermaLink="false">c9fd15a5-bebd-4ce3-8234-7da36f7698dc</guid>
+      <pubDate>Fri, 13 Nov 2026 19:29:45 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c9fd15a5-bebd-4ce3-8234-7da36f7698dc.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c9fd15a5-bebd-4ce3-8234-7da36f7698dc.jpg"/>
+      <description>Wizards of the Coast debuted the first official look at the animated series during its MagicCon Atlanta preview panel. Planeswalker follows a young Chandra Nalaar and her mentor Ajani Goldmane.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c9fd15a5-bebd-4ce3-8234-7da36f7698dc.jpg" alt="Magic&#x27;s Planeswalker series gets its first trailer, for 2027"/></p>
+<p>Wizards of the Coast debuted the <a href="https://www.polygon.com/magic-the-gathering-animated-series-planeswalker-first-trailer/">first official look</a> at the animated series during its MagicCon Atlanta preview panel. Planeswalker follows a young Chandra Nalaar and her mentor Ajani Goldmane.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Star Trek&#x27;s tabletop release is today</title>
+      <link>https://magic.wizards.com/en/news/feature/collecting-star-trek</link>
+      <guid isPermaLink="false">bb4a9ebd-354d-419d-9b63-26459c63fc4d</guid>
+      <pubDate>Fri, 13 Nov 2026 14:31:18 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>The four Commander decks are $74.99 each for the November 13, 2026 tabletop release. Seven actor-signed headliner cards appear only in Collector Boosters.</description>
+      <content:encoded><![CDATA[<p>The <a href="https://magic.wizards.com/en/news/feature/collecting-star-trek">four Commander decks</a> are $74.99 each for the November 13, 2026 tabletop release. Seven actor-signed headliner cards appear only in Collector Boosters.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Rom and Leeta reunite in the Federation Fleet deck</title>
+      <link>https://screenrant.com/star-trek-deep-space-nine-mtg-rom-leeta-romance/</link>
+      <guid isPermaLink="false">928b7f6c-d14e-4d86-b548-e2071d218198</guid>
+      <pubDate>Fri, 13 Nov 2026 10:36:06 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>Rom and Leeta, Unlikely Pair lands in the Federation Fleet Commander deck. Wizards warned Commander decks in North America may arrive after the November 13 launch.</description>
+      <content:encoded><![CDATA[<p><a href="https://screenrant.com/star-trek-deep-space-nine-mtg-rom-leeta-romance/">Rom and Leeta, Unlikely Pair</a> lands in the Federation Fleet Commander deck. Wizards warned Commander decks in North America may arrive after the November 13 launch.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Cisco lifts full-year outlook after strong quarter</title>
+      <link>https://www.morningstar.com/news/dow-jones/2026111216221/cisco-systems-raises-outlook-on-soaring-1q-revenue-profit</link>
+      <guid isPermaLink="false">8174c8bb-15e1-4d2a-8711-d71f963e545c</guid>
+      <pubDate>Fri, 13 Nov 2026 02:28:35 GMT</pubDate>
+      <category>Stock market</category>
+      <description>Cisco reported fiscal first-quarter revenue of $18.5 billion. For fiscal 2027, it lifted its revenue guidance.</description>
+      <content:encoded><![CDATA[<p>Cisco <a href="https://www.morningstar.com/news/dow-jones/2026111216221/cisco-systems-raises-outlook-on-soaring-1q-revenue-profit">reported</a> fiscal first-quarter revenue of $18.5 billion. For fiscal 2027, it lifted its revenue guidance.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Jensen Huang resigns as Nvidia CEO, Kress named interim CEO</title>
+      <link>https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/</link>
+      <guid isPermaLink="false">110c7e2a-588f-437e-9f6b-1dc53bd3fd90</guid>
+      <pubDate>Thu, 12 Nov 2026 22:35:34 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/110c7e2a-588f-437e-9f6b-1dc53bd3fd90.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/110c7e2a-588f-437e-9f6b-1dc53bd3fd90.webp"/>
+      <description>Colette Kress will serve as interim CEO while continuing as Nvidia&#x27;s chief financial officer until a permanent successor is found. Shares were down nearly 12% in early trading on Thursday.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/110c7e2a-588f-437e-9f6b-1dc53bd3fd90.webp" alt="Jensen Huang resigns as Nvidia CEO, Kress named interim CEO"/></p>
+<p>Colette Kress will <a href="https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/">serve as interim CEO</a> while continuing as Nvidia&#x27;s chief financial officer until a permanent successor is found. Shares were down nearly 12% in early trading on Thursday.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Star Trek booster box drops to $124.95</title>
+      <link>https://storysh.com/news/amazon-cuts-the-magic-the-gathering-star-trek-play-booster-box-to-12495-ahead-of-release-14a9485c159e/</link>
+      <guid isPermaLink="false">8991a11e-54fc-41af-a2ca-9e7a42d519fe</guid>
+      <pubDate>Thu, 12 Nov 2026 19:33:38 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8991a11e-54fc-41af-a2ca-9e7a42d519fe.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8991a11e-54fc-41af-a2ca-9e7a42d519fe.webp"/>
+      <description>Amazon cut the box a second time ahead of release, leaving it about 40% below MSRP. The Commander Deck bundle is down too, at $209.99.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8991a11e-54fc-41af-a2ca-9e7a42d519fe.webp" alt="Star Trek booster box drops to $124.95"/></p>
+<p><a href="https://storysh.com/news/amazon-cuts-the-magic-the-gathering-star-trek-play-booster-box-to-12495-ahead-of-release-14a9485c159e/">Amazon cut the box a second time</a> ahead of release, leaving it about 40% below MSRP. The Commander Deck bundle is down too, at $209.99.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Huang steps down at Nvidia</title>
+      <link>https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/</link>
+      <guid isPermaLink="false">1f7880c7-4f48-4a91-9ccc-b671ad93f98e</guid>
+      <pubDate>Thu, 12 Nov 2026 14:30:13 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1f7880c7-4f48-4a91-9ccc-b671ad93f98e.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1f7880c7-4f48-4a91-9ccc-b671ad93f98e.jpg"/>
+      <description>Colette Kress is taking over as Nvidia&#x27;s interim chief executive. In premarket trading, shares fell more than 10%.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1f7880c7-4f48-4a91-9ccc-b671ad93f98e.jpg" alt="Huang steps down at Nvidia"/></p>
+<p>Colette Kress is <a href="https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/">taking over as Nvidia&#x27;s interim chief executive</a>. In premarket trading, shares fell more than 10%.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AlphaGenome 2 finds nearly twice as many disease-linked DNA variants</title>
+      <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
+      <guid isPermaLink="false">4c4763df-b03f-49ec-a1d4-42177cbd9491</guid>
+      <pubDate>Thu, 12 Nov 2026 11:11:58 GMT</pubDate>
+      <category>AI</category>
+      <description>AlphaGenome 2 predicts how a DNA variant changes gene activity in one specific cell type, instead of averaging the effect across a whole tissue. On the TenK10K map of primary immune cell types, it identified 30% of causal variants.</description>
+      <content:encoded><![CDATA[<p><a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">AlphaGenome 2</a> predicts how a DNA variant changes gene activity in one specific cell type, instead of averaging the effect across a whole tissue. On the TenK10K map of primary immune cell types, it identified 30% of causal variants.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Maya Hawke and Harry Melling join Ari Aster&#x27;s The Confessions</title>
+      <link>https://collider.com/maya-hawke-harry-melling-cast-ari-aster-the-confessions/</link>
+      <guid isPermaLink="false">bfdc3302-5f6e-423b-8e69-5dc4faffb1bd</guid>
+      <pubDate>Thu, 12 Nov 2026 05:07:08 GMT</pubDate>
+      <category>Horror movies</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bfdc3302-5f6e-423b-8e69-5dc4faffb1bd.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bfdc3302-5f6e-423b-8e69-5dc4faffb1bd.jpg"/>
+      <description>Maya Hawke and Harry Melling will star in The Confessions alongside Alexander Skarsgård and Hunter Schafer. The film follows condemned nuns bearing witness to the accursed love triangle of a missing sea captain and his poet wife.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bfdc3302-5f6e-423b-8e69-5dc4faffb1bd.jpg" alt="Maya Hawke and Harry Melling join Ari Aster&#x27;s The Confessions"/></p>
+<p><a href="https://collider.com/maya-hawke-harry-melling-cast-ari-aster-the-confessions/">Maya Hawke and Harry Melling will star in The Confessions</a> alongside Alexander Skarsgård and Hunter Schafer. The film follows condemned nuns bearing witness to the accursed love triangle of a missing sea captain and his poet wife.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nvidia shares slide after report board may oust Huang</title>
+      <link>https://wixx.com/2026/11/11/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/</link>
+      <guid isPermaLink="false">7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf</guid>
+      <pubDate>Thu, 12 Nov 2026 02:28:45 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf.jpg"/>
+      <description>The Wall Street Journal reported that Nvidia&#x27;s board is preparing to oust chief executive Jensen Huang, according to people familiar with the matter. Reuters reported shares slid about 8% in after-hours trading.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7dbd8c6b-0b0d-4e9c-93ac-5f1333e1addf.jpg" alt="Nvidia shares slide after report board may oust Huang"/></p>
+<p>The Wall Street Journal reported that Nvidia&#x27;s board is preparing to oust chief executive Jensen Huang, according to people familiar with the matter. <a href="https://wixx.com/2026/11/11/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports/">Reuters</a> reported shares slid about 8% in after-hours trading.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic IPO demand runs several times the shares on offer</title>
+      <link>https://wrivid.com/news/anthropic-ipo-orders-exceed-shares-bloomberg-20261111</link>
+      <guid isPermaLink="false">4e5e4c60-2f86-44fb-b631-4c18bf3fbe26</guid>
+      <pubDate>Wed, 11 Nov 2026 23:03:55 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4e5e4c60-2f86-44fb-b631-4c18bf3fbe26.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4e5e4c60-2f86-44fb-b631-4c18bf3fbe26.jpg"/>
+      <description>Prospective investors have indicated interest in several times the shares on offer, Bloomberg reported Wednesday, a day after the roadshow began. Bankers are weighing a price above the range Anthropic filed Tuesday, which could lift the valuation to $1.5 trillion or more.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4e5e4c60-2f86-44fb-b631-4c18bf3fbe26.jpg" alt="Anthropic IPO demand runs several times the shares on offer"/></p>
+<p>Prospective investors have <a href="https://wrivid.com/news/anthropic-ipo-orders-exceed-shares-bloomberg-20261111">indicated interest in several times the shares on offer</a>, Bloomberg reported Wednesday, a day after the roadshow began. Bankers are weighing a price above the range Anthropic filed Tuesday, which could lift the valuation to $1.5 trillion or more.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Watson will start for the Browns on Sunday</title>
+      <link>https://www.si.com/nfl/browns/onsi/the-intention-was-for-deshaun-to-start-browns-open-up-on-recent-qb-decisions-01m75xq3p4z2</link>
+      <guid isPermaLink="false">f13fbd18-c85a-4193-9a89-9a56a18efbfd</guid>
+      <pubDate>Wed, 11 Nov 2026 19:31:28 GMT</pubDate>
+      <category>NFL</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f13fbd18-c85a-4193-9a89-9a56a18efbfd.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f13fbd18-c85a-4193-9a89-9a56a18efbfd.jpg"/>
+      <description>Deshaun Watson will start for the Browns against the Houston Texans on Sunday, November 15 at Huntington Bank Field in Cleveland, after coach Todd Monken said Wednesday the plan was for Watson to remain the starter after concussion protocol. Shedeur Sanders had fuelled the speculation by throwing for 297 yards at New Orleans.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f13fbd18-c85a-4193-9a89-9a56a18efbfd.jpg" alt="Watson will start for the Browns on Sunday"/></p>
+<p><a href="https://www.si.com/nfl/browns/onsi/the-intention-was-for-deshaun-to-start-browns-open-up-on-recent-qb-decisions-01m75xq3p4z2">Deshaun Watson will start</a> for the Browns against the Houston Texans on Sunday, November 15 at Huntington Bank Field in Cleveland, after coach Todd Monken said Wednesday the plan was for Watson to remain the starter after concussion protocol. Shedeur Sanders had fuelled the speculation by throwing for 297 yards at New Orleans.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Fewer than 10 neurons can backdoor an AI agent</title>
+      <link>https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html</link>
+      <guid isPermaLink="false">e2830c51-bd2e-4e8f-a1b3-482075f72c1a</guid>
+      <pubDate>Wed, 11 Nov 2026 17:27:40 GMT</pubDate>
+      <category>AI security</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e2830c51-bd2e-4e8f-a1b3-482075f72c1a.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e2830c51-bd2e-4e8f-a1b3-482075f72c1a.jpg"/>
+      <description>Microsoft researchers showed an AI agent can be backdoored by editing fewer than 10 of its rarely used neurons, with no retraining. The edited model behaved normally until the trigger appeared, then output an attacker&#x27;s command for the agent to run with its own permissions.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e2830c51-bd2e-4e8f-a1b3-482075f72c1a.jpg" alt="Fewer than 10 neurons can backdoor an AI agent"/></p>
+<p><a href="https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html">Microsoft researchers</a> showed an AI agent can be backdoored by editing fewer than 10 of its rarely used neurons, with no retraining. The edited model behaved normally until the trigger appeared, then output an attacker&#x27;s command for the agent to run with its own permissions.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon&#x27;s introductory price doubles after 30 November</title>
+      <link>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/</link>
+      <guid isPermaLink="false">f6b2a028-3469-4dd7-a48f-1dc5c7e65e37</guid>
+      <pubDate>Wed, 11 Nov 2026 14:29:18 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f6b2a028-3469-4dd7-a48f-1dc5c7e65e37.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f6b2a028-3469-4dd7-a48f-1dc5c7e65e37.jpg"/>
+      <description>Google made Gemini 4 Carbon generally available via its API and to Google AI Ultra subscribers. Input tokens cost $2 per million.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f6b2a028-3469-4dd7-a48f-1dc5c7e65e37.jpg" alt="Gemini 4 Carbon&#x27;s introductory price doubles after 30 November"/></p>
+<p>Google made <a href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/">Gemini 4 Carbon</a> generally available via its API and to Google AI Ultra subscribers. Input tokens cost $2 per million.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nvidia faces deepening scrutiny over China chip ties, CEO affair</title>
+      <link>https://bworldonline.com/technology/2026/11/11/792996/nvidia-faces-deepening-scrutiny-over-china-chip-ties-ceo-affair/</link>
+      <guid isPermaLink="false">dff34d77-0030-402b-bc92-83617122bcfb</guid>
+      <pubDate>Wed, 11 Nov 2026 11:12:54 GMT</pubDate>
+      <category>Stock market</category>
+      <description>Nvidia shed about $430 billion in market value over two sessions. The Information reported that Jensen Huang&#x27;s relationship with Alice Huang aided at least $7.5 billion in Nvidia chip shipments to China.</description>
+      <content:encoded><![CDATA[<p><a href="https://bworldonline.com/technology/2026/11/11/792996/nvidia-faces-deepening-scrutiny-over-china-chip-ties-ceo-affair/">Nvidia shed about $430 billion in market value over two sessions</a>. The Information reported that Jensen Huang&#x27;s relationship with Alice Huang aided at least $7.5 billion in Nvidia chip shipments to China.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Lil Baby&#x27;s &quot;From The Back&quot; remix with Chris Brown is out</title>
+      <link>https://stupiddope.com/2026/11/lil-baby-adds-chris-brown-for-the-from-the-back-remix-as-fresh-grows-to-18-tracks/</link>
+      <guid isPermaLink="false">2de91c7f-e6e5-4bba-bf81-e7ca78542e86</guid>
+      <pubDate>Wed, 11 Nov 2026 05:08:25 GMT</pubDate>
+      <category>Music</category>
+      <description>FRESH (Bonus Track) arrived November 10, stretching the album from 17 songs to 18. The remix runs 3:29, more than a minute longer than the 2:18 original.</description>
+      <content:encoded><![CDATA[<p><a href="https://stupiddope.com/2026/11/lil-baby-adds-chris-brown-for-the-from-the-back-remix-as-fresh-grows-to-18-tracks/">FRESH (Bonus Track)</a> arrived November 10, stretching the album from 17 songs to 18. The remix runs 3:29, more than a minute longer than the 2:18 original.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic unveils terms of $61.05 billion IPO</title>
+      <link>https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-unveils-terms-of-61-05-billion-ipo/</link>
+      <guid isPermaLink="false">056f5482-2c17-467f-86df-0c883b70dfb6</guid>
+      <pubDate>Wed, 11 Nov 2026 02:30:52 GMT</pubDate>
+      <category>AI</category>
+      <description>Anthropic set its IPO price range at $70 to $78 a share. AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC agreed to buy $26 billion of non-voting Class N stock in a private placement at the IPO price.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.iposcoop.com/the-ipo-buzz-anthropic-ant-proposed-unveils-terms-of-61-05-billion-ipo/">Anthropic</a> set its IPO price range at $70 to $78 a share. AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC agreed to buy $26 billion of non-voting Class N stock in a private placement at the IPO price.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Star Trek hits MTG Arena today</title>
+      <link>https://playgroup.gg/sets/star-trek</link>
+      <guid isPermaLink="false">1ac40029-fd5f-4357-8ba0-9305253ca155</guid>
+      <pubDate>Tue, 10 Nov 2026 22:38:22 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>Federation Fleet leads the four Star Trek Commander precons at a 22.1% win rate. The tabletop release follows on Friday, November 13, 2026.</description>
+      <content:encoded><![CDATA[<p><a href="https://playgroup.gg/sets/star-trek">Federation Fleet</a> leads the four Star Trek Commander precons at a 22.1% win rate. The tabletop release follows on Friday, November 13, 2026.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>GTA VI preload is live for its November 19 launch</title>
+      <link>https://www.digitaltrends.com/gaming/gta-6-is-finally-ready-to-download-all-212gb-of-it/</link>
+      <guid isPermaLink="false">4dec56e2-f4ec-43da-bef8-1c42cf4b2442</guid>
+      <pubDate>Tue, 10 Nov 2026 19:32:18 GMT</pubDate>
+      <category>Video games</category>
+      <description>Digital preorders can start downloading now, with Rockstar saying up to 212GB of free space is required depending on the device. Take-Two said preorders are tracking “far in excess” of initial expectations.</description>
+      <content:encoded><![CDATA[<p>Digital preorders can start downloading now, with <a href="https://www.digitaltrends.com/gaming/gta-6-is-finally-ready-to-download-all-212gb-of-it/">Rockstar saying up to 212GB of free space is required</a> depending on the device. Take-Two said preorders are tracking “far in excess” of initial expectations.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Notion AI chats exposed in Fireworks AI incident</title>
+      <link>https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor</link>
+      <guid isPermaLink="false">969c748d-551c-4487-b908-69349588c530</guid>
+      <pubDate>Tue, 10 Nov 2026 16:50:06 GMT</pubDate>
+      <category>AI security</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/969c748d-551c-4487-b908-69349588c530.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/969c748d-551c-4487-b908-69349588c530.jpg"/>
+      <description>A Fireworks AI security incident exposed some Notion AI chat transcripts, affecting fewer than 1% of Notion workspaces. Notion has disabled its Insights feature while it investigates.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/969c748d-551c-4487-b908-69349588c530.jpg" alt="Notion AI chats exposed in Fireworks AI incident"/></p>
+<p>A Fireworks AI security incident exposed some <a href="https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor">Notion AI chat transcripts</a>, affecting fewer than 1% of Notion workspaces. Notion has disabled its Insights feature while it investigates.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>October CPI rose 0.4%, hotter than expected</title>
+      <link>https://www.investopedia.com/5-things-to-know-stock-market-november-10-2026-12244529</link>
+      <guid isPermaLink="false">a153e39d-aca0-49bc-8858-1ba6c5386f52</guid>
+      <pubDate>Tue, 10 Nov 2026 14:44:03 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a153e39d-aca0-49bc-8858-1ba6c5386f52.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a153e39d-aca0-49bc-8858-1ba6c5386f52.jpg"/>
+      <description>Core prices also came in above economists&#x27; forecasts. Fed Governor Christopher Waller said he would back a 50-basis-point hike in December if the data supported it.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a153e39d-aca0-49bc-8858-1ba6c5386f52.jpg" alt="October CPI rose 0.4%, hotter than expected"/></p>
+<p><a href="https://www.investopedia.com/5-things-to-know-stock-market-november-10-2026-12244529">Core prices</a> also came in above economists&#x27; forecasts. Fed Governor Christopher Waller said he would back a 50-basis-point hike in December if the data supported it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Bills beat Vikings 23-6</title>
+      <link>https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights</link>
+      <guid isPermaLink="false">741f5309-9af6-4b74-92c8-fcae7b1f4eb6</guid>
+      <pubDate>Tue, 10 Nov 2026 10:36:05 GMT</pubDate>
+      <category>NFL</category>
+      <description>Allen and Cook became the first quarterback-running back duo in NFL history to reach 5,000 rushing yards as teammates in the same season. Cook scored from five yards out in the fourth quarter to make it 20-6.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights">Allen and Cook became the first quarterback-running back duo in NFL history to reach 5,000 rushing yards as teammates in the same season</a>. Cook scored from five yards out in the fourth quarter to make it 20-6.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Best AI coding agent fully finishes just 26% of real tasks</title>
+      <link>https://freshsynapse.com/articles/co-design-bench-coding-agents-2026-11-09/</link>
+      <guid isPermaLink="false">09125c37-2ad7-4709-8ded-50c7403bd439</guid>
+      <pubDate>Tue, 10 Nov 2026 04:18:15 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/09125c37-2ad7-4709-8ded-50c7403bd439.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/09125c37-2ad7-4709-8ded-50c7403bd439.jpg"/>
+      <description>Co-Design Bench built its test from 273 real change requests drawn from live coding sessions. GPT-6 Astra, the best of the ten models tested, fully finished only 26.4% of them.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/09125c37-2ad7-4709-8ded-50c7403bd439.jpg" alt="Best AI coding agent fully finishes just 26% of real tasks"/></p>
+<p><a href="https://freshsynapse.com/articles/co-design-bench-coding-agents-2026-11-09/">Co-Design Bench</a> built its test from 273 real change requests drawn from live coding sessions. GPT-6 Astra, the best of the ten models tested, fully finished only 26.4% of them.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Browns plan to start Watson in Week 10</title>
+      <link>https://www.nbcsports.com/nfl/cleveland-browns/rumor-mill</link>
+      <guid isPermaLink="false">b2a5613b-872d-4ec0-93dd-53f5784b8b7f</guid>
+      <pubDate>Tue, 10 Nov 2026 02:30:50 GMT</pubDate>
+      <category>NFL</category>
+      <description>Shedeur Sanders threw for 297 yards in his start at New Orleans. Cleveland hosts the Houston Texans next.</description>
+      <content:encoded><![CDATA[<p>Shedeur Sanders <a href="https://www.nbcsports.com/nfl/cleveland-browns/rumor-mill">threw for 297 yards</a> in his start at New Orleans. Cleveland hosts the Houston Texans next.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Stocks rally as oil falls, Nvidia slumps</title>
+      <link>https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps</link>
+      <guid isPermaLink="false">b55a3740-f166-46ec-b9fa-715d0332aa33</guid>
+      <pubDate>Mon, 09 Nov 2026 23:07:35 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b55a3740-f166-46ec-b9fa-715d0332aa33.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b55a3740-f166-46ec-b9fa-715d0332aa33.jpg"/>
+      <description>US stocks rallied Monday, with the S&amp;P 500 gaining 2.41% to 7,554.67. Nvidia was the exception, falling to its lowest since March 31 while the rest of the chip index rose.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b55a3740-f166-46ec-b9fa-715d0332aa33.jpg" alt="Stocks rally as oil falls, Nvidia slumps"/></p>
+<p><a href="https://www.kitco.com/news/off-the-wire/2026-11-09/wall-st-jumps-back-oil-slide-eases-inflation-worries-nvidia-slumps">US stocks rallied Monday</a>, with the S&amp;P 500 gaining 2.41% to 7,554.67. Nvidia was the exception, falling to its lowest since March 31 while the rest of the chip index rose.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic unveils Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/</link>
+      <guid isPermaLink="false">2809ab7b-68c8-4548-b817-3bed726a6a97</guid>
+      <pubDate>Mon, 09 Nov 2026 21:21:59 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2809ab7b-68c8-4548-b817-3bed726a6a97.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2809ab7b-68c8-4548-b817-3bed726a6a97.jpg"/>
+      <description>Anthropic&#x27;s new models generate outputs up to 30% faster than their 5.1 predecessors. Mythos 5.2 stays restricted to organizations approved through Anthropic&#x27;s cybersecurity and life-sciences verification programs, while Fable 5.2 is available more broadly.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2809ab7b-68c8-4548-b817-3bed726a6a97.jpg" alt="Anthropic unveils Claude Fable 5.2 and Mythos 5.2"/></p>
+<p>Anthropic&#x27;s new models <a href="https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/">generate outputs up to 30% faster</a> than their 5.1 predecessors. Mythos 5.2 stays restricted to organizations approved through Anthropic&#x27;s cybersecurity and life-sciences verification programs, while Fable 5.2 is available more broadly.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Day fires special-teams coordinator after nine games</title>
+      <link>https://www.elevenwarriors.com/ohio-state-football/2026/11/165294/ohio-state-fires-special-teams-coordinator-robby-discher-after-nine-games?PageSpeed=noscript</link>
+      <guid isPermaLink="false">faac8009-8e02-4939-9559-8376d38fe40e</guid>
+      <pubDate>Mon, 09 Nov 2026 19:33:44 GMT</pubDate>
+      <category>Ohio State football</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/faac8009-8e02-4939-9559-8376d38fe40e.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/faac8009-8e02-4939-9559-8376d38fe40e.jpg"/>
+      <description>The firing followed Saturday&#x27;s win for Oregon in Columbus, where a fake punt on fourth-and-9 kept a drive alive. Discher lasted nine games after being hired in January to fix Ohio State&#x27;s special teams.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/faac8009-8e02-4939-9559-8376d38fe40e.jpg" alt="Day fires special-teams coordinator after nine games"/></p>
+<p>The firing followed Saturday&#x27;s win for Oregon in Columbus, where a <a href="https://www.elevenwarriors.com/ohio-state-football/2026/11/165294/ohio-state-fires-special-teams-coordinator-robby-discher-after-nine-games?PageSpeed=noscript">fake punt</a> on fourth-and-9 kept a drive alive. Discher lasted nine games after being hired in January to fix Ohio State&#x27;s special teams.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>One hacker used 12 AI agents to steal Taipei dispatch records</title>
+      <link>https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html</link>
+      <guid isPermaLink="false">841cca2c-bad7-4d24-a861-0d7bec9b4b45</guid>
+      <pubDate>Mon, 09 Nov 2026 19:27:51 GMT</pubDate>
+      <category>AI security</category>
+      <description>A single attacker in Taiwan pulled emergency dispatch records covering seven Taipei districts using a setup called BOSSAI. Commercial models mostly refused to help with the attacks, so the agents ran on local models with their safety training removed.</description>
+      <content:encoded><![CDATA[<p>A single attacker in Taiwan <a href="https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html">pulled emergency dispatch records covering seven Taipei districts</a> using a setup called BOSSAI. Commercial models mostly refused to help with the attacks, so the agents ran on local models with their safety training removed.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Physicists create a supersolid at room temperature</title>
+      <link>https://journalarta.com/en/2026/11/09/quantum-state-room-temperature-supersolid-physicists/</link>
+      <guid isPermaLink="false">df447a5a-2149-4cc9-93f2-cd995cacb354</guid>
+      <pubDate>Mon, 09 Nov 2026 17:26:39 GMT</pubDate>
+      <category>Quantum physics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/df447a5a-2149-4cc9-93f2-cd995cacb354.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/df447a5a-2149-4cc9-93f2-cd995cacb354.jpg"/>
+      <description>The team built it inside a liquid-crystal microcavity that can operate at temperatures approaching 60°C. Each laser pulse reformed the condensate with its crystal stripes landing in a different place, which researchers read as spontaneous symmetry breaking.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/df447a5a-2149-4cc9-93f2-cd995cacb354.jpg" alt="Physicists create a supersolid at room temperature"/></p>
+<p>The team built it inside a <a href="https://journalarta.com/en/2026/11/09/quantum-state-room-temperature-supersolid-physicists/">liquid-crystal microcavity</a> that can operate at temperatures approaching 60°C. Each laser pulse reformed the condensate with its crystal stripes landing in a different place, which researchers read as spontaneous symmetry breaking.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Weekly Music Update — November 9, 2026</title>
+      <link>https://music.apple.com/us/album/gl%C3%BCckliches-land-single/6823624961?uo=4</link>
+      <guid isPermaLink="false">3cd02533-f8bc-411b-bd9c-7642936f9cbd</guid>
+      <pubDate>Mon, 09 Nov 2026 15:38:23 GMT</pubDate>
+      <category>Music</category>
+      <description>New from your artists: NF&#x27;s Glückliches Land, single, released October 31, 2026; Future&#x27;s Ya Hit (feat. Drake, Travis Scott &amp; Loe Shimmy), single, released November 4, 2026; Joey Bada$$, Freddie Gibbs &amp; Duka&#x27;s Late Night Flow, single, released November 4, 2026. Critics&#x27; picks: Baby Osamaa&#x27;s On Tha Run, album, released October 28, 2026, Pitchfork Best New Music, reviewed November 4 (Pitchfork…</description>
+      <content:encoded><![CDATA[<p>New from your artists: NF&#x27;s <a href="https://music.apple.com/us/album/gl%C3%BCckliches-land-single/6823624961?uo=4">Glückliches Land</a>, single, released October 31, 2026; Future&#x27;s <a href="https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy-single/6831872688?uo=4">Ya Hit</a> (feat. Drake, Travis Scott &amp; Loe Shimmy), single, released November 4, 2026; Joey Bada$$, Freddie Gibbs &amp; Duka&#x27;s <a href="https://music.apple.com/us/album/late-night-flow-single/6830850736?uo=4">Late Night Flow</a>, single, released November 4, 2026. Critics&#x27; picks: Baby Osamaa&#x27;s <a href="https://www.qobuz.com/no-en/album/on-tha-run-baby-osamaa/rcv17ul82n5dp">On Tha Run</a>, album, released October 28, 2026, Pitchfork Best New Music, reviewed November 4 (Pitchfork 8.2); Django Django&#x27;s Doveland, album, released November 6, 2026, Metacritic 88; Shygirl&#x27;s SWALLOW!, album, released November 6, 2026, Metacritic 87.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic spends $3.4B on gas generators</title>
+      <link>https://www.theneuron.ai/news/anthropics-3-4-billion-power-deal-ai-data-centers/</link>
+      <guid isPermaLink="false">c5259d9f-ca89-4513-90c7-6a2f53b3f001</guid>
+      <pubDate>Mon, 09 Nov 2026 15:21:26 GMT</pubDate>
+      <category>Tech</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c5259d9f-ca89-4513-90c7-6a2f53b3f001.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c5259d9f-ca89-4513-90c7-6a2f53b3f001.webp"/>
+      <description>Anthropic reportedly agreed to spend $3.4 billion on gas-powered generators to power its AI data centers. It took over OnePWR Solutions&#x27; Caterpillar orders, placed years ago, rather than waiting years for new equipment.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c5259d9f-ca89-4513-90c7-6a2f53b3f001.webp" alt="Anthropic spends $3.4B on gas generators"/></p>
+<p>Anthropic reportedly <a href="https://www.theneuron.ai/news/anthropics-3-4-billion-power-deal-ai-data-centers/">agreed to spend $3.4 billion on gas-powered generators</a> to power its AI data centers. It took over OnePWR Solutions&#x27; Caterpillar orders, placed years ago, rather than waiting years for new equipment.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>King Ghidorah shows his three heads at last</title>
+      <link>https://movieweb.com/godzilla-minus-zero-ghidorah-images/</link>
+      <guid isPermaLink="false">dc07a471-3c5e-4efd-9478-1fe598b3b04f</guid>
+      <pubDate>Mon, 09 Nov 2026 14:29:24 GMT</pubDate>
+      <category>Horror movies</category>
+      <description>Godzilla Minus Zero opened wide Nov 6, taking $31.6M globally in its debut. On Nov 9, Toho released first official images of King Ghidorah, showing the monster in mature three-headed form.</description>
+      <content:encoded><![CDATA[<p>Godzilla Minus Zero opened wide Nov 6, taking $31.6M globally in its debut. On Nov 9, Toho released <a href="https://movieweb.com/godzilla-minus-zero-ghidorah-images/">first official images of King Ghidorah</a>, showing the monster in mature three-headed form.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Bills favored by 3 over Vikings on Monday night</title>
+      <link>https://vsin.com/nfl/bills-vs-vikings-predictions-week-9-monday-night-football-odds-picks-and-player-props/</link>
+      <guid isPermaLink="false">987698ae-d4fd-43a4-834c-f94eb18e3b0d</guid>
+      <pubDate>Mon, 09 Nov 2026 13:23:30 GMT</pubDate>
+      <category>NFL</category>
+      <description>The 6-1 Bills visit the 6-1 Vikings tonight at U.S. Bank Stadium, with kickoff at 8:20 ET on ESPN. Buffalo is a 3-point favorite.</description>
+      <content:encoded><![CDATA[<p>The <a href="https://vsin.com/nfl/bills-vs-vikings-predictions-week-9-monday-night-football-odds-picks-and-player-props/">6-1 Bills visit the 6-1 Vikings</a> tonight at U.S. Bank Stadium, with kickoff at 8:20 ET on ESPN. Buffalo is a 3-point favorite.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Picard gets a sinister new look in Magic&#x27;s Star Trek set</title>
+      <link>https://screenrant.com/star-trek-earth-mtg-warlord-picard/</link>
+      <guid isPermaLink="false">ba3c6a5d-f746-4c16-9154-24a399dc4b8b</guid>
+      <pubDate>Mon, 09 Nov 2026 11:11:06 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>General Picard, Earth Warlord turns the Confederation Picard from Star Trek: Picard season 2 into a muscle-bound warlord clutching a skull. The card is a Stardates reskin of Kenrith, the Returned King, a 5/5 legendary creature.</description>
+      <content:encoded><![CDATA[<p><a href="https://screenrant.com/star-trek-earth-mtg-warlord-picard/">General Picard, Earth Warlord</a> turns the Confederation Picard from Star Trek: Picard season 2 into a muscle-bound warlord clutching a skull. The card is a Stardates reskin of Kenrith, the Returned King, a 5/5 legendary creature.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>56.6 GiB holds a 284B model</title>
+      <link>https://dev.to/frankchu/566-gib-holds-a-284b-model-i-audited-the-64gb-cpu-claim-4oh6</link>
+      <guid isPermaLink="false">68736102-185c-4e1a-ac81-b66a03000e6d</guid>
+      <pubDate>Mon, 09 Nov 2026 09:14:18 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg"/>
+      <description>An independent audit verified the DeepSeek-V4-Flash file on Hugging Face at 56.60 GiB, matching llama-modchip&#x27;s 56.56 GiB claim to two decimal places. The honest speed is 9.06 tokens per second for lossless decode, with 14.7 only when speculative drafting helps.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg" alt="56.6 GiB holds a 284B model"/></p>
+<p>An <a href="https://dev.to/frankchu/566-gib-holds-a-284b-model-i-audited-the-64gb-cpu-claim-4oh6">independent audit</a> verified the DeepSeek-V4-Flash file on Hugging Face at 56.60 GiB, matching llama-modchip&#x27;s 56.56 GiB claim to two decimal places. The honest speed is 9.06 tokens per second for lossless decode, with 14.7 only when speculative drafting helps.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nvidia stock falls 4% after Jensen Huang probe</title>
+      <link>https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/</link>
+      <guid isPermaLink="false">b1697a6c-3616-4607-9b70-3c01260e20f2</guid>
+      <pubDate>Mon, 09 Nov 2026 07:39:24 GMT</pubDate>
+      <category>Stock market</category>
+      <description>Nvidia&#x27;s board opened an independent inquiry on Sunday into reports that Jensen Huang was targeted by a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised.</description>
+      <content:encoded><![CDATA[<p>Nvidia&#x27;s board opened an <a href="https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/">independent inquiry</a> on Sunday into reports that Jensen Huang was targeted by a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Goldman limits Claude Code and GitHub to engineers</title>
+      <link>https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/</link>
+      <guid isPermaLink="false">d2758cb6-770c-48b4-8eb9-9f9483fdd9d0</guid>
+      <pubDate>Mon, 09 Nov 2026 05:07:45 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg"/>
+      <description>Goldman Sachs has restricted Claude Code and GitHub to its engineers after an October review of productivity and risk, cutting off most traders and bankers. Goldman is also a lead underwriter on Anthropic&#x27;s IPO, expected to list on Nasdaq before the end of November.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg" alt="Goldman limits Claude Code and GitHub to engineers"/></p>
+<p>Goldman Sachs has <a href="https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/">restricted Claude Code and GitHub to its engineers</a> after an October review of productivity and risk, cutting off most traders and bankers. Goldman is also a lead underwriter on Anthropic&#x27;s IPO, expected to list on Nasdaq before the end of November.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Jordan Love gives Patriots&#x27; $135 million corner nightmares</title>
+      <link>https://www.usatoday.com/story/sports/nfl/packers/2026/11/08/jordan-love-patriots-christian-gonzalez-matthew-golden/92683750007/</link>
+      <guid isPermaLink="false">ee043ea5-70bc-4c6b-b45e-8c85733015d5</guid>
+      <pubDate>Mon, 09 Nov 2026 03:11:32 GMT</pubDate>
+      <category>NFL</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg"/>
+      <description>Jordan Love threw for 372 yards against New England on Sunday, November 8. Patriots coach Mike Vrabel publicly criticized Christian Gonzalez afterward, saying the team expects a lot more from its best players.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg" alt="Jordan Love gives Patriots&#x27; $135 million corner nightmares"/></p>
+<p><a href="https://www.usatoday.com/story/sports/nfl/packers/2026/11/08/jordan-love-patriots-christian-gonzalez-matthew-golden/92683750007/">Jordan Love</a> threw for 372 yards against New England on Sunday, November 8. Patriots coach Mike Vrabel publicly criticized Christian Gonzalez afterward, saying the team expects a lot more from its best players.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>First signed Star Trek card pulled: a Patrick Stewart Picard</title>
+      <link>https://gamerant.com/magic-the-gathering-signed-card-patrick-stewart/</link>
+      <guid isPermaLink="false">9384491e-0c3a-45b4-b701-b583d0a2da03</guid>
+      <pubDate>Mon, 09 Nov 2026 02:34:49 GMT</pubDate>
+      <category>Daily digest</category>
+      <description>Meta Games Unlimited shared the pull of an autographed Captain Jean-Luc Picard, one of seven Signature Headliner cards with fewer than 250 copies of each, exclusive to Collector Boosters. It is Magic&#x27;s first-ever autographed card treatment.</description>
+      <content:encoded><![CDATA[<p>Meta Games Unlimited shared the pull of <a href="https://gamerant.com/magic-the-gathering-signed-card-patrick-stewart/">an autographed Captain Jean-Luc Picard, one of seven Signature Headliner cards with fewer than 250 copies of each, exclusive to Collector Boosters</a>. It is Magic&#x27;s first-ever autographed card treatment.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Pilot of 20 years says UFOs flew in front of his plane</title>
+      <link>https://www.unilad.com/news/uk-news/pilot-speaks-out-as-he-claims-ufos-were-flying-in-front-of-plane-520698-20261108</link>
+      <guid isPermaLink="false">10e79327-86f1-475c-bfce-109b0dd6fdac</guid>
+      <pubDate>Mon, 09 Nov 2026 01:06:49 GMT</pubDate>
+      <category>High strangeness</category>
+      <description>Steve Frazer says the flashing orbs have appeared six or seven times since 2022, most recently in October 2026. The captain, with 27 years of commercial flying, says their speed ruled out a military refuelling aircraft.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.unilad.com/news/uk-news/pilot-speaks-out-as-he-claims-ufos-were-flying-in-front-of-plane-520698-20261108">Steve Frazer says the flashing orbs have appeared six or seven times since 2022</a>, most recently in October 2026. The captain, with 27 years of commercial flying, says their speed ruled out a military refuelling aircraft.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Saints hang on to beat Browns 23-22 in overtime</title>
+      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-hang-on-to-defeat-browns-in-overtime-23-22</link>
+      <guid isPermaLink="false">c1bacaee-7d58-4431-a764-710c57d193f8</guid>
+      <pubDate>Sun, 08 Nov 2026 23:07:18 GMT</pubDate>
+      <category>NFL</category>
+      <description>Cleveland went for the win in overtime, and Shedeur Sanders&#x27; two-point throw to Denzel Boston fell incomplete. Tyler Shough had opened overtime with a 15-yard touchdown pass to Juwan Johnson.</description>
+      <content:encoded><![CDATA[<p>Cleveland went for the win in overtime, and <a href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-hang-on-to-defeat-browns-in-overtime-23-22">Shedeur Sanders&#x27; two-point throw to Denzel Boston fell incomplete</a>. Tyler Shough had opened overtime with a 15-yard touchdown pass to Juwan Johnson.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic pushes ahead with pre-Thanksgiving IPO at lower valuation</title>
+      <link>https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</link>
+      <guid isPermaLink="false">32058c72-1541-4dc3-9a09-4ef5f33d8fed</guid>
+      <pubDate>Sun, 08 Nov 2026 21:22:24 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32058c72-1541-4dc3-9a09-4ef5f33d8fed.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32058c72-1541-4dc3-9a09-4ef5f33d8fed.jpg"/>
+      <description>Investors cited by the Financial Times put Anthropic&#x27;s valuation at $1.25–1.75 trillion for its pre-Thanksgiving IPO. The company is pressing ahead despite the tech selloff, accepting a lower valuation.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32058c72-1541-4dc3-9a09-4ef5f33d8fed.jpg" alt="Anthropic pushes ahead with pre-Thanksgiving IPO at lower valuation"/></p>
+<p>Investors cited by the Financial Times put <a href="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">Anthropic&#x27;s valuation at $1.25–1.75 trillion</a> for its pre-Thanksgiving IPO. The company is pressing ahead despite the tech selloff, accepting a lower valuation.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Supersolid created at room temperature</title>
+      <link>https://www.sciencealert.com/?p=227450</link>
+      <guid isPermaLink="false">8f111986-ec3a-4ea6-98d0-c058e4c0bd5c</guid>
+      <pubDate>Sun, 08 Nov 2026 19:30:06 GMT</pubDate>
+      <category>Quantum physics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8f111986-ec3a-4ea6-98d0-c058e4c0bd5c.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8f111986-ec3a-4ea6-98d0-c058e4c0bd5c.jpg"/>
+      <description>An international team created a supersolid in an exciton-polariton Bose-Einstein condensate at room temperature, in liquid-crystal microcavities that work at up to about 60°C (140°F) with no cryogenic fridge. With each laser pulse the condensate&#x27;s stripes reformed in slightly different places, evidence of spontaneous symmetry breaking rather than an artefact of the cavity.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8f111986-ec3a-4ea6-98d0-c058e4c0bd5c.jpg" alt="Supersolid created at room temperature"/></p>
+<p>An international team <a href="https://www.sciencealert.com/?p=227450">created a supersolid in an exciton-polariton Bose-Einstein condensate at room temperature</a>, in liquid-crystal microcavities that work at up to about 60°C (140°F) with no cryogenic fridge. With each laser pulse the condensate&#x27;s stripes reformed in slightly different places, evidence of spontaneous symmetry breaking rather than an artefact of the cavity.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Wellness is now a $2.7 trillion takeover</title>
+      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends</link>
+      <guid isPermaLink="false">ea21daf3-cbf6-45bb-a3a1-caa5765afdf5</guid>
+      <pubDate>Sun, 08 Nov 2026 19:28:34 GMT</pubDate>
+      <category>Fitness &amp; biohacking</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea21daf3-cbf6-45bb-a3a1-caa5765afdf5.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea21daf3-cbf6-45bb-a3a1-caa5765afdf5.webp"/>
+      <description>McKinsey&#x27;s Future of Wellness 2027 puts the global wellness market at $2.7 trillion. Biohacking has left the fringe, with self-tracking, supplements, and protein-, creatine-, and fiber-maxxing now counted among its mainstream practices.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea21daf3-cbf6-45bb-a3a1-caa5765afdf5.webp" alt="Wellness is now a $2.7 trillion takeover"/></p>
+<p><a href="https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends">McKinsey&#x27;s Future of Wellness 2027</a> puts the global wellness market at $2.7 trillion. Biohacking has left the fringe, with self-tracking, supplements, and protein-, creatine-, and fiber-maxxing now counted among its mainstream practices.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How Apple&#x27;s Personal Knowledge Graph learns about your life on Mac</title>
+      <link>https://forums.appleinsider.com/discussion/246466/how-apple-039-s-personal-knowledge-graph-learns-about-your-life-on-mac</link>
+      <guid isPermaLink="false">3abc22c8-8718-4863-b50a-71bb0a7572a9</guid>
+      <pubDate>Sun, 08 Nov 2026 17:26:22 GMT</pubDate>
+      <category>Tech</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3abc22c8-8718-4863-b50a-71bb0a7572a9.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3abc22c8-8718-4863-b50a-71bb0a7572a9.jpg"/>
+      <description>Eighth Rank&#x27;s breakdown shows macOS daemons have built a personal knowledge graph since macOS 13, scoring family ties from 144 behavioral signals. The graph stays on the device, behind Full Disk Access protection.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3abc22c8-8718-4863-b50a-71bb0a7572a9.jpg" alt="How Apple&#x27;s Personal Knowledge Graph learns about your life on Mac"/></p>
+<p><a href="https://forums.appleinsider.com/discussion/246466/how-apple-039-s-personal-knowledge-graph-learns-about-your-life-on-mac">Eighth Rank&#x27;s breakdown</a> shows macOS daemons have built a personal knowledge graph since macOS 13, scoring family ties from 144 behavioral signals. The graph stays on the device, behind Full Disk Access protection.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Lindley Paradox — Daily Learning</title>
+      <link>https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2111/2111.10191v2.pdf</link>
+      <guid isPermaLink="false">c77a7a2e-e6bf-4a86-826f-df39329158a2</guid>
+      <pubDate>Sun, 08 Nov 2026 15:27:47 GMT</pubDate>
+      <category>Statistics</category>
+      <description>Flip a coin 100,000 times and get 50,400 heads, and the test calls the result significant at p ≈ 0.01 even though the rate is only 50.4%. A Bayesian reading of those same flips says they fit a fair coin far better than any specific biased alternative, so with samples that large a p-value alone can mislead you.</description>
+      <content:encoded><![CDATA[<p>Flip a coin 100,000 times and get 50,400 heads, and the test calls the result significant at p ≈ 0.01 even though the rate is only 50.4%. A <a href="https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2111/2111.10191v2.pdf">Bayesian reading</a> of those same flips says they fit a fair coin far better than any specific biased alternative, so with samples that large a p-value alone can mislead you.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Dow futures open tonight with the market damaged</title>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/</link>
+      <guid isPermaLink="false">1cec29f8-aaba-4181-b466-5f5543c3a0bb</guid>
+      <pubDate>Sun, 08 Nov 2026 15:20:33 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1cec29f8-aaba-4181-b466-5f5543c3a0bb.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1cec29f8-aaba-4181-b466-5f5543c3a0bb.jpg"/>
+      <description>Dow Jones futures open at 6 PM ET Sunday, along with S&amp;P 500 and Nasdaq-100 futures. The Nasdaq plunged 3.4% last week.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1cec29f8-aaba-4181-b466-5f5543c3a0bb.jpg" alt="Dow futures open tonight with the market damaged"/></p>
+<p><a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/">Dow Jones futures</a> open at 6 PM ET Sunday, along with S&amp;P 500 and Nasdaq-100 futures. The Nasdaq plunged 3.4% last week.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Electrons hit a space-time limit in the lab</title>
+      <link>https://www.byteseu.com/2505621/</link>
+      <guid isPermaLink="false">d5af9e77-e440-4956-931a-ba7768e04ab0</guid>
+      <pubDate>Sun, 08 Nov 2026 14:28:54 GMT</pubDate>
+      <category>Quantum physics</category>
+      <description>Ultrafast lasers at Regensburg and the Max Planck Institute in Hamburg caught electron motion lagging the light field by about 500 attoseconds. The authors say the insight could eventually lead to electronics operating hundreds of thousands of times faster than current CMOS technology, but that remains a long-term goal rather than a demonstrated device.</description>
+      <content:encoded><![CDATA[<p>Ultrafast lasers at Regensburg and the Max Planck Institute in Hamburg caught electron motion <a href="https://www.byteseu.com/2505621/">lagging the light field by about 500 attoseconds</a>. The authors say the insight could eventually lead to electronics operating hundreds of thousands of times faster than current CMOS technology, but that remains a long-term goal rather than a demonstrated device.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Alien leaves Netflix on Dec. 1</title>
+      <link>https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/</link>
+      <guid isPermaLink="false">aa01b239-9bfd-4155-902f-7d0da34b2c84</guid>
+      <pubDate>Sun, 08 Nov 2026 13:22:42 GMT</pubDate>
+      <category>Horror &amp; sci-fi</category>
+      <description>Alien leaves Netflix on December 1. Its sequel Aliens, directed by James Cameron, leaves the same day.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/">Alien</a> leaves Netflix on December 1. Its sequel Aliens, directed by James Cameron, leaves the same day.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Browns +3 at Saints in New Orleans</title>
+      <link>https://www.bleachernation.com/picks/2026/11/05/saints-vs-browns-best-bets-picks-and-prediction-nov-8/</link>
+      <guid isPermaLink="false">59a23b01-c406-4765-9e4d-65b6145a50d6</guid>
+      <pubDate>Sun, 08 Nov 2026 11:11:12 GMT</pubDate>
+      <category>NFL</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg"/>
+      <description>Bleacher Nation calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg" alt="Browns +3 at Saints in New Orleans"/></p>
+<p><a href="https://www.bleachernation.com/picks/2026/11/05/saints-vs-browns-best-bets-picks-and-prediction-nov-8/">Bleacher Nation</a> calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Magic: The Gathering&#x27;s $2 Million Card Used in Real Match</title>
+      <link>https://www.polygon.com/mtg-one-ring-card-post-malone/</link>
+      <guid isPermaLink="false">95bfebe3-a086-4b0c-a5a0-d227be8aeb57</guid>
+      <pubDate>Sun, 08 Nov 2026 09:14:37 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>Post Malone took the one-of-one The One Ring out of its protective slab and played it in a Commander match on Game Knights. On the table it grants protection from everything until his next turn.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/mtg-one-ring-card-post-malone/">Post Malone took the one-of-one The One Ring out of its protective slab</a> and played it in a Commander match on Game Knights. On the table it grants protection from everything until his next turn.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Microsoft&#x27;s AI Frontiers research group is over</title>
+      <link>https://hunch.net/?p=13764006</link>
+      <guid isPermaLink="false">5a368e72-9efa-45b9-96a7-2299cb1fe4f5</guid>
+      <pubDate>Sun, 08 Nov 2026 07:38:15 GMT</pubDate>
+      <category>AI</category>
+      <description>John Langford wrote on November 6 that AI Frontiers is over after Microsoft reorganized the group into Microsoft AI in early September. The roughly 50-person group built the AutoGen orchestration framework and the Fara computer-use agent.</description>
+      <content:encoded><![CDATA[<p><a href="https://hunch.net/?p=13764006">John Langford wrote on November 6</a> that AI Frontiers is over after Microsoft reorganized the group into Microsoft AI in early September. The roughly 50-person group built the AutoGen orchestration framework and the Fara computer-use agent.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Discord drops Electron for a Rust desktop app</title>
+      <link>https://yusmpgroup.com/news/discord-electron-rust-desktop-app</link>
+      <guid isPermaLink="false">9df289df-390e-4204-83eb-103e3d5f9ae0</guid>
+      <pubDate>Sun, 08 Nov 2026 05:08:26 GMT</pubDate>
+      <category>Tech</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg"/>
+      <description>Discord is dropping Electron for a native Rust desktop app. An early Windows build used about 290MB of RAM.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg" alt="Discord drops Electron for a Rust desktop app"/></p>
+<p><a href="https://yusmpgroup.com/news/discord-electron-rust-desktop-app">Discord is dropping Electron</a> for a native Rust desktop app. An early Windows build used about 290MB of RAM.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ghostty&#x27;s terminal engine hits 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <guid isPermaLink="false">92cd55a1-9c32-44b7-bf2a-8377799425f8</guid>
+      <pubDate>Sun, 08 Nov 2026 03:11:35 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>Mitchell Hashimoto released libghostty-vt 1.0 on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</description>
+      <content:encoded><![CDATA[<p><a href="https://mitchellh.com/writing/libghostty-1-0">Mitchell Hashimoto released libghostty-vt 1.0</a> on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI closes first $11B at $1.25T valuation</title>
+      <link>https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/</link>
+      <guid isPermaLink="false">e4587c10-0a69-4a88-bf0a-82abcaeccfe5</guid>
+      <pubDate>Sun, 08 Nov 2026 03:00:08 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg"/>
+      <description>Bloomberg reported the money was wired on Friday, November 6. The round could still reach about $20 billion in the coming weeks.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" alt="OpenAI closes first $11B at $1.25T valuation"/></p>
+<p>Bloomberg reported <a href="https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/">the money was wired on Friday, November 6</a>. The round could still reach about $20 billion in the coming weeks.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Wizards nerfs a Star Trek combo before the set lands</title>
+      <link>https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/</link>
+      <guid isPermaLink="false">c0b8f5bf-b1d8-4d18-b6ed-759d37d725aa</guid>
+      <pubDate>Sun, 08 Nov 2026 02:32:42 GMT</pubDate>
+      <category>Evening digest</category>
+      <description>Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/">Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text</a> so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Mathematics returns with new Wu-Tang album featuring Method Man</title>
+      <link>https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml</link>
+      <guid isPermaLink="false">1dedf813-bd33-4584-994a-3f1840b3ad27</guid>
+      <pubDate>Sun, 08 Nov 2026 01:05:29 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg"/>
+      <description>Mathematics X Wu-Tang: Black Samson – The Saga Continues is out now as a 10-track album. Method Man joins AZ on “God Body.”</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" alt="Mathematics returns with new Wu-Tang album featuring Method Man"/></p>
+<p><a href="https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml">Mathematics X Wu-Tang: Black Samson – The Saga Continues</a> is out now as a 10-track album. Method Man joins AZ on “God Body.”</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ohio State lost more than a game to Oregon</title>
+      <link>https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/</link>
+      <guid isPermaLink="false">da12828c-04dc-487b-b86e-ea0abc7b45b2</guid>
+      <pubDate>Sun, 08 Nov 2026 00:31:12 GMT</pubDate>
+      <category>College football</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg"/>
+      <description>Oregon beat Ohio State 41-28 in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" alt="Ohio State lost more than a game to Oregon"/></p>
+<p><a href="https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/">Oregon beat Ohio State 41-28</a> in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Reverse game theory could keep AI agents in check</title>
+      <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</link>
+      <guid isPermaLink="false">9116684d-7eff-4ce8-9667-cf930c99a9d2</guid>
+      <pubDate>Sat, 07 Nov 2026 23:32:25 GMT</pubDate>
+      <category>Game theory</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg"/>
+      <description>On November 3, MIT Technology Review described reverse game theory as designing the rules so following them becomes the rational move for an AI agent. A preprint by MIT economist Stephen Morris proposes rewarding a model for how well its answers predict a second model&#x27;s, making deliberately underperforming on a test a losing bet.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg" alt="Reverse game theory could keep AI agents in check"/></p>
+<p>On November 3, <a href="https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/">MIT Technology Review</a> described reverse game theory as designing the rules so following them becomes the rational move for an AI agent. A preprint by MIT economist Stephen Morris proposes rewarding a model for how well its answers predict a second model&#x27;s, making deliberately underperforming on a test a losing bet.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI&#x27;s GPT-6 Cyber finds 81 Firefox flaws and 948 Linux exploits</title>
+      <link>https://www.yugatech.com/?p=456472</link>
+      <guid isPermaLink="false">e2db460c-5210-4df9-ad2a-129b3050ca12</guid>
+      <pubDate>Sat, 07 Nov 2026 23:10:57 GMT</pubDate>
+      <category>AI</category>
+      <description>GPT-6 Cyber scored 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber. OpenAI rated it Critical for cybersecurity under its Preparedness Framework, up from High for its predecessor.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.yugatech.com/?p=456472">GPT-6 Cyber</a> scored 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber. OpenAI rated it Critical for cybersecurity under its Preparedness Framework, up from High for its predecessor.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Netflix unveils first look at Stranger Things prequel set in 1955</title>
+      <link>https://www.indulgexpress.com/entertainment/ott/2026/Nov/07/netflix-unveils-first-look-at-stranger-things-prequel-set-in-1955</link>
+      <guid isPermaLink="false">f3009877-f273-4bf0-b023-647b48364574</guid>
+      <pubDate>Sat, 07 Nov 2026 21:21:24 GMT</pubDate>
+      <category>Entertainment</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg"/>
+      <description>Netflix released the first teaser for Other Worlds: A Stranger Things Adventure, a live-action prequel to Stranger Things. It leaves Hawkins behind for Marion, Nevada, in 1955, with a 2028 release window.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg" alt="Netflix unveils first look at Stranger Things prequel set in 1955"/></p>
+<p><a href="https://www.indulgexpress.com/entertainment/ott/2026/Nov/07/netflix-unveils-first-look-at-stranger-things-prequel-set-in-1955">Netflix released the first teaser</a> for Other Worlds: A Stranger Things Adventure, a live-action prequel to Stranger Things. It leaves Hawkins behind for Marion, Nevada, in 1955, with a 2028 release window.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>South Korea launches 614-petaflop Hangang supercomputer</title>
+      <link>https://quantumcomputingreport.com/south-korea-launches-614-pflops-hangang-supercomputer-ahead-of-may-2027-ionq-quantum-link/</link>
+      <guid isPermaLink="false">cd5ee58f-2b71-45e7-8179-99ea217b249a</guid>
+      <pubDate>Sat, 07 Nov 2026 20:52:25 GMT</pubDate>
+      <category>Quantum computing</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png"/>
+      <description>Hangang is 24 times more powerful than its predecessor Nurion. It is built to interface on-site with IonQ&#x27;s Tempo quantum processor by May 2027.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png" alt="South Korea launches 614-petaflop Hangang supercomputer"/></p>
+<p><a href="https://quantumcomputingreport.com/south-korea-launches-614-pflops-hangang-supercomputer-ahead-of-may-2027-ionq-quantum-link/">Hangang</a> is 24 times more powerful than its predecessor Nurion. It is built to interface on-site with IonQ&#x27;s Tempo quantum processor by May 2027.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Astronomers spot white dwarf with two rings of planetary debris</title>
+      <link>https://985theriver.com/2026/11/07/astronomers-spot-white-dwarf-star-with-two-rings-of-planetary-debris/</link>
+      <guid isPermaLink="false">ce57d7f3-2be8-42be-9fd9-c78ee10f54b4</guid>
+      <pubDate>Sat, 07 Nov 2026 19:52:04 GMT</pubDate>
+      <category>Space</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg"/>
+      <description>Astronomers spotted two distinct rings of planetary debris around the white dwarf J1328−1450, roughly 1,600 light-years away in Virgo. Two rocky bodies that survived the star&#x27;s violent death may be shaping the rings.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg" alt="Astronomers spot white dwarf with two rings of planetary debris"/></p>
+<p><a href="https://985theriver.com/2026/11/07/astronomers-spot-white-dwarf-star-with-two-rings-of-planetary-debris/">Astronomers spotted</a> two distinct rings of planetary debris around the white dwarf J1328−1450, roughly 1,600 light-years away in Virgo. Two rocky bodies that survived the star&#x27;s violent death may be shaping the rings.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
