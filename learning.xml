@@ -5,8 +5,35 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:33:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 19:01:05 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Statistics: Likelihood Ratios — Daily Learning</title>
+      <link>https://mental-models.alejandrofernandezcamello.me/bayesian-updating/04-strength-of-evidence</link>
+      <guid isPermaLink="false">8c93e5d4-6a1b-4e35-9216-ec06b3449596</guid>
+      <pubDate>Sat, 14 Nov 2026 15:28:35 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>A likelihood ratio is the probability of seeing a piece of evidence if a hypothesis is true, divided by the probability of seeing it if the hypothesis is false. A player who bets big on the river 80% of the time with the nuts but only 20% of the time when bluffing gives that bet a likelihood ratio of 4, so Bayes&#x27; rule in odds form multiplies your prior odds that they have it by four.</description>
+      <content:encoded><![CDATA[<p>A likelihood ratio is the probability of seeing a piece of evidence if a hypothesis is true, divided by the probability of seeing it if the hypothesis is false. A player who bets big on the river 80% of the time with the nuts but only 20% of the time when bluffing gives that bet a likelihood ratio of 4, so <a href="https://mental-models.alejandrofernandezcamello.me/bayesian-updating/04-strength-of-evidence">Bayes&#x27; rule in odds form</a> multiplies your prior odds that they have it by four.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Chinese Room — Daily Learning</title>
+      <link>https://plato.stanford.edu/entries/chinese-room/</link>
+      <guid isPermaLink="false">9bbf03a4-c920-4467-8410-20d393451f33</guid>
+      <pubDate>Sat, 14 Nov 2026 15:28:34 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In 1980 John Searle imagined himself locked in a room in the Chinese Room, following an English rulebook to return perfect Chinese answers without understanding a word of Chinese. If a machine can pass every test of understanding by following rules for symbols without grasping what they mean, how would we ever tell the difference?</description>
+      <content:encoded><![CDATA[<p>In 1980 John Searle imagined himself locked in a room in <a href="https://plato.stanford.edu/entries/chinese-room/">the Chinese Room</a>, following an English rulebook to return perfect Chinese answers without understanding a word of Chinese. If a machine can pass every test of understanding by following rules for symbols without grasping what they mean, how would we ever tell the difference?</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: numinous — Daily Learning</title>
+      <link>https://www.oxfordlearnersdictionaries.com/definition/english/numinous</link>
+      <guid isPermaLink="false">d16ad779-e5d9-42f4-ad7c-8ca4da2dd6b9</guid>
+      <pubDate>Sat, 14 Nov 2026 15:27:45 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Numinous (NOO-min-uhs) is an adjective describing something that evokes awe, wonder, or the presence of something sacred, mysterious, or beyond ordinary understanding. Standing among the weathered stones of an ancient ruin, she felt a numinous hush, as if something sacred were still listening.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.oxfordlearnersdictionaries.com/definition/english/numinous">Numinous</a> (NOO-min-uhs) is an adjective describing something that evokes awe, wonder, or the presence of something sacred, mysterious, or beyond ordinary understanding. Standing among the weathered stones of an ancient ruin, she felt a numinous hush, as if something sacred were still listening.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Statistics: Credible vs. Confidence Intervals — Daily Learning</title>
       <link>https://en.wikipedia.org/wiki/Credible_interval</link>
@@ -444,33 +471,6 @@
       <category>Daily Learning</category>
       <description>Two suspects are interrogated separately, each offered a deal to betray the other. Betraying brings the lightest sentence if the other stays silent and a harsh sentence if both betray, while mutual silence brings a moderate sentence for both, so self-interest pushes both to betray even though cooperating would serve them both better.</description>
       <content:encoded><![CDATA[<p>Two suspects are <a href="https://plato.stanford.edu/archIves/spr2022/entries/prisoner-dilemma/">interrogated separately</a>, each offered a deal to betray the other. Betraying brings the lightest sentence if the other stays silent and a harsh sentence if both betray, while mutual silence brings a moderate sentence for both, so self-interest pushes both to betray even though cooperating would serve them both better.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: ultracrepidarian — Daily Learning</title>
-      <link>https://dictionary.cambridge.org/us/dictionary/english/ultracrepidarian</link>
-      <guid isPermaLink="false">8560bcc1-553d-44d1-9c8c-3991dbea056a</guid>
-      <pubDate>Wed, 28 Oct 2026 14:27:06 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Ultracrepidarian (ul-truh-krep-i-DAIR-ee-un) is a noun and an adjective for someone who gives opinions or advice on a subject they know little or nothing about. At a dinner party, one might confidently explain quantum physics.</description>
-      <content:encoded><![CDATA[<p><a href="https://dictionary.cambridge.org/us/dictionary/english/ultracrepidarian">Ultracrepidarian</a> (ul-truh-krep-i-DAIR-ee-un) is a noun and an adjective for someone who gives opinions or advice on a subject they know little or nothing about. At a dinner party, one might confidently explain quantum physics.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Bootstrapping — Daily Learning</title>
-      <link>https://researchalyze.com/what-is-bootstrapping-definition-types-and-when-to-use-it/</link>
-      <guid isPermaLink="false">cfe7289a-64dd-4d60-a218-6edd1a560ede</guid>
-      <pubDate>Wed, 28 Oct 2026 14:26:40 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>The sample you have stands in for the population you cannot see, so resampling from it mimics drawing fresh samples from that population. Draw new samples of the same size with replacement, recompute the estimate each time, and read the spread of those values as how uncertain the estimate is.</description>
-      <content:encoded><![CDATA[<p>The sample you have stands in for the population you cannot see, so <a href="https://researchalyze.com/what-is-bootstrapping-definition-types-and-when-to-use-it/">resampling from it</a> mimics drawing fresh samples from that population. Draw new samples of the same size with replacement, recompute the estimate each time, and read the spread of those values as how uncertain the estimate is.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Hempel&#x27;s white shoe should confirm all ravens are black</title>
-      <link>https://www.philosophyprofessor.com/philosophers/carl-gustav-hempel/</link>
-      <guid isPermaLink="false">11570971-e57c-4995-abaa-e711c1724f3e</guid>
-      <pubDate>Tue, 27 Oct 2026 14:27:30 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In Hempel&#x27;s 1945 paradox, “all ravens are black” is equivalent to “all non-black things are non-ravens”. A white shoe therefore counts as evidence, but only barely under Bayesian thinking, because ravens are rare and non-ravens are everywhere.</description>
-      <content:encoded><![CDATA[<p>In Hempel&#x27;s 1945 paradox, “all ravens are black” is <a href="https://www.philosophyprofessor.com/philosophers/carl-gustav-hempel/">equivalent to “all non-black things are non-ravens”</a>. A white shoe therefore counts as evidence, but only barely under Bayesian thinking, because ravens are rare and non-ravens are everywhere.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
