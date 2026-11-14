@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ryan&#x27;s Daily Learning</title>
+    <link>https://github.com/rynglvr/feed-rss</link>
+    <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2026 14:33:53 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Statistics: Credible vs. Confidence Intervals — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Credible_interval</link>
+      <guid isPermaLink="false">7627183e-39df-422c-96a3-692ee3e5deab</guid>
+      <pubDate>Fri, 13 Nov 2026 15:33:40 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png"/>
+      <description>After a quarterback&#x27;s first 40 throws, a model might put his true completion rate between 58% and 68%, and as a 95% credible interval that means you are 95% sure his true rate is in there. The confidence interval from the same data can look identical on paper, yet it answers a different question: if you repeated the procedure many times, about 95% of the intervals it produced would contain the…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png" alt="Statistics: Credible vs. Confidence Intervals — Daily Learning"/></p>
+<p>After a quarterback&#x27;s first 40 throws, a model might put his true completion rate between 58% and 68%, and as a 95% <a href="https://en.wikipedia.org/wiki/Credible_interval">credible interval</a> that means you are 95% sure his true rate is in there. The confidence interval from the same data can look identical on paper, yet it answers a different question: if you repeated the procedure many times, about 95% of the intervals it produced would contain the true value.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Simulation Argument — Daily Learning</title>
+      <link>https://simulation-argument.com/simulation.html</link>
+      <guid isPermaLink="false">e21bfaed-9394-4dbb-aeb8-be4638109d77</guid>
+      <pubDate>Fri, 13 Nov 2026 15:28:30 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Nick Bostrom&#x27;s 2003 argument is that a posthuman civilization could run so many detailed simulations of conscious minds that the simulated would vastly outnumber the real. That leaves three options: humanity goes extinct before reaching that stage, posthumans almost never run such simulations, or we are almost certainly living in one.</description>
+      <content:encoded><![CDATA[<p><a href="https://simulation-argument.com/simulation.html">Nick Bostrom&#x27;s 2003 argument</a> is that a posthuman civilization could run so many detailed simulations of conscious minds that the simulated would vastly outnumber the real. That leaves three options: humanity goes extinct before reaching that stage, posthumans almost never run such simulations, or we are almost certainly living in one.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: liminal — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/liminal</link>
+      <guid isPermaLink="false">dab1c8a2-c090-4cca-8642-1fcaa910958a</guid>
+      <pubDate>Fri, 13 Nov 2026 15:27:26 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Liminal, pronounced LIM-ih-nul, is an adjective for a transitional, in-between state. That strange quiet hour between finishing a project and starting the next is a liminal one.</description>
+      <content:encoded><![CDATA[<p>Liminal, pronounced LIM-ih-nul, is an adjective for a <a href="https://www.merriam-webster.com/dictionary/liminal">transitional, in-between state</a>. That strange quiet hour between finishing a project and starting the next is a liminal one.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Gettier Problem — Daily Learning</title>
+      <link>https://plato.stanford.edu/entries/knowledge-analysis/</link>
+      <guid isPermaLink="false">ad4a43e2-09a3-4fdf-a1b8-16a40032ade6</guid>
+      <pubDate>Thu, 12 Nov 2026 15:29:21 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In June 1963, Edmund Gettier argued in a three-page paper that justified true belief is not enough for knowledge. Smith had good reason to believe the man who would get the job had ten coins in his pocket, yet he was right only because he himself got the job and had ten coins himself.</description>
+      <content:encoded><![CDATA[<p>In June 1963, Edmund Gettier argued in a three-page paper that <a href="https://plato.stanford.edu/entries/knowledge-analysis/">justified true belief</a> is not enough for knowledge. Smith had good reason to believe the man who would get the job had ten coins in his pocket, yet he was right only because he himself got the job and had ten coins himself.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anodyne: too bland to object to</title>
+      <link>https://www.merriam-webster.com/dictionary/anodyne</link>
+      <guid isPermaLink="false">29864319-5cc3-4dea-a9f0-75076f2e74b6</guid>
+      <pubDate>Thu, 12 Nov 2026 15:28:39 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Anodyne (AN-uh-dyne) is, per Merriam-Webster, not likely to offend or arouse tensions, and as a noun it is something that soothes pain. &quot;The otherwise anodyne comments sounded quite inflammatory when taken out of context&quot; shows the useful distinction: it is merely too bland to object to, not genuinely harmless.</description>
+      <content:encoded><![CDATA[<p>Anodyne (AN-uh-dyne) is, per <a href="https://www.merriam-webster.com/dictionary/anodyne">Merriam-Webster</a>, not likely to offend or arouse tensions, and as a noun it is something that soothes pain. &quot;The otherwise anodyne comments sounded quite inflammatory when taken out of context&quot; shows the useful distinction: it is merely too bland to object to, not genuinely harmless.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Publication Bias - Daily Learning</title>
+      <link>https://www.scribbr.com/research-bias/publication-bias/</link>
+      <guid isPermaLink="false">3459fc60-f395-4852-af61-190bbc2c2ea2</guid>
+      <pubDate>Thu, 12 Nov 2026 15:28:13 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Publication bias, as Scribbr defined it in October 2022, is what happens when exciting, positive results get published while null or boring ones stay unpublished in a drawer, the file-drawer problem. Imagine 20 labs test a useless betting system and, by chance, one finds a “significant” edge, and only that study gets published, so readers see a system that works.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.scribbr.com/research-bias/publication-bias/">Publication bias</a>, as Scribbr defined it in October 2022, is what happens when exciting, positive results get published while null or boring ones stay unpublished in a drawer, the file-drawer problem. Imagine 20 labs test a useless betting system and, by chance, one finds a “significant” edge, and only that study gets published, so readers see a system that works.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Kelly Criterion — Daily Learning</title>
+      <link>https://xg.football/blog/kelly-criterion-betting</link>
+      <guid isPermaLink="false">041a1744-37d9-4073-8ead-c357620a7ca0</guid>
+      <pubDate>Wed, 11 Nov 2026 15:28:59 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>The Kelly criterion sizes a bet from your edge and the odds, so a 55% chance at even money calls for 10% of your bankroll. Because that 55% is only an estimate, half-Kelly keeps about 75% of the growth while roughly halving the swings.</description>
+      <content:encoded><![CDATA[<p>The <a href="https://xg.football/blog/kelly-criterion-betting">Kelly criterion</a> sizes a bet from your edge and the odds, so a 55% chance at even money calls for 10% of your bankroll. Because that 55% is only an estimate, half-Kelly keeps about 75% of the growth while roughly halving the swings.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Grandfather Paradox — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Grandfather_paradox</link>
+      <guid isPermaLink="false">77281a27-7097-40fb-8915-2e63d3f4bb2d</guid>
+      <pubDate>Wed, 11 Nov 2026 15:28:18 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png"/>
+      <description>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a fixed timeline, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png" alt="Big Idea: The Grandfather Paradox — Daily Learning"/></p>
+<p>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a <a href="https://en.wikipedia.org/wiki/Grandfather_paradox">fixed timeline</a>, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: petrichor — Daily Learning</title>
+      <link>https://owad.de/word/petrichor</link>
+      <guid isPermaLink="false">ef18bc15-2f8a-4ee7-b672-0ba276a98a89</guid>
+      <pubDate>Wed, 11 Nov 2026 15:27:58 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>petrichor (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</description>
+      <content:encoded><![CDATA[<p><a href="https://owad.de/word/petrichor">petrichor</a> (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Ultimatum Game — Daily Learning</title>
+      <link>http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/</link>
+      <guid isPermaLink="false">d258fe43-133b-4202-8740-6c098c41efc8</guid>
+      <pubDate>Tue, 10 Nov 2026 15:30:00 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg"/>
+      <description>In a 2009 paper on experiments around the world, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg" alt="Big Idea: The Ultimatum Game — Daily Learning"/></p>
+<p>In a 2009 paper on <a href="http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/">experiments around the world</a>, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: sonder — Daily Learning</title>
+      <link>https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p</link>
+      <guid isPermaLink="false">f3cecbd1-2bb9-4000-b3ee-20b8beed48c9</guid>
+      <pubDate>Tue, 10 Nov 2026 15:28:56 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg"/>
+      <description>In Holstee&#x27;s 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg" alt="Word of the Day: sonder — Daily Learning"/></p>
+<p>In <a href="https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p">Holstee&#x27;s</a> 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware of the whole invisible life behind that windshield.”</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Prosecutor&#x27;s Fallacy — Daily Learning</title>
+      <link>https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</link>
+      <guid isPermaLink="false">a3327685-4622-4398-b366-7572b7105535</guid>
+      <pubDate>Tue, 10 Nov 2026 15:28:33 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>The prosecutor&#x27;s fallacy is confusing the chance of seeing this evidence if someone were innocent with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</description>
+      <content:encoded><![CDATA[<p>The prosecutor&#x27;s fallacy is <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy">confusing the chance of seeing this evidence if someone were innocent</a> with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Münchhausen Trilemma — Daily Learning</title>
+      <link>https://the-philosophers-shirt.com/blogs/philosophical-dictionary/munchhausen-trilemma-explained-knowledge-justification-philosophy</link>
+      <guid isPermaLink="false">232c8896-ea62-4320-9e55-af7d7424f8c8</guid>
+      <pubDate>Mon, 09 Nov 2026 15:29:42 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/232c8896-ea62-4320-9e55-af7d7424f8c8.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/232c8896-ea62-4320-9e55-af7d7424f8c8.jpg"/>
+      <description>The Münchhausen Trilemma says every attempt to justify a belief ends in an infinite regress of reasons, a circle in which the conclusion supports itself, or an arbitrary stopping point where you declare something true without proof. The honest move is to name your starting points, your priors, and let evidence move them when they fail.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/232c8896-ea62-4320-9e55-af7d7424f8c8.jpg" alt="Big Idea: The Münchhausen Trilemma — Daily Learning"/></p>
+<p>The <a href="https://the-philosophers-shirt.com/blogs/philosophical-dictionary/munchhausen-trilemma-explained-knowledge-justification-philosophy">Münchhausen Trilemma</a> says every attempt to justify a belief ends in an infinite regress of reasons, a circle in which the conclusion supports itself, or an arbitrary stopping point where you declare something true without proof. The honest move is to name your starting points, your priors, and let evidence move them when they fail.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Law of Large Numbers — Daily Learning</title>
+      <link>https://www.mathwords.com/l/law_of_large_numbers.htm</link>
+      <guid isPermaLink="false">cd6b4a42-2af9-4f51-aab2-424c4653b3f3</guid>
+      <pubDate>Mon, 09 Nov 2026 15:28:56 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>The more times you repeat something, the closer your observed average drifts toward its true long-run average. A bettor with a true 55% win rate might win only 4 of their first 10 bets, yet over 1,000 bets that rate tends to sit close to 55%, which is why casinos and sharp bettors trust volume over single outcomes.</description>
+      <content:encoded><![CDATA[<p>The more times you repeat something, the closer your <a href="https://www.mathwords.com/l/law_of_large_numbers.htm">observed average drifts toward its true long-run average</a>. A bettor with a true 55% win rate might win only 4 of their first 10 bets, yet over 1,000 bets that rate tends to sit close to 55%, which is why casinos and sharp bettors trust volume over single outcomes.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: antediluvian — Daily Learning</title>
+      <link>https://www.dictionary.com/browse/antediluvian</link>
+      <guid isPermaLink="false">781190d2-0c2e-4f52-b44e-c02747cbfc2c</guid>
+      <pubDate>Mon, 09 Nov 2026 15:28:01 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Antediluvian (an-tee-di-LOO-vee-un) is an adjective meaning absurdly old-fashioned, literally from before the Flood. My office still runs on a fax machine and a filing cabinet full of printed emails, an antediluvian setup in a paperless world.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.dictionary.com/browse/antediluvian">Antediluvian</a> (an-tee-di-LOO-vee-un) is an adjective meaning absurdly old-fashioned, literally from before the Flood. My office still runs on a fax machine and a filing cabinet full of printed emails, an antediluvian setup in a paperless world.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Twin Earth Thought Experiment — Daily Learning</title>
+      <link>https://openlearninglibrary.mit.edu/assets/courseware/v1/a96487011e62ca26f1685f7a5f0565b9/asset-v1:MITx%2B24.09x%2B3T2019%2Btype%40asset%2Bblock/16_putnam_meaning_of__meaning_.pdf</link>
+      <guid isPermaLink="false">7ba203ba-b8d3-4e90-b51d-0a84771e2780</guid>
+      <pubDate>Sun, 08 Nov 2026 15:27:56 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In Hilary Putnam&#x27;s 1975 paper, imagine a planet exactly like Earth, where the clear liquid everyone calls “water” is not H2O but a different chemical, XYZ, and where you and your Twin Earth double are molecule-for-molecule identical inside, with the same thoughts about “water” in your heads before anyone knew the chemistry in 1750. Putnam argued you still are not referring to the same thing,…</description>
+      <content:encoded><![CDATA[<p>In <a href="https://openlearninglibrary.mit.edu/assets/courseware/v1/a96487011e62ca26f1685f7a5f0565b9/asset-v1:MITx%2B24.09x%2B3T2019%2Btype%40asset%2Bblock/16_putnam_meaning_of__meaning_.pdf">Hilary Putnam&#x27;s 1975 paper</a>, imagine a planet exactly like Earth, where the clear liquid everyone calls “water” is not H2O but a different chemical, XYZ, and where you and your Twin Earth double are molecule-for-molecule identical inside, with the same thoughts about “water” in your heads before anyone knew the chemistry in 1750. Putnam argued you still are not referring to the same thing, because your “water” picks out H2O and theirs picks out XYZ, so meaning is not just in the head, and that raises whether a mind, or a machine trained only on text, could ever mean what we mean.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: ineffable — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/ineffable?pronunciation&amp;lang=en_us&amp;dir=i&amp;file=ineffa02</link>
+      <guid isPermaLink="false">03d8f18d-186b-4e9f-904b-be001d6e974b</guid>
+      <pubDate>Sun, 08 Nov 2026 15:26:31 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Ineffable, pronounced in-EFF-uh-bul, is an adjective for what is too great, intense, or sacred to be expressed in words. The last song of the set left the room in an ineffable hush, and nobody tried to describe it on the way home.</description>
+      <content:encoded><![CDATA[<p>Ineffable, pronounced in-EFF-uh-bul, is an adjective for what is <a href="https://www.merriam-webster.com/dictionary/ineffable?pronunciation&amp;lang=en_us&amp;dir=i&amp;file=ineffa02">too great, intense, or sacred to be expressed in words</a>. The last song of the set left the room in an ineffable hush, and nobody tried to describe it on the way home.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: zugzwang — Daily Learning</title>
+      <link>http://www.dictionary.com/browse/zugzwang</link>
+      <guid isPermaLink="false">c7594713-ac4f-4e2f-a926-d1fddaf8fe74</guid>
+      <pubDate>Sat, 07 Nov 2026 15:26:56 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Zugzwang (TSOOK-tsvahng) is a noun from German Zug, move, and Zwang, compulsion, naming a chess position where you must move but every legal move worsens your position. In the negotiation, she was in zugzwang: conceding on price would cost her margin, walking away would cost her the client, and stalling would cost her trust.</description>
+      <content:encoded><![CDATA[<p><a href="http://www.dictionary.com/browse/zugzwang">Zugzwang</a> (TSOOK-tsvahng) is a noun from German Zug, move, and Zwang, compulsion, naming a chess position where you must move but every legal move worsens your position. In the negotiation, she was in zugzwang: conceding on price would cost her margin, walking away would cost her the client, and stalling would cost her trust.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Monty Hall Problem — Daily Learning</title>
+      <link>http://allendowney.github.io/ThinkBayes2/chap02.html</link>
+      <guid isPermaLink="false">113fc2e0-8412-4ab6-af2d-70ae2251ace9</guid>
+      <pubDate>Sat, 07 Nov 2026 15:26:35 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>When the host, who knows where the car is, opens a door to reveal a goat, switching doubles your chance of winning from 1/3 to 2/3. Your first pick was probably wrong, so that 2/3 now rests on the one door still closed.</description>
+      <content:encoded><![CDATA[<p>When the host, who knows where the car is, opens a door to reveal a goat, <a href="http://allendowney.github.io/ThinkBayes2/chap02.html">switching doubles your chance of winning</a> from 1/3 to 2/3. Your first pick was probably wrong, so that 2/3 now rests on the one door still closed.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Benford&#x27;s Law — Daily Learning</title>
+      <link>https://www.mathsisfun.com/numbers/benfords-law.html</link>
+      <guid isPermaLink="false">8f8ed0d8-d9d4-4ec5-b5a1-e89443f72f80</guid>
+      <pubDate>Fri, 06 Nov 2026 15:30:01 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In many real-world datasets, 1 is the leading digit about 30% of the time and 9 only about 5%, far from the roughly 11% each you would expect if digits were random. That uneven falloff is a tripwire for made-up numbers.</description>
+      <content:encoded><![CDATA[<p>In many real-world datasets, <a href="https://www.mathsisfun.com/numbers/benfords-law.html">1 is the leading digit about 30% of the time and 9 only about 5%</a>, far from the roughly 11% each you would expect if digits were random. That uneven falloff is a tripwire for made-up numbers.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Sleeping Beauty Problem — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Sleeping_Beauty_problem</link>
+      <guid isPermaLink="false">bd5d0c69-8718-49cd-83d5-c6a99ec9142e</guid>
+      <pubDate>Fri, 06 Nov 2026 15:28:19 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>On Sunday Beauty is put to sleep, and a fair coin decides whether she wakes on Monday only or on Monday and Tuesday with her memory erased, so she never knows which day it is or whether she has woken before. The Sleeping Beauty problem still splits Bayesians between 1/2 and 1/3, over what counts as evidence when you are the one being sampled.</description>
+      <content:encoded><![CDATA[<p>On Sunday Beauty is put to sleep, and a fair coin decides whether she wakes on Monday only or on Monday and Tuesday with her memory erased, so she never knows which day it is or whether she has woken before. The <a href="https://en.wikipedia.org/wiki/Sleeping_Beauty_problem">Sleeping Beauty problem</a> still splits Bayesians between 1/2 and 1/3, over what counts as evidence when you are the one being sampled.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: aporia — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Aporia</link>
+      <guid isPermaLink="false">bdc43f7c-41cd-4448-92f8-415a62bb6b5e</guid>
+      <pubDate>Fri, 06 Nov 2026 15:27:44 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Aporia (uh-POR-ee-uh) is a noun from Greek a-poros, literally “no way through,” for the genuine puzzlement when two equally strong arguments collide and force you to rethink the question itself. “After an hour of debate, the team hit an aporia: every fix for the bug introduced a worse one, and nobody could say which trade-off was right.”</description>
+      <content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Aporia">Aporia</a> (uh-POR-ee-uh) is a noun from Greek a-poros, literally “no way through,” for the genuine puzzlement when two equally strong arguments collide and force you to rethink the question itself. “After an hour of debate, the team hit an aporia: every fix for the bug introduced a worse one, and nobody could say which trade-off was right.”</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Overfitting and the Bias–Variance Tradeoff — Daily Learning</title>
+      <link>https://telnyx.com/learn-ai/bias-variance-tradeoff</link>
+      <guid isPermaLink="false">5512966d-e021-4066-8b7f-d82f34747151</guid>
+      <pubDate>Thu, 05 Nov 2026 15:28:23 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Say a betting model tuned to every quirk of the last 100 games looks unbeatable on those games, yet predicts the next 20 worse than a simpler model. That gap is the bias–variance tradeoff, the balance between a model too stiff to catch real patterns and one too jumpy to ignore noise, judged on unseen data rather than zero error on the past.</description>
+      <content:encoded><![CDATA[<p>Say a betting model tuned to every quirk of the last 100 games looks unbeatable on those games, yet predicts the next 20 worse than a simpler model. That gap is the <a href="https://telnyx.com/learn-ai/bias-variance-tradeoff">bias–variance tradeoff</a>, the balance between a model too stiff to catch real patterns and one too jumpy to ignore noise, judged on unseen data rather than zero error on the past.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: Braess&#x27;s Paradox — Daily Learning</title>
+      <link>https://www.cs.cornell.edu/~rafael/networks-html/chapter7.html</link>
+      <guid isPermaLink="false">614ab415-531a-46c7-b469-bfdd2b20e06d</guid>
+      <pubDate>Thu, 05 Nov 2026 15:27:24 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Adding a road can make everyone&#x27;s trip slower, because each driver picks the route that looks fastest for them alone. In the traffic-network example, a zero-time connector pulls everyone onto one route, and the trip becomes 80 minutes for everyone.</description>
+      <content:encoded><![CDATA[<p>Adding a road can make everyone&#x27;s trip slower, because each driver picks the route that looks fastest for them alone. In the <a href="https://www.cs.cornell.edu/~rafael/networks-html/chapter7.html">traffic-network example</a>, a zero-time connector pulls everyone onto one route, and the trip becomes 80 minutes for everyone.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: perspicacious - Daily Learning</title>
+      <link>https://www.merriam-webster.com/thesaurus/perspicacious</link>
+      <guid isPermaLink="false">cb8b4f3b-5c14-4942-81d6-8effc1d92c32</guid>
+      <pubDate>Thu, 05 Nov 2026 15:27:08 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Perspicacious (per-spih-KAY-shus) is an adjective meaning having keen insight and understanding, able to notice and understand things that others miss, especially in judging people or situations. “She considers herself a perspicacious judge of character.”</description>
+      <content:encoded><![CDATA[<p><a href="https://www.merriam-webster.com/thesaurus/perspicacious">Perspicacious</a> (per-spih-KAY-shus) is an adjective meaning having keen insight and understanding, able to notice and understand things that others miss, especially in judging people or situations. “She considers herself a perspicacious judge of character.”</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Central Limit Theorem — Daily Learning</title>
+      <link>https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_2e_(OpenStax</link>
+      <guid isPermaLink="false">279a557a-f762-4773-8fbe-f7fa3e34559c</guid>
+      <pubDate>Wed, 04 Nov 2026 15:28:48 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>No matter how weird or skewed the underlying data looks, the average of many independent samples tends to settle into a bell-shaped pattern/07%3ATheCentralLimitTheorem/7.02%3ATheCentralLimitTheoremforSampleMeans(Averages)) around the true mean. A single die roll is flat, but the average of 100 rolls lands near 3.5.</description>
+      <content:encoded><![CDATA[<p>No matter how weird or skewed the underlying data looks, the average of many independent samples tends to settle into a <a href="https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_2e_(OpenStax">bell-shaped pattern</a>/07%3A_The_Central_Limit_Theorem/7.02%3A_The_Central_Limit_Theorem_for_Sample_Means_(Averages)) around the true mean. A single die roll is flat, but the average of 100 rolls lands near 3.5.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Hard Problem of Consciousness — Daily Learning</title>
+      <link>https://www.taskade.com/wiki/cognitive-science/hard-problem-consciousness</link>
+      <guid isPermaLink="false">5439cf2f-7627-422f-beac-34947e095514</guid>
+      <pubDate>Wed, 04 Nov 2026 15:27:27 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In 1995, philosopher David Chalmers asked why brain processing should feel like anything from the inside. A perfect physical replica that behaved identically would still leave open whether it actually experiences anything.</description>
+      <content:encoded><![CDATA[<p>In 1995, philosopher <a href="https://www.taskade.com/wiki/cognitive-science/hard-problem-consciousness">David Chalmers</a> asked why brain processing should feel like anything from the inside. A <a href="http://cogsci.uwaterloo.ca/courses/Phil255/Phil255.week8.html">perfect physical replica</a> that behaved identically would still leave open whether it actually experiences anything.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: doxastic — Daily Learning</title>
+      <link>https://www.collinsdictionary.com/dictionary/english/doxastic</link>
+      <guid isPermaLink="false">a46e9323-a1b9-4101-b5f3-ca86f0f45e7a</guid>
+      <pubDate>Wed, 04 Nov 2026 15:27:25 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>doxastic (dok-SAS-tik) is an adjective relating to belief, opinion, or what someone holds to be true, rather than what evidence has settled. “I believe the market will rebound” is a doxastic claim about a belief awaiting evidence.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.collinsdictionary.com/dictionary/english/doxastic">doxastic</a> (dok-SAS-tik) is an adjective relating to belief, opinion, or what someone holds to be true, rather than what evidence has settled. “I believe the market will rebound” is a doxastic claim about a belief awaiting evidence.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Trolley Problem — Daily Learning</title>
+      <link>https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Philosophy/Introduction_to_Philosophy_Reader_(Levin_et_al</link>
+      <guid isPermaLink="false">56ce2b07-c18c-4865-a5d9-a7c5680b33e8</guid>
+      <pubDate>Tue, 03 Nov 2026 15:26:59 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Pulling a lever would divert a runaway trolley/01%3AKnowledgeandSkepticism/1.02%3AALessoninThinking-TheTrolleyProblem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</description>
+      <content:encoded><![CDATA[<p>Pulling a lever would divert a <a href="https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Philosophy/Introduction_to_Philosophy_Reader_(Levin_et_al.">runaway trolley</a>/01%3A_Knowledge_and_Skepticism/1.02%3A_A_Lesson_in_Thinking_-_The_Trolley_Problem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Shrinkage — Daily Learning</title>
+      <link>http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/</link>
+      <guid isPermaLink="false">3fded769-7aa5-44a9-8f60-6e887baafacb</guid>
+      <pubDate>Tue, 03 Nov 2026 15:26:34 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the James–Stein…</description>
+      <content:encoded><![CDATA[<p>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the <a href="http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/">James–Stein idea</a>, a deliberately biased guess that usually lands closer to the truth over a full season.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: quotidian - Daily Learning</title>
+      <link>https://www.dictionary.com/browse/quotidian</link>
+      <guid isPermaLink="false">f3933d51-4a20-4f9c-8d03-b6b7ec64a320</guid>
+      <pubDate>Tue, 03 Nov 2026 15:25:53 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>quotidian (kwoh-TID-ee-un) is an adjective meaning ordinary, everyday, commonplace. In an otherwise quotidian morning, the light across the kitchen table was quietly remarkable.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.dictionary.com/browse/quotidian">quotidian</a> (kwoh-TID-ee-un) is an adjective meaning ordinary, everyday, commonplace. In an otherwise quotidian morning, the light across the kitchen table was quietly remarkable.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Mandela Effect — Daily Learning</title>
+      <link>https://www.britannica.com/print/article/2232987</link>
+      <guid isPermaLink="false">9d3f8c28-d14b-44d2-8de3-065784f91c2b</guid>
+      <pubDate>Mon, 02 Nov 2026 15:27:10 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Large groups of people share the same false memory, down to the same wrong detail. That happens because recall rebuilds a memory instead of replaying it, filling gaps with whatever feels familiar.</description>
+      <content:encoded><![CDATA[<p>Large groups of people share <a href="https://www.britannica.com/print/article/2232987">the same false memory</a>, down to the same wrong detail. That happens because recall rebuilds a memory instead of replaying it, filling gaps with whatever feels familiar.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Conjugate Priors — Daily Learning</title>
+      <link>https://textbook.prob140.org/notebooks-md/21_01_Updating_and_Prediction.html</link>
+      <guid isPermaLink="false">ab671566-59c3-4803-b6cf-15f06fb7a2b8</guid>
+      <pubDate>Mon, 02 Nov 2026 15:26:23 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>A conjugate prior is chosen so that, after new data arrive, the posterior stays in the same family as the prior, turning updating into simple arithmetic instead of messy integration. Start with a Beta(2, 2) prior for a coin&#x27;s heads probability, roughly as if you had already seen about 2 heads and 2 tails worth of evidence, then observe 7 heads and 3 tails and just add the counts to get Beta(9,…</description>
+      <content:encoded><![CDATA[<p>A <a href="https://textbook.prob140.org/notebooks-md/21_01_Updating_and_Prediction.html">conjugate prior</a> is chosen so that, after new data arrive, the posterior stays in the same family as the prior, turning updating into simple arithmetic instead of messy integration. Start with a Beta(2, 2) prior for a coin&#x27;s heads probability, roughly as if you had already seen about 2 heads and 2 tails worth of evidence, then observe 7 heads and 3 tails and just add the counts to get Beta(9, 5), a result that can become the next prior for a win-rate or conversion-rate estimate in sports betting or A/B testing.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: velleity — Daily Learning</title>
+      <link>http://www.worldwidewords.org/backissues/ww-vel3.html</link>
+      <guid isPermaLink="false">0297eced-5c01-4896-91a1-891136f03e12</guid>
+      <pubDate>Mon, 02 Nov 2026 15:26:04 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Velleity (vel-ee-IT-ee) is a noun for a wish too weak to lead to action. She had a velleity to start a side project, but month after month passed without her ever opening a blank document.</description>
+      <content:encoded><![CDATA[<p>Velleity (vel-ee-IT-ee) is a noun for <a href="http://www.worldwidewords.org/backissues/ww-vel3.html">a wish too weak to lead to action</a>. She had a velleity to start a side project, but month after month passed without her ever opening a blank document.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Cross-validation — Daily Learning</title>
+      <link>https://codelabsacademy.com/en/blog/cross-validation-techniques-ml-models-2026/</link>
+      <guid isPermaLink="false">5af3ecda-fab4-4caf-a466-5b2dd19c3760</guid>
+      <pubDate>Sun, 01 Nov 2026 15:26:39 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Cross-validation is the habit of testing a model on data it has not seen before it earns trust. Five groups, four for training and one held out in turn, expose overfitting before real money or real decisions are on the line.</description>
+      <content:encoded><![CDATA[<p><a href="https://codelabsacademy.com/en/blog/cross-validation-techniques-ml-models-2026/">Cross-validation</a> is the habit of testing a model on data it has not seen before it earns trust. Five groups, four for training and one held out in turn, expose overfitting before real money or real decisions are on the line.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Experience Machine — Daily Learning</title>
+      <link>https://philosophybreak.com/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in</link>
+      <guid isPermaLink="false">38cf827a-ab7c-4589-a069-2c473c0fe31c</guid>
+      <pubDate>Sun, 01 Nov 2026 15:26:21 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In 1974, Robert Nozick imagined a machine that could give you any experience you desired, while you floated in a tank with electrodes attached to your brain and never knew you were there. He thought most people would refuse it, because we want to actually do things and stay in contact with reality.</description>
+      <content:encoded><![CDATA[<p>In 1974, Robert Nozick imagined <a href="https://philosophybreak.com/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in">a machine that could give you any experience you desired</a>, while you floated in a tank with electrodes attached to your brain and never knew you were there. He thought most people would refuse it, because we want to actually do things and stay in contact with reality.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: ineluctable — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/ineluctable</link>
+      <guid isPermaLink="false">b00801b0-4290-4d3e-825b-7a670d26e6c9</guid>
+      <pubDate>Sun, 01 Nov 2026 15:25:54 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Ineluctable (in-ih-LUK-tuh-buhl) is an adjective meaning impossible to avoid or escape. “Once the data leaked, the ineluctable conclusion was that the model had memorized part of its training set.”</description>
+      <content:encoded><![CDATA[<p><a href="https://www.merriam-webster.com/dictionary/ineluctable">Ineluctable</a> (in-ih-LUK-tuh-buhl) is an adjective meaning impossible to avoid or escape. “Once the data leaked, the ineluctable conclusion was that the model had memorized part of its training set.”</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Statistical Power — Daily Learning</title>
+      <link>https://www.statology.org/why-understanding-statistical-power-is-crucial-for-researchers/</link>
+      <guid isPermaLink="false">eaf85081-1a00-4707-a537-46fd7f6a56ab</guid>
+      <pubDate>Sat, 31 Oct 2026 14:27:50 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Statistical power is the chance a test actually catches a real effect when one is there. A genuine betting edge takes around 1,600 bets before its typical range stops including zero.</description>
+      <content:encoded><![CDATA[<p>Statistical power is the chance a test actually <a href="https://www.statology.org/why-understanding-statistical-power-is-crucial-for-researchers/">catches a real effect</a> when one is there. A <a href="https://betamigos.io/blog/variance-sample-size-how-many-bets">genuine betting edge</a> takes around 1,600 bets before its typical range stops including zero.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Anthropic Principle — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Anthropic_principle</link>
+      <guid isPermaLink="false">3d8c076b-aa25-4156-a04f-ec5b5de1f2b4</guid>
+      <pubDate>Sat, 31 Oct 2026 14:27:08 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Only a universe that lets observers exist can ever be observed, so one that looks finely tuned for life is less surprising than it first seems. If a vast ensemble of universes varies its parameters, most of them uninhabited and unobserved, we would naturally find ourselves in one of the exceptional ones.</description>
+      <content:encoded><![CDATA[<p>Only a <a href="https://en.wikipedia.org/wiki/Anthropic_principle">universe that lets observers exist</a> can ever be observed, so one that looks finely tuned for life is less surprising than it first seems. If a vast ensemble of universes varies its parameters, most of them uninhabited and unobserved, we would naturally find ourselves in one of the exceptional ones.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: consilience — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Consilience</link>
+      <guid isPermaLink="false">5f0698a1-ad8d-4318-9af2-de9fe8990362</guid>
+      <pubDate>Sat, 31 Oct 2026 14:26:42 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Consilience (kon-SIL-ee-ence) is a noun for the unity of knowledge, when independent lines of evidence from different fields converge on the same conclusion and make it much stronger than any one line alone. That consilience shows in fossils, genetics, and geology all pointing to the same story of evolution.</description>
+      <content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Consilience">Consilience</a> (kon-SIL-ee-ence) is a noun for the unity of knowledge, when independent lines of evidence from different fields converge on the same conclusion and make it much stronger than any one line alone. That consilience shows in fossils, genetics, and geology all pointing to the same story of evolution.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The St. Petersburg Paradox — Daily Learning</title>
+      <link>https://sites.pitt.edu/~jdnorton/teaching/paradox/paradox_fall_2021/chapters/probability_for_decision/probability_for_decision.html</link>
+      <guid isPermaLink="false">c0e0f84c-624e-47d9-929e-fa9cff7ef630</guid>
+      <pubDate>Fri, 30 Oct 2026 14:28:47 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Flip a fair coin until heads appears, and the payout doubles with every toss you wait. Yet almost no one would pay much to play a game whose expected value is infinite.</description>
+      <content:encoded><![CDATA[<p>Flip a <a href="https://sites.pitt.edu/~jdnorton/teaching/paradox/paradox_fall_2021/chapters/probability_for_decision/probability_for_decision.html">fair coin</a> until heads appears, and the payout doubles with every toss you wait. Yet almost no one would pay much to play a game whose expected value is infinite.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Collider Bias — Daily Learning</title>
+      <link>https://catalogofbias.org/biases/collider-bias/?fbclid=IwAR3EivaDMa3XcPPLPloKbSJwWnw5TURR8SsjccaDfHyY6Ct730gvfKGuWkM</link>
+      <guid isPermaLink="false">b6e75ac6-8db8-44d2-9ecf-bf14e0afd302</guid>
+      <pubDate>Fri, 30 Oct 2026 14:27:37 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>A collider is something two separate things can both cause, like admission to a hospital. Among hospital patients, two unrelated conditions can look negatively related, because admission required having at least one of them.</description>
+      <content:encoded><![CDATA[<p>A <a href="https://catalogofbias.org/biases/collider-bias/?fbclid=IwAR3EivaDMa3XcPPLPloKbSJwWnw5TURR8SsjccaDfHyY6Ct730gvfKGuWkM">collider</a> is something two separate things can both cause, like admission to a hospital. Among hospital patients, two unrelated conditions can look negatively related, because admission required having at least one of them.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: antediluvian — Daily Learning</title>
+      <link>https://en.wiktionary.org/wiki/antediluvian</link>
+      <guid isPermaLink="false">d9006e75-9d81-4b19-9384-86c77fc0856a</guid>
+      <pubDate>Fri, 30 Oct 2026 14:27:00 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>antediluvian (an-tee-dih-LOO-vee-un) is an adjective meaning, literally, from before the Flood in the biblical story and, figuratively, absurdly old-fashioned or out of date. That clunky old printer in the corner is practically antediluvian.</description>
+      <content:encoded><![CDATA[<p><a href="https://en.wiktionary.org/wiki/antediluvian">antediluvian</a> (an-tee-dih-LOO-vee-un) is an adjective meaning, literally, from before the Flood in the biblical story and, figuratively, absurdly old-fashioned or out of date. That clunky old printer in the corner is practically antediluvian.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Winner&#x27;s Curse — Daily Learning</title>
+      <link>https://www.investopedia.com/terms/w/winnerscurse.asp</link>
+      <guid isPermaLink="false">7f8b656a-b305-489c-96ee-2817565184da</guid>
+      <pubDate>Thu, 29 Oct 2026 14:29:03 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Winning an auction can be bad news: when everyone is guessing at one true value, the winner is usually the bidder whose guess ran highest. So shade your estimate back toward the average, and treat winning as a reason to be suspicious.</description>
+      <content:encoded><![CDATA[<p>Winning an auction can be bad news: when everyone is guessing at one true value, <a href="https://www.investopedia.com/terms/w/winnerscurse.asp">the winner is usually the bidder whose guess ran highest</a>. So shade your estimate back toward the average, and treat winning as a reason to be suspicious.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: Laplace&#x27;s Demon — Daily Learning</title>
+      <link>https://www.scienceabc.com/pure-sciences/what-is-laplaces-demon-definition-explanation</link>
+      <guid isPermaLink="false">b2685e93-f62f-4e0b-a603-0a9803c58f04</guid>
+      <pubDate>Thu, 29 Oct 2026 14:28:22 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In 1814, Pierre-Simon Laplace imagined an intellect that knew the exact position and momentum of every particle in the universe, plus all the laws of nature, and could calculate the entire past and the entire future from that single instant. Heisenberg&#x27;s uncertainty principle breaks that fantasy, because a particle&#x27;s position and momentum cannot both be known exactly, as a 2021 explainer puts it.</description>
+      <content:encoded><![CDATA[<p>In 1814, <a href="https://www.scienceabc.com/pure-sciences/what-is-laplaces-demon-definition-explanation">Pierre-Simon Laplace</a> imagined an intellect that knew the exact position and momentum of every particle in the universe, plus all the laws of nature, and could calculate the entire past and the entire future from that single instant. Heisenberg&#x27;s uncertainty principle breaks that fantasy, because a particle&#x27;s position and momentum cannot both be known exactly, as a 2021 explainer puts it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: quiddity — Daily Learning</title>
+      <link>https://www.vocabulary.com/dictionary/quiddity</link>
+      <guid isPermaLink="false">a5af0656-bed5-498c-9803-b8fad10baf46</guid>
+      <pubDate>Thu, 29 Oct 2026 14:27:34 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Quiddity (KWID-i-tee) is a noun for the essential nature of a thing, the “what-it-is-ness” that makes it what it is rather than something else. Strip away the branding and the hype, and the quiddity of a good poker game is still the same: incomplete information, disciplined decisions, and nerve.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.vocabulary.com/dictionary/quiddity">Quiddity</a> (KWID-i-tee) is a noun for the essential nature of a thing, the “what-it-is-ness” that makes it what it is rather than something else. Strip away the branding and the hype, and the quiddity of a good poker game is still the same: incomplete information, disciplined decisions, and nerve.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Prisoner&#x27;s Dilemma — Daily Learning</title>
+      <link>https://plato.stanford.edu/archIves/spr2022/entries/prisoner-dilemma/</link>
+      <guid isPermaLink="false">9aa96e44-9d11-42e0-bee4-fa251045496c</guid>
+      <pubDate>Wed, 28 Oct 2026 14:27:09 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Two suspects are interrogated separately, each offered a deal to betray the other. Betraying brings the lightest sentence if the other stays silent and a harsh sentence if both betray, while mutual silence brings a moderate sentence for both, so self-interest pushes both to betray even though cooperating would serve them both better.</description>
+      <content:encoded><![CDATA[<p>Two suspects are <a href="https://plato.stanford.edu/archIves/spr2022/entries/prisoner-dilemma/">interrogated separately</a>, each offered a deal to betray the other. Betraying brings the lightest sentence if the other stays silent and a harsh sentence if both betray, while mutual silence brings a moderate sentence for both, so self-interest pushes both to betray even though cooperating would serve them both better.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: ultracrepidarian — Daily Learning</title>
+      <link>https://dictionary.cambridge.org/us/dictionary/english/ultracrepidarian</link>
+      <guid isPermaLink="false">8560bcc1-553d-44d1-9c8c-3991dbea056a</guid>
+      <pubDate>Wed, 28 Oct 2026 14:27:06 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Ultracrepidarian (ul-truh-krep-i-DAIR-ee-un) is a noun and an adjective for someone who gives opinions or advice on a subject they know little or nothing about. At a dinner party, one might confidently explain quantum physics.</description>
+      <content:encoded><![CDATA[<p><a href="https://dictionary.cambridge.org/us/dictionary/english/ultracrepidarian">Ultracrepidarian</a> (ul-truh-krep-i-DAIR-ee-un) is a noun and an adjective for someone who gives opinions or advice on a subject they know little or nothing about. At a dinner party, one might confidently explain quantum physics.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Bootstrapping — Daily Learning</title>
+      <link>https://researchalyze.com/what-is-bootstrapping-definition-types-and-when-to-use-it/</link>
+      <guid isPermaLink="false">cfe7289a-64dd-4d60-a218-6edd1a560ede</guid>
+      <pubDate>Wed, 28 Oct 2026 14:26:40 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>The sample you have stands in for the population you cannot see, so resampling from it mimics drawing fresh samples from that population. Draw new samples of the same size with replacement, recompute the estimate each time, and read the spread of those values as how uncertain the estimate is.</description>
+      <content:encoded><![CDATA[<p>The sample you have stands in for the population you cannot see, so <a href="https://researchalyze.com/what-is-bootstrapping-definition-types-and-when-to-use-it/">resampling from it</a> mimics drawing fresh samples from that population. Draw new samples of the same size with replacement, recompute the estimate each time, and read the spread of those values as how uncertain the estimate is.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Hempel&#x27;s white shoe should confirm all ravens are black</title>
+      <link>https://www.philosophyprofessor.com/philosophers/carl-gustav-hempel/</link>
+      <guid isPermaLink="false">11570971-e57c-4995-abaa-e711c1724f3e</guid>
+      <pubDate>Tue, 27 Oct 2026 14:27:30 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In Hempel&#x27;s 1945 paradox, “all ravens are black” is equivalent to “all non-black things are non-ravens”. A white shoe therefore counts as evidence, but only barely under Bayesian thinking, because ravens are rare and non-ravens are everywhere.</description>
+      <content:encoded><![CDATA[<p>In Hempel&#x27;s 1945 paradox, “all ravens are black” is <a href="https://www.philosophyprofessor.com/philosophers/carl-gustav-hempel/">equivalent to “all non-black things are non-ravens”</a>. A white shoe therefore counts as evidence, but only barely under Bayesian thinking, because ravens are rare and non-ravens are everywhere.</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
