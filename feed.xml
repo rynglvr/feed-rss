@@ -5,8 +5,89 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:28:51 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Magic&#x27;s first underwater plane takes shape</title>
+      <link>https://www.polygon.com/mtg-nauctis-the-sunken-realm-magiccon-reveals-spoilers/</link>
+      <guid isPermaLink="false">c60c9257-da0f-4e0a-9c55-3fcd466b15cd</guid>
+      <pubDate>Sat, 14 Nov 2026 02:27:44 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>At Friday&#x27;s preview panel at MagicCon: Atlanta, Wizards of the Coast revealed 19 cards from Nauctis: The Sunken Realm. Its headliner is Abyssal Lotus, a 0-cost artifact that exiles itself to add three mana of any one color once eight or more permanents are in your graveyard.</description>
+      <content:encoded><![CDATA[<p>At Friday&#x27;s preview panel at MagicCon: Atlanta, Wizards of the Coast <a href="https://www.polygon.com/mtg-nauctis-the-sunken-realm-magiccon-reveals-spoilers/">revealed 19 cards from Nauctis: The Sunken Realm</a>. Its headliner is Abyssal Lotus, a 0-cost artifact that exiles itself to add three mana of any one color once eight or more permanents are in your graveyard.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>S&amp;P and Nasdaq end lower as Nvidia uncertainty weighs on tech</title>
+      <link>https://srnnews.com/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge/</link>
+      <guid isPermaLink="false">b895528f-02bf-4837-8fcc-a09a51f7671f</guid>
+      <pubDate>Fri, 13 Nov 2026 22:37:08 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b895528f-02bf-4837-8fcc-a09a51f7671f.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b895528f-02bf-4837-8fcc-a09a51f7671f.jpg"/>
+      <description>Nvidia recorded its sixth straight week of declines, its longest streak since October 2012. The selling spread across chipmakers, with AMD and Broadcom the biggest drags on the semiconductor index.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b895528f-02bf-4837-8fcc-a09a51f7671f.jpg" alt="S&amp;P and Nasdaq end lower as Nvidia uncertainty weighs on tech"/></p>
+<p>Nvidia recorded its sixth straight week of declines, its longest streak since October 2012. The <a href="https://srnnews.com/nasdaq-futures-dip-as-nvidia-tumult-keeps-investors-on-edge/">selling spread across chipmakers</a>, with AMD and Broadcom the biggest drags on the semiconductor index.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Magic&#x27;s Planeswalker series gets its first trailer, for 2027</title>
+      <link>https://www.polygon.com/magic-the-gathering-animated-series-planeswalker-first-trailer/</link>
+      <guid isPermaLink="false">c9fd15a5-bebd-4ce3-8234-7da36f7698dc</guid>
+      <pubDate>Fri, 13 Nov 2026 19:29:45 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c9fd15a5-bebd-4ce3-8234-7da36f7698dc.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c9fd15a5-bebd-4ce3-8234-7da36f7698dc.jpg"/>
+      <description>Wizards of the Coast debuted the first official look at the animated series during its MagicCon Atlanta preview panel. Planeswalker follows a young Chandra Nalaar and her mentor Ajani Goldmane.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c9fd15a5-bebd-4ce3-8234-7da36f7698dc.jpg" alt="Magic&#x27;s Planeswalker series gets its first trailer, for 2027"/></p>
+<p>Wizards of the Coast debuted the <a href="https://www.polygon.com/magic-the-gathering-animated-series-planeswalker-first-trailer/">first official look</a> at the animated series during its MagicCon Atlanta preview panel. Planeswalker follows a young Chandra Nalaar and her mentor Ajani Goldmane.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Credible vs. Confidence Intervals — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Credible_interval</link>
+      <guid isPermaLink="false">7627183e-39df-422c-96a3-692ee3e5deab</guid>
+      <pubDate>Fri, 13 Nov 2026 15:33:40 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png"/>
+      <description>After a quarterback&#x27;s first 40 throws, a model might put his true completion rate between 58% and 68%, and as a 95% credible interval that means you are 95% sure his true rate is in there. The confidence interval from the same data can look identical on paper, yet it answers a different question: if you repeated the procedure many times, about 95% of the intervals it produced would contain the…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png" alt="Statistics: Credible vs. Confidence Intervals — Daily Learning"/></p>
+<p>After a quarterback&#x27;s first 40 throws, a model might put his true completion rate between 58% and 68%, and as a 95% <a href="https://en.wikipedia.org/wiki/Credible_interval">credible interval</a> that means you are 95% sure his true rate is in there. The confidence interval from the same data can look identical on paper, yet it answers a different question: if you repeated the procedure many times, about 95% of the intervals it produced would contain the true value.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Simulation Argument — Daily Learning</title>
+      <link>https://simulation-argument.com/simulation.html</link>
+      <guid isPermaLink="false">e21bfaed-9394-4dbb-aeb8-be4638109d77</guid>
+      <pubDate>Fri, 13 Nov 2026 15:28:30 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Nick Bostrom&#x27;s 2003 argument is that a posthuman civilization could run so many detailed simulations of conscious minds that the simulated would vastly outnumber the real. That leaves three options: humanity goes extinct before reaching that stage, posthumans almost never run such simulations, or we are almost certainly living in one.</description>
+      <content:encoded><![CDATA[<p><a href="https://simulation-argument.com/simulation.html">Nick Bostrom&#x27;s 2003 argument</a> is that a posthuman civilization could run so many detailed simulations of conscious minds that the simulated would vastly outnumber the real. That leaves three options: humanity goes extinct before reaching that stage, posthumans almost never run such simulations, or we are almost certainly living in one.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: liminal — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/liminal</link>
+      <guid isPermaLink="false">dab1c8a2-c090-4cca-8642-1fcaa910958a</guid>
+      <pubDate>Fri, 13 Nov 2026 15:27:26 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Liminal, pronounced LIM-ih-nul, is an adjective for a transitional, in-between state. That strange quiet hour between finishing a project and starting the next is a liminal one.</description>
+      <content:encoded><![CDATA[<p>Liminal, pronounced LIM-ih-nul, is an adjective for a <a href="https://www.merriam-webster.com/dictionary/liminal">transitional, in-between state</a>. That strange quiet hour between finishing a project and starting the next is a liminal one.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Star Trek&#x27;s tabletop release is today</title>
+      <link>https://magic.wizards.com/en/news/feature/collecting-star-trek</link>
+      <guid isPermaLink="false">bb4a9ebd-354d-419d-9b63-26459c63fc4d</guid>
+      <pubDate>Fri, 13 Nov 2026 14:31:18 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>The four Commander decks are $74.99 each for the November 13, 2026 tabletop release. Seven actor-signed headliner cards appear only in Collector Boosters.</description>
+      <content:encoded><![CDATA[<p>The <a href="https://magic.wizards.com/en/news/feature/collecting-star-trek">four Commander decks</a> are $74.99 each for the November 13, 2026 tabletop release. Seven actor-signed headliner cards appear only in Collector Boosters.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Rom and Leeta reunite in the Federation Fleet deck</title>
+      <link>https://screenrant.com/star-trek-deep-space-nine-mtg-rom-leeta-romance/</link>
+      <guid isPermaLink="false">928b7f6c-d14e-4d86-b548-e2071d218198</guid>
+      <pubDate>Fri, 13 Nov 2026 10:36:06 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>Rom and Leeta, Unlikely Pair lands in the Federation Fleet Commander deck. Wizards warned Commander decks in North America may arrive after the November 13 launch.</description>
+      <content:encoded><![CDATA[<p><a href="https://screenrant.com/star-trek-deep-space-nine-mtg-rom-leeta-romance/">Rom and Leeta, Unlikely Pair</a> lands in the Federation Fleet Commander deck. Wizards warned Commander decks in North America may arrive after the November 13 launch.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Cisco lifts full-year outlook after strong quarter</title>
       <link>https://www.morningstar.com/news/dow-jones/2026111216221/cisco-systems-raises-outlook-on-soaring-1q-revenue-profit</link>
@@ -447,87 +528,6 @@
       <category>NFL</category>
       <description>The 6-1 Bills visit the 6-1 Vikings tonight at U.S. Bank Stadium, with kickoff at 8:20 ET on ESPN. Buffalo is a 3-point favorite.</description>
       <content:encoded><![CDATA[<p>The <a href="https://vsin.com/nfl/bills-vs-vikings-predictions-week-9-monday-night-football-odds-picks-and-player-props/">6-1 Bills visit the 6-1 Vikings</a> tonight at U.S. Bank Stadium, with kickoff at 8:20 ET on ESPN. Buffalo is a 3-point favorite.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Picard gets a sinister new look in Magic&#x27;s Star Trek set</title>
-      <link>https://screenrant.com/star-trek-earth-mtg-warlord-picard/</link>
-      <guid isPermaLink="false">ba3c6a5d-f746-4c16-9154-24a399dc4b8b</guid>
-      <pubDate>Mon, 09 Nov 2026 11:11:06 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <description>General Picard, Earth Warlord turns the Confederation Picard from Star Trek: Picard season 2 into a muscle-bound warlord clutching a skull. The card is a Stardates reskin of Kenrith, the Returned King, a 5/5 legendary creature.</description>
-      <content:encoded><![CDATA[<p><a href="https://screenrant.com/star-trek-earth-mtg-warlord-picard/">General Picard, Earth Warlord</a> turns the Confederation Picard from Star Trek: Picard season 2 into a muscle-bound warlord clutching a skull. The card is a Stardates reskin of Kenrith, the Returned King, a 5/5 legendary creature.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>56.6 GiB holds a 284B model</title>
-      <link>https://dev.to/frankchu/566-gib-holds-a-284b-model-i-audited-the-64gb-cpu-claim-4oh6</link>
-      <guid isPermaLink="false">68736102-185c-4e1a-ac81-b66a03000e6d</guid>
-      <pubDate>Mon, 09 Nov 2026 09:14:18 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg"/>
-      <description>An independent audit verified the DeepSeek-V4-Flash file on Hugging Face at 56.60 GiB, matching llama-modchip&#x27;s 56.56 GiB claim to two decimal places. The honest speed is 9.06 tokens per second for lossless decode, with 14.7 only when speculative drafting helps.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg" alt="56.6 GiB holds a 284B model"/></p>
-<p>An <a href="https://dev.to/frankchu/566-gib-holds-a-284b-model-i-audited-the-64gb-cpu-claim-4oh6">independent audit</a> verified the DeepSeek-V4-Flash file on Hugging Face at 56.60 GiB, matching llama-modchip&#x27;s 56.56 GiB claim to two decimal places. The honest speed is 9.06 tokens per second for lossless decode, with 14.7 only when speculative drafting helps.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nvidia stock falls 4% after Jensen Huang probe</title>
-      <link>https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/</link>
-      <guid isPermaLink="false">b1697a6c-3616-4607-9b70-3c01260e20f2</guid>
-      <pubDate>Mon, 09 Nov 2026 07:39:24 GMT</pubDate>
-      <category>Stock market</category>
-      <description>Nvidia&#x27;s board opened an independent inquiry on Sunday into reports that Jensen Huang was targeted by a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised.</description>
-      <content:encoded><![CDATA[<p>Nvidia&#x27;s board opened an <a href="https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/">independent inquiry</a> on Sunday into reports that Jensen Huang was targeted by a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Goldman limits Claude Code and GitHub to engineers</title>
-      <link>https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/</link>
-      <guid isPermaLink="false">d2758cb6-770c-48b4-8eb9-9f9483fdd9d0</guid>
-      <pubDate>Mon, 09 Nov 2026 05:07:45 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg"/>
-      <description>Goldman Sachs has restricted Claude Code and GitHub to its engineers after an October review of productivity and risk, cutting off most traders and bankers. Goldman is also a lead underwriter on Anthropic&#x27;s IPO, expected to list on Nasdaq before the end of November.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg" alt="Goldman limits Claude Code and GitHub to engineers"/></p>
-<p>Goldman Sachs has <a href="https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/">restricted Claude Code and GitHub to its engineers</a> after an October review of productivity and risk, cutting off most traders and bankers. Goldman is also a lead underwriter on Anthropic&#x27;s IPO, expected to list on Nasdaq before the end of November.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Jordan Love gives Patriots&#x27; $135 million corner nightmares</title>
-      <link>https://www.usatoday.com/story/sports/nfl/packers/2026/11/08/jordan-love-patriots-christian-gonzalez-matthew-golden/92683750007/</link>
-      <guid isPermaLink="false">ee043ea5-70bc-4c6b-b45e-8c85733015d5</guid>
-      <pubDate>Mon, 09 Nov 2026 03:11:32 GMT</pubDate>
-      <category>NFL</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg"/>
-      <description>Jordan Love threw for 372 yards against New England on Sunday, November 8. Patriots coach Mike Vrabel publicly criticized Christian Gonzalez afterward, saying the team expects a lot more from its best players.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg" alt="Jordan Love gives Patriots&#x27; $135 million corner nightmares"/></p>
-<p><a href="https://www.usatoday.com/story/sports/nfl/packers/2026/11/08/jordan-love-patriots-christian-gonzalez-matthew-golden/92683750007/">Jordan Love</a> threw for 372 yards against New England on Sunday, November 8. Patriots coach Mike Vrabel publicly criticized Christian Gonzalez afterward, saying the team expects a lot more from its best players.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>First signed Star Trek card pulled: a Patrick Stewart Picard</title>
-      <link>https://gamerant.com/magic-the-gathering-signed-card-patrick-stewart/</link>
-      <guid isPermaLink="false">9384491e-0c3a-45b4-b701-b583d0a2da03</guid>
-      <pubDate>Mon, 09 Nov 2026 02:34:49 GMT</pubDate>
-      <category>Daily digest</category>
-      <description>Meta Games Unlimited shared the pull of an autographed Captain Jean-Luc Picard, one of seven Signature Headliner cards with fewer than 250 copies of each, exclusive to Collector Boosters. It is Magic&#x27;s first-ever autographed card treatment.</description>
-      <content:encoded><![CDATA[<p>Meta Games Unlimited shared the pull of <a href="https://gamerant.com/magic-the-gathering-signed-card-patrick-stewart/">an autographed Captain Jean-Luc Picard, one of seven Signature Headliner cards with fewer than 250 copies of each, exclusive to Collector Boosters</a>. It is Magic&#x27;s first-ever autographed card treatment.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pilot of 20 years says UFOs flew in front of his plane</title>
-      <link>https://www.unilad.com/news/uk-news/pilot-speaks-out-as-he-claims-ufos-were-flying-in-front-of-plane-520698-20261108</link>
-      <guid isPermaLink="false">10e79327-86f1-475c-bfce-109b0dd6fdac</guid>
-      <pubDate>Mon, 09 Nov 2026 01:06:49 GMT</pubDate>
-      <category>High strangeness</category>
-      <description>Steve Frazer says the flashing orbs have appeared six or seven times since 2022, most recently in October 2026. The captain, with 27 years of commercial flying, says their speed ruled out a military refuelling aircraft.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.unilad.com/news/uk-news/pilot-speaks-out-as-he-claims-ufos-were-flying-in-front-of-plane-520698-20261108">Steve Frazer says the flashing orbs have appeared six or seven times since 2022</a>, most recently in October 2026. The captain, with 27 years of commercial flying, says their speed ruled out a military refuelling aircraft.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Saints hang on to beat Browns 23-22 in overtime</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-hang-on-to-defeat-browns-in-overtime-23-22</link>
-      <guid isPermaLink="false">c1bacaee-7d58-4431-a764-710c57d193f8</guid>
-      <pubDate>Sun, 08 Nov 2026 23:07:18 GMT</pubDate>
-      <category>NFL</category>
-      <description>Cleveland went for the win in overtime, and Shedeur Sanders&#x27; two-point throw to Denzel Boston fell incomplete. Tyler Shough had opened overtime with a 15-yard touchdown pass to Juwan Johnson.</description>
-      <content:encoded><![CDATA[<p>Cleveland went for the win in overtime, and <a href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-hang-on-to-defeat-browns-in-overtime-23-22">Shedeur Sanders&#x27; two-point throw to Denzel Boston fell incomplete</a>. Tyler Shough had opened overtime with a 15-yard touchdown pass to Juwan Johnson.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
