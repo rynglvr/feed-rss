@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 19:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:02:44 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Statistics: Markov Chain Monte Carlo (MCMC) — Daily Learning</title>
+      <link>https://www.asingh.tech/blog/mcmc-intuition-algorithms-diagnostics</link>
+      <guid isPermaLink="false">3cea371c-4976-4a2e-86e9-aa1913650037</guid>
+      <pubDate>Sun, 15 Nov 2026 15:32:32 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3cea371c-4976-4a2e-86e9-aa1913650037.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3cea371c-4976-4a2e-86e9-aa1913650037.png"/>
+      <description>When a posterior is too tangled to calculate directly, a random walk can map it, the way you would map a dark room, by where you spend the most time. A proposed spot is accepted with probability equal to its probability divided by the current spot&#x27;s, capped at one, so a spot half as likely is taken half the time.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3cea371c-4976-4a2e-86e9-aa1913650037.png" alt="Statistics: Markov Chain Monte Carlo (MCMC) — Daily Learning"/></p>
+<p>When a posterior is too tangled to calculate directly, a <a href="https://www.asingh.tech/blog/mcmc-intuition-algorithms-diagnostics">random walk</a> can map it, the way you would map a dark room, by where you spend the most time. A proposed spot is accepted with probability equal to its probability divided by the current spot&#x27;s, capped at one, so a spot half as likely is taken half the time.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Ship of Theseus — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Ship_of_Theseus</link>
+      <guid isPermaLink="false">17d3bb98-aa93-4f52-a99f-f7a1c34f3b95</guid>
+      <pubDate>Sun, 15 Nov 2026 15:30:16 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>The Athenians kept Theseus&#x27;s thirty-oared ship afloat by swapping each decaying plank for new timber until none of the original wood remained. The discarded planks rebuilt into a second ship pose the same question as a mind rebuilt neuron by neuron, whether sameness lives in the pattern or in the material.</description>
+      <content:encoded><![CDATA[<p>The Athenians kept <a href="https://en.wikipedia.org/wiki/Ship_of_Theseus">Theseus&#x27;s thirty-oared ship</a> afloat by swapping each decaying plank for new timber until none of the original wood remained. The discarded planks rebuilt into a second ship pose the same question as a mind rebuilt neuron by neuron, whether sameness lives in the pattern or in the material.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: oneiric</title>
+      <link>https://dictionary.cambridge.org/dictionary/english/oneiric</link>
+      <guid isPermaLink="false">b4b302c7-d46d-40c0-ab04-eba099eb5c63</guid>
+      <pubDate>Sun, 15 Nov 2026 15:27:10 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Oneiric means relating to dreams or dreaming. The foggy morning street felt oneiric, quiet and half-lit, as if I were still dreaming.</description>
+      <content:encoded><![CDATA[<p>Oneiric means <a href="https://dictionary.cambridge.org/dictionary/english/oneiric">relating to dreams or dreaming</a>. The foggy morning street felt oneiric, quiet and half-lit, as if I were still dreaming.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Statistics: Likelihood Ratios — Daily Learning</title>
       <link>https://mental-models.alejandrofernandezcamello.me/bayesian-updating/04-strength-of-evidence</link>
@@ -444,33 +474,6 @@
       <category>Daily Learning</category>
       <description>Winning an auction can be bad news: when everyone is guessing at one true value, the winner is usually the bidder whose guess ran highest. So shade your estimate back toward the average, and treat winning as a reason to be suspicious.</description>
       <content:encoded><![CDATA[<p>Winning an auction can be bad news: when everyone is guessing at one true value, <a href="https://www.investopedia.com/terms/w/winnerscurse.asp">the winner is usually the bidder whose guess ran highest</a>. So shade your estimate back toward the average, and treat winning as a reason to be suspicious.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: Laplace&#x27;s Demon — Daily Learning</title>
-      <link>https://www.scienceabc.com/pure-sciences/what-is-laplaces-demon-definition-explanation</link>
-      <guid isPermaLink="false">b2685e93-f62f-4e0b-a603-0a9803c58f04</guid>
-      <pubDate>Thu, 29 Oct 2026 14:28:22 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In 1814, Pierre-Simon Laplace imagined an intellect that knew the exact position and momentum of every particle in the universe, plus all the laws of nature, and could calculate the entire past and the entire future from that single instant. Heisenberg&#x27;s uncertainty principle breaks that fantasy, because a particle&#x27;s position and momentum cannot both be known exactly, as a 2021 explainer puts it.</description>
-      <content:encoded><![CDATA[<p>In 1814, <a href="https://www.scienceabc.com/pure-sciences/what-is-laplaces-demon-definition-explanation">Pierre-Simon Laplace</a> imagined an intellect that knew the exact position and momentum of every particle in the universe, plus all the laws of nature, and could calculate the entire past and the entire future from that single instant. Heisenberg&#x27;s uncertainty principle breaks that fantasy, because a particle&#x27;s position and momentum cannot both be known exactly, as a 2021 explainer puts it.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: quiddity — Daily Learning</title>
-      <link>https://www.vocabulary.com/dictionary/quiddity</link>
-      <guid isPermaLink="false">a5af0656-bed5-498c-9803-b8fad10baf46</guid>
-      <pubDate>Thu, 29 Oct 2026 14:27:34 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Quiddity (KWID-i-tee) is a noun for the essential nature of a thing, the “what-it-is-ness” that makes it what it is rather than something else. Strip away the branding and the hype, and the quiddity of a good poker game is still the same: incomplete information, disciplined decisions, and nerve.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.vocabulary.com/dictionary/quiddity">Quiddity</a> (KWID-i-tee) is a noun for the essential nature of a thing, the “what-it-is-ness” that makes it what it is rather than something else. Strip away the branding and the hype, and the quiddity of a good poker game is still the same: incomplete information, disciplined decisions, and nerve.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Prisoner&#x27;s Dilemma — Daily Learning</title>
-      <link>https://plato.stanford.edu/archIves/spr2022/entries/prisoner-dilemma/</link>
-      <guid isPermaLink="false">9aa96e44-9d11-42e0-bee4-fa251045496c</guid>
-      <pubDate>Wed, 28 Oct 2026 14:27:09 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Two suspects are interrogated separately, each offered a deal to betray the other. Betraying brings the lightest sentence if the other stays silent and a harsh sentence if both betray, while mutual silence brings a moderate sentence for both, so self-interest pushes both to betray even though cooperating would serve them both better.</description>
-      <content:encoded><![CDATA[<p>Two suspects are <a href="https://plato.stanford.edu/archIves/spr2022/entries/prisoner-dilemma/">interrogated separately</a>, each offered a deal to betray the other. Betraying brings the lightest sentence if the other stays silent and a harsh sentence if both betray, while mutual silence brings a moderate sentence for both, so self-interest pushes both to betray even though cooperating would serve them both better.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
