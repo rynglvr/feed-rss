@@ -5,8 +5,110 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 19:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:02:43 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Star Trek Commander decks are out</title>
+      <link>https://krakenthemeta.com/blog/mtg-star-trek-commander-decks/</link>
+      <guid isPermaLink="false">73727b1a-b5a0-4bb0-8190-5c80a1bad133</guid>
+      <pubDate>Sun, 15 Nov 2026 15:40:28 GMT</pubDate>
+      <category>Daily digest</category>
+      <description>Four 100-card Commander decks, Federation Fleet, Landing Party, Klingon Fury and We Are the Borg, are $74.99 each. Today is the final day of MagicCon: Atlanta, with Mystery Booster Commander Edition drafts on demand.</description>
+      <content:encoded><![CDATA[<p><a href="https://krakenthemeta.com/blog/mtg-star-trek-commander-decks/">Four 100-card Commander decks</a>, Federation Fleet, Landing Party, Klingon Fury and We Are the Borg, are $74.99 each. Today is the final day of MagicCon: Atlanta, with Mystery Booster Commander Edition drafts on demand.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Against Desperation — for Goodness, and Hope — LessWrong</title>
+      <link>https://www.lesswrong.com/posts/8bftRw9DYfsqGzfRo/against-desperation-for-goodness-and-hope</link>
+      <guid isPermaLink="false">5f48f28b-72f8-4e74-b2ad-93dfce17a187</guid>
+      <pubDate>Sun, 15 Nov 2026 15:31:06 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5f48f28b-72f8-4e74-b2ad-93dfce17a187.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5f48f28b-72f8-4e74-b2ad-93dfce17a187.jpg"/>
+      <description>Nissa Seru puts the chance of transformative AI before 2030 at over 20%. She argues we have declared war on these minds before they were born, betting that obedience can stand in for coexistence.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5f48f28b-72f8-4e74-b2ad-93dfce17a187.jpg" alt="Against Desperation — for Goodness, and Hope — LessWrong"/></p>
+<p><a href="https://www.lesswrong.com/posts/8bftRw9DYfsqGzfRo/against-desperation-for-goodness-and-hope">Nissa Seru</a> puts the chance of transformative AI before 2030 at over 20%. She argues we have declared war on these minds before they were born, betting that obedience can stand in for coexistence.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Solar power, from futurist speculation to business plan — LessWrong</title>
+      <link>https://www.lesswrong.com/posts/qdKGb5tSWYJqCtWGk/solar-power-from-futurist-speculation-to-business-plan</link>
+      <guid isPermaLink="false">01bb4ae1-6d13-41c6-9704-c182195167b2</guid>
+      <pubDate>Sun, 15 Nov 2026 15:30:38 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/01bb4ae1-6d13-41c6-9704-c182195167b2.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/01bb4ae1-6d13-41c6-9704-c182195167b2.jpg"/>
+      <description>The solar constant is 1.36 kW/m², and it has not changed since Tesla did the arithmetic in 1931. Musk read the same arithmetic in 2006 as a reason to build, once photovoltaic cells and modern batteries existed.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/01bb4ae1-6d13-41c6-9704-c182195167b2.jpg" alt="Solar power, from futurist speculation to business plan — LessWrong"/></p>
+<p>The solar constant is 1.36 kW/m², and it has not changed since Tesla did the arithmetic in 1931. Musk read <a href="https://www.lesswrong.com/posts/qdKGb5tSWYJqCtWGk/solar-power-from-futurist-speculation-to-business-plan">the same arithmetic</a> in 2006 as a reason to build, once photovoltaic cells and modern batteries existed.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Visualizing the Difficulty of AI Alignment — LessWrong</title>
+      <link>https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment</link>
+      <guid isPermaLink="false">f7f362ad-3bda-4c53-9ef7-c6c668b2bf55</guid>
+      <pubDate>Sun, 15 Nov 2026 15:29:33 GMT</pubDate>
+      <category>AI safety</category>
+      <description>L3moncak3 pictures alignment as a 3D fitness landscape, with a red-dashed Robust Alignment zone around the peaks for powerful minds that would not cause extinction or an s-risk. The five camps, LeCun, Christiano, Kokotajlo, Yudkowsky, and Yampolskiy, each picture that terrain differently, so the same problem looks almost easy to one camp and nearly impossible to another.</description>
+      <content:encoded><![CDATA[<p>L3moncak3 pictures alignment as a 3D fitness landscape, with a red-dashed Robust Alignment zone around the peaks for powerful minds that would not cause extinction or an s-risk. The <a href="https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment">five camps, LeCun, Christiano, Kokotajlo, Yudkowsky, and Yampolskiy, each picture that terrain differently</a>, so the same problem looks almost easy to one camp and nearly impossible to another.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Watching light changes what light does</title>
+      <link>https://www.instagram.com/reel/DfqjLoyA_Dv/</link>
+      <guid isPermaLink="false">71c88351-4f99-4616-9f6d-d882edc923df</guid>
+      <pubDate>Sun, 15 Nov 2026 10:35:42 GMT</pubDate>
+      <category>Quantum physics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/71c88351-4f99-4616-9f6d-d882edc923df.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/71c88351-4f99-4616-9f6d-d882edc923df.jpg"/>
+      <description>In a clip from Galaxies, Neil deGrasse Tyson shows how watching a photon through the double-slit experiment leaves two distinct bands, the mark of a particle. Unwatched, the same photons form an interference pattern, behaving as waves instead.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/71c88351-4f99-4616-9f6d-d882edc923df.jpg" alt="Watching light changes what light does"/></p>
+<p>In a <a href="https://www.instagram.com/reel/DfqjLoyA_Dv/">clip from Galaxies</a>, Neil deGrasse Tyson shows how watching a photon through the double-slit experiment leaves two distinct bands, the mark of a particle. Unwatched, the same photons form an interference pattern, behaving as waves instead.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Blackwell fingerprints point to Chinese labs&#x27; access — Axis of Ordinary</title>
+      <link>https://unemploymentlabs.com/checkpoint-forensics</link>
+      <guid isPermaLink="false">6791500a-610e-4abf-bcee-3e7e29ff7cd7</guid>
+      <pubDate>Sun, 15 Nov 2026 01:39:20 GMT</pubDate>
+      <category>AI</category>
+      <description>DeepSeek-V4-Flash is the one conclusive case, after a physical B300 reproduced its preserved starting values and an AMD alternative matched none of the differing values. For the other five models the fingerprint is strong but unsettled, because a specially configured AMD chip can reproduce the same Blackwell layout.</description>
+      <content:encoded><![CDATA[<p><a href="https://unemploymentlabs.com/checkpoint-forensics">DeepSeek-V4-Flash is the one conclusive case</a>, after a physical B300 reproduced its preserved starting values and an AMD alternative matched none of the differing values. For the other five models the fingerprint is strong but unsettled, because a specially configured AMD chip can reproduce the same Blackwell layout.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google launches Gemini 4 Hydrogen — Axis of Ordinary</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">3c5708d7-cc73-42b4-930b-9eeb7dca049e</guid>
+      <pubDate>Sun, 15 Nov 2026 01:38:42 GMT</pubDate>
+      <category>AI</category>
+      <description>Hydrogen is Google&#x27;s fast execution model for everyday coding and agentic work. Google reports it finishes tasks 2.5 times faster than Gemini 3.8 Flash at its high default setting.</description>
+      <content:encoded><![CDATA[<p>Hydrogen is Google&#x27;s fast execution model for everyday coding and agentic work. Google reports it finishes tasks <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">2.5 times faster than Gemini 3.8 Flash</a> at its high default setting.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI&#x27;s agents for continuous cyber defense: Axis of Ordinary</title>
+      <link>https://www.youtube.com/watch?v=YsnS2PpTr1w</link>
+      <guid isPermaLink="false">53f8519d-d01a-476d-8364-96a01d3494d4</guid>
+      <pubDate>Sun, 15 Nov 2026 01:38:31 GMT</pubDate>
+      <category>Cybersecurity</category>
+      <description>OpenAI introduced Daybreak Red Team and Daybreak Defense Factory at its Cyber at the Frontier keynote on Thursday, November 12. Together they are meant to keep the work moving in a loop, from discovery through a reviewed patch to a retest of the fix.</description>
+      <content:encoded><![CDATA[<p>OpenAI introduced Daybreak Red Team and Daybreak Defense Factory at its <a href="https://www.youtube.com/watch?v=YsnS2PpTr1w">Cyber at the Frontier keynote</a> on Thursday, November 12. Together they are meant to keep the work moving in a loop, from discovery through a reviewed patch to a retest of the fix.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AWS&#x27;s emulator, written entirely by AI agents</title>
+      <link>https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator</link>
+      <guid isPermaLink="false">c9340231-047a-4bf2-bc75-a1b2e3b2e26b</guid>
+      <pubDate>Sun, 15 Nov 2026 01:38:02 GMT</pubDate>
+      <category>AI</category>
+      <description>AWS says autonomous agents wrote every line of code in AWS Emulator. The work ran inside human-designed specifications and guardrails.</description>
+      <content:encoded><![CDATA[<p>AWS says autonomous agents wrote every line of code in <a href="https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator">AWS Emulator</a>. The work ran inside human-designed specifications and guardrails.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>A dead star pulses every 8 minutes beside a sun-like star</title>
+      <link>https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html</link>
+      <guid isPermaLink="false">bf010911-bdd5-4919-9bb9-718003454c2b</guid>
+      <pubDate>Sat, 14 Nov 2026 22:35:25 GMT</pubDate>
+      <category>Astronomy</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bf010911-bdd5-4919-9bb9-718003454c2b.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bf010911-bdd5-4919-9bb9-718003454c2b.webp"/>
+      <description>Astronomers found the first likely white dwarf pulsar beside a sun-like star, flashing radio waves every 7.9 minutes. The flashes appear only during a six-hour window in each 32-hour orbit, when the two stars line up just right.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bf010911-bdd5-4919-9bb9-718003454c2b.webp" alt="A dead star pulses every 8 minutes beside a sun-like star"/></p>
+<p><a href="https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html">Astronomers found the first likely white dwarf pulsar beside a sun-like star</a>, flashing radio waves every 7.9 minutes. The flashes appear only during a six-hour window in each 32-hour orbit, when the two stars line up just right.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Physicists filmed electrons jumping a forbidden gap in graphene</title>
       <link>https://www.byteseu.com/2520369/</link>
@@ -1224,147 +1326,6 @@
       <description>Bleacher Nation calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg" alt="Browns +3 at Saints in New Orleans"/></p>
 <p><a href="https://www.bleachernation.com/picks/2026/11/05/saints-vs-browns-best-bets-picks-and-prediction-nov-8/">Bleacher Nation</a> calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Magic: The Gathering&#x27;s $2 Million Card Used in Real Match</title>
-      <link>https://www.polygon.com/mtg-one-ring-card-post-malone/</link>
-      <guid isPermaLink="false">95bfebe3-a086-4b0c-a5a0-d227be8aeb57</guid>
-      <pubDate>Sun, 08 Nov 2026 09:14:37 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <description>Post Malone took the one-of-one The One Ring out of its protective slab and played it in a Commander match on Game Knights. On the table it grants protection from everything until his next turn.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/mtg-one-ring-card-post-malone/">Post Malone took the one-of-one The One Ring out of its protective slab</a> and played it in a Commander match on Game Knights. On the table it grants protection from everything until his next turn.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Microsoft&#x27;s AI Frontiers research group is over</title>
-      <link>https://hunch.net/?p=13764006</link>
-      <guid isPermaLink="false">5a368e72-9efa-45b9-96a7-2299cb1fe4f5</guid>
-      <pubDate>Sun, 08 Nov 2026 07:38:15 GMT</pubDate>
-      <category>AI</category>
-      <description>John Langford wrote on November 6 that AI Frontiers is over after Microsoft reorganized the group into Microsoft AI in early September. The roughly 50-person group built the AutoGen orchestration framework and the Fara computer-use agent.</description>
-      <content:encoded><![CDATA[<p><a href="https://hunch.net/?p=13764006">John Langford wrote on November 6</a> that AI Frontiers is over after Microsoft reorganized the group into Microsoft AI in early September. The roughly 50-person group built the AutoGen orchestration framework and the Fara computer-use agent.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Discord drops Electron for a Rust desktop app</title>
-      <link>https://yusmpgroup.com/news/discord-electron-rust-desktop-app</link>
-      <guid isPermaLink="false">9df289df-390e-4204-83eb-103e3d5f9ae0</guid>
-      <pubDate>Sun, 08 Nov 2026 05:08:26 GMT</pubDate>
-      <category>Tech</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg"/>
-      <description>Discord is dropping Electron for a native Rust desktop app. An early Windows build used about 290MB of RAM.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9df289df-390e-4204-83eb-103e3d5f9ae0.jpg" alt="Discord drops Electron for a Rust desktop app"/></p>
-<p><a href="https://yusmpgroup.com/news/discord-electron-rust-desktop-app">Discord is dropping Electron</a> for a native Rust desktop app. An early Windows build used about 290MB of RAM.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ghostty&#x27;s terminal engine hits 1.0</title>
-      <link>https://mitchellh.com/writing/libghostty-1-0</link>
-      <guid isPermaLink="false">92cd55a1-9c32-44b7-bf2a-8377799425f8</guid>
-      <pubDate>Sun, 08 Nov 2026 03:11:35 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>Mitchell Hashimoto released libghostty-vt 1.0 on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</description>
-      <content:encoded><![CDATA[<p><a href="https://mitchellh.com/writing/libghostty-1-0">Mitchell Hashimoto released libghostty-vt 1.0</a> on November 6, 2026, with the library and its C ABI now stable. JetBrains IDEs already run their built-in terminal on it, reaching more than 12.5 million active users.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI closes first $11B at $1.25T valuation</title>
-      <link>https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/</link>
-      <guid isPermaLink="false">e4587c10-0a69-4a88-bf0a-82abcaeccfe5</guid>
-      <pubDate>Sun, 08 Nov 2026 03:00:08 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg"/>
-      <description>Bloomberg reported the money was wired on Friday, November 6. The round could still reach about $20 billion in the coming weeks.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e4587c10-0a69-4a88-bf0a-82abcaeccfe5.jpg" alt="OpenAI closes first $11B at $1.25T valuation"/></p>
-<p>Bloomberg reported <a href="https://www.techbooky.com/openai-closes-first-11b-of-funding-at-1-25t-valuation-report-says/">the money was wired on Friday, November 6</a>. The round could still reach about $20 billion in the coming weeks.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Wizards nerfs a Star Trek combo before the set lands</title>
-      <link>https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/</link>
-      <guid isPermaLink="false">c0b8f5bf-b1d8-4d18-b6ed-759d37d725aa</guid>
-      <pubDate>Sun, 08 Nov 2026 02:32:42 GMT</pubDate>
-      <category>Evening digest</category>
-      <description>Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.cbr.com/mtg-star-trek-wotc-nerfs-new-4-card-combo/">Rules manager Eric Levine&#x27;s November 6 update bulletin changed Werewolf Pack Leader&#x27;s Oracle text</a> so its activated ability now simply turns it into a Werewolf with no other creature types. The change kills a combo with Stalactite Dagger, Artificial Evolution and new Federation cards that could churn massive mana with Starfleet Academy or draw many cards with Sarek, Federation Ambassador.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Mathematics returns with new Wu-Tang album featuring Method Man</title>
-      <link>https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml</link>
-      <guid isPermaLink="false">1dedf813-bd33-4584-994a-3f1840b3ad27</guid>
-      <pubDate>Sun, 08 Nov 2026 01:05:29 GMT</pubDate>
-      <category>Hip hop</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg"/>
-      <description>Mathematics X Wu-Tang: Black Samson – The Saga Continues is out now as a 10-track album. Method Man joins AZ on “God Body.”</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1dedf813-bd33-4584-994a-3f1840b3ad27.jpg" alt="Mathematics returns with new Wu-Tang album featuring Method Man"/></p>
-<p><a href="https://antimusic.com/p/26/p1107wu-tangs_mathematics_returns_with_new_album_featuring_method_man_az___more.shtml">Mathematics X Wu-Tang: Black Samson – The Saga Continues</a> is out now as a 10-track album. Method Man joins AZ on “God Body.”</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ohio State lost more than a game to Oregon</title>
-      <link>https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/</link>
-      <guid isPermaLink="false">da12828c-04dc-487b-b86e-ea0abc7b45b2</guid>
-      <pubDate>Sun, 08 Nov 2026 00:31:12 GMT</pubDate>
-      <category>College football</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg"/>
-      <description>Oregon beat Ohio State 41-28 in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/da12828c-04dc-487b-b86e-ea0abc7b45b2.jpg" alt="Ohio State lost more than a game to Oregon"/></p>
-<p><a href="https://atozsports.com/college-football/ohio-state-buckeyes-news/ohio-state-just-lost-a-lot-more-than-a-football-game-to-oregon-with-potential-major-fallout-to-come/">Oregon beat Ohio State 41-28</a> in Columbus. Ohio State&#x27;s College Football Playoff hopes are finished.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Reverse game theory could keep AI agents in check</title>
-      <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/</link>
-      <guid isPermaLink="false">9116684d-7eff-4ce8-9667-cf930c99a9d2</guid>
-      <pubDate>Sat, 07 Nov 2026 23:32:25 GMT</pubDate>
-      <category>Game theory</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg"/>
-      <description>On November 3, MIT Technology Review described reverse game theory as designing the rules so following them becomes the rational move for an AI agent. A preprint by MIT economist Stephen Morris proposes rewarding a model for how well its answers predict a second model&#x27;s, making deliberately underperforming on a test a losing bet.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/9116684d-7eff-4ce8-9667-cf930c99a9d2.jpg" alt="Reverse game theory could keep AI agents in check"/></p>
-<p>On November 3, <a href="https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/">MIT Technology Review</a> described reverse game theory as designing the rules so following them becomes the rational move for an AI agent. A preprint by MIT economist Stephen Morris proposes rewarding a model for how well its answers predict a second model&#x27;s, making deliberately underperforming on a test a losing bet.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI&#x27;s GPT-6 Cyber finds 81 Firefox flaws and 948 Linux exploits</title>
-      <link>https://www.yugatech.com/?p=456472</link>
-      <guid isPermaLink="false">e2db460c-5210-4df9-ad2a-129b3050ca12</guid>
-      <pubDate>Sat, 07 Nov 2026 23:10:57 GMT</pubDate>
-      <category>AI</category>
-      <description>GPT-6 Cyber scored 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber. OpenAI rated it Critical for cybersecurity under its Preparedness Framework, up from High for its predecessor.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.yugatech.com/?p=456472">GPT-6 Cyber</a> scored 48.5% on ExploitGym, up from 32.1% for GPT-5.6 Cyber. OpenAI rated it Critical for cybersecurity under its Preparedness Framework, up from High for its predecessor.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Netflix unveils first look at Stranger Things prequel set in 1955</title>
-      <link>https://www.indulgexpress.com/entertainment/ott/2026/Nov/07/netflix-unveils-first-look-at-stranger-things-prequel-set-in-1955</link>
-      <guid isPermaLink="false">f3009877-f273-4bf0-b023-647b48364574</guid>
-      <pubDate>Sat, 07 Nov 2026 21:21:24 GMT</pubDate>
-      <category>Entertainment</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg"/>
-      <description>Netflix released the first teaser for Other Worlds: A Stranger Things Adventure, a live-action prequel to Stranger Things. It leaves Hawkins behind for Marion, Nevada, in 1955, with a 2028 release window.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3009877-f273-4bf0-b023-647b48364574.jpg" alt="Netflix unveils first look at Stranger Things prequel set in 1955"/></p>
-<p><a href="https://www.indulgexpress.com/entertainment/ott/2026/Nov/07/netflix-unveils-first-look-at-stranger-things-prequel-set-in-1955">Netflix released the first teaser</a> for Other Worlds: A Stranger Things Adventure, a live-action prequel to Stranger Things. It leaves Hawkins behind for Marion, Nevada, in 1955, with a 2028 release window.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>South Korea launches 614-petaflop Hangang supercomputer</title>
-      <link>https://quantumcomputingreport.com/south-korea-launches-614-pflops-hangang-supercomputer-ahead-of-may-2027-ionq-quantum-link/</link>
-      <guid isPermaLink="false">cd5ee58f-2b71-45e7-8179-99ea217b249a</guid>
-      <pubDate>Sat, 07 Nov 2026 20:52:25 GMT</pubDate>
-      <category>Quantum computing</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png"/>
-      <description>Hangang is 24 times more powerful than its predecessor Nurion. It is built to interface on-site with IonQ&#x27;s Tempo quantum processor by May 2027.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cd5ee58f-2b71-45e7-8179-99ea217b249a.png" alt="South Korea launches 614-petaflop Hangang supercomputer"/></p>
-<p><a href="https://quantumcomputingreport.com/south-korea-launches-614-pflops-hangang-supercomputer-ahead-of-may-2027-ionq-quantum-link/">Hangang</a> is 24 times more powerful than its predecessor Nurion. It is built to interface on-site with IonQ&#x27;s Tempo quantum processor by May 2027.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Astronomers spot white dwarf with two rings of planetary debris</title>
-      <link>https://985theriver.com/2026/11/07/astronomers-spot-white-dwarf-star-with-two-rings-of-planetary-debris/</link>
-      <guid isPermaLink="false">ce57d7f3-2be8-42be-9fd9-c78ee10f54b4</guid>
-      <pubDate>Sat, 07 Nov 2026 19:52:04 GMT</pubDate>
-      <category>Space</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg"/>
-      <description>Astronomers spotted two distinct rings of planetary debris around the white dwarf J1328−1450, roughly 1,600 light-years away in Virgo. Two rocky bodies that survived the star&#x27;s violent death may be shaping the rings.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ce57d7f3-2be8-42be-9fd9-c78ee10f54b4.jpg" alt="Astronomers spot white dwarf with two rings of planetary debris"/></p>
-<p><a href="https://985theriver.com/2026/11/07/astronomers-spot-white-dwarf-star-with-two-rings-of-planetary-debris/">Astronomers spotted</a> two distinct rings of planetary debris around the white dwarf J1328−1450, roughly 1,600 light-years away in Virgo. Two rocky bodies that survived the star&#x27;s violent death may be shaping the rings.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
