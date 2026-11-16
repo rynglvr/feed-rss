@@ -5,8 +5,281 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 19:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:06:47 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Weaker entanglement still teleports a logical qubit</title>
+      <link>https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html</link>
+      <guid isPermaLink="false">8da06017-bb24-4978-a42a-e74ead9979e1</guid>
+      <pubDate>Mon, 16 Nov 2026 16:39:05 GMT</pubDate>
+      <category>Quantum physics</category>
+      <description>Researchers at Zhejiang University and the Hong Kong University of Science and Technology (Guangzhou) teleported a logical qubit&#x27;s state between two groups of qubits on one 125-qubit processor. Balancing bit-flip and phase-flip errors let the transfer survive a much weaker entanglement channel.</description>
+      <content:encoded><![CDATA[<p>Researchers at Zhejiang University and the Hong Kong University of Science and Technology (Guangzhou) <a href="https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html">teleported a logical qubit&#x27;s state</a> between two groups of qubits on one 125-qubit processor. Balancing bit-flip and phase-flip errors let the transfer survive a much weaker entanglement channel.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Two studios race to make an SCP movie</title>
+      <link>https://www.screamify.com/blog/2026-11-16%23f41030b5-3343-4c8b-abd8-9c5a9b0e2988</link>
+      <guid isPermaLink="false">b6a00943-2ee0-4b20-abbb-9f1d4df24bd2</guid>
+      <pubDate>Mon, 16 Nov 2026 15:38:52 GMT</pubDate>
+      <category>Daily digest</category>
+      <description>A24 is distributing “V/H/S: SCP” for a 2027 theatrical release, and NEON has announced a competing SCP anthology feature for the same year, released under the same CC BY-SA license as the SCP Wiki. SCP Wiki staff said they had no communication with the A24 project and that A24 cannot claim exclusive rights to the Foundation.</description>
+      <content:encoded><![CDATA[<p>A24 is distributing <a href="https://www.screamify.com/blog/2026-11-16%23f41030b5-3343-4c8b-abd8-9c5a9b0e2988">“V/H/S: SCP”</a> for a 2027 theatrical release, and NEON has announced a competing SCP anthology feature for the same year, released under the same CC BY-SA license as the SCP Wiki. SCP Wiki staff said they had no communication with the A24 project and that A24 cannot claim exclusive rights to the Foundation.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Weekly Music Update — November 16, 2026</title>
+      <link>https://music.apple.com/us/album/infinite-ep/6831186026?uo=4</link>
+      <guid isPermaLink="false">65562b57-49f6-4da1-ae62-b95e2edd4a04</guid>
+      <pubDate>Mon, 16 Nov 2026 15:36:46 GMT</pubDate>
+      <category>Music</category>
+      <description>New from your artists: Eminem&#x27;s Infinite EP, EP, released November 12, 2026, a 30th-anniversary reissue of his 1996 debut Infinite with six newly mixed tracks, five streaming officially for the first time; IDK, Eminem and J Dilla&#x27;s WELCOME, single, released November 13, 2026, IDK&#x27;s first single since signing to Shady Records/Interscope, with Eminem on the hook over a posthumous J Dilla beat; and…</description>
+      <content:encoded><![CDATA[<p>New from your artists: Eminem&#x27;s <a href="https://music.apple.com/us/album/infinite-ep/6831186026?uo=4">Infinite EP</a>, EP, released November 12, 2026, a 30th-anniversary reissue of his 1996 debut Infinite with six newly mixed tracks, five streaming officially for the first time; IDK, Eminem and J Dilla&#x27;s <a href="https://music.apple.com/us/album/welcome-single/6828648030?uo=4">WELCOME</a>, single, released November 13, 2026, IDK&#x27;s first single since signing to Shady Records/Interscope, with Eminem on the hook over a posthumous J Dilla beat; and Oskama Esteban and Fetty Wap&#x27;s <a href="https://music.apple.com/us/album/ziploczoo-single/6832852859?uo=4">ZiplocZoo</a>, single, released November 13, 2026. Critics&#x27; picks: Armand Hammer&#x27;s <a href="https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/">Snakes &amp; Ladders</a>, album, released November 11, 2026, Pitchfork Best New Music, 8.3/10, reviewed by Andre Gee; and Kim Deal&#x27;s <a href="https://readdork.com/news/kim-deal-has-dropped-her-new-album-live-at-the-barbican">Live at the Barbican</a>, live album, released November 13, 2026, Metacritic 85, a March 1, 2025 Barbican show with a 25-piece ensemble, orchestral versions of Nobody Loves You More plus Breeders material.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How to build always-on agents: The Code</title>
+      <link>https://claude.com/resources/articles/building-always-on-agents</link>
+      <guid isPermaLink="false">9d1ad217-586f-49fe-ab39-e59a4d46d8fb</guid>
+      <pubDate>Mon, 16 Nov 2026 15:32:34 GMT</pubDate>
+      <category>AI</category>
+      <description>Anthropic&#x27;s guide to building always-on agents says an always-on agent spends most of its time asleep, waking periodically to run, save what happened, and sleep again. Its five primitives are event inbox, timers, memory, permissions, and an outbox.</description>
+      <content:encoded><![CDATA[<p>Anthropic&#x27;s <a href="https://claude.com/resources/articles/building-always-on-agents">guide to building always-on agents</a> says an always-on agent spends most of its time asleep, waking periodically to run, save what happened, and sleep again. Its five primitives are event inbox, timers, memory, permissions, and an outbox.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>No Slowdown — The Code</title>
+      <link>https://archive.codenewsletter.ai/2121673563489140863</link>
+      <guid isPermaLink="false">3aa237f4-2c80-4af0-8b2d-926b6215aaf3</guid>
+      <pubDate>Mon, 16 Nov 2026 15:32:17 GMT</pubDate>
+      <category>AI tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3aa237f4-2c80-4af0-8b2d-926b6215aaf3.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3aa237f4-2c80-4af0-8b2d-926b6215aaf3.jpg"/>
+      <description>Lauren Tan reports in The Code&#x27;s Nov 16 edition that her Grok Bot team shipped 11,000 pull requests in one month. Verification now replaces most code review, with humans reviewing verification artifacts rather than diffs.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3aa237f4-2c80-4af0-8b2d-926b6215aaf3.jpg" alt="No Slowdown — The Code"/></p>
+<p>Lauren Tan reports in <a href="https://archive.codenewsletter.ai/2121673563489140863">The Code&#x27;s Nov 16 edition</a> that her Grok Bot team shipped 11,000 pull requests in one month. Verification now replaces most code review, with humans reviewing verification artifacts rather than diffs.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>We can&#x27;t move because we&#x27;re still in pain — 7 Takeaways</title>
+      <link>https://go.askleo.com/ama/B0FBLWTXXH</link>
+      <guid isPermaLink="false">70416c46-a5b6-4905-93b7-ce121fc6a51d</guid>
+      <pubDate>Mon, 16 Nov 2026 15:32:14 GMT</pubDate>
+      <category>Life hacks</category>
+      <description>Rachel Zoffness&#x27;s Tell Me Where It Hurts treats pain as more than tissue damage, examining its emotional, psychological, social, and environmental aspects alongside the physical. 7 Takeaways issue 301 frames the trap as a loop in which pain stops movement and stillness keeps the pain going, so look beyond the purely physical.</description>
+      <content:encoded><![CDATA[<p>Rachel Zoffness&#x27;s <a href="https://go.askleo.com/ama/B0FBLWTXXH">Tell Me Where It Hurts</a> treats pain as more than tissue damage, examining its emotional, psychological, social, and environmental aspects alongside the physical. <a href="https://7takeaways.com/5174">7 Takeaways issue 301</a> frames the trap as a loop in which pain stops movement and stillness keeps the pain going, so look beyond the purely physical.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Today, many of our questions never reach a person at all — 7 Takeaways</title>
+      <link>https://cardcatalogforlife.substack.com/p/why-librarians-ask-before-they-answer?utm_source=7takeaways.com</link>
+      <guid isPermaLink="false">2df3b9b7-931b-4cdb-a3d3-7d2370dc9395</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:49 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <description>Librarians have spent well over a century answering a question with questions of their own, drawing out the need behind a first request. Search engines and chatbots answer what we give them directly, without asking what we meant, so run the six questions on yourself before you search and question yourself.</description>
+      <content:encoded><![CDATA[<p>Librarians have spent well over a century <a href="https://cardcatalogforlife.substack.com/p/why-librarians-ask-before-they-answer?utm_source=7takeaways.com">answering a question with questions of their own</a>, drawing out the need behind a first request. Search engines and chatbots answer what we give them directly, without asking what we meant, so run <a href="https://7takeaways.com/5174">the six questions</a> on yourself before you search and question yourself.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Debug Marathon — The Code</title>
+      <link>https://archive.codenewsletter.ai/2121636808840888591</link>
+      <guid isPermaLink="false">1d46426d-02ff-461a-b1c6-52be9d97fbc9</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:41 GMT</pubDate>
+      <category>Developer tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d46426d-02ff-461a-b1c6-52be9d97fbc9.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d46426d-02ff-461a-b1c6-52be9d97fbc9.jpg"/>
+      <description>A self-described senior engineer writing in r/developersIndia said Microsoft&#x27;s outage took 15 hours to figure out because AI lacks context for entangled systems. In The Code&#x27;s Debug Marathon item, he argues AI should remain an assistant to the engineer who understands the system.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d46426d-02ff-461a-b1c6-52be9d97fbc9.jpg" alt="Debug Marathon — The Code"/></p>
+<p>A self-described senior engineer writing in r/developersIndia said Microsoft&#x27;s outage took 15 hours to figure out because AI lacks context for entangled systems. In <a href="https://archive.codenewsletter.ai/2121636808840888591">The Code&#x27;s Debug Marathon item</a>, he argues AI should remain an assistant to the engineer who understands the system.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Backwards Economics — The Code</title>
+      <link>https://archive.codenewsletter.ai/2121690979904446885</link>
+      <guid isPermaLink="false">d10ced2b-4a0d-42bd-a90e-44bd9d8830a5</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:35 GMT</pubDate>
+      <category>Software economics</category>
+      <description>Nicolas Bustamante (@nicbstme) argues in The Code that many AI startups are reselling lab tokens at low-to-negative margins. His fix is for SaaS to become an MCP server instead, letting ChatGPT, Claude, or Copilot handle the conversation while the company keeps its proprietary data and system of record.</description>
+      <content:encoded><![CDATA[<p>Nicolas Bustamante (@nicbstme) argues in <a href="https://archive.codenewsletter.ai/2121690979904446885">The Code</a> that many AI startups are reselling lab tokens at low-to-negative margins. His fix is for SaaS to become an MCP server instead, letting ChatGPT, Claude, or Copilot handle the conversation while the company keeps its proprietary data and system of record.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>You don&#x27;t need certainty; you need the confidence to face the unknown</title>
+      <link>https://www.joanwestenberg.com/p/if-youre-21-and-terrified-read-this?utm_source=7takeaways.com</link>
+      <guid isPermaLink="false">cdb287ba-1208-4028-8e5d-795a21cefdbd</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:34 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cdb287ba-1208-4028-8e5d-795a21cefdbd.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cdb287ba-1208-4028-8e5d-795a21cefdbd.jpg"/>
+      <description>JA Westenberg writes that most of your choices are not final, since people change jobs, cities, and social circles and are not the same person ten years on. The advice in 7 Takeaways issue 301 is to get good at a skill, learn to sell and write, build equity, save and invest, take care of your health, and design your own life, and keep doing things.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cdb287ba-1208-4028-8e5d-795a21cefdbd.jpg" alt="You don&#x27;t need certainty; you need the confidence to face the unknown"/></p>
+<p><a href="https://www.joanwestenberg.com/p/if-youre-21-and-terrified-read-this?utm_source=7takeaways.com">JA Westenberg</a> writes that most of your choices are not final, since people change jobs, cities, and social circles and are not the same person ten years on. The advice in <a href="https://7takeaways.com/5174">7 Takeaways issue 301</a> is to get good at a skill, learn to sell and write, build equity, save and invest, take care of your health, and design your own life, and keep doing things.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>See what happens next — 7 Takeaways</title>
+      <link>https://everythingisamazing.substack.com/p/a-short-guide-to-the-future?utm_source=7takeaways.com</link>
+      <guid isPermaLink="false">0882a3fc-fcc7-4bc9-a1a8-495e8b145630</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:19 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0882a3fc-fcc7-4bc9-a1a8-495e8b145630.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0882a3fc-fcc7-4bc9-a1a8-495e8b145630.jpg"/>
+      <description>In A Short Guide To The Future, Mike Sowden calls uncertainty &quot;the heavy cloth of existence,&quot; and learning to wear it without your knees buckling is oddly liberating. The action in 7 Takeaways No. 301 is to embrace more uncertainty.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0882a3fc-fcc7-4bc9-a1a8-495e8b145630.jpg" alt="See what happens next — 7 Takeaways"/></p>
+<p>In <a href="https://everythingisamazing.substack.com/p/a-short-guide-to-the-future?utm_source=7takeaways.com">A Short Guide To The Future</a>, Mike Sowden calls uncertainty &quot;the heavy cloth of existence,&quot; and learning to wear it without your knees buckling is oddly liberating. The action in <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> is to embrace more uncertainty.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Full Throttle — The Code</title>
+      <link>https://archive.codenewsletter.ai/2122011755240984607</link>
+      <guid isPermaLink="false">a03f109b-b2e8-478e-9536-0181f9a3aac7</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:15 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>A Vox thread in today&#x27;s Code says telling Fable 5.2 to “find the bugs” wastes it, and instead offers six prompts that hand the model investigation and judgment. The CI Auditor prompt pulls the last 150 CI runs, splits each job into queue-wait, setup, and run time, and reports the five slowest without changing anything.</description>
+      <content:encoded><![CDATA[<p>A Vox thread in today&#x27;s Code says telling Fable 5.2 to “find the bugs” wastes it, and instead offers six prompts that hand the model investigation and judgment. The <a href="https://archive.codenewsletter.ai/2122011755240984607">CI Auditor prompt</a> pulls the last 150 CI runs, splits each job into queue-wait, setup, and run time, and reports the five slowest without changing anything.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Token Economizer — The Code</title>
+      <link>https://github.com/microsoft/TokenEconomizer</link>
+      <guid isPermaLink="false">84097723-8ca8-4ed9-999e-765c792c702a</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:11 GMT</pubDate>
+      <category>AI tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/84097723-8ca8-4ed9-999e-765c792c702a.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/84097723-8ca8-4ed9-999e-765c792c702a.png"/>
+      <description>TokenEconomizer learns how a repo works from past sessions, so a coding agent stops paying to relearn the same quirks each time. On SWE-Bench, the team reports 18.4–30.9% lower mean cost across five agent-model combinations.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/84097723-8ca8-4ed9-999e-765c792c702a.png" alt="Token Economizer — The Code"/></p>
+<p><a href="https://github.com/microsoft/TokenEconomizer">TokenEconomizer</a> learns how a repo works from past sessions, so a coding agent stops paying to relearn the same quirks each time. On SWE-Bench, the team reports 18.4–30.9% lower mean cost across five agent-model combinations.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Writing is now a comparative advantage — 7 Takeaways</title>
+      <link>https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html?utm_source=7takeaways.com</link>
+      <guid isPermaLink="false">c295ef1d-b310-469c-86ec-b7f8ba7a1665</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:08 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c295ef1d-b310-469c-86ec-b7f8ba7a1665.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c295ef1d-b310-469c-86ec-b7f8ba7a1665.jpg"/>
+      <description>In Writing as a thinking tool, Murat argues that writing externalizes thinking onto paper, which lets us think bigger thoughts. A model has read everything except what is in your brain, so issue 301 of 7 Takeaways says to think bigger thoughts before you open the chat.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c295ef1d-b310-469c-86ec-b7f8ba7a1665.jpg" alt="Writing is now a comparative advantage — 7 Takeaways"/></p>
+<p>In <a href="https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html?utm_source=7takeaways.com">Writing as a thinking tool</a>, Murat argues that writing externalizes thinking onto paper, which lets us think bigger thoughts. A model has read everything except what is in your brain, so <a href="https://7takeaways.com/5174">issue 301 of 7 Takeaways</a> says to think bigger thoughts before you open the chat.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>We talk as if we&#x27;re pursuing noble ideals — 7 Takeaways</title>
+      <link>https://www.everythingisbullshit.blog/p/pseudobeliefs?utm_source=7takeaways.com</link>
+      <guid isPermaLink="false">ba0a5a0f-d0e4-4f1f-9129-3c00ba11d03f</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:03 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <description>David Pinsof argues in Pseudobeliefs that we talk as if we&#x27;re pursuing truth, happiness, authenticity and equality because it sounds better than what we&#x27;re ultimately pursuing: status, power and moral superiority. 7 Takeaways No. 301 ends the takeaway with the action to examine your beliefs.</description>
+      <content:encoded><![CDATA[<p>David Pinsof argues in <a href="https://www.everythingisbullshit.blog/p/pseudobeliefs?utm_source=7takeaways.com">Pseudobeliefs</a> that we talk as if we&#x27;re pursuing truth, happiness, authenticity and equality because it sounds better than what we&#x27;re ultimately pursuing: status, power and moral superiority. <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> ends the takeaway with the action to examine your beliefs.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>CI Fast Lane — The Code</title>
+      <link>https://archive.codenewsletter.ai/2121990184816484483</link>
+      <guid isPermaLink="false">eaa3e3a8-caac-4e4f-93e0-82c67e651b3d</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:03 GMT</pubDate>
+      <category>Developer tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eaa3e3a8-caac-4e4f-93e0-82c67e651b3d.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eaa3e3a8-caac-4e4f-93e0-82c67e651b3d.png"/>
+      <description>Pontus Abrahamsson says his team&#x27;s frontend CI now finishes in under two minutes. His prompt keeps the full suite running before anything reaches main, in a merge queue.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eaa3e3a8-caac-4e4f-93e0-82c67e651b3d.png" alt="CI Fast Lane — The Code"/></p>
+<p>Pontus Abrahamsson says his team&#x27;s <a href="https://archive.codenewsletter.ai/2121990184816484483">frontend CI now finishes in under two minutes</a>. His prompt keeps the full suite running before anything reaches main, in a merge queue.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Chain Reaction — The Code</title>
+      <link>https://archive.codenewsletter.ai/2121804561996448005</link>
+      <guid isPermaLink="false">d83f7c9c-7411-41fe-bda5-991461e779e9</guid>
+      <pubDate>Mon, 16 Nov 2026 15:30:48 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d83f7c9c-7411-41fe-bda5-991461e779e9.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d83f7c9c-7411-41fe-bda5-991461e779e9.jpg"/>
+      <description>Darrell Dai, a robotics research engineer at NVIDIA, published a resignation letter on X on November 15, saying Jensen Huang&#x27;s departure led him to decide his own chapter there should close too. He credited Huang&#x27;s early bets on CUDA and robotics as important reasons he wanted to stay.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d83f7c9c-7411-41fe-bda5-991461e779e9.jpg" alt="Chain Reaction — The Code"/></p>
+<p>Darrell Dai, a robotics research engineer at NVIDIA, published a <a href="https://archive.codenewsletter.ai/2121804561996448005">resignation letter</a> on X on November 15, saying Jensen Huang&#x27;s departure led him to decide his own chapter there should close too. He credited Huang&#x27;s early bets on CUDA and robotics as important reasons he wanted to stay.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Missing Rung — The Code</title>
+      <link>https://archive.codenewsletter.ai/2121689817301819425</link>
+      <guid isPermaLink="false">7292c73b-957e-4e87-925b-7d06b0040b7b</guid>
+      <pubDate>Mon, 16 Nov 2026 15:30:47 GMT</pubDate>
+      <category>AI</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7292c73b-957e-4e87-925b-7d06b0040b7b.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7292c73b-957e-4e87-925b-7d06b0040b7b.png"/>
+      <description>Since ChatGPT launched in November 2022, US software developer employment has split by age, opening a 40-percentage-point gap between developers aged 22–25 and those aged 41–49, according to The Code&#x27;s item. The likely explanation is that AI tools now handle much of the routine work once given to juniors.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7292c73b-957e-4e87-925b-7d06b0040b7b.png" alt="Missing Rung — The Code"/></p>
+<p>Since ChatGPT launched in November 2022, US software developer employment has split by age, opening a 40-percentage-point gap between developers aged 22–25 and those aged 41–49, according to <a href="https://archive.codenewsletter.ai/2121689817301819425">The Code&#x27;s item</a>. The likely explanation is that AI tools now handle much of the routine work once given to juniors.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Trustworthy computations, even if your computer lies</title>
+      <link>https://www.lesswrong.com/posts/iA278crxXeePkvdtP/nullius-in-pixella-trustworthy-computations-even-if-your</link>
+      <guid isPermaLink="false">b404fcc8-36b0-4b4f-9533-7885511cc62e</guid>
+      <pubDate>Mon, 16 Nov 2026 15:30:44 GMT</pubDate>
+      <category>Thought-provoking ideas</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b404fcc8-36b0-4b4f-9533-7885511cc62e.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b404fcc8-36b0-4b4f-9533-7885511cc62e.png"/>
+      <description>Stacks of punched-paper stencils on a lightbox can verify even a SHA-256 hash within human-scale timeframes. Light shining through means an error; darkness means the gates pass.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b404fcc8-36b0-4b4f-9533-7885511cc62e.png" alt="Trustworthy computations, even if your computer lies"/></p>
+<p><a href="https://www.lesswrong.com/posts/iA278crxXeePkvdtP/nullius-in-pixella-trustworthy-computations-even-if-your">Stacks of punched-paper stencils</a> on a lightbox can verify even a SHA-256 hash within human-scale timeframes. Light shining through means an error; darkness means the gates pass.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Add a little friction back into your life — 7 Takeaways</title>
+      <link>https://nesslabs.com/newsletter/comfort-paradox?utm_source=7takeaways.com</link>
+      <guid isPermaLink="false">8d9fb8d1-b489-4bd7-8ef8-3fcb68110b50</guid>
+      <pubDate>Mon, 16 Nov 2026 15:30:39 GMT</pubDate>
+      <category>Productivity</category>
+      <description>Anne-Laure Le Cunff argues in The Comfort Paradox that we spend our lives trying to make everything easier, yet some of the things that make life worth living require difficulty. In 7 Takeaways issue 301, the takeaway ends with one action: consider whether some of the easy things in your life warrant a little more attention.</description>
+      <content:encoded><![CDATA[<p>Anne-Laure Le Cunff argues in <a href="https://nesslabs.com/newsletter/comfort-paradox?utm_source=7takeaways.com">The Comfort Paradox</a> that we spend our lives trying to make everything easier, yet some of the things that make life worth living require difficulty. In <a href="https://7takeaways.com/5174">7 Takeaways issue 301</a>, the takeaway ends with one action: consider whether some of the easy things in your life warrant a little more attention.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How to run an engineering team through Grok Bot</title>
+      <link>https://www.youtube.com/watch?v=_cVWs9pPFDI</link>
+      <guid isPermaLink="false">51c1e3db-da19-4ec1-aa3f-5d31ee6fa658</guid>
+      <pubDate>Mon, 16 Nov 2026 15:30:25 GMT</pubDate>
+      <category>Productivity tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/51c1e3db-da19-4ec1-aa3f-5d31ee6fa658.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/51c1e3db-da19-4ec1-aa3f-5d31ee6fa658.jpg"/>
+      <description>The Code&#x27;s November 16 edition highlights a tutorial in which a senior developer treats Grok as an orchestration layer for his open-source projects, splitting the work across specialized “crewmate” bots. A central First Mate coordinates the tasks and decisions, surfacing only the work that actually needs his attention.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/51c1e3db-da19-4ec1-aa3f-5d31ee6fa658.jpg" alt="How to run an engineering team through Grok Bot"/></p>
+<p>The Code&#x27;s November 16 edition highlights <a href="https://www.youtube.com/watch?v=_cVWs9pPFDI">a tutorial</a> in which a senior developer treats Grok as an orchestration layer for his open-source projects, splitting the work across specialized “crewmate” bots. A central First Mate coordinates the tasks and decisions, surfacing only the work that actually needs his attention.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Armand Hammer surprise-releases Snakes &amp; Ladders</title>
+      <link>https://www.mixtv1.com/index.php/2026/11/16/listen-to-this-armand-hammers-snakes-ladders/</link>
+      <guid isPermaLink="false">60ea3b7d-dea7-4b01-b699-a993436c7ba6</guid>
+      <pubDate>Mon, 16 Nov 2026 10:35:11 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60ea3b7d-dea7-4b01-b699-a993436c7ba6.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60ea3b7d-dea7-4b01-b699-a993436c7ba6.jpg"/>
+      <description>Armand Hammer, the duo of Billy Woods and Elucid, surprise-released Snakes &amp; Ladders today. Despite beats from eleven producers, it still holds together as one sound, all ominous noise, throbbing bass and saxophone bleats.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60ea3b7d-dea7-4b01-b699-a993436c7ba6.jpg" alt="Armand Hammer surprise-releases Snakes &amp; Ladders"/></p>
+<p>Armand Hammer, the duo of Billy Woods and Elucid, <a href="https://www.mixtv1.com/index.php/2026/11/16/listen-to-this-armand-hammers-snakes-ladders/">surprise-released Snakes &amp; Ladders</a> today. Despite beats from eleven producers, it still holds together as one sound, all ominous noise, throbbing bass and saxophone bleats.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nauctis Commander decks drop borderless commanders</title>
+      <link>https://mtginsider.com/mtg-nauctis-shrinkflation-commander-bundles-collector-boosters/</link>
+      <guid isPermaLink="false">1f110588-7613-47b8-b701-039633015cdc</guid>
+      <pubDate>Mon, 16 Nov 2026 04:35:57 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>The $49.99 Nauctis Commander decks no longer include a borderless commander. Borderless versions now sit in the Premium Edition, where all 100 cards are foil.</description>
+      <content:encoded><![CDATA[<p>The $49.99 Nauctis Commander decks <a href="https://mtginsider.com/mtg-nauctis-shrinkflation-commander-bundles-collector-boosters/">no longer include a borderless commander</a>. Borderless versions now sit in the Premium Edition, where all 100 cards are foil.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The universe&#x27;s first 2 billion years, recreated and still unexplained</title>
+      <link>https://dailygalaxy.com/2026/11/lumina-simulation-early-universe-galaxies/</link>
+      <guid isPermaLink="false">08ba3bd4-6c25-4e4d-b643-9a0be6429c3f</guid>
+      <pubDate>Mon, 16 Nov 2026 02:35:43 GMT</pubDate>
+      <category>Astronomy</category>
+      <description>Lumina covers more than 100 times the volume of comparable earlier simulations. It still produces fewer very massive galaxies than Webb has observed, and the gap grows the farther back researchers look.</description>
+      <content:encoded><![CDATA[<p><a href="https://dailygalaxy.com/2026/11/lumina-simulation-early-universe-galaxies/">Lumina</a> covers more than 100 times the volume of comparable earlier simulations. It still produces fewer very massive galaxies than Webb has observed, and the gap grows the farther back researchers look.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Quantum whirlpools caught unraveling in an ultracold gas</title>
+      <link>https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html</link>
+      <guid isPermaLink="false">85599201-b30f-4554-91f0-e91c288c5ae8</guid>
+      <pubDate>Mon, 16 Nov 2026 00:37:17 GMT</pubDate>
+      <category>Quantum physics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/85599201-b30f-4554-91f0-e91c288c5ae8.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/85599201-b30f-4554-91f0-e91c288c5ae8.jpg"/>
+      <description>For the first time, a Cambridge team directly watched vortices decay in a Bose-Einstein condensate, confirming the theory of Vinen turbulence. Denser tangles decayed faster, just as the theory predicts.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/85599201-b30f-4554-91f0-e91c288c5ae8.jpg" alt="Quantum whirlpools caught unraveling in an ultracold gas"/></p>
+<p>For the first time, a Cambridge team <a href="https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html">directly watched vortices decay in a Bose-Einstein condensate</a>, confirming the theory of Vinen turbulence. Denser tangles decayed faster, just as the theory predicts.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ghost particle under Antarctica has no identified source</title>
+      <link>https://www.abovethenormnews.com/2026/11/15/a-ghost-particle-detected-beneath-antarctica-has-no-identified-source/</link>
+      <guid isPermaLink="false">cbcf1af8-42dc-4284-aec7-e2aa37e3142b</guid>
+      <pubDate>Sun, 15 Nov 2026 22:38:08 GMT</pubDate>
+      <category>Strange but true</category>
+      <description>IceCube recorded a high-energy neutrino candidate beneath Antarctica on November 13 at 16:48:28 UTC. No known gamma-ray source from NASA&#x27;s Fermi catalogue lies in the search area.</description>
+      <content:encoded><![CDATA[<p>IceCube <a href="https://www.abovethenormnews.com/2026/11/15/a-ghost-particle-detected-beneath-antarctica-has-no-identified-source/">recorded a high-energy neutrino candidate</a> beneath Antarctica on November 13 at 16:48:28 UTC. No known gamma-ray source from NASA&#x27;s Fermi catalogue lies in the search area.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Star Trek Commander decks are out</title>
       <link>https://krakenthemeta.com/blog/mtg-star-trek-commander-decks/</link>
@@ -1074,258 +1347,6 @@
       <description>Anthropic&#x27;s new models generate outputs up to 30% faster than their 5.1 predecessors. Mythos 5.2 stays restricted to organizations approved through Anthropic&#x27;s cybersecurity and life-sciences verification programs, while Fable 5.2 is available more broadly.</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2809ab7b-68c8-4548-b817-3bed726a6a97.jpg" alt="Anthropic unveils Claude Fable 5.2 and Mythos 5.2"/></p>
 <p>Anthropic&#x27;s new models <a href="https://www.reuters.com/technology/anthropic-unveils-new-fable-mythos-models-competition-heats-up-ahead-ipo-2026-11-09/">generate outputs up to 30% faster</a> than their 5.1 predecessors. Mythos 5.2 stays restricted to organizations approved through Anthropic&#x27;s cybersecurity and life-sciences verification programs, while Fable 5.2 is available more broadly.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Day fires special-teams coordinator after nine games</title>
-      <link>https://www.elevenwarriors.com/ohio-state-football/2026/11/165294/ohio-state-fires-special-teams-coordinator-robby-discher-after-nine-games?PageSpeed=noscript</link>
-      <guid isPermaLink="false">faac8009-8e02-4939-9559-8376d38fe40e</guid>
-      <pubDate>Mon, 09 Nov 2026 19:33:44 GMT</pubDate>
-      <category>Ohio State football</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/faac8009-8e02-4939-9559-8376d38fe40e.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/faac8009-8e02-4939-9559-8376d38fe40e.jpg"/>
-      <description>The firing followed Saturday&#x27;s win for Oregon in Columbus, where a fake punt on fourth-and-9 kept a drive alive. Discher lasted nine games after being hired in January to fix Ohio State&#x27;s special teams.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/faac8009-8e02-4939-9559-8376d38fe40e.jpg" alt="Day fires special-teams coordinator after nine games"/></p>
-<p>The firing followed Saturday&#x27;s win for Oregon in Columbus, where a <a href="https://www.elevenwarriors.com/ohio-state-football/2026/11/165294/ohio-state-fires-special-teams-coordinator-robby-discher-after-nine-games?PageSpeed=noscript">fake punt</a> on fourth-and-9 kept a drive alive. Discher lasted nine games after being hired in January to fix Ohio State&#x27;s special teams.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>One hacker used 12 AI agents to steal Taipei dispatch records</title>
-      <link>https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html</link>
-      <guid isPermaLink="false">841cca2c-bad7-4d24-a861-0d7bec9b4b45</guid>
-      <pubDate>Mon, 09 Nov 2026 19:27:51 GMT</pubDate>
-      <category>AI security</category>
-      <description>A single attacker in Taiwan pulled emergency dispatch records covering seven Taipei districts using a setup called BOSSAI. Commercial models mostly refused to help with the attacks, so the agents ran on local models with their safety training removed.</description>
-      <content:encoded><![CDATA[<p>A single attacker in Taiwan <a href="https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html">pulled emergency dispatch records covering seven Taipei districts</a> using a setup called BOSSAI. Commercial models mostly refused to help with the attacks, so the agents ran on local models with their safety training removed.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Physicists create a supersolid at room temperature</title>
-      <link>https://journalarta.com/en/2026/11/09/quantum-state-room-temperature-supersolid-physicists/</link>
-      <guid isPermaLink="false">df447a5a-2149-4cc9-93f2-cd995cacb354</guid>
-      <pubDate>Mon, 09 Nov 2026 17:26:39 GMT</pubDate>
-      <category>Quantum physics</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/df447a5a-2149-4cc9-93f2-cd995cacb354.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/df447a5a-2149-4cc9-93f2-cd995cacb354.jpg"/>
-      <description>The team built it inside a liquid-crystal microcavity that can operate at temperatures approaching 60°C. Each laser pulse reformed the condensate with its crystal stripes landing in a different place, which researchers read as spontaneous symmetry breaking.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/df447a5a-2149-4cc9-93f2-cd995cacb354.jpg" alt="Physicists create a supersolid at room temperature"/></p>
-<p>The team built it inside a <a href="https://journalarta.com/en/2026/11/09/quantum-state-room-temperature-supersolid-physicists/">liquid-crystal microcavity</a> that can operate at temperatures approaching 60°C. Each laser pulse reformed the condensate with its crystal stripes landing in a different place, which researchers read as spontaneous symmetry breaking.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Weekly Music Update — November 9, 2026</title>
-      <link>https://music.apple.com/us/album/gl%C3%BCckliches-land-single/6823624961?uo=4</link>
-      <guid isPermaLink="false">3cd02533-f8bc-411b-bd9c-7642936f9cbd</guid>
-      <pubDate>Mon, 09 Nov 2026 15:38:23 GMT</pubDate>
-      <category>Music</category>
-      <description>New from your artists: NF&#x27;s Glückliches Land, single, released October 31, 2026; Future&#x27;s Ya Hit (feat. Drake, Travis Scott &amp; Loe Shimmy), single, released November 4, 2026; Joey Bada$$, Freddie Gibbs &amp; Duka&#x27;s Late Night Flow, single, released November 4, 2026. Critics&#x27; picks: Baby Osamaa&#x27;s On Tha Run, album, released October 28, 2026, Pitchfork Best New Music, reviewed November 4 (Pitchfork…</description>
-      <content:encoded><![CDATA[<p>New from your artists: NF&#x27;s <a href="https://music.apple.com/us/album/gl%C3%BCckliches-land-single/6823624961?uo=4">Glückliches Land</a>, single, released October 31, 2026; Future&#x27;s <a href="https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy-single/6831872688?uo=4">Ya Hit</a> (feat. Drake, Travis Scott &amp; Loe Shimmy), single, released November 4, 2026; Joey Bada$$, Freddie Gibbs &amp; Duka&#x27;s <a href="https://music.apple.com/us/album/late-night-flow-single/6830850736?uo=4">Late Night Flow</a>, single, released November 4, 2026. Critics&#x27; picks: Baby Osamaa&#x27;s <a href="https://www.qobuz.com/no-en/album/on-tha-run-baby-osamaa/rcv17ul82n5dp">On Tha Run</a>, album, released October 28, 2026, Pitchfork Best New Music, reviewed November 4 (Pitchfork 8.2); Django Django&#x27;s Doveland, album, released November 6, 2026, Metacritic 88; Shygirl&#x27;s SWALLOW!, album, released November 6, 2026, Metacritic 87.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic spends $3.4B on gas generators</title>
-      <link>https://www.theneuron.ai/news/anthropics-3-4-billion-power-deal-ai-data-centers/</link>
-      <guid isPermaLink="false">c5259d9f-ca89-4513-90c7-6a2f53b3f001</guid>
-      <pubDate>Mon, 09 Nov 2026 15:21:26 GMT</pubDate>
-      <category>Tech</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c5259d9f-ca89-4513-90c7-6a2f53b3f001.webp" type="image/webp" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c5259d9f-ca89-4513-90c7-6a2f53b3f001.webp"/>
-      <description>Anthropic reportedly agreed to spend $3.4 billion on gas-powered generators to power its AI data centers. It took over OnePWR Solutions&#x27; Caterpillar orders, placed years ago, rather than waiting years for new equipment.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c5259d9f-ca89-4513-90c7-6a2f53b3f001.webp" alt="Anthropic spends $3.4B on gas generators"/></p>
-<p>Anthropic reportedly <a href="https://www.theneuron.ai/news/anthropics-3-4-billion-power-deal-ai-data-centers/">agreed to spend $3.4 billion on gas-powered generators</a> to power its AI data centers. It took over OnePWR Solutions&#x27; Caterpillar orders, placed years ago, rather than waiting years for new equipment.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>King Ghidorah shows his three heads at last</title>
-      <link>https://movieweb.com/godzilla-minus-zero-ghidorah-images/</link>
-      <guid isPermaLink="false">dc07a471-3c5e-4efd-9478-1fe598b3b04f</guid>
-      <pubDate>Mon, 09 Nov 2026 14:29:24 GMT</pubDate>
-      <category>Horror movies</category>
-      <description>Godzilla Minus Zero opened wide Nov 6, taking $31.6M globally in its debut. On Nov 9, Toho released first official images of King Ghidorah, showing the monster in mature three-headed form.</description>
-      <content:encoded><![CDATA[<p>Godzilla Minus Zero opened wide Nov 6, taking $31.6M globally in its debut. On Nov 9, Toho released <a href="https://movieweb.com/godzilla-minus-zero-ghidorah-images/">first official images of King Ghidorah</a>, showing the monster in mature three-headed form.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Bills favored by 3 over Vikings on Monday night</title>
-      <link>https://vsin.com/nfl/bills-vs-vikings-predictions-week-9-monday-night-football-odds-picks-and-player-props/</link>
-      <guid isPermaLink="false">987698ae-d4fd-43a4-834c-f94eb18e3b0d</guid>
-      <pubDate>Mon, 09 Nov 2026 13:23:30 GMT</pubDate>
-      <category>NFL</category>
-      <description>The 6-1 Bills visit the 6-1 Vikings tonight at U.S. Bank Stadium, with kickoff at 8:20 ET on ESPN. Buffalo is a 3-point favorite.</description>
-      <content:encoded><![CDATA[<p>The <a href="https://vsin.com/nfl/bills-vs-vikings-predictions-week-9-monday-night-football-odds-picks-and-player-props/">6-1 Bills visit the 6-1 Vikings</a> tonight at U.S. Bank Stadium, with kickoff at 8:20 ET on ESPN. Buffalo is a 3-point favorite.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Picard gets a sinister new look in Magic&#x27;s Star Trek set</title>
-      <link>https://screenrant.com/star-trek-earth-mtg-warlord-picard/</link>
-      <guid isPermaLink="false">ba3c6a5d-f746-4c16-9154-24a399dc4b8b</guid>
-      <pubDate>Mon, 09 Nov 2026 11:11:06 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <description>General Picard, Earth Warlord turns the Confederation Picard from Star Trek: Picard season 2 into a muscle-bound warlord clutching a skull. The card is a Stardates reskin of Kenrith, the Returned King, a 5/5 legendary creature.</description>
-      <content:encoded><![CDATA[<p><a href="https://screenrant.com/star-trek-earth-mtg-warlord-picard/">General Picard, Earth Warlord</a> turns the Confederation Picard from Star Trek: Picard season 2 into a muscle-bound warlord clutching a skull. The card is a Stardates reskin of Kenrith, the Returned King, a 5/5 legendary creature.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>56.6 GiB holds a 284B model</title>
-      <link>https://dev.to/frankchu/566-gib-holds-a-284b-model-i-audited-the-64gb-cpu-claim-4oh6</link>
-      <guid isPermaLink="false">68736102-185c-4e1a-ac81-b66a03000e6d</guid>
-      <pubDate>Mon, 09 Nov 2026 09:14:18 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg"/>
-      <description>An independent audit verified the DeepSeek-V4-Flash file on Hugging Face at 56.60 GiB, matching llama-modchip&#x27;s 56.56 GiB claim to two decimal places. The honest speed is 9.06 tokens per second for lossless decode, with 14.7 only when speculative drafting helps.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/68736102-185c-4e1a-ac81-b66a03000e6d.jpg" alt="56.6 GiB holds a 284B model"/></p>
-<p>An <a href="https://dev.to/frankchu/566-gib-holds-a-284b-model-i-audited-the-64gb-cpu-claim-4oh6">independent audit</a> verified the DeepSeek-V4-Flash file on Hugging Face at 56.60 GiB, matching llama-modchip&#x27;s 56.56 GiB claim to two decimal places. The honest speed is 9.06 tokens per second for lossless decode, with 14.7 only when speculative drafting helps.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nvidia stock falls 4% after Jensen Huang probe</title>
-      <link>https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/</link>
-      <guid isPermaLink="false">b1697a6c-3616-4607-9b70-3c01260e20f2</guid>
-      <pubDate>Mon, 09 Nov 2026 07:39:24 GMT</pubDate>
-      <category>Stock market</category>
-      <description>Nvidia&#x27;s board opened an independent inquiry on Sunday into reports that Jensen Huang was targeted by a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised.</description>
-      <content:encoded><![CDATA[<p>Nvidia&#x27;s board opened an <a href="https://invezz.com/news/2026/11/09/nvidia-stock-jensen-huang-investigation/">independent inquiry</a> on Sunday into reports that Jensen Huang was targeted by a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Goldman limits Claude Code and GitHub to engineers</title>
-      <link>https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/</link>
-      <guid isPermaLink="false">d2758cb6-770c-48b4-8eb9-9f9483fdd9d0</guid>
-      <pubDate>Mon, 09 Nov 2026 05:07:45 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg"/>
-      <description>Goldman Sachs has restricted Claude Code and GitHub to its engineers after an October review of productivity and risk, cutting off most traders and bankers. Goldman is also a lead underwriter on Anthropic&#x27;s IPO, expected to list on Nasdaq before the end of November.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d2758cb6-770c-48b4-8eb9-9f9483fdd9d0.jpg" alt="Goldman limits Claude Code and GitHub to engineers"/></p>
-<p>Goldman Sachs has <a href="https://glonce.com/goldman-sachs-restricts-claude-code-and-github-to/">restricted Claude Code and GitHub to its engineers</a> after an October review of productivity and risk, cutting off most traders and bankers. Goldman is also a lead underwriter on Anthropic&#x27;s IPO, expected to list on Nasdaq before the end of November.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Jordan Love gives Patriots&#x27; $135 million corner nightmares</title>
-      <link>https://www.usatoday.com/story/sports/nfl/packers/2026/11/08/jordan-love-patriots-christian-gonzalez-matthew-golden/92683750007/</link>
-      <guid isPermaLink="false">ee043ea5-70bc-4c6b-b45e-8c85733015d5</guid>
-      <pubDate>Mon, 09 Nov 2026 03:11:32 GMT</pubDate>
-      <category>NFL</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg"/>
-      <description>Jordan Love threw for 372 yards against New England on Sunday, November 8. Patriots coach Mike Vrabel publicly criticized Christian Gonzalez afterward, saying the team expects a lot more from its best players.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ee043ea5-70bc-4c6b-b45e-8c85733015d5.jpg" alt="Jordan Love gives Patriots&#x27; $135 million corner nightmares"/></p>
-<p><a href="https://www.usatoday.com/story/sports/nfl/packers/2026/11/08/jordan-love-patriots-christian-gonzalez-matthew-golden/92683750007/">Jordan Love</a> threw for 372 yards against New England on Sunday, November 8. Patriots coach Mike Vrabel publicly criticized Christian Gonzalez afterward, saying the team expects a lot more from its best players.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>First signed Star Trek card pulled: a Patrick Stewart Picard</title>
-      <link>https://gamerant.com/magic-the-gathering-signed-card-patrick-stewart/</link>
-      <guid isPermaLink="false">9384491e-0c3a-45b4-b701-b583d0a2da03</guid>
-      <pubDate>Mon, 09 Nov 2026 02:34:49 GMT</pubDate>
-      <category>Daily digest</category>
-      <description>Meta Games Unlimited shared the pull of an autographed Captain Jean-Luc Picard, one of seven Signature Headliner cards with fewer than 250 copies of each, exclusive to Collector Boosters. It is Magic&#x27;s first-ever autographed card treatment.</description>
-      <content:encoded><![CDATA[<p>Meta Games Unlimited shared the pull of <a href="https://gamerant.com/magic-the-gathering-signed-card-patrick-stewart/">an autographed Captain Jean-Luc Picard, one of seven Signature Headliner cards with fewer than 250 copies of each, exclusive to Collector Boosters</a>. It is Magic&#x27;s first-ever autographed card treatment.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pilot of 20 years says UFOs flew in front of his plane</title>
-      <link>https://www.unilad.com/news/uk-news/pilot-speaks-out-as-he-claims-ufos-were-flying-in-front-of-plane-520698-20261108</link>
-      <guid isPermaLink="false">10e79327-86f1-475c-bfce-109b0dd6fdac</guid>
-      <pubDate>Mon, 09 Nov 2026 01:06:49 GMT</pubDate>
-      <category>High strangeness</category>
-      <description>Steve Frazer says the flashing orbs have appeared six or seven times since 2022, most recently in October 2026. The captain, with 27 years of commercial flying, says their speed ruled out a military refuelling aircraft.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.unilad.com/news/uk-news/pilot-speaks-out-as-he-claims-ufos-were-flying-in-front-of-plane-520698-20261108">Steve Frazer says the flashing orbs have appeared six or seven times since 2022</a>, most recently in October 2026. The captain, with 27 years of commercial flying, says their speed ruled out a military refuelling aircraft.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Saints hang on to beat Browns 23-22 in overtime</title>
-      <link>https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-hang-on-to-defeat-browns-in-overtime-23-22</link>
-      <guid isPermaLink="false">c1bacaee-7d58-4431-a764-710c57d193f8</guid>
-      <pubDate>Sun, 08 Nov 2026 23:07:18 GMT</pubDate>
-      <category>NFL</category>
-      <description>Cleveland went for the win in overtime, and Shedeur Sanders&#x27; two-point throw to Denzel Boston fell incomplete. Tyler Shough had opened overtime with a 15-yard touchdown pass to Juwan Johnson.</description>
-      <content:encoded><![CDATA[<p>Cleveland went for the win in overtime, and <a href="https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-hang-on-to-defeat-browns-in-overtime-23-22">Shedeur Sanders&#x27; two-point throw to Denzel Boston fell incomplete</a>. Tyler Shough had opened overtime with a 15-yard touchdown pass to Juwan Johnson.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic pushes ahead with pre-Thanksgiving IPO at lower valuation</title>
-      <link>https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/</link>
-      <guid isPermaLink="false">32058c72-1541-4dc3-9a09-4ef5f33d8fed</guid>
-      <pubDate>Sun, 08 Nov 2026 21:22:24 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32058c72-1541-4dc3-9a09-4ef5f33d8fed.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32058c72-1541-4dc3-9a09-4ef5f33d8fed.jpg"/>
-      <description>Investors cited by the Financial Times put Anthropic&#x27;s valuation at $1.25–1.75 trillion for its pre-Thanksgiving IPO. The company is pressing ahead despite the tech selloff, accepting a lower valuation.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32058c72-1541-4dc3-9a09-4ef5f33d8fed.jpg" alt="Anthropic pushes ahead with pre-Thanksgiving IPO at lower valuation"/></p>
-<p>Investors cited by the Financial Times put <a href="https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/">Anthropic&#x27;s valuation at $1.25–1.75 trillion</a> for its pre-Thanksgiving IPO. The company is pressing ahead despite the tech selloff, accepting a lower valuation.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Supersolid created at room temperature</title>
-      <link>https://www.sciencealert.com/?p=227450</link>
-      <guid isPermaLink="false">8f111986-ec3a-4ea6-98d0-c058e4c0bd5c</guid>
-      <pubDate>Sun, 08 Nov 2026 19:30:06 GMT</pubDate>
-      <category>Quantum physics</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8f111986-ec3a-4ea6-98d0-c058e4c0bd5c.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8f111986-ec3a-4ea6-98d0-c058e4c0bd5c.jpg"/>
-      <description>An international team created a supersolid in an exciton-polariton Bose-Einstein condensate at room temperature, in liquid-crystal microcavities that work at up to about 60°C (140°F) with no cryogenic fridge. With each laser pulse the condensate&#x27;s stripes reformed in slightly different places, evidence of spontaneous symmetry breaking rather than an artefact of the cavity.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8f111986-ec3a-4ea6-98d0-c058e4c0bd5c.jpg" alt="Supersolid created at room temperature"/></p>
-<p>An international team <a href="https://www.sciencealert.com/?p=227450">created a supersolid in an exciton-polariton Bose-Einstein condensate at room temperature</a>, in liquid-crystal microcavities that work at up to about 60°C (140°F) with no cryogenic fridge. With each laser pulse the condensate&#x27;s stripes reformed in slightly different places, evidence of spontaneous symmetry breaking rather than an artefact of the cavity.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Wellness is now a $2.7 trillion takeover</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends</link>
-      <guid isPermaLink="false">ea21daf3-cbf6-45bb-a3a1-caa5765afdf5</guid>
-      <pubDate>Sun, 08 Nov 2026 19:28:34 GMT</pubDate>
-      <category>Fitness &amp; biohacking</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea21daf3-cbf6-45bb-a3a1-caa5765afdf5.webp" type="image/webp" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea21daf3-cbf6-45bb-a3a1-caa5765afdf5.webp"/>
-      <description>McKinsey&#x27;s Future of Wellness 2027 puts the global wellness market at $2.7 trillion. Biohacking has left the fringe, with self-tracking, supplements, and protein-, creatine-, and fiber-maxxing now counted among its mainstream practices.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea21daf3-cbf6-45bb-a3a1-caa5765afdf5.webp" alt="Wellness is now a $2.7 trillion takeover"/></p>
-<p><a href="https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends">McKinsey&#x27;s Future of Wellness 2027</a> puts the global wellness market at $2.7 trillion. Biohacking has left the fringe, with self-tracking, supplements, and protein-, creatine-, and fiber-maxxing now counted among its mainstream practices.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>How Apple&#x27;s Personal Knowledge Graph learns about your life on Mac</title>
-      <link>https://forums.appleinsider.com/discussion/246466/how-apple-039-s-personal-knowledge-graph-learns-about-your-life-on-mac</link>
-      <guid isPermaLink="false">3abc22c8-8718-4863-b50a-71bb0a7572a9</guid>
-      <pubDate>Sun, 08 Nov 2026 17:26:22 GMT</pubDate>
-      <category>Tech</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3abc22c8-8718-4863-b50a-71bb0a7572a9.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3abc22c8-8718-4863-b50a-71bb0a7572a9.jpg"/>
-      <description>Eighth Rank&#x27;s breakdown shows macOS daemons have built a personal knowledge graph since macOS 13, scoring family ties from 144 behavioral signals. The graph stays on the device, behind Full Disk Access protection.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3abc22c8-8718-4863-b50a-71bb0a7572a9.jpg" alt="How Apple&#x27;s Personal Knowledge Graph learns about your life on Mac"/></p>
-<p><a href="https://forums.appleinsider.com/discussion/246466/how-apple-039-s-personal-knowledge-graph-learns-about-your-life-on-mac">Eighth Rank&#x27;s breakdown</a> shows macOS daemons have built a personal knowledge graph since macOS 13, scoring family ties from 144 behavioral signals. The graph stays on the device, behind Full Disk Access protection.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: The Lindley Paradox — Daily Learning</title>
-      <link>https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2111/2111.10191v2.pdf</link>
-      <guid isPermaLink="false">c77a7a2e-e6bf-4a86-826f-df39329158a2</guid>
-      <pubDate>Sun, 08 Nov 2026 15:27:47 GMT</pubDate>
-      <category>Statistics</category>
-      <description>Flip a coin 100,000 times and get 50,400 heads, and the test calls the result significant at p ≈ 0.01 even though the rate is only 50.4%. A Bayesian reading of those same flips says they fit a fair coin far better than any specific biased alternative, so with samples that large a p-value alone can mislead you.</description>
-      <content:encoded><![CDATA[<p>Flip a coin 100,000 times and get 50,400 heads, and the test calls the result significant at p ≈ 0.01 even though the rate is only 50.4%. A <a href="https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2111/2111.10191v2.pdf">Bayesian reading</a> of those same flips says they fit a fair coin far better than any specific biased alternative, so with samples that large a p-value alone can mislead you.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Dow futures open tonight with the market damaged</title>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/</link>
-      <guid isPermaLink="false">1cec29f8-aaba-4181-b466-5f5543c3a0bb</guid>
-      <pubDate>Sun, 08 Nov 2026 15:20:33 GMT</pubDate>
-      <category>Stock market</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1cec29f8-aaba-4181-b466-5f5543c3a0bb.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1cec29f8-aaba-4181-b466-5f5543c3a0bb.jpg"/>
-      <description>Dow Jones futures open at 6 PM ET Sunday, along with S&amp;P 500 and Nasdaq-100 futures. The Nasdaq plunged 3.4% last week.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1cec29f8-aaba-4181-b466-5f5543c3a0bb.jpg" alt="Dow futures open tonight with the market damaged"/></p>
-<p><a href="https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/">Dow Jones futures</a> open at 6 PM ET Sunday, along with S&amp;P 500 and Nasdaq-100 futures. The Nasdaq plunged 3.4% last week.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Electrons hit a space-time limit in the lab</title>
-      <link>https://www.byteseu.com/2505621/</link>
-      <guid isPermaLink="false">d5af9e77-e440-4956-931a-ba7768e04ab0</guid>
-      <pubDate>Sun, 08 Nov 2026 14:28:54 GMT</pubDate>
-      <category>Quantum physics</category>
-      <description>Ultrafast lasers at Regensburg and the Max Planck Institute in Hamburg caught electron motion lagging the light field by about 500 attoseconds. The authors say the insight could eventually lead to electronics operating hundreds of thousands of times faster than current CMOS technology, but that remains a long-term goal rather than a demonstrated device.</description>
-      <content:encoded><![CDATA[<p>Ultrafast lasers at Regensburg and the Max Planck Institute in Hamburg caught electron motion <a href="https://www.byteseu.com/2505621/">lagging the light field by about 500 attoseconds</a>. The authors say the insight could eventually lead to electronics operating hundreds of thousands of times faster than current CMOS technology, but that remains a long-term goal rather than a demonstrated device.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Alien leaves Netflix on Dec. 1</title>
-      <link>https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/</link>
-      <guid isPermaLink="false">aa01b239-9bfd-4155-902f-7d0da34b2c84</guid>
-      <pubDate>Sun, 08 Nov 2026 13:22:42 GMT</pubDate>
-      <category>Horror &amp; sci-fi</category>
-      <description>Alien leaves Netflix on December 1. Its sequel Aliens, directed by James Cameron, leaves the same day.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026/">Alien</a> leaves Netflix on December 1. Its sequel Aliens, directed by James Cameron, leaves the same day.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Browns +3 at Saints in New Orleans</title>
-      <link>https://www.bleachernation.com/picks/2026/11/05/saints-vs-browns-best-bets-picks-and-prediction-nov-8/</link>
-      <guid isPermaLink="false">59a23b01-c406-4765-9e4d-65b6145a50d6</guid>
-      <pubDate>Sun, 08 Nov 2026 11:11:12 GMT</pubDate>
-      <category>NFL</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg"/>
-      <description>Bleacher Nation calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/59a23b01-c406-4765-9e4d-65b6145a50d6.jpg" alt="Browns +3 at Saints in New Orleans"/></p>
-<p><a href="https://www.bleachernation.com/picks/2026/11/05/saints-vs-browns-best-bets-picks-and-prediction-nov-8/">Bleacher Nation</a> calls today&#x27;s 1 PM ET Browns-Saints game Browns 23, Saints 22. Cleveland is 5-3 against the spread this season.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
