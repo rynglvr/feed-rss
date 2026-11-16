@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 19:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:06:47 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Word of the Day: palimpsest - Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/palimpsest</link>
+      <guid isPermaLink="false">d5e57050-cd9c-46a1-8291-a78314dd9810</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:11 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Palimpsest (PAL-im-sest) is a noun for a manuscript page scraped clean and written over again, with traces of the earlier writing still showing through. A mind can be one too, a palimpsest of everything it has absorbed.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.merriam-webster.com/dictionary/palimpsest">Palimpsest</a> (PAL-im-sest) is a noun for a manuscript page scraped clean and written over again, with traces of the earlier writing still showing through. A mind can be one too, a palimpsest of everything it has absorbed.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Doomsday Argument — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Doomsday_argument</link>
+      <guid isPermaLink="false">17e23f0b-b225-48a9-a64b-88aae8360f87</guid>
+      <pubDate>Mon, 16 Nov 2026 15:31:05 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/17e23f0b-b225-48a9-a64b-88aae8360f87.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/17e23f0b-b225-48a9-a64b-88aae8360f87.png"/>
+      <description>If you count yourself as a randomly drawn human from everyone who will ever live, the Bayesian version puts humanity&#x27;s total under 2 trillion. The catch is that merely existing favors worlds with far more humans, so your rank may not be the random draw the math assumes.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/17e23f0b-b225-48a9-a64b-88aae8360f87.png" alt="Big Idea: The Doomsday Argument — Daily Learning"/></p>
+<p>If you count yourself as a randomly drawn human from everyone who will ever live, the <a href="https://en.wikipedia.org/wiki/Doomsday_argument">Bayesian version</a> puts humanity&#x27;s total under 2 trillion. The catch is that merely existing favors worlds with far more humans, so your rank may not be the random draw the math assumes.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Hierarchical Models and Partial Pooling — Daily Learning</title>
+      <link>https://r-statistics.co/Bayesian-Hierarchical-Models-in-R.html</link>
+      <guid isPermaLink="false">2e5259a2-3cd5-4e3c-9ac7-62ba378dad6e</guid>
+      <pubDate>Mon, 16 Nov 2026 15:29:07 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Partial pooling pulls each group&#x27;s estimate partway toward the overall average instead of judging groups alone or lumping them together, with the pull hardest for small samples. A rookie who went 2-for-3, at 67%, might land near 50% against a 45% team average while a veteran with 400 attempts barely moves, so an early hot streak should not be taken at face value.</description>
+      <content:encoded><![CDATA[<p><a href="https://r-statistics.co/Bayesian-Hierarchical-Models-in-R.html">Partial pooling</a> pulls each group&#x27;s estimate partway toward the overall average instead of judging groups alone or lumping them together, with the pull hardest for small samples. A rookie who went 2-for-3, at 67%, might land near 50% against a 45% team average while a veteran with 400 attempts barely moves, so an early hot streak should not be taken at face value.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Statistics: Markov Chain Monte Carlo (MCMC) — Daily Learning</title>
       <link>https://www.asingh.tech/blog/mcmc-intuition-algorithms-diagnostics</link>
@@ -350,7 +380,7 @@
       <content:encoded><![CDATA[<p>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the <a href="http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/">James–Stein idea</a>, a deliberately biased guess that usually lands closer to the truth over a full season.</p>]]></content:encoded>
     </item>
     <item>
-      <title>Word of the Day: quotidian - Daily Learning</title>
+      <title>Word of the Day: quotidian — Daily Learning</title>
       <link>https://www.dictionary.com/browse/quotidian</link>
       <guid isPermaLink="false">f3933d51-4a20-4f9c-8d03-b6b7ec64a320</guid>
       <pubDate>Tue, 03 Nov 2026 15:25:53 GMT</pubDate>
@@ -447,33 +477,6 @@
       <category>Daily Learning</category>
       <description>Flip a fair coin until heads appears, and the payout doubles with every toss you wait. Yet almost no one would pay much to play a game whose expected value is infinite.</description>
       <content:encoded><![CDATA[<p>Flip a <a href="https://sites.pitt.edu/~jdnorton/teaching/paradox/paradox_fall_2021/chapters/probability_for_decision/probability_for_decision.html">fair coin</a> until heads appears, and the payout doubles with every toss you wait. Yet almost no one would pay much to play a game whose expected value is infinite.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Collider Bias — Daily Learning</title>
-      <link>https://catalogofbias.org/biases/collider-bias/?fbclid=IwAR3EivaDMa3XcPPLPloKbSJwWnw5TURR8SsjccaDfHyY6Ct730gvfKGuWkM</link>
-      <guid isPermaLink="false">b6e75ac6-8db8-44d2-9ecf-bf14e0afd302</guid>
-      <pubDate>Fri, 30 Oct 2026 14:27:37 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>A collider is something two separate things can both cause, like admission to a hospital. Among hospital patients, two unrelated conditions can look negatively related, because admission required having at least one of them.</description>
-      <content:encoded><![CDATA[<p>A <a href="https://catalogofbias.org/biases/collider-bias/?fbclid=IwAR3EivaDMa3XcPPLPloKbSJwWnw5TURR8SsjccaDfHyY6Ct730gvfKGuWkM">collider</a> is something two separate things can both cause, like admission to a hospital. Among hospital patients, two unrelated conditions can look negatively related, because admission required having at least one of them.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: antediluvian — Daily Learning</title>
-      <link>https://en.wiktionary.org/wiki/antediluvian</link>
-      <guid isPermaLink="false">d9006e75-9d81-4b19-9384-86c77fc0856a</guid>
-      <pubDate>Fri, 30 Oct 2026 14:27:00 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>antediluvian (an-tee-dih-LOO-vee-un) is an adjective meaning, literally, from before the Flood in the biblical story and, figuratively, absurdly old-fashioned or out of date. That clunky old printer in the corner is practically antediluvian.</description>
-      <content:encoded><![CDATA[<p><a href="https://en.wiktionary.org/wiki/antediluvian">antediluvian</a> (an-tee-dih-LOO-vee-un) is an adjective meaning, literally, from before the Flood in the biblical story and, figuratively, absurdly old-fashioned or out of date. That clunky old printer in the corner is practically antediluvian.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: The Winner&#x27;s Curse — Daily Learning</title>
-      <link>https://www.investopedia.com/terms/w/winnerscurse.asp</link>
-      <guid isPermaLink="false">7f8b656a-b305-489c-96ee-2817565184da</guid>
-      <pubDate>Thu, 29 Oct 2026 14:29:03 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Winning an auction can be bad news: when everyone is guessing at one true value, the winner is usually the bidder whose guess ran highest. So shade your estimate back toward the average, and treat winning as a reason to be suspicious.</description>
-      <content:encoded><![CDATA[<p>Winning an auction can be bad news: when everyone is guessing at one true value, <a href="https://www.investopedia.com/terms/w/winnerscurse.asp">the winner is usually the bidder whose guess ran highest</a>. So shade your estimate back toward the average, and treat winning as a reason to be suspicious.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
