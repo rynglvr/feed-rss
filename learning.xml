@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:00:25 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Statistics: Expected Value of Information — Daily Learning</title>
+      <link>https://www.blackbearpt.com/blog/valueofinformation</link>
+      <guid isPermaLink="false">4cf8dc20-41cb-46d6-a85d-8988d45b1c29</guid>
+      <pubDate>Tue, 17 Nov 2026 15:30:42 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Information is worth only what it changes about your decision: if learning the answer would leave your action the same, it has no decision value for that choice. On a $50 call with a 40% chance of winning a $150 pot, a perfect read would be worth $30 on average, so a tell or solver study costing more than that is a skip.</description>
+      <content:encoded><![CDATA[<p>Information is <a href="https://www.blackbearpt.com/blog/valueofinformation">worth only what it changes about your decision</a>: if learning the answer would leave your action the same, it has no decision value for that choice. On a $50 call with a 40% chance of winning a $150 pot, a perfect read would be worth $30 on average, so a tell or solver study costing more than that is a skip.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: ultracrepidarian — Daily Learning</title>
+      <link>https://dictionary.cambridge.org/dictionary/english/ultracrepidarian?topic=expressing-and-asking-opinions</link>
+      <guid isPermaLink="false">3c784d99-4568-4f43-b429-258b364ca8b8</guid>
+      <pubDate>Tue, 17 Nov 2026 15:28:41 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Ultracrepidarian (ul-truh-krep-i-DAIR-ee-un) is an adjective, also used as a noun, for someone who gives opinions on a subject they know little or nothing about. The story goes that the painter Apelles, listening unseen as a cobbler rightly faulted a sandal with too few loops in his painting, fixed it, then told the emboldened cobbler, who moved on to criticising the subject&#x27;s leg, not to judge…</description>
+      <content:encoded><![CDATA[<p><a href="https://dictionary.cambridge.org/dictionary/english/ultracrepidarian?topic=expressing-and-asking-opinions">Ultracrepidarian</a> (ul-truh-krep-i-DAIR-ee-un) is an adjective, also used as a noun, for someone who gives opinions on a subject they know little or nothing about. The story goes that the painter Apelles, listening unseen as a cobbler rightly faulted a sandal with too few loops in his painting, fixed it, then told the emboldened cobbler, who moved on to criticising the subject&#x27;s leg, not to judge beyond his sandals.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Raven Paradox — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Raven_paradox</link>
+      <guid isPermaLink="false">5bb91ecd-6f40-48c8-a324-335ab365e6ef</guid>
+      <pubDate>Tue, 17 Nov 2026 15:28:05 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5bb91ecd-6f40-48c8-a324-335ab365e6ef.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5bb91ecd-6f40-48c8-a324-335ab365e6ef.jpg"/>
+      <description>In the raven paradox, “all ravens are black” is logically equivalent to “all non-black things are non-ravens,” so a white shoe counts as evidence for a claim about ravens. Under Bayesian thinking, a black raven tells you far more than a white shoe, because ravens are rare and non-black things are everywhere.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5bb91ecd-6f40-48c8-a324-335ab365e6ef.jpg" alt="Big Idea: The Raven Paradox — Daily Learning"/></p>
+<p>In <a href="https://en.wikipedia.org/wiki/Raven_paradox">the raven paradox</a>, “all ravens are black” is logically equivalent to “all non-black things are non-ravens,” so a white shoe counts as evidence for a claim about ravens. Under Bayesian thinking, a black raven tells you far more than a white shoe, because ravens are rare and non-black things are everywhere.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Word of the Day: palimpsest - Daily Learning</title>
       <link>https://www.merriam-webster.com/dictionary/palimpsest</link>
@@ -220,11 +250,8 @@
       <guid isPermaLink="false">232c8896-ea62-4320-9e55-af7d7424f8c8</guid>
       <pubDate>Mon, 09 Nov 2026 15:29:42 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/232c8896-ea62-4320-9e55-af7d7424f8c8.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/232c8896-ea62-4320-9e55-af7d7424f8c8.jpg"/>
       <description>The Münchhausen Trilemma says every attempt to justify a belief ends in an infinite regress of reasons, a circle in which the conclusion supports itself, or an arbitrary stopping point where you declare something true without proof. The honest move is to name your starting points, your priors, and let evidence move them when they fail.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/232c8896-ea62-4320-9e55-af7d7424f8c8.jpg" alt="Big Idea: The Münchhausen Trilemma — Daily Learning"/></p>
-<p>The <a href="https://the-philosophers-shirt.com/blogs/philosophical-dictionary/munchhausen-trilemma-explained-knowledge-justification-philosophy">Münchhausen Trilemma</a> says every attempt to justify a belief ends in an infinite regress of reasons, a circle in which the conclusion supports itself, or an arbitrary stopping point where you declare something true without proof. The honest move is to name your starting points, your priors, and let evidence move them when they fail.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>The <a href="https://the-philosophers-shirt.com/blogs/philosophical-dictionary/munchhausen-trilemma-explained-knowledge-justification-philosophy">Münchhausen Trilemma</a> says every attempt to justify a belief ends in an infinite regress of reasons, a circle in which the conclusion supports itself, or an arbitrary stopping point where you declare something true without proof. The honest move is to name your starting points, your priors, and let evidence move them when they fail.</p>]]></content:encoded>
     </item>
     <item>
       <title>Statistics: The Law of Large Numbers — Daily Learning</title>
@@ -380,7 +407,7 @@
       <content:encoded><![CDATA[<p>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the <a href="http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/">James–Stein idea</a>, a deliberately biased guess that usually lands closer to the truth over a full season.</p>]]></content:encoded>
     </item>
     <item>
-      <title>Word of the Day: quotidian — Daily Learning</title>
+      <title>Word of the Day: quotidian - Daily Learning</title>
       <link>https://www.dictionary.com/browse/quotidian</link>
       <guid isPermaLink="false">f3933d51-4a20-4f9c-8d03-b6b7ec64a320</guid>
       <pubDate>Tue, 03 Nov 2026 15:25:53 GMT</pubDate>
@@ -450,33 +477,6 @@
       <category>Daily Learning</category>
       <description>Statistical power is the chance a test actually catches a real effect when one is there. A genuine betting edge takes around 1,600 bets before its typical range stops including zero.</description>
       <content:encoded><![CDATA[<p>Statistical power is the chance a test actually <a href="https://www.statology.org/why-understanding-statistical-power-is-crucial-for-researchers/">catches a real effect</a> when one is there. A <a href="https://betamigos.io/blog/variance-sample-size-how-many-bets">genuine betting edge</a> takes around 1,600 bets before its typical range stops including zero.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Anthropic Principle — Daily Learning</title>
-      <link>https://en.wikipedia.org/wiki/Anthropic_principle</link>
-      <guid isPermaLink="false">3d8c076b-aa25-4156-a04f-ec5b5de1f2b4</guid>
-      <pubDate>Sat, 31 Oct 2026 14:27:08 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Only a universe that lets observers exist can ever be observed, so one that looks finely tuned for life is less surprising than it first seems. If a vast ensemble of universes varies its parameters, most of them uninhabited and unobserved, we would naturally find ourselves in one of the exceptional ones.</description>
-      <content:encoded><![CDATA[<p>Only a <a href="https://en.wikipedia.org/wiki/Anthropic_principle">universe that lets observers exist</a> can ever be observed, so one that looks finely tuned for life is less surprising than it first seems. If a vast ensemble of universes varies its parameters, most of them uninhabited and unobserved, we would naturally find ourselves in one of the exceptional ones.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: consilience — Daily Learning</title>
-      <link>https://en.wikipedia.org/wiki/Consilience</link>
-      <guid isPermaLink="false">5f0698a1-ad8d-4318-9af2-de9fe8990362</guid>
-      <pubDate>Sat, 31 Oct 2026 14:26:42 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Consilience (kon-SIL-ee-ence) is a noun for the unity of knowledge, when independent lines of evidence from different fields converge on the same conclusion and make it much stronger than any one line alone. That consilience shows in fossils, genetics, and geology all pointing to the same story of evolution.</description>
-      <content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Consilience">Consilience</a> (kon-SIL-ee-ence) is a noun for the unity of knowledge, when independent lines of evidence from different fields converge on the same conclusion and make it much stronger than any one line alone. That consilience shows in fossils, genetics, and geology all pointing to the same story of evolution.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The St. Petersburg Paradox — Daily Learning</title>
-      <link>https://sites.pitt.edu/~jdnorton/teaching/paradox/paradox_fall_2021/chapters/probability_for_decision/probability_for_decision.html</link>
-      <guid isPermaLink="false">c0e0f84c-624e-47d9-929e-fa9cff7ef630</guid>
-      <pubDate>Fri, 30 Oct 2026 14:28:47 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Flip a fair coin until heads appears, and the payout doubles with every toss you wait. Yet almost no one would pay much to play a game whose expected value is infinite.</description>
-      <content:encoded><![CDATA[<p>Flip a <a href="https://sites.pitt.edu/~jdnorton/teaching/paradox/paradox_fall_2021/chapters/probability_for_decision/probability_for_decision.html">fair coin</a> until heads appears, and the payout doubles with every toss you wait. Yet almost no one would pay much to play a game whose expected value is infinite.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
