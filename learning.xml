@@ -5,8 +5,35 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:04:40 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: The Sorites Paradox — Daily Learning</title>
+      <link>https://plato.stanford.edu/entries/sorites-paradox/</link>
+      <guid isPermaLink="false">b05fd3cf-7ff1-4e34-b229-0edec920ef63</guid>
+      <pubDate>Wed, 18 Nov 2026 15:29:31 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Revisiting the heap, one grain of sand is not a heap and a million grains clearly is, yet adding one grain to a non-heap supposedly cannot make it one. In the Sorites paradox, the fault is the vague word “heap,” which admits borderline cases and no sharp cut-off, the same looseness behind any line drawn on a gradual change.</description>
+      <content:encoded><![CDATA[<p>Revisiting the heap, one grain of sand is not a heap and a million grains clearly is, yet adding one grain to a non-heap supposedly cannot make it one. In the <a href="https://plato.stanford.edu/entries/sorites-paradox/">Sorites paradox</a>, the fault is the vague word “heap,” which admits borderline cases and no sharp cut-off, the same looseness behind any line drawn on a gradual change.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: sempiternal - Daily Learning</title>
+      <link>https://dictionary.cambridge.org/us/dictionary/english/sempiternal?topic=continuous-and-permanent</link>
+      <guid isPermaLink="false">12061c60-d35f-4d7b-9afa-b9c25ff13d69</guid>
+      <pubDate>Wed, 18 Nov 2026 15:29:05 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Sempiternal (sem-pi-TER-nul) is an adjective meaning everlasting, existing forever without beginning or end in the general sense. Many debates about freedom boil down to the sempiternal question of man&#x27;s responsibility to himself versus his responsibility to society.</description>
+      <content:encoded><![CDATA[<p><a href="https://dictionary.cambridge.org/us/dictionary/english/sempiternal?topic=continuous-and-permanent">Sempiternal</a> (sem-pi-TER-nul) is an adjective meaning everlasting, existing forever without beginning or end in the general sense. Many debates about freedom boil down to the sempiternal question of man&#x27;s responsibility to himself versus his responsibility to society.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Calibration — Daily Learning</title>
+      <link>https://altstreet.investments/reference/mechanics/forecast-calibration</link>
+      <guid isPermaLink="false">d9e5d679-9ae0-437d-a1f7-a82b90ecf67f</guid>
+      <pubDate>Wed, 18 Nov 2026 15:28:57 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>A bettor pricing 100 bets at 60% should win about 60 of them, so 45 wins means the price was too high. Checking it means sorting predictions into buckets by the probability you stated and comparing each bucket&#x27;s actual hit rate with its stated number, to see whether you are calibrated.</description>
+      <content:encoded><![CDATA[<p>A bettor pricing 100 bets at 60% should win about 60 of them, so 45 wins means the price was too high. Checking it means sorting predictions into buckets by the probability you stated and comparing each bucket&#x27;s actual hit rate with its stated number, to see whether you are <a href="https://altstreet.investments/reference/mechanics/forecast-calibration">calibrated</a>.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Statistics: Expected Value of Information — Daily Learning</title>
       <link>https://www.blackbearpt.com/blog/valueofinformation</link>
@@ -217,11 +244,8 @@
       <guid isPermaLink="false">d258fe43-133b-4202-8740-6c098c41efc8</guid>
       <pubDate>Tue, 10 Nov 2026 15:30:00 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg"/>
       <description>In a 2009 paper on experiments around the world, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d258fe43-133b-4202-8740-6c098c41efc8.jpg" alt="Big Idea: The Ultimatum Game — Daily Learning"/></p>
-<p>In a 2009 paper on <a href="http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/">experiments around the world</a>, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>In a 2009 paper on <a href="http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/">experiments around the world</a>, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</p>]]></content:encoded>
     </item>
     <item>
       <title>Word of the Day: sonder — Daily Learning</title>
@@ -229,11 +253,8 @@
       <guid isPermaLink="false">f3cecbd1-2bb9-4000-b3ee-20b8beed48c9</guid>
       <pubDate>Tue, 10 Nov 2026 15:28:56 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg"/>
       <description>In Holstee&#x27;s 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f3cecbd1-2bb9-4000-b3ee-20b8beed48c9.jpg" alt="Word of the Day: sonder — Daily Learning"/></p>
-<p>In <a href="https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p">Holstee&#x27;s</a> 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware of the whole invisible life behind that windshield.”</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>In <a href="https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p">Holstee&#x27;s</a> 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware of the whole invisible life behind that windshield.”</p>]]></content:encoded>
     </item>
     <item>
       <title>Statistics: The Prosecutor&#x27;s Fallacy — Daily Learning</title>
@@ -450,33 +471,6 @@
       <category>Daily Learning</category>
       <description>Cross-validation is the habit of testing a model on data it has not seen before it earns trust. Five groups, four for training and one held out in turn, expose overfitting before real money or real decisions are on the line.</description>
       <content:encoded><![CDATA[<p><a href="https://codelabsacademy.com/en/blog/cross-validation-techniques-ml-models-2026/">Cross-validation</a> is the habit of testing a model on data it has not seen before it earns trust. Five groups, four for training and one held out in turn, expose overfitting before real money or real decisions are on the line.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Experience Machine — Daily Learning</title>
-      <link>https://philosophybreak.com/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in</link>
-      <guid isPermaLink="false">38cf827a-ab7c-4589-a069-2c473c0fe31c</guid>
-      <pubDate>Sun, 01 Nov 2026 15:26:21 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In 1974, Robert Nozick imagined a machine that could give you any experience you desired, while you floated in a tank with electrodes attached to your brain and never knew you were there. He thought most people would refuse it, because we want to actually do things and stay in contact with reality.</description>
-      <content:encoded><![CDATA[<p>In 1974, Robert Nozick imagined <a href="https://philosophybreak.com/articles/nozick-experience-machine-vs-hedonism-should-you-plug-in">a machine that could give you any experience you desired</a>, while you floated in a tank with electrodes attached to your brain and never knew you were there. He thought most people would refuse it, because we want to actually do things and stay in contact with reality.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: ineluctable — Daily Learning</title>
-      <link>https://www.merriam-webster.com/dictionary/ineluctable</link>
-      <guid isPermaLink="false">b00801b0-4290-4d3e-825b-7a670d26e6c9</guid>
-      <pubDate>Sun, 01 Nov 2026 15:25:54 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Ineluctable (in-ih-LUK-tuh-buhl) is an adjective meaning impossible to avoid or escape. “Once the data leaked, the ineluctable conclusion was that the model had memorized part of its training set.”</description>
-      <content:encoded><![CDATA[<p><a href="https://www.merriam-webster.com/dictionary/ineluctable">Ineluctable</a> (in-ih-LUK-tuh-buhl) is an adjective meaning impossible to avoid or escape. “Once the data leaked, the ineluctable conclusion was that the model had memorized part of its training set.”</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Statistical Power — Daily Learning</title>
-      <link>https://www.statology.org/why-understanding-statistical-power-is-crucial-for-researchers/</link>
-      <guid isPermaLink="false">eaf85081-1a00-4707-a537-46fd7f6a56ab</guid>
-      <pubDate>Sat, 31 Oct 2026 14:27:50 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Statistical power is the chance a test actually catches a real effect when one is there. A genuine betting edge takes around 1,600 bets before its typical range stops including zero.</description>
-      <content:encoded><![CDATA[<p>Statistical power is the chance a test actually <a href="https://www.statology.org/why-understanding-statistical-power-is-crucial-for-researchers/">catches a real effect</a> when one is there. A <a href="https://betamigos.io/blog/variance-sample-size-how-many-bets">genuine betting edge</a> takes around 1,600 bets before its typical range stops including zero.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
