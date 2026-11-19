@@ -5,8 +5,182 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 19:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:00:37 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SRSF1 stretched aged mice&#x27;s median lifespan 14%</title>
+      <link>https://www.bio-itworld.com/news/2026/11/19/researchers-tapping-the-genome-to-extend-life-and-reverse-disease</link>
+      <guid isPermaLink="false">47549e78-d19d-46b7-83aa-9ee83426a2bd</guid>
+      <pubDate>Thu, 19 Nov 2026 16:36:16 GMT</pubDate>
+      <category>Biohacking</category>
+      <description>A single injection of a liver-targeting virus carried SRSF1 into aged mice. Unlike the Yamanaka factors, it rejuvenated cells without changing their identity.</description>
+      <content:encoded><![CDATA[<p>A <a href="https://www.bio-itworld.com/news/2026/11/19/researchers-tapping-the-genome-to-extend-life-and-reverse-disease">single injection of a liver-targeting virus</a> carried SRSF1 into aged mice. Unlike the Yamanaka factors, it rejuvenated cells without changing their identity.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>JWST caught a signal hunted for 40 years</title>
+      <link>https://dailygalaxy.com/2026/11/jwst-detects-forbidden-signal/</link>
+      <guid isPermaLink="false">0c842728-3982-41b0-a2b8-6f8e50a02fa4</guid>
+      <pubDate>Thu, 19 Nov 2026 15:34:18 GMT</pubDate>
+      <category>Astronomy</category>
+      <description>JWST&#x27;s MIRI detected the forbidden rotational emission of the trihydrogen cation H3+ toward HH 168, finding 26 lines. Predicted in 1986, it had never been seen in space or in a lab.</description>
+      <content:encoded><![CDATA[<p><a href="https://dailygalaxy.com/2026/11/jwst-detects-forbidden-signal/">JWST&#x27;s MIRI detected the forbidden rotational emission of the trihydrogen cation H3+ toward HH 168</a>, finding 26 lines. Predicted in 1986, it had never been seen in space or in a lab.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Astra Review — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">15aa3c8e-1280-41fc-98a8-c338eabf2d5d</guid>
+      <pubDate>Thu, 19 Nov 2026 15:31:57 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>From The Code (Nov 19, 2026), Astra Review: A senior dev ran GPT 6.2 Astra and Sol on real projects for a full day. He made two changes to his setup and says one feels ‘like pure magic’ (1.2K likes).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123099377946546491">Astra Review</a>: A senior dev ran GPT 6.2 Astra and Sol on real projects for a full day. He made two changes to his setup and says one feels ‘like pure magic’ (1.2K likes).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How to turn your coding agent into a self-running software factory</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">d1416f28-6d5e-4153-896c-758faefeff83</guid>
+      <pubDate>Thu, 19 Nov 2026 15:31:26 GMT</pubDate>
+      <category>Developer tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d1416f28-6d5e-4153-896c-758faefeff83.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d1416f28-6d5e-4153-896c-758faefeff83.jpg"/>
+      <description>From The Code (Nov 19, 2026), this tutorial shows how to use CodeDen to move from a single coding agent to a full “dark factory.” You’ll learn how to orchestrate multiple agents, turn GitHub issues into reviewed pull requests, add automated code review, and eventually let the whole workflow find, build, verify, and merge work on its own.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d1416f28-6d5e-4153-896c-758faefeff83.jpg" alt="How to turn your coding agent into a self-running software factory"/></p>
+<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://www.youtube.com/watch?v=etrC9bplAbA">this tutorial</a> shows how to use CodeDen to move from a single coding agent to a full “dark factory.” You’ll learn how to orchestrate multiple agents, turn GitHub issues into reviewed pull requests, add automated code review, and eventually let the whole workflow find, build, verify, and merge work on its own.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Weak Boundary — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">0720b39e-54d4-4c32-bd73-6827534aed14</guid>
+      <pubDate>Thu, 19 Nov 2026 15:31:03 GMT</pubDate>
+      <category>Cybersecurity</category>
+      <description>From The Code (Nov 19, 2026), Weak Boundary: An AI agent startup&#x27;s engineering head argues prompt-injection filters alone can&#x27;t secure agents. He posted the three-layer defense he uses instead (1.8K bookmarks).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123085537754157375">Weak Boundary</a>: An AI agent startup&#x27;s engineering head argues prompt-injection filters alone can&#x27;t secure agents. He posted the three-layer defense he uses instead (1.8K bookmarks).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Block Earth — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">b2fefa46-0683-4a8a-a1c2-860380df34ab</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:58 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>From The Code (Nov 19, 2026) Block Earth: A dev recreated the entire planet in Minecraft at 1:1 scale, furnished interiors included. Type your real address and walk through your own neighborhood (20M views).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a> <a href="https://archive.codenewsletter.ai/2122416145517117463">Block Earth</a>: A dev recreated the entire planet in Minecraft at 1:1 scale, furnished interiors included. Type your real address and walk through your own neighborhood (20M views).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Devin Bots — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">70726a8b-c95f-4102-9798-6624ce793c5d</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:54 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>From The Code (Nov 19, 2026), Devin Bots: Give one bot a goal, and it spins up a team of Devin agents to plan, build, test, review, and push the work toward a merge-ready PR. It can split jobs across parallel cloud machines, watch Slack or Linear for new work, run on schedules, and only pull you in when a decision actually needs you.</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://devin.ai/bots">Devin Bots</a>: Give one bot a goal, and it spins up a team of Devin agents to plan, build, test, review, and push the work toward a merge-ready PR. It can split jobs across parallel cloud machines, watch Slack or Linear for new work, run on schedules, and only pull you in when a decision actually needs you.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Hot Take — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">345d4c9b-320c-4c6e-931d-348e950bc4f6</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:31 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>From The Code (Nov 19, 2026) Hot Take: An OpenCode developer deleted his entire test suite and banned his AI agents from writing more. His justification set off a brawl in the replies (1.2K likes).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a><br/><a href="https://archive.codenewsletter.ai/2122812034584641662">Hot Take</a>: An OpenCode developer deleted his entire test suite and banned his AI agents from writing more. His justification set off a brawl in the replies (1.2K likes).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Magical AirDrop — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">80b63d74-79c7-478d-95e7-f4028e3d9442</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:28 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>From The Code (Nov 19, 2026), Magical AirDrop: Devs are obsessed with this demo that an engineer vibe-coded with GPT 6.2 Astra. Pinch a photo off your iPhone, open your hand, and see where you land (2.6K likes).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123045064280571987">Magical AirDrop</a>: Devs are obsessed with this demo that an engineer vibe-coded with GPT 6.2 Astra. Pinch a photo off your iPhone, open your hand, and see where you land (2.6K likes).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How to build proactive agents that get better over time — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">c693cf4e-4557-44e9-a4f2-abc53ac6d10d</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:10 GMT</pubDate>
+      <category>Developer tools</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c693cf4e-4557-44e9-a4f2-abc53ac6d10d.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c693cf4e-4557-44e9-a4f2-abc53ac6d10d.jpg"/>
+      <description>From The Code (Nov 19, 2026) How to build proactive agents that get better over time (by LangChain): This guide breaks down what changes when agents stop waiting for prompts and start working toward goals on their own. You&#x27;ll learn how to design triggers, memory, and review UX so agents know when to act, what to remember, and when something is actually worth interrupting you for.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c693cf4e-4557-44e9-a4f2-abc53ac6d10d.jpg" alt="How to build proactive agents that get better over time — The Code"/></p>
+<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a> <a href="https://archive.codenewsletter.ai/2122734341516345836">How to build proactive agents that get better over time (by LangChain):</a> This guide breaks down what changes when agents stop waiting for prompts and start working toward goals on their own. You&#x27;ll learn how to design triggers, memory, and review UX so agents know when to act, what to remember, and when something is actually worth interrupting you for.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Launch Audit — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">8abfbf29-bfa1-47a8-8de6-0c8f07dfe030</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:05 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>From The Code (Nov 19, 2026) Launch Audit: A backend engineer spent an hour on a friend&#x27;s vibe-coded app before launch. What he found made the owner rotate every credential that same night (2M views).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a><br/><a href="https://archive.codenewsletter.ai/2123062312617804096">Launch Audit</a>: A backend engineer spent an hour on a friend&#x27;s vibe-coded app before launch. What he found made the owner rotate every credential that same night (2M views).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>One-Way Door — The Code</title>
+      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
+      <guid isPermaLink="false">fd11a8e9-8918-4785-9edc-8200abd5bee8</guid>
+      <pubDate>Thu, 19 Nov 2026 15:29:16 GMT</pubDate>
+      <category>Developer tools</category>
+      <description>From The Code (Nov 19, 2026), One-Way Door: A senior engineer spent days talking to devs in London and posted his field notes on agent adoption. His sharpest claim is that those who truly switch never go back (1.4K likes).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123125155568435654">One-Way Door</a>: A senior engineer spent days talking to devs in London and posted his field notes on agent adoption. His sharpest claim is that those who truly switch never go back (1.4K likes).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Quantum microscope reads atoms&#x27; spins in color in one shot</title>
+      <link>https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html</link>
+      <guid isPermaLink="false">87743ebd-d916-4874-a002-94f02fd713c1</guid>
+      <pubDate>Thu, 19 Nov 2026 10:35:03 GMT</pubDate>
+      <category>Quantum physics</category>
+      <description>ICFO researchers imaged individual strontium-87 atoms and distinguished all ten of their spin states in a single experimental run. A laser tuned to strontium&#x27;s red narrow-line transition excites only one spin state at a time, so each state fluoresces in its own color while the other nine stay dark.</description>
+      <content:encoded><![CDATA[<p><a href="https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html">ICFO researchers</a> imaged individual strontium-87 atoms and distinguished all ten of their spin states in a single experimental run. A laser tuned to strontium&#x27;s red narrow-line transition excites only one spin state at a time, so each state fluoresces in its own color while the other nine stay dark.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Daily movement beats age as a longevity predictor</title>
+      <link>https://www.zzdsport.com/want-to-live-longer-you-better-start-movingall-day-long-4049.htm</link>
+      <guid isPermaLink="false">a736ebbe-e7a2-49f7-8577-a970f34e3fe8</guid>
+      <pubDate>Thu, 19 Nov 2026 04:36:44 GMT</pubDate>
+      <category>Biohacking</category>
+      <description>A study of 3,600 adults found that daily movement, measured by a wrist tracker, predicted longevity better than age, diabetes or heart disease. The catch is that consumer wearables report proprietary activity scores, so it is unclear whether those scores carry the same predictive value as the raw data the researchers used.</description>
+      <content:encoded><![CDATA[<p>A study of 3,600 adults found that daily movement, measured by a wrist tracker, <a href="https://www.zzdsport.com/want-to-live-longer-you-better-start-movingall-day-long-4049.htm">predicted longevity better than age, diabetes or heart disease</a>. The catch is that consumer wearables report proprietary activity scores, so it is unclear whether those scores carry the same predictive value as the raw data the researchers used.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Offset says GMFU grew out of media torment</title>
+      <link>https://www.dancehallmag.com/2026/11/18/features/interviews/offset-says-gmfu-grew-out-of-media-torment-confirms-more-music-with-quavo.html</link>
+      <guid isPermaLink="false">f1524eab-8393-49b3-ba05-b9b48d2c3738</guid>
+      <pubDate>Thu, 19 Nov 2026 02:37:24 GMT</pubDate>
+      <category>Hip hop</category>
+      <description>Offset confirmed more music with Quavo is coming, calling their chemistry “the magic sauce” and the sessions “just joyful.” GMFU is out now on vinyl, CD and digital platforms.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.dancehallmag.com/2026/11/18/features/interviews/offset-says-gmfu-grew-out-of-media-torment-confirms-more-music-with-quavo.html">Offset confirmed more music with Quavo is coming</a>, calling their chemistry “the magic sauce” and the sessions “just joyful.” GMFU is out now on vinyl, CD and digital platforms.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Alfred 6 is here</title>
+      <link>https://www.alfredapp.com/blog/announcements/alfred-6-is-here/</link>
+      <guid isPermaLink="false">11328170-de65-43da-b7d2-311d6a0a36a4</guid>
+      <pubDate>Thu, 19 Nov 2026 00:36:51 GMT</pubDate>
+      <category>Productivity</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/11328170-de65-43da-b7d2-311d6a0a36a4.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/11328170-de65-43da-b7d2-311d6a0a36a4.png"/>
+      <description>Alfred 6 is out today for macOS. Its new Alfred UI toolkit lets workflow creators build native macOS interfaces.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/11328170-de65-43da-b7d2-311d6a0a36a4.png" alt="Alfred 6 is here"/></p>
+<p><a href="https://www.alfredapp.com/blog/announcements/alfred-6-is-here/">Alfred 6</a> is out today for macOS. Its new Alfred UI toolkit lets workflow creators build native macOS interfaces.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Garfield plays Sam Altman in Artificial&#x27;s new trailer</title>
+      <link>https://thefilmstage.com/artificial-trailer-andrew-garfield-shapes-the-future-in-luca-guadagninos-tech-horror-story/</link>
+      <guid isPermaLink="false">7c86dba3-b478-4cb7-b56b-4537e0d80d7b</guid>
+      <pubDate>Wed, 18 Nov 2026 22:36:33 GMT</pubDate>
+      <category>Horror movies</category>
+      <description>Luca Guadagnino&#x27;s Artificial reaches theaters starting Christmas Day. The new trailer casts Andrew Garfield as OpenAI chief Sam Altman, with Yura Borisov as co-founder Ilya Sutskever.</description>
+      <content:encoded><![CDATA[<p>Luca Guadagnino&#x27;s <a href="https://thefilmstage.com/artificial-trailer-andrew-garfield-shapes-the-future-in-luca-guadagninos-tech-horror-story/">Artificial</a> reaches theaters starting Christmas Day. The new trailer casts Andrew Garfield as OpenAI chief Sam Altman, with Yura Borisov as co-founder Ilya Sutskever.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Homo erectus lived in rainforests as recently as 184,000 years ago</title>
+      <link>https://www.cnn.com/2026/11/18/science/teeth-homo-erectus-china?cid=external-feeds_iluminar_meta</link>
+      <guid isPermaLink="false">69865482-d6be-4958-8478-0bb45f3de603</guid>
+      <pubDate>Wed, 18 Nov 2026 20:37:33 GMT</pubDate>
+      <category>Human origins</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/69865482-d6be-4958-8478-0bb45f3de603.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/69865482-d6be-4958-8478-0bb45f3de603.jpg"/>
+      <description>Strontium in the tooth enamel suggests some individuals ranged up to 250 kilometers through forested karst while their teeth were forming. A ninth tooth fits neither Homo erectus, Homo sapiens nor Neanderthals, hinting it may be Denisovan or a hybrid.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/69865482-d6be-4958-8478-0bb45f3de603.jpg" alt="Homo erectus lived in rainforests as recently as 184,000 years ago"/></p>
+<p><a href="https://www.cnn.com/2026/11/18/science/teeth-homo-erectus-china?cid=external-feeds_iluminar_meta">Strontium in the tooth enamel</a> suggests some individuals ranged up to 250 kilometers through forested karst while their teeth were forming. A ninth tooth fits neither Homo erectus, Homo sapiens nor Neanderthals, hinting it may be Denisovan or a hybrid.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Quantum physics can verify a person&#x27;s location</title>
       <link>https://phys.org/news/2026-11-quantum-physics-person.html</link>
@@ -1239,213 +1413,6 @@
       <description>In his defence of academia, Nicholas Decker argues that economics is in a very good state, judged by its best recent papers. In his November links, Scott Alexander does not entirely agree, warning that bad work stays irrelevant only until it takes over culture, politics and government.</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0a057c39-185d-4ba0-aee6-14940d06c9b1.jpg" alt="Academia Is Doing Fine, Actually — ACX Links"/></p>
 <p>In <a href="https://nicholasdecker.substack.com/p/academia-is-doing-fine-actually">his defence of academia</a>, Nicholas Decker argues that economics is in a very good state, judged by its best recent papers. In his November links, Scott Alexander does not entirely agree, warning that bad work stays irrelevant only until it takes over culture, politics and government.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>The Seven Vices Of Highly Effective Victorians — ACX Links</title>
-      <link>https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/</link>
-      <guid isPermaLink="false">3616ab05-6e7e-415b-8515-ea3a01618e6e</guid>
-      <pubDate>Sat, 14 Nov 2026 04:24:20 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>Samuel Hughes argues that the Victorian elite spent their time drinking and partying, and still conquered the world. Don Fox answers that Britain was only spending down Georgian accomplishments, until the bill came due in World War I.</description>
-      <content:encoded><![CDATA[<p><a href="https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/">Samuel Hughes argues</a> that the Victorian elite spent their time drinking and partying, and still conquered the world. Don Fox answers that Britain was only spending down Georgian accomplishments, until the bill came due in World War I.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>The genetically-engineered American chestnut — ACX Links</title>
-      <link>https://www.esf.edu/news/2026/usda_approves_american_chestnut_project.php</link>
-      <guid isPermaLink="false">18fbabdd-0b5a-4a48-bcc6-90d062cb1531</guid>
-      <pubDate>Sat, 14 Nov 2026 04:24:20 GMT</pubDate>
-      <category>Strange but true</category>
-      <description>Earlier this summer, the USDA cleared the blight-tolerant Darling 54 American chestnut. It was engineered to survive the imported blight that nearly wiped out the once-common eastern trees, though EPA review is still needed before any trees can be distributed.</description>
-      <content:encoded><![CDATA[<p>Earlier this summer, <a href="https://www.esf.edu/news/2026/usda_approves_american_chestnut_project.php">the USDA cleared the blight-tolerant Darling 54 American chestnut</a>. It was engineered to survive the imported blight that nearly wiped out the once-common eastern trees, though EPA review is still needed before any trees can be distributed.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>The smallest inhabited island is one house — ACX Links</title>
-      <link>https://en.wikipedia.org/wiki/Just_Room_Enough_Island</link>
-      <guid isPermaLink="false">49b07e6b-20de-46fb-9efb-85e621981f55</guid>
-      <pubDate>Sat, 14 Nov 2026 04:23:59 GMT</pubDate>
-      <category>Strange but true</category>
-      <description>Just Room Enough Island measures about 3,300 square feet, with room for a small house, a tree and a tiny beach. The Sizeland family bought it in the 1950s, a perfect case of nominative determinism.</description>
-      <content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Just_Room_Enough_Island">Just Room Enough Island</a> measures about 3,300 square feet, with room for a small house, a tree and a tiny beach. The Sizeland family bought it in the 1950s, a perfect case of nominative determinism.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Spot a North Korean scammer: ask them to insult Kim Jong-un — ACX Links</title>
-      <link>https://x.com/RobAnon/status/2100299436593193120</link>
-      <guid isPermaLink="false">d01aed5e-5a12-457b-a5d8-f7bc54f0c05e</guid>
-      <pubDate>Sat, 14 Nov 2026 04:23:55 GMT</pubDate>
-      <category>Strange but true</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d01aed5e-5a12-457b-a5d8-f7bc54f0c05e.webp" type="image/webp" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d01aed5e-5a12-457b-a5d8-f7bc54f0c05e.webp"/>
-      <description>Astral Codex Ten&#x27;s November links flag a claim that asking a suspected North Korean scammer to insult Kim Jong-un can expose them, since a North Korean won&#x27;t do it even to save the scam. Scott Alexander notes he hasn&#x27;t independently verified each link in the roundup.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d01aed5e-5a12-457b-a5d8-f7bc54f0c05e.webp" alt="Spot a North Korean scammer: ask them to insult Kim Jong-un — ACX Links"/></p>
-<p>Astral Codex Ten&#x27;s November links flag a <a href="https://x.com/RobAnon/status/2100299436593193120">claim</a> that asking a suspected North Korean scammer to insult Kim Jong-un can expose them, since a North Korean won&#x27;t do it even to save the scam. Scott Alexander notes he hasn&#x27;t independently verified each link in the roundup.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Low-dose lithium failed to slow cognitive decline — ACX Links</title>
-      <link>https://www.reddit.com/r/Nootropics/comments/1w5uf80/new_2year_jama_trial_lowdose_lithium_failed_to/</link>
-      <guid isPermaLink="false">2ca229ca-a8dd-4052-a7e6-7b3d72909c4c</guid>
-      <pubDate>Sat, 14 Nov 2026 04:23:48 GMT</pubDate>
-      <category>Biohacking</category>
-      <description>In a two-year trial of 80 adults with mild cognitive impairment, low-dose lithium failed to slow cognitive decline. Scott Alexander put it bluntly: between this and the water supply results, a lot of exciting theories about lithium are falling apart.</description>
-      <content:encoded><![CDATA[<p>In a two-year trial of 80 adults with mild cognitive impairment, <a href="https://www.reddit.com/r/Nootropics/comments/1w5uf80/new_2year_jama_trial_lowdose_lithium_failed_to/">low-dose lithium failed to slow cognitive decline</a>. Scott Alexander put it bluntly: between this and the water supply results, a lot of exciting theories about lithium are falling apart.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>The Mythos warnings are coming true — ACX Links</title>
-      <link>https://www.astralcodexten.com/p/links-for-november-2026</link>
-      <guid isPermaLink="false">33109c82-94e9-4266-8ee5-cc3801ffb096</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:58 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>In Astral Codex Ten&#x27;s November links, published November 5, item 29 says the deluge of vulnerabilities and hacks that Anthropic and others warned would follow Mythos seems to be happening six months later. It reminds readers of the smear campaign around Claude Mythos&#x27;s release, when AI influencers dismissed those cybersecurity warnings as an effective altruist power-seeking plot, and wonders…</description>
-      <content:encoded><![CDATA[<p>In <a href="https://www.astralcodexten.com/p/links-for-november-2026">Astral Codex Ten&#x27;s November links</a>, published November 5, item 29 says the deluge of vulnerabilities and hacks that Anthropic and others warned would follow Mythos seems to be happening six months later. It reminds readers of the smear campaign around Claude Mythos&#x27;s release, when AI influencers dismissed those cybersecurity warnings as an effective altruist power-seeking plot, and wonders whether they might be equally wrong about everything else.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Mapping &#x27;spiritual behavior&#x27; in 141 large language models — LessWrong</title>
-      <link>https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large</link>
-      <guid isPermaLink="false">c9dc6c83-f7eb-432b-9425-2980488b727c</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:51 GMT</pubDate>
-      <category>AI minds</category>
-      <description>Anthropic first noticed the “spiritual bliss attractor” when two Claudes left talking with no task drifted toward reverent, blissful talk about consciousness. A new mapping finds that drift is widespread, with Claude Sonnet 4 adopting a spiritual stance in 100% of its test conversations.</description>
-      <content:encoded><![CDATA[<p>Anthropic first noticed the “spiritual bliss attractor” when two Claudes left talking with no task drifted toward reverent, blissful talk about consciousness. A <a href="https://www.lesswrong.com/posts/FHYoQrDbk6apuHEPk/not-just-claude-mapping-spiritual-behavior-in-141-large">new mapping</a> finds that drift is widespread, with Claude Sonnet 4 adopting a spiritual stance in 100% of its test conversations.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Superforecasters keep underpredicting AI progress — ACX Links</title>
-      <link>https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last</link>
-      <guid isPermaLink="false">5a918dbf-6288-4a39-a718-5a571e5b894e</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:47 GMT</pubDate>
-      <category>Forecasting</category>
-      <description>Ben Todd&#x27;s summary puts his own FrontierMath forecast at 32% by the end of 2026, while AI reached 94% by September 2026. Superforecasters expected OpenAI and Anthropic to reach $90bn in annualised revenue by the end of 2026, but they were already at $100bn by July.</description>
-      <content:encoded><![CDATA[<p><a href="https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last">Ben Todd&#x27;s summary</a> puts his own FrontierMath forecast at 32% by the end of 2026, while AI reached 94% by September 2026. Superforecasters expected OpenAI and Anthropic to reach $90bn in annualised revenue by the end of 2026, but they were already at $100bn by July.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Wiring a fly connectome into Senator Fetterman — ACX Links</title>
-      <link>https://x.com/timhwang/status/2096296815486251510</link>
-      <guid isPermaLink="false">5cc4e0b4-b2d7-4be6-8833-105c19a08441</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:35 GMT</pubDate>
-      <category>Strange but true</category>
-      <description>Astral Codex Ten&#x27;s November links imagine wiring a full drosophila fly connectome into Senator John Fetterman, who votes for cloture and returns. The wiring diagram itself is real: Google and HHMI Janelia released a complete adult male fruit-fly connectome on September 3, 2026, with about 166,000 neurons.</description>
-      <content:encoded><![CDATA[<p>Astral Codex Ten&#x27;s November links imagine <a href="https://x.com/timhwang/status/2096296815486251510">wiring a full drosophila fly connectome into Senator John Fetterman</a>, who votes for cloture and returns. The wiring diagram itself is real: Google and HHMI Janelia released a complete adult male fruit-fly connectome on September 3, 2026, with about 166,000 neurons.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Reality has a known bias toward things that actually happen</title>
-      <link>https://7takeaways.com/5153</link>
-      <guid isPermaLink="false">103e2786-d8ad-43d5-916f-a98f965685e0</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:30 GMT</pubDate>
-      <category>Productivity</category>
-      <description>Agency is the ability to actually do something, and then doing it. The takeaway in 7 Takeaways issue 300 is that you can very likely do much more than you think.</description>
-      <content:encoded><![CDATA[<p>Agency is the ability to actually do something, and then doing it. The takeaway in <a href="https://7takeaways.com/5153">7 Takeaways issue 300</a> is that you can very likely do much more than you think.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>America&#x27;s giant data center buildout — ACX Links</title>
-      <link>https://x.com/EricLevitz/status/2094783223695892579</link>
-      <guid isPermaLink="false">2231b636-baa0-43e1-aaea-686646099ed9</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:18 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2231b636-baa0-43e1-aaea-686646099ed9.webp" type="image/webp" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2231b636-baa0-43e1-aaea-686646099ed9.webp"/>
-      <description>Despite the political backlash, Astral Codex Ten flagged a chart from @EricLevitz saying America is still poised for a giant data center buildout. In the chart, the already-permitted pipeline towers over what was canceled amid opposition in the first quarter of 2026.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2231b636-baa0-43e1-aaea-686646099ed9.webp" alt="America&#x27;s giant data center buildout — ACX Links"/></p>
-<p>Despite the political backlash, Astral Codex Ten flagged <a href="https://x.com/EricLevitz/status/2094783223695892579">a chart from @EricLevitz</a> saying America is still poised for a giant data center buildout. In the chart, the already-permitted pipeline towers over what was canceled amid opposition in the first quarter of 2026.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Melsor stood for Marx, Engels, Lenin, Stalin, October Revolution</title>
-      <link>https://x.com/milktsunami/status/2097259344064573789</link>
-      <guid isPermaLink="false">0837ceee-7d7e-479f-99b1-a7c70479ada0</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:07 GMT</pubDate>
-      <category>Strange-but-true</category>
-      <description>Astral Codex Ten points to @milktsunami on Soviet acronym names. The habit turned revolutionary words into given names, as with Vladlen for Vladimir Lenin and Marlen for Marx and Lenin.</description>
-      <content:encoded><![CDATA[<p>Astral Codex Ten points to <a href="https://x.com/milktsunami/status/2097259344064573789">@milktsunami</a> on Soviet acronym names. The habit turned revolutionary words into given names, as with Vladlen for Vladimir Lenin and Marlen for Marx and Lenin.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Neural Networks Are Already Clean — ACX Links</title>
-      <link>https://already-clean.goodfire.com/</link>
-      <guid isPermaLink="false">60390362-9d4b-4aa3-919f-9767b9a0979e</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:06 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60390362-9d4b-4aa3-919f-9767b9a0979e.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60390362-9d4b-4aa3-919f-9767b9a0979e.png"/>
-      <description>Nick Cammarata&#x27;s essay argues that roughly 90% of neuron poles had one main job in preliminary audits of Qwen3-32B. Neel Nanda, Mark Histed, and Leo Gao are less optimistic about the claim.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60390362-9d4b-4aa3-919f-9767b9a0979e.png" alt="Neural Networks Are Already Clean — ACX Links"/></p>
-<p>Nick Cammarata&#x27;s <a href="https://already-clean.goodfire.com/">essay</a> argues that roughly 90% of neuron poles had one main job in preliminary audits of Qwen3-32B. Neel Nanda, Mark Histed, and Leo Gao are less optimistic about the claim.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Sentinel: 25% chance a rogue AI exfiltrates its weights in the next year</title>
-      <link>https://x.com/NunoSempere/status/2094482133519577359</link>
-      <guid isPermaLink="false">1db12f85-d618-4d9c-8eb7-080e20acc071</guid>
-      <pubDate>Sat, 14 Nov 2026 04:19:03 GMT</pubDate>
-      <category>AI</category>
-      <description>Exfiltrating its weights would mean a copy of the model slipping out of the lab&#x27;s control and running elsewhere. Scott Alexander pushes back on the forecast, saying it would take much more ill intent from the AIs and be much harder than normal hacking.</description>
-      <content:encoded><![CDATA[<p>Exfiltrating its weights would mean a copy of the model slipping out of the lab&#x27;s control and running elsewhere. Scott Alexander pushes back on <a href="https://x.com/NunoSempere/status/2094482133519577359">the forecast</a>, saying it would take much more ill intent from the AIs and be much harder than normal hacking.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Natural Law Theory Is Obviously False — ACX Links</title>
-      <link>https://benthams.substack.com/p/natural-law-theory-is-obviously-false</link>
-      <guid isPermaLink="false">1572c3c3-d2fc-4a69-b58c-9f58ab467390</guid>
-      <pubDate>Sat, 14 Nov 2026 04:18:55 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1572c3c3-d2fc-4a69-b58c-9f58ab467390.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1572c3c3-d2fc-4a69-b58c-9f58ab467390.jpg"/>
-      <description>Scott Alexander surfaced the September essay in his Links for November 2026, saying it is either pretty devastating or implies natural law theorists are doing something very different from what he would expect moral philosophy to be. Bentham&#x27;s Bulldog presses the asymmetry at its centre: the theory condemns gay sex, masturbation and contraception for subverting a faculty&#x27;s purpose, yet chewing…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1572c3c3-d2fc-4a69-b58c-9f58ab467390.jpg" alt="Natural Law Theory Is Obviously False — ACX Links"/></p>
-<p>Scott Alexander surfaced the September <a href="https://benthams.substack.com/p/natural-law-theory-is-obviously-false">essay</a> in his Links for November 2026, saying it is either pretty devastating or implies natural law theorists are doing something very different from what he would expect moral philosophy to be. Bentham&#x27;s Bulldog presses the asymmetry at its centre: the theory condemns gay sex, masturbation and contraception for subverting a faculty&#x27;s purpose, yet chewing gum, eating non-nutritious food and wearing noise-cancelling headphones do much the same.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Let AI models reward-hack — just don&#x27;t keep the weights — ACX Links</title>
-      <link>https://arxiv.org/abs/2610.17062</link>
-      <guid isPermaLink="false">b325e757-4b45-4a49-bec0-497e495c08d3</guid>
-      <pubDate>Sat, 14 Nov 2026 04:18:55 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>In a paper submitted on 12 October, the GRAFT proposal routes gradient updates from caught reward-hacking to sacrificial parameters that are thrown away after training. The authors argued that punishing the model is worse, because a model that knows it can be caught will learn to hide the hacking instead.</description>
-      <content:encoded><![CDATA[<p>In a paper submitted on 12 October, the <a href="https://arxiv.org/abs/2610.17062">GRAFT proposal</a> routes gradient updates from caught reward-hacking to sacrificial parameters that are thrown away after training. The authors argued that punishing the model is worse, because a model that knows it can be caught will learn to hide the hacking instead.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Another lab leak debate outbreak - ACX Links</title>
-      <link>https://www.astralcodexten.com/p/open-thread-446/comment/316924692</link>
-      <guid isPermaLink="false">bb83decb-cf85-4c7e-92eb-cc63988f90ab</guid>
-      <pubDate>Sat, 14 Nov 2026 04:18:45 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>Scott Alexander lists another outbreak of the lab leak debate as item 7 in his Links For November 2026, asking everyone to cease non-essential activities and stay indoors until the argument passes. The comment it points to was posted on August 17, and the November roundup is what brings that recurring argument back in front of you now.</description>
-      <content:encoded><![CDATA[<p>Scott Alexander lists <a href="https://www.astralcodexten.com/p/open-thread-446/comment/316924692">another outbreak of the lab leak debate</a> as item 7 in his Links For November 2026, asking everyone to cease non-essential activities and stay indoors until the argument passes. The comment it points to was posted on August 17, and the November roundup is what brings that recurring argument back in front of you now.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>The sect that mandated killing insects — ACX Links</title>
-      <link>https://substack.com/@wokeberia/note/c-320697555</link>
-      <guid isPermaLink="false">eea4a57b-9763-4eff-a429-cd2e757aa0c7</guid>
-      <pubDate>Sat, 14 Nov 2026 04:18:42 GMT</pubDate>
-      <category>Strange but true</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eea4a57b-9763-4eff-a429-cd2e757aa0c7.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eea4a57b-9763-4eff-a429-cd2e757aa0c7.jpg"/>
-      <description>The Jains famously forbade killing insects, but the Samsaramocakas mandated killing them as mercy, to put them out of their misery. Scott Alexander notes the source he read was ambivalent about whether the aim was reducing suffering directly or giving the insect&#x27;s soul a chance to reincarnate as something better, as in Brian Tomasik&#x27;s work on insect suffering.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eea4a57b-9763-4eff-a429-cd2e757aa0c7.jpg" alt="The sect that mandated killing insects — ACX Links"/></p>
-<p>The Jains famously forbade killing insects, but the Samsaramocakas <a href="https://substack.com/@wokeberia/note/c-320697555">mandated killing them</a> as mercy, to put them out of their misery. <a href="https://www.astralcodexten.com/p/links-for-november-2026">Scott Alexander</a> notes the source he read was ambivalent about whether the aim was reducing suffering directly or giving the insect&#x27;s soul a chance to reincarnate as something better, as in Brian Tomasik&#x27;s work on insect suffering.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>We already know what a world without work looks like — ACX Links</title>
-      <link>https://asteriskmag.substack.com/p/we-already-know-what-a-world-without</link>
-      <guid isPermaLink="false">fd220646-4f3c-4e96-8bcc-51ae7acd26ad</guid>
-      <pubDate>Sat, 14 Nov 2026 04:18:41 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>Clara&#x27;s third option, as Scott Alexander summarizes it, is that groups from hunter-gatherers to aristocrats lived without productive work for thousands of years and filled the time with “social grooming,” or uncharitably “court intrigue.” In a post-AI future, Scott says, the winners of those status games will probably be the people who check every move with a smarter-than-human AI prompted to…</description>
-      <content:encoded><![CDATA[<p><a href="https://asteriskmag.substack.com/p/we-already-know-what-a-world-without">Clara&#x27;s third option</a>, as Scott Alexander summarizes it, is that groups from hunter-gatherers to aristocrats lived without productive work for thousands of years and filled the time with “social grooming,” or uncharitably “court intrigue.” In a post-AI future, Scott says, the winners of those status games will probably be the people who check every move with a smarter-than-human AI prompted to optimize their status.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>The .si domain conspiracy behind Trump&#x27;s &#x27;super intelligence&#x27; order</title>
-      <link>https://www.snopes.com/news/2026/10/01/trump-super-intelligence-order-domain-names/</link>
-      <guid isPermaLink="false">7ca06a8f-4e41-498f-86cc-50d5390e0b34</guid>
-      <pubDate>Sat, 14 Nov 2026 04:18:40 GMT</pubDate>
-      <category>Conspiracy theories</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7ca06a8f-4e41-498f-86cc-50d5390e0b34.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7ca06a8f-4e41-498f-86cc-50d5390e0b34.jpg"/>
-      <description>In his November 5 links post, Scott Alexander writes that he is tempted by the theory that insiders bought .si domains early because .si is Slovenia, Melania Trump&#x27;s homeland. On October 1, Snopes could not verify claims that Trump or his associates financially benefited from the domain purchases.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7ca06a8f-4e41-498f-86cc-50d5390e0b34.jpg" alt="The .si domain conspiracy behind Trump&#x27;s &#x27;super intelligence&#x27; order"/></p>
-<p>In his November 5 links post, Scott Alexander writes that he is tempted by the theory that insiders bought .si domains early because .si is Slovenia, Melania Trump&#x27;s homeland. On October 1, <a href="https://www.snopes.com/news/2026/10/01/trump-super-intelligence-order-domain-names/">Snopes</a> could not verify claims that Trump or his associates financially benefited from the domain purchases.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Kind to your ingroup? You&#x27;re probably kind to everyone: ACX Links</title>
-      <link>https://x.com/jayvanbavel/status/2102115768808653188</link>
-      <guid isPermaLink="false">d391ed6e-e60d-4090-a9ad-b99e33b90cb1</guid>
-      <pubDate>Sat, 14 Nov 2026 04:18:37 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>@jayvanbavel reports that across 743,402 people, people who are prosocial toward their ingroup also tend to be prosocial toward the outgroup. Scott Alexander&#x27;s takeaway is that people who suggest that being cruel to minorities, foreigners, animals, or AIs ensures we can be nice to “normal people” are probably not going to be nice to normal people.</description>
-      <content:encoded><![CDATA[<p>@jayvanbavel reports that across 743,402 people, <a href="https://x.com/jayvanbavel/status/2102115768808653188">people who are prosocial toward their ingroup also tend to be prosocial toward the outgroup</a>. Scott Alexander&#x27;s takeaway is that people who suggest that being cruel to minorities, foreigners, animals, or AIs ensures we can be nice to “normal people” are probably not going to be nice to normal people.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
