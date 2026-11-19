@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 19:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:00:37 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Statistics: p-hacking and multiple comparisons — Daily Learning</title>
+      <link>https://www.statsandcats.com/blog/multiple-comparisons-problem</link>
+      <guid isPermaLink="false">2db8ecc6-bf96-4635-9225-249977c86226</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:13 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>P-hacking is running analysis after analysis until one clears the bar, then reporting that p-value as if it were the only test you ran. Run 20 independent betting angles at the usual 5% threshold and roughly 64% of the time at least one will look significant by luck alone, as a May 7, 2026 explainer on the multiple-comparisons problem lays out.</description>
+      <content:encoded><![CDATA[<p>P-hacking is running analysis after analysis until one clears the bar, then reporting that p-value as if it were the only test you ran. Run 20 independent betting angles at the usual 5% threshold and roughly 64% of the time at least one will look significant by luck alone, as a May 7, 2026 explainer on <a href="https://www.statsandcats.com/blog/multiple-comparisons-problem">the multiple-comparisons problem</a> lays out.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Prisoner&#x27;s Dilemma — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Prisoner%27s_dilemma</link>
+      <guid isPermaLink="false">7c241c63-2558-46e6-b20f-b7590ff6194a</guid>
+      <pubDate>Thu, 19 Nov 2026 15:29:23 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7c241c63-2558-46e6-b20f-b7590ff6194a.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7c241c63-2558-46e6-b20f-b7590ff6194a.png"/>
+      <description>In the Prisoner&#x27;s Dilemma, betraying beats staying silent whatever the other prisoner does, so self-interest pushes both to betray even though staying silent together would serve them both better. When the game repeats, tit-for-tat can make cooperation pay by cooperating first and then copying whatever the other player did last.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7c241c63-2558-46e6-b20f-b7590ff6194a.png" alt="Big Idea: The Prisoner&#x27;s Dilemma — Daily Learning"/></p>
+<p>In the <a href="https://en.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner&#x27;s Dilemma</a>, betraying beats staying silent whatever the other prisoner does, so self-interest pushes both to betray even though staying silent together would serve them both better. When the game repeats, tit-for-tat can make cooperation pay by cooperating first and then copying whatever the other player did last.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: crepuscular — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/crepuscular</link>
+      <guid isPermaLink="false">319215f4-d505-4c2e-b7d6-76e80acd9f2c</guid>
+      <pubDate>Thu, 19 Nov 2026 15:27:44 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>For animals, light, and moods that belong to the in-between hours, crepuscular (krih-PUS-kyuh-ler) is an adjective meaning relating to twilight, or active at dawn and dusk. The crepuscular light over the foothills made the whole neighborhood look half-asleep and half-awake at once.</description>
+      <content:encoded><![CDATA[<p>For animals, light, and moods that belong to the in-between hours, <a href="https://www.merriam-webster.com/dictionary/crepuscular">crepuscular</a> (krih-PUS-kyuh-ler) is an adjective meaning relating to twilight, or active at dawn and dusk. The crepuscular light over the foothills made the whole neighborhood look half-asleep and half-awake at once.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Big Idea: The Sorites Paradox — Daily Learning</title>
       <link>https://plato.stanford.edu/entries/sorites-paradox/</link>
@@ -223,11 +253,8 @@
       <guid isPermaLink="false">77281a27-7097-40fb-8915-2e63d3f4bb2d</guid>
       <pubDate>Wed, 11 Nov 2026 15:28:18 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png"/>
       <description>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a fixed timeline, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/77281a27-7097-40fb-8915-2e63d3f4bb2d.png" alt="Big Idea: The Grandfather Paradox — Daily Learning"/></p>
-<p>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a <a href="https://en.wikipedia.org/wiki/Grandfather_paradox">fixed timeline</a>, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a <a href="https://en.wikipedia.org/wiki/Grandfather_paradox">fixed timeline</a>, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</p>]]></content:encoded>
     </item>
     <item>
       <title>Word of the Day: petrichor — Daily Learning</title>
@@ -444,33 +471,6 @@
       <category>Daily Learning</category>
       <description>Large groups of people share the same false memory, down to the same wrong detail. That happens because recall rebuilds a memory instead of replaying it, filling gaps with whatever feels familiar.</description>
       <content:encoded><![CDATA[<p>Large groups of people share <a href="https://www.britannica.com/print/article/2232987">the same false memory</a>, down to the same wrong detail. That happens because recall rebuilds a memory instead of replaying it, filling gaps with whatever feels familiar.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Conjugate Priors — Daily Learning</title>
-      <link>https://textbook.prob140.org/notebooks-md/21_01_Updating_and_Prediction.html</link>
-      <guid isPermaLink="false">ab671566-59c3-4803-b6cf-15f06fb7a2b8</guid>
-      <pubDate>Mon, 02 Nov 2026 15:26:23 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>A conjugate prior is chosen so that, after new data arrive, the posterior stays in the same family as the prior, turning updating into simple arithmetic instead of messy integration. Start with a Beta(2, 2) prior for a coin&#x27;s heads probability, roughly as if you had already seen about 2 heads and 2 tails worth of evidence, then observe 7 heads and 3 tails and just add the counts to get Beta(9,…</description>
-      <content:encoded><![CDATA[<p>A <a href="https://textbook.prob140.org/notebooks-md/21_01_Updating_and_Prediction.html">conjugate prior</a> is chosen so that, after new data arrive, the posterior stays in the same family as the prior, turning updating into simple arithmetic instead of messy integration. Start with a Beta(2, 2) prior for a coin&#x27;s heads probability, roughly as if you had already seen about 2 heads and 2 tails worth of evidence, then observe 7 heads and 3 tails and just add the counts to get Beta(9, 5), a result that can become the next prior for a win-rate or conversion-rate estimate in sports betting or A/B testing.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: velleity — Daily Learning</title>
-      <link>http://www.worldwidewords.org/backissues/ww-vel3.html</link>
-      <guid isPermaLink="false">0297eced-5c01-4896-91a1-891136f03e12</guid>
-      <pubDate>Mon, 02 Nov 2026 15:26:04 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Velleity (vel-ee-IT-ee) is a noun for a wish too weak to lead to action. She had a velleity to start a side project, but month after month passed without her ever opening a blank document.</description>
-      <content:encoded><![CDATA[<p>Velleity (vel-ee-IT-ee) is a noun for <a href="http://www.worldwidewords.org/backissues/ww-vel3.html">a wish too weak to lead to action</a>. She had a velleity to start a side project, but month after month passed without her ever opening a blank document.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Cross-validation — Daily Learning</title>
-      <link>https://codelabsacademy.com/en/blog/cross-validation-techniques-ml-models-2026/</link>
-      <guid isPermaLink="false">5af3ecda-fab4-4caf-a466-5b2dd19c3760</guid>
-      <pubDate>Sun, 01 Nov 2026 15:26:39 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Cross-validation is the habit of testing a model on data it has not seen before it earns trust. Five groups, four for training and one held out in turn, expose overfitting before real money or real decisions are on the line.</description>
-      <content:encoded><![CDATA[<p><a href="https://codelabsacademy.com/en/blog/cross-validation-techniques-ml-models-2026/">Cross-validation</a> is the habit of testing a model on data it has not seen before it earns trust. Five groups, four for training and one held out in turn, expose overfitting before real money or real decisions are on the line.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
