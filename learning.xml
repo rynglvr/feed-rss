@@ -5,7 +5,7 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:58:38 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Big Idea: The St. Petersburg Paradox — Daily Learning</title>
@@ -217,11 +217,8 @@
       <guid isPermaLink="false">7627183e-39df-422c-96a3-692ee3e5deab</guid>
       <pubDate>Fri, 13 Nov 2026 15:33:40 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png"/>
       <description>After a quarterback&#x27;s first 40 throws, a model might put his true completion rate between 58% and 68%, and as a 95% credible interval that means you are 95% sure his true rate is in there. The confidence interval from the same data can look identical on paper, yet it answers a different question: if you repeated the procedure many times, about 95% of the intervals it produced would contain the…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7627183e-39df-422c-96a3-692ee3e5deab.png" alt="Statistics: Credible vs. Confidence Intervals — Daily Learning"/></p>
-<p>After a quarterback&#x27;s first 40 throws, a model might put his true completion rate between 58% and 68%, and as a 95% <a href="https://en.wikipedia.org/wiki/Credible_interval">credible interval</a> that means you are 95% sure his true rate is in there. The confidence interval from the same data can look identical on paper, yet it answers a different question: if you repeated the procedure many times, about 95% of the intervals it produced would contain the true value.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>After a quarterback&#x27;s first 40 throws, a model might put his true completion rate between 58% and 68%, and as a 95% <a href="https://en.wikipedia.org/wiki/Credible_interval">credible interval</a> that means you are 95% sure his true rate is in there. The confidence interval from the same data can look identical on paper, yet it answers a different question: if you repeated the procedure many times, about 95% of the intervals it produced would contain the true value.</p>]]></content:encoded>
     </item>
     <item>
       <title>Big Idea: The Simulation Argument — Daily Learning</title>
