@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:02:36 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: The St. Petersburg Paradox — Daily Learning</title>
+      <link>https://plato.stanford.edu/archives/sum2014/entries/paradox-stpetersburg/</link>
+      <guid isPermaLink="false">3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e</guid>
+      <pubDate>Fri, 20 Nov 2026 15:05:26 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e.png"/>
+      <description>Flip a fair coin until it first lands tails, and if that takes n flips the prize is $2^n, so the game&#x27;s expected value is infinite. Bernoulli&#x27;s answer, published in 1738, was that each extra dollar is worth a little less than the one before, so the game is worth only $4.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e.png" alt="Big Idea: The St. Petersburg Paradox — Daily Learning"/></p>
+<p>Flip a fair coin until it first lands tails, and if that takes n flips the prize is $2^n, so the game&#x27;s <a href="https://plato.stanford.edu/archives/sum2014/entries/paradox-stpetersburg/">expected value</a> is infinite. Bernoulli&#x27;s answer, published in 1738, was that each extra dollar is worth a little less than the one before, so the game is worth only $4.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: vellichor — Daily Learning</title>
+      <link>https://www.worldwidewords.org/ww-vel4.html</link>
+      <guid isPermaLink="false">5132ef53-18e5-417b-ad56-3610ee917eb3</guid>
+      <pubDate>Fri, 20 Nov 2026 15:03:29 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Vellichor (VEL-ih-kor) is a noun for the strange wistfulness of used bookstores, which are somehow infused with the passage of time, the sense that thousands of books once belonged to people who are now gone and their stories linger on the shelves. Stepping into the shop, I felt vellichor among the thousands of old books I would never have time to read.</description>
+      <content:encoded><![CDATA[<p>Vellichor (VEL-ih-kor) is a noun for <a href="https://www.worldwidewords.org/ww-vel4.html">the strange wistfulness of used bookstores, which are somehow infused with the passage of time</a>, the sense that thousands of books once belonged to people who are now gone and their stories linger on the shelves. Stepping into the shop, I felt vellichor among the thousands of old books I would never have time to read.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Survivorship Bias — Daily Learning</title>
+      <link>https://psychology.com/biases/survivorship-bias</link>
+      <guid isPermaLink="false">90e6b54f-1ff5-4c19-ad9f-6cff3aeef3ed</guid>
+      <pubDate>Fri, 20 Nov 2026 15:01:44 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Survivorship bias is the error of drawing conclusions only from the winners who survived a process while ignoring the losers who vanished. Imagine 100 bettors try the same touted system, and only the lucky survivors are left posting their winning slips.</description>
+      <content:encoded><![CDATA[<p><a href="https://psychology.com/biases/survivorship-bias">Survivorship bias</a> is the error of drawing conclusions only from the winners who survived a process while ignoring the losers who vanished. Imagine 100 bettors try the same touted system, and only the lucky survivors are left posting their winning slips.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Statistics: p-hacking and multiple comparisons — Daily Learning</title>
       <link>https://www.statsandcats.com/blog/multiple-comparisons-problem</link>
@@ -444,33 +474,6 @@
       <category>Daily Learning</category>
       <description>Pulling a lever would divert a runaway trolley/01%3AKnowledgeandSkepticism/1.02%3AALessoninThinking-TheTrolleyProblem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</description>
       <content:encoded><![CDATA[<p>Pulling a lever would divert a <a href="https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Philosophy/Introduction_to_Philosophy_Reader_(Levin_et_al.">runaway trolley</a>/01%3A_Knowledge_and_Skepticism/1.02%3A_A_Lesson_in_Thinking_-_The_Trolley_Problem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Shrinkage — Daily Learning</title>
-      <link>http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/</link>
-      <guid isPermaLink="false">3fded769-7aa5-44a9-8f60-6e887baafacb</guid>
-      <pubDate>Tue, 03 Nov 2026 15:26:34 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the James–Stein…</description>
-      <content:encoded><![CDATA[<p>When you estimate many things at once, the wildest results are usually part luck, so shrinkage pulls each estimate partway toward the group average, and the noisier or smaller the sample, the stronger the pull. Say a quarterback completes 80% of his passes in his first two games, with a league average of, say, 65%: rather than betting on 80%, you would bet nearer 70%, which is the <a href="http://haines-lab.com/post/how-to-estimate-a-mean-and-what-it-means-for-science/">James–Stein idea</a>, a deliberately biased guess that usually lands closer to the truth over a full season.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: quotidian - Daily Learning</title>
-      <link>https://www.dictionary.com/browse/quotidian</link>
-      <guid isPermaLink="false">f3933d51-4a20-4f9c-8d03-b6b7ec64a320</guid>
-      <pubDate>Tue, 03 Nov 2026 15:25:53 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>quotidian (kwoh-TID-ee-un) is an adjective meaning ordinary, everyday, commonplace. In an otherwise quotidian morning, the light across the kitchen table was quietly remarkable.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.dictionary.com/browse/quotidian">quotidian</a> (kwoh-TID-ee-un) is an adjective meaning ordinary, everyday, commonplace. In an otherwise quotidian morning, the light across the kitchen table was quietly remarkable.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Mandela Effect — Daily Learning</title>
-      <link>https://www.britannica.com/print/article/2232987</link>
-      <guid isPermaLink="false">9d3f8c28-d14b-44d2-8de3-065784f91c2b</guid>
-      <pubDate>Mon, 02 Nov 2026 15:27:10 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Large groups of people share the same false memory, down to the same wrong detail. That happens because recall rebuilds a memory instead of replaying it, filling gaps with whatever feels familiar.</description>
-      <content:encoded><![CDATA[<p>Large groups of people share <a href="https://www.britannica.com/print/article/2232987">the same false memory</a>, down to the same wrong detail. That happens because recall rebuilds a memory instead of replaying it, filling gaps with whatever feels familiar.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
