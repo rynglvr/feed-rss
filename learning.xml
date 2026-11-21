@@ -5,8 +5,32 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:01:21 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: Roko&#x27;s Basilisk — Daily Learning</title>
+      <link>https://www.lesswrong.com/w/rokos-basilisk?version=1.7.0</link>
+      <guid isPermaLink="false">700dd6ca-db36-4199-bb96-f33157216574</guid>
+      <pubDate>Sat, 21 Nov 2026 15:01:09 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/700dd6ca-db36-4199-bb96-f33157216574.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/700dd6ca-db36-4199-bb96-f33157216574.jpg"/>
+      <description>In 2010, LessWrong user Roko proposed that a future superintelligent AI might simulate and punish anyone who knew about it but did nothing to help create it. The idea was broadly rejected because punishment after the AI exists cannot change whether it came into being.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/700dd6ca-db36-4199-bb96-f33157216574.jpg" alt="Big Idea: Roko&#x27;s Basilisk — Daily Learning"/></p>
+<p>In 2010, <a href="https://www.lesswrong.com/w/rokos-basilisk?version=1.7.0">LessWrong</a> user Roko proposed that a future superintelligent AI might simulate and punish anyone who knew about it but did nothing to help create it. The idea was broadly rejected because punishment after the AI exists cannot change whether it came into being.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: noctivagant — Daily Learning</title>
+      <link>https://Www.Etymonline.com/word/noctivagant</link>
+      <guid isPermaLink="false">93ded6b3-6fbe-4623-9873-a40dd6d5e69e</guid>
+      <pubDate>Sat, 21 Nov 2026 15:00:52 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/93ded6b3-6fbe-4623-9873-a40dd6d5e69e.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/93ded6b3-6fbe-4623-9873-a40dd6d5e69e.jpg"/>
+      <description>Noctivagant (nok-TIV-uh-gunt) is an adjective meaning wandering or active at night, from Latin nox (night) + vagari (to wander). The noctivagant fox slipped through the sleeping neighborhood long after the streetlights had flickered on, sharper than nocturnal because it captures the wandering, not just the wakefulness.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/93ded6b3-6fbe-4623-9873-a40dd6d5e69e.jpg" alt="Word of the Day: noctivagant — Daily Learning"/></p>
+<p><a href="https://Www.Etymonline.com/word/noctivagant">Noctivagant</a> (nok-TIV-uh-gunt) is an adjective meaning wandering or active at night, from Latin nox (night) + vagari (to wander). The noctivagant fox slipped through the sleeping neighborhood long after the streetlights had flickered on, sharper than nocturnal because it captures the wandering, not just the wakefulness.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Big Idea: The St. Petersburg Paradox — Daily Learning</title>
       <link>https://plato.stanford.edu/archives/sum2014/entries/paradox-stpetersburg/</link>
@@ -453,24 +477,6 @@
       <category>Daily Learning</category>
       <description>In 1995, philosopher David Chalmers asked why brain processing should feel like anything from the inside. A perfect physical replica that behaved identically would still leave open whether it actually experiences anything.</description>
       <content:encoded><![CDATA[<p>In 1995, philosopher <a href="https://www.taskade.com/wiki/cognitive-science/hard-problem-consciousness">David Chalmers</a> asked why brain processing should feel like anything from the inside. A <a href="http://cogsci.uwaterloo.ca/courses/Phil255/Phil255.week8.html">perfect physical replica</a> that behaved identically would still leave open whether it actually experiences anything.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: doxastic — Daily Learning</title>
-      <link>https://www.collinsdictionary.com/dictionary/english/doxastic</link>
-      <guid isPermaLink="false">a46e9323-a1b9-4101-b5f3-ca86f0f45e7a</guid>
-      <pubDate>Wed, 04 Nov 2026 15:27:25 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>doxastic (dok-SAS-tik) is an adjective relating to belief, opinion, or what someone holds to be true, rather than what evidence has settled. “I believe the market will rebound” is a doxastic claim about a belief awaiting evidence.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.collinsdictionary.com/dictionary/english/doxastic">doxastic</a> (dok-SAS-tik) is an adjective relating to belief, opinion, or what someone holds to be true, rather than what evidence has settled. “I believe the market will rebound” is a doxastic claim about a belief awaiting evidence.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Trolley Problem — Daily Learning</title>
-      <link>https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Philosophy/Introduction_to_Philosophy_Reader_(Levin_et_al</link>
-      <guid isPermaLink="false">56ce2b07-c18c-4865-a5d9-a7c5680b33e8</guid>
-      <pubDate>Tue, 03 Nov 2026 15:26:59 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Pulling a lever would divert a runaway trolley/01%3AKnowledgeandSkepticism/1.02%3AALessoninThinking-TheTrolleyProblem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</description>
-      <content:encoded><![CDATA[<p>Pulling a lever would divert a <a href="https://human.libretexts.org/Bookshelves/Philosophy/Introduction_to_Philosophy/Introduction_to_Philosophy_Reader_(Levin_et_al.">runaway trolley</a>/01%3A_Knowledge_and_Skepticism/1.02%3A_A_Lesson_in_Thinking_-_The_Trolley_Problem) from five people on the track onto a side track where it kills one person instead. Most people accept the lever but balk at pushing one person off a footbridge to stop the same trolley because that death would be the means of saving the five rather than a side effect.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
