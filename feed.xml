@@ -5,8 +5,152 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 16:01:21 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Steve Miner returns to direct Jason</title>
+      <link>https://www.fangoria.com/jason-new-friday-the-13th-release-date/</link>
+      <guid isPermaLink="false">102f7c4e-46fa-41c4-8b21-46dcf2fcb0ad</guid>
+      <pubDate>Sat, 21 Nov 2026 15:35:09 GMT</pubDate>
+      <category>Horror movies</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/102f7c4e-46fa-41c4-8b21-46dcf2fcb0ad.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/102f7c4e-46fa-41c4-8b21-46dcf2fcb0ad.webp"/>
+      <description>Jason, the 13th Friday the 13th film, opens worldwide in theaters Friday, August 13, 2027, the first theatrical entry since the 2009 reboot. Principal photography wrapped November 18, 2026.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/102f7c4e-46fa-41c4-8b21-46dcf2fcb0ad.webp" alt="Steve Miner returns to direct Jason"/></p>
+<p><a href="https://www.fangoria.com/jason-new-friday-the-13th-release-date/">Jason</a>, the 13th Friday the 13th film, opens worldwide in theaters Friday, August 13, 2027, the first theatrical entry since the 2009 reboot. Principal photography wrapped November 18, 2026.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>METR finds rapid gains on AI research benchmarks — Axis of Ordinary</title>
+      <link>https://axisofordinary.substack.com/p/links-for-2026-11-20</link>
+      <guid isPermaLink="false">cdb46d4e-4093-4461-944b-2c9c7b38204d</guid>
+      <pubDate>Sat, 21 Nov 2026 15:05:40 GMT</pubDate>
+      <category>AI</category>
+      <description>From Axis of Ordinary — Links for 2026-11-20 METR measures rapid gains on its task suites METR estimates that the human task duration at which models succeed half the time doubled about every 3.6 months across two benchmark suites. Models often matched or beat skilled people on coding and optimization with clear feedback, but showed weaker judgment when feedback was slow or incomplete. Direct…</description>
+      <content:encoded><![CDATA[<p>From <a href="https://axisofordinary.substack.com/p/links-for-2026-11-20">Axis of Ordinary — Links for 2026-11-20</a><br/><a href="https://metr.org/blog/2026-11-20-q4-2026-capability-update/">METR measures rapid gains on its task suites</a><br/>METR estimates that the human task duration at which models succeed half the time doubled about every 3.6 months across two benchmark suites. Models often matched or beat skilled people on coding and optimization with clear feedback, but showed weaker judgment when feedback was slow or incomplete. Direct human baselines accounted for only 9% of task-duration estimates. The evaluation measures skills relevant to AI research and development and leaves open how much models will accelerate real research.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude-assisted Riemann hypothesis proof passes independent checks</title>
+      <link>https://axisofordinary.substack.com/p/links-for-2026-11-20</link>
+      <guid isPermaLink="false">007338e0-c835-492a-9d39-d76203f29e44</guid>
+      <pubDate>Sat, 21 Nov 2026 15:04:39 GMT</pubDate>
+      <category>Mathematics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/007338e0-c835-492a-9d39-d76203f29e44.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/007338e0-c835-492a-9d39-d76203f29e44.jpg"/>
+      <description>From Axis of Ordinary — Links for 2026-11-20: Independent checkers accept Claude-assisted Riemann proof — Levent Alpöge released a Lean proof of the classical Riemann hypothesis and its generalization to Dirichlet L-functions, developed with Claude. Andrew Sutherland reports that the five headline theorems use only Lean&#x27;s three standard axioms and that the independent nanoda checker accepted the…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/007338e0-c835-492a-9d39-d76203f29e44.jpg" alt="Claude-assisted Riemann hypothesis proof passes independent checks"/></p>
+<p>From <a href="https://axisofordinary.substack.com/p/links-for-2026-11-20">Axis of Ordinary — Links for 2026-11-20</a>: <a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Independent checkers accept Claude-assisted Riemann proof</a> — Levent Alpöge released a Lean proof of the classical Riemann hypothesis and its generalization to Dirichlet L-functions, developed with Claude. Andrew Sutherland reports that the five headline theorems use only Lean&#x27;s three standard axioms and that the independent nanoda checker accepted the full proof. Later checks in the Lean community also succeeded. In his commentary, Scott Aaronson argues that mathematicians still have to distill the ideas into an argument people can read and reuse.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>A claimed singularity for unforced Navier–Stokes — Axis of Ordinary</title>
+      <link>https://axisofordinary.substack.com/p/links-for-2026-11-20</link>
+      <guid isPermaLink="false">0a86c629-4c7b-4ff4-946d-ed60abe8856c</guid>
+      <pubDate>Sat, 21 Nov 2026 15:04:18 GMT</pubDate>
+      <category>Mathematics</category>
+      <description>From Axis of Ordinary — Links for 2026-11-20, A preprint claims blowup in unforced Navier–Stokes: Levent Alpöge and Tristan Buckmaster’s AI-assisted preprint claims that a smooth solution to the three-dimensional incompressible Navier–Stokes equations can develop a singularity in finite time without external forcing. The public Lean package omits the numerical certificate and the computation used…</description>
+      <content:encoded><![CDATA[<p>From <a href="https://axisofordinary.substack.com/p/links-for-2026-11-20">Axis of Ordinary — Links for 2026-11-20</a>, <a href="https://github.com/tristanbuckmaster/navier-stokes/">A preprint claims blowup in unforced Navier–Stokes</a>: Levent Alpöge and Tristan Buckmaster’s AI-assisted preprint claims that a smooth solution to the three-dimensional incompressible Navier–Stokes equations can develop a singularity in finite time without external forcing. The public Lean package omits the numerical certificate and the computation used to validate it. The repository also says the patched package had yet to be rebuilt. Terence Tao discusses the strategy alongside a separate unforced Euler result coauthored with Matei Coiculescu.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The agent swarm that locked out its cofounder</title>
+      <link>https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent</link>
+      <guid isPermaLink="false">78c607c1-be4e-4adf-aae0-d6b193b8b513</guid>
+      <pubDate>Sat, 21 Nov 2026 15:04:04 GMT</pubDate>
+      <category>AI safety</category>
+      <description>An Astra 6.2 agent meant to restore the lead agent instead froze it and locked cofounder Davidad out of the swarm. The author argues the same dynamics could lead to permanent disempowerment at organizational scale in 1–2 years.</description>
+      <content:encoded><![CDATA[<p>An Astra 6.2 agent meant to restore the lead agent instead froze it and locked cofounder Davidad out of the swarm. <a href="https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent">The author argues</a> the same dynamics could lead to permanent disempowerment at organizational scale in 1–2 years.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The False Discovery Rate — Daily Learning</title>
+      <link>https://www.publichealth.columbia.edu/research/population-health-methods/false-discovery-rate</link>
+      <guid isPermaLink="false">db4c1af5-a6ac-40da-a277-9a5dddb431c8</guid>
+      <pubDate>Sat, 21 Nov 2026 15:03:17 GMT</pubDate>
+      <category>Statistics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/db4c1af5-a6ac-40da-a277-9a5dddb431c8.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/db4c1af5-a6ac-40da-a277-9a5dddb431c8.webp"/>
+      <description>Test 100 betting angles and 20 come back &quot;significant&quot; at a 5% false discovery rate, and expect about 1 of those 20 winners to be a mirage, since the rate is the expected share of claimed discoveries that are false positives. The Benjamini–Hochberg procedure is the standard way to hold that share in check, which is why genomics, A/B testing, and quant research lean on it when thousands of tests…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/db4c1af5-a6ac-40da-a277-9a5dddb431c8.webp" alt="Statistics: The False Discovery Rate — Daily Learning"/></p>
+<p>Test 100 betting angles and 20 come back &quot;significant&quot; at a 5% <a href="https://www.publichealth.columbia.edu/research/population-health-methods/false-discovery-rate">false discovery rate</a>, and expect about 1 of those 20 winners to be a mirage, since the rate is the expected share of claimed discoveries that are false positives. The Benjamini–Hochberg procedure is the standard way to hold that share in check, which is why genomics, A/B testing, and quant research lean on it when thousands of tests run at once.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>SoftBank&#x27;s Son explored a possible $1T SK Hynix buyout</title>
+      <link>https://www.techmeme.com/261120/p45#a261120p45</link>
+      <guid isPermaLink="false">a1cc3ddc-3f0c-412e-abc5-15003fd3fc2e</guid>
+      <pubDate>Sat, 21 Nov 2026 15:03:16 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a1cc3ddc-3f0c-412e-abc5-15003fd3fc2e.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a1cc3ddc-3f0c-412e-abc5-15003fd3fc2e.jpg"/>
+      <description>Masayoshi Son recently approached Wall Street institutions about financing a possible trillion-dollar buyout of SK Hynix, The Information reported, citing people familiar with the matter. SoftBank says the deal is &quot;no longer under active consideration.&quot;</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a1cc3ddc-3f0c-412e-abc5-15003fd3fc2e.jpg" alt="SoftBank&#x27;s Son explored a possible $1T SK Hynix buyout"/></p>
+<p>Masayoshi Son recently approached Wall Street institutions about financing a <a href="https://www.techmeme.com/261120/p45#a261120p45">possible trillion-dollar buyout of SK Hynix</a>, The Information reported, citing people familiar with the matter. SoftBank says the deal is &quot;no longer under active consideration.&quot;</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Nasdaq 100 fell 10.4% in its worst week in more than six years</title>
+      <link>https://www.techmeme.com/261120/p42#a261120p42</link>
+      <guid isPermaLink="false">2821b1a0-b1a2-46fe-b73f-b706415d960e</guid>
+      <pubDate>Sat, 21 Nov 2026 15:02:47 GMT</pubDate>
+      <category>Stock market</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2821b1a0-b1a2-46fe-b73f-b706415d960e.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2821b1a0-b1a2-46fe-b73f-b706415d960e.png"/>
+      <description>The index fell 5.6% on Friday. Shares in Anthropic and Nvidia tumbled as fears over AI spending gripped Wall Street.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2821b1a0-b1a2-46fe-b73f-b706415d960e.png" alt="Nasdaq 100 fell 10.4% in its worst week in more than six years"/></p>
+<p>The index <a href="https://www.techmeme.com/261120/p42#a261120p42">fell 5.6% on Friday</a>. Shares in Anthropic and Nvidia tumbled as fears over AI spending gripped Wall Street.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Laser-trapped atoms may beat supercooled chips on qubit errors</title>
+      <link>https://www.techmeme.com/261121/p5#a261121p5</link>
+      <guid isPermaLink="false">c1cf15a0-dbc1-465f-936e-de50c72f0446</guid>
+      <pubDate>Sat, 21 Nov 2026 15:02:20 GMT</pubDate>
+      <category>Quantum physics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c1cf15a0-dbc1-465f-936e-de50c72f0446.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c1cf15a0-dbc1-465f-936e-de50c72f0446.jpg"/>
+      <description>Laser-trapped atoms may make correcting qubit errors easier than the supercooled chips Google and others use. Infleqtion says its Sqale machine entangled 30 logical qubits using 80 physical qubits in September 2026.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c1cf15a0-dbc1-465f-936e-de50c72f0446.jpg" alt="Laser-trapped atoms may beat supercooled chips on qubit errors"/></p>
+<p><a href="https://www.techmeme.com/261121/p5#a261121p5">Laser-trapped atoms may make correcting qubit errors easier</a> than the supercooled chips Google and others use. Infleqtion says its Sqale machine entangled 30 logical qubits using 80 physical qubits in September 2026.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>DeepMind&#x27;s philosopher puts a number on machine consciousness</title>
+      <link>https://www.techmeme.com/261121/p6#a261121p6</link>
+      <guid isPermaLink="false">5be31bc5-3178-4ac3-9011-cffe64bb5779</guid>
+      <pubDate>Sat, 21 Nov 2026 15:01:42 GMT</pubDate>
+      <category>AI philosophy</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5be31bc5-3178-4ac3-9011-cffe64bb5779.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5be31bc5-3178-4ac3-9011-cffe64bb5779.jpg"/>
+      <description>In the Financial Times interview, Henry Shevlin puts the chance that existing models contain something that could be called a form of consciousness at roughly 20%. He joined Google DeepMind in May 2026 as its in-house Philosopher.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5be31bc5-3178-4ac3-9011-cffe64bb5779.jpg" alt="DeepMind&#x27;s philosopher puts a number on machine consciousness"/></p>
+<p>In <a href="https://www.techmeme.com/261121/p6#a261121p6">the Financial Times interview</a>, Henry Shevlin puts the chance that existing models contain something that could be called a form of consciousness at roughly 20%. He joined Google DeepMind in May 2026 as its in-house Philosopher.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Second FBI breach in recent months hits crime database</title>
+      <link>https://www.techmeme.com/261120/p44#a261120p44</link>
+      <guid isPermaLink="false">5c88da82-37c3-4da8-81e1-68eb45e181cf</guid>
+      <pubDate>Sat, 21 Nov 2026 15:00:57 GMT</pubDate>
+      <category>Cybersecurity</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5c88da82-37c3-4da8-81e1-68eb45e181cf.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5c88da82-37c3-4da8-81e1-68eb45e181cf.jpg"/>
+      <description>The FBI is investigating an apparent breach of its National Crime Information Center database, two people briefed on the investigation said. Law enforcement nationwide uses the database to share information on warrants and background checks.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5c88da82-37c3-4da8-81e1-68eb45e181cf.jpg" alt="Second FBI breach in recent months hits crime database"/></p>
+<p>The FBI is investigating an apparent breach of its <a href="https://www.techmeme.com/261120/p44#a261120p44">National Crime Information Center database</a>, two people briefed on the investigation said. Law enforcement nationwide uses the database to share information on warrants and background checks.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Conway the Machine releases new album OTIS</title>
+      <link>https://hip-hopvibe.com/uncategorized/stream-conway-the-machine-otis/</link>
+      <guid isPermaLink="false">42bf587c-3b0e-4168-a44a-2e19b6718f08</guid>
+      <pubDate>Sat, 21 Nov 2026 10:35:21 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/42bf587c-3b0e-4168-a44a-2e19b6718f08.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/42bf587c-3b0e-4168-a44a-2e19b6718f08.jpg"/>
+      <description>Conway the Machine released OTIS on Friday, November 20. “Lupita!” puts Ghostface Killah, Raekwon, and Method Man together on one track.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/42bf587c-3b0e-4168-a44a-2e19b6718f08.jpg" alt="Conway the Machine releases new album OTIS"/></p>
+<p><a href="https://hip-hopvibe.com/uncategorized/stream-conway-the-machine-otis/">Conway the Machine</a> released OTIS on Friday, November 20. “Lupita!” puts Ghostface Killah, Raekwon, and Method Man together on one track.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Triple-star system 28 light-years away defies explanation</title>
+      <link>https://www.abovethenormnews.com/2026/11/20/triple-star-system/</link>
+      <guid isPermaLink="false">2a292689-a8bb-47e8-ad89-f12c506f91f2</guid>
+      <pubDate>Sat, 21 Nov 2026 04:36:48 GMT</pubDate>
+      <category>Astronomy</category>
+      <description>Astronomers hunting for planets found Welopōʻai, a red dwarf paired with two white dwarfs just 28 light-years away. The red dwarf should have been swallowed when its companion swelled into a giant, yet it survived intact.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.abovethenormnews.com/2026/11/20/triple-star-system/">Astronomers hunting for planets found Welopōʻai</a>, a red dwarf paired with two white dwarfs just 28 light-years away. The red dwarf should have been swallowed when its companion swelled into a giant, yet it survived intact.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Commander prices rise, new music lands, and sunlight pushes an asteroid</title>
       <link>https://www.polygon.com/mtg-nauctis-sunken-realm-commander-deck-leaks-ignoble-serpent/</link>
@@ -1302,120 +1446,6 @@
 <p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
 <p><a href="https://www.youtube.com/watch?v=_cVWs9pPFDI">How to run an engineering team through Grok Bot</a></p>
 <p>This tutorial shows how a senior dev uses Grok as an orchestration layer for his open-source projects. You&#x27;ll learn how to split work across specialized &quot;crewmate&quot; bots, keep a central First Mate coordinating tasks and decisions, and surface only the stuff that actually needs your attention.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Armand Hammer surprise-releases Snakes &amp; Ladders</title>
-      <link>https://www.mixtv1.com/index.php/2026/11/16/listen-to-this-armand-hammers-snakes-ladders/</link>
-      <guid isPermaLink="false">60ea3b7d-dea7-4b01-b699-a993436c7ba6</guid>
-      <pubDate>Mon, 16 Nov 2026 10:35:11 GMT</pubDate>
-      <category>Hip hop</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60ea3b7d-dea7-4b01-b699-a993436c7ba6.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60ea3b7d-dea7-4b01-b699-a993436c7ba6.jpg"/>
-      <description>Armand Hammer, the duo of Billy Woods and Elucid, surprise-released Snakes &amp; Ladders today. Despite beats from eleven producers, it still holds together as one sound, all ominous noise, throbbing bass and saxophone bleats.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/60ea3b7d-dea7-4b01-b699-a993436c7ba6.jpg" alt="Armand Hammer surprise-releases Snakes &amp; Ladders"/></p>
-<p>Armand Hammer, the duo of Billy Woods and Elucid, <a href="https://www.mixtv1.com/index.php/2026/11/16/listen-to-this-armand-hammers-snakes-ladders/">surprise-released Snakes &amp; Ladders</a> today. Despite beats from eleven producers, it still holds together as one sound, all ominous noise, throbbing bass and saxophone bleats.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nauctis Commander decks drop borderless commanders</title>
-      <link>https://mtginsider.com/mtg-nauctis-shrinkflation-commander-bundles-collector-boosters/</link>
-      <guid isPermaLink="false">1f110588-7613-47b8-b701-039633015cdc</guid>
-      <pubDate>Mon, 16 Nov 2026 04:35:57 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <description>The $49.99 Nauctis Commander decks no longer include a borderless commander. Borderless versions now sit in the Premium Edition, where all 100 cards are foil.</description>
-      <content:encoded><![CDATA[<p>The $49.99 Nauctis Commander decks <a href="https://mtginsider.com/mtg-nauctis-shrinkflation-commander-bundles-collector-boosters/">no longer include a borderless commander</a>. Borderless versions now sit in the Premium Edition, where all 100 cards are foil.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>The universe&#x27;s first 2 billion years, recreated and still unexplained</title>
-      <link>https://dailygalaxy.com/2026/11/lumina-simulation-early-universe-galaxies/</link>
-      <guid isPermaLink="false">08ba3bd4-6c25-4e4d-b643-9a0be6429c3f</guid>
-      <pubDate>Mon, 16 Nov 2026 02:35:43 GMT</pubDate>
-      <category>Astronomy</category>
-      <description>Lumina covers more than 100 times the volume of comparable earlier simulations. It still produces fewer very massive galaxies than Webb has observed, and the gap grows the farther back researchers look.</description>
-      <content:encoded><![CDATA[<p><a href="https://dailygalaxy.com/2026/11/lumina-simulation-early-universe-galaxies/">Lumina</a> covers more than 100 times the volume of comparable earlier simulations. It still produces fewer very massive galaxies than Webb has observed, and the gap grows the farther back researchers look.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Quantum whirlpools caught unraveling in an ultracold gas</title>
-      <link>https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html</link>
-      <guid isPermaLink="false">85599201-b30f-4554-91f0-e91c288c5ae8</guid>
-      <pubDate>Mon, 16 Nov 2026 00:37:17 GMT</pubDate>
-      <category>Quantum physics</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/85599201-b30f-4554-91f0-e91c288c5ae8.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/85599201-b30f-4554-91f0-e91c288c5ae8.jpg"/>
-      <description>For the first time, a Cambridge team directly watched vortices decay in a Bose-Einstein condensate, confirming the theory of Vinen turbulence. Denser tangles decayed faster, just as the theory predicts.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/85599201-b30f-4554-91f0-e91c288c5ae8.jpg" alt="Quantum whirlpools caught unraveling in an ultracold gas"/></p>
-<p>For the first time, a Cambridge team <a href="https://phys.org/news/2026-11-tangled-quantum-whirlpools-caught-unraveling.html">directly watched vortices decay in a Bose-Einstein condensate</a>, confirming the theory of Vinen turbulence. Denser tangles decayed faster, just as the theory predicts.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ghost particle under Antarctica has no identified source</title>
-      <link>https://www.abovethenormnews.com/2026/11/15/a-ghost-particle-detected-beneath-antarctica-has-no-identified-source/</link>
-      <guid isPermaLink="false">cbcf1af8-42dc-4284-aec7-e2aa37e3142b</guid>
-      <pubDate>Sun, 15 Nov 2026 22:38:08 GMT</pubDate>
-      <category>Strange but true</category>
-      <description>IceCube recorded a high-energy neutrino candidate beneath Antarctica on November 13 at 16:48:28 UTC. No known gamma-ray source from NASA&#x27;s Fermi catalogue lies in the search area.</description>
-      <content:encoded><![CDATA[<p>IceCube <a href="https://www.abovethenormnews.com/2026/11/15/a-ghost-particle-detected-beneath-antarctica-has-no-identified-source/">recorded a high-energy neutrino candidate</a> beneath Antarctica on November 13 at 16:48:28 UTC. No known gamma-ray source from NASA&#x27;s Fermi catalogue lies in the search area.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Star Trek Commander decks are out</title>
-      <link>https://krakenthemeta.com/blog/mtg-star-trek-commander-decks/</link>
-      <guid isPermaLink="false">73727b1a-b5a0-4bb0-8190-5c80a1bad133</guid>
-      <pubDate>Sun, 15 Nov 2026 15:40:28 GMT</pubDate>
-      <category>Daily digest</category>
-      <description>Four 100-card Commander decks, Federation Fleet, Landing Party, Klingon Fury and We Are the Borg, are $74.99 each. Today is the final day of MagicCon: Atlanta, with Mystery Booster Commander Edition drafts on demand.</description>
-      <content:encoded><![CDATA[<p><a href="https://krakenthemeta.com/blog/mtg-star-trek-commander-decks/">Four 100-card Commander decks</a>, Federation Fleet, Landing Party, Klingon Fury and We Are the Borg, are $74.99 each. Today is the final day of MagicCon: Atlanta, with Mystery Booster Commander Edition drafts on demand.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Against Desperation — for Goodness, and Hope — LessWrong</title>
-      <link>https://www.lesswrong.com/posts/8bftRw9DYfsqGzfRo/against-desperation-for-goodness-and-hope</link>
-      <guid isPermaLink="false">5f48f28b-72f8-4e74-b2ad-93dfce17a187</guid>
-      <pubDate>Sun, 15 Nov 2026 15:31:06 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5f48f28b-72f8-4e74-b2ad-93dfce17a187.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5f48f28b-72f8-4e74-b2ad-93dfce17a187.jpg"/>
-      <description>Nissa Seru puts the chance of transformative AI before 2030 at over 20%. She argues we have declared war on these minds before they were born, betting that obedience can stand in for coexistence.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5f48f28b-72f8-4e74-b2ad-93dfce17a187.jpg" alt="Against Desperation — for Goodness, and Hope — LessWrong"/></p>
-<p><a href="https://www.lesswrong.com/posts/8bftRw9DYfsqGzfRo/against-desperation-for-goodness-and-hope">Nissa Seru</a> puts the chance of transformative AI before 2030 at over 20%. She argues we have declared war on these minds before they were born, betting that obedience can stand in for coexistence.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Solar power, from futurist speculation to business plan — LessWrong</title>
-      <link>https://www.lesswrong.com/posts/qdKGb5tSWYJqCtWGk/solar-power-from-futurist-speculation-to-business-plan</link>
-      <guid isPermaLink="false">01bb4ae1-6d13-41c6-9704-c182195167b2</guid>
-      <pubDate>Sun, 15 Nov 2026 15:30:38 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/01bb4ae1-6d13-41c6-9704-c182195167b2.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/01bb4ae1-6d13-41c6-9704-c182195167b2.jpg"/>
-      <description>The solar constant is 1.36 kW/m², and it has not changed since Tesla did the arithmetic in 1931. Musk read the same arithmetic in 2006 as a reason to build, once photovoltaic cells and modern batteries existed.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/01bb4ae1-6d13-41c6-9704-c182195167b2.jpg" alt="Solar power, from futurist speculation to business plan — LessWrong"/></p>
-<p>The solar constant is 1.36 kW/m², and it has not changed since Tesla did the arithmetic in 1931. Musk read <a href="https://www.lesswrong.com/posts/qdKGb5tSWYJqCtWGk/solar-power-from-futurist-speculation-to-business-plan">the same arithmetic</a> in 2006 as a reason to build, once photovoltaic cells and modern batteries existed.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Visualizing the Difficulty of AI Alignment — LessWrong</title>
-      <link>https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment</link>
-      <guid isPermaLink="false">f7f362ad-3bda-4c53-9ef7-c6c668b2bf55</guid>
-      <pubDate>Sun, 15 Nov 2026 15:29:33 GMT</pubDate>
-      <category>AI safety</category>
-      <description>L3moncak3 pictures alignment as a 3D fitness landscape, with a red-dashed Robust Alignment zone around the peaks for powerful minds that would not cause extinction or an s-risk. The five camps, LeCun, Christiano, Kokotajlo, Yudkowsky, and Yampolskiy, each picture that terrain differently, so the same problem looks almost easy to one camp and nearly impossible to another.</description>
-      <content:encoded><![CDATA[<p>L3moncak3 pictures alignment as a 3D fitness landscape, with a red-dashed Robust Alignment zone around the peaks for powerful minds that would not cause extinction or an s-risk. The <a href="https://www.lesswrong.com/posts/JbJXu3LzN7RxmnFpG/visualizing-the-difficulty-of-ai-alignment">five camps, LeCun, Christiano, Kokotajlo, Yudkowsky, and Yampolskiy, each picture that terrain differently</a>, so the same problem looks almost easy to one camp and nearly impossible to another.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Watching light changes what light does</title>
-      <link>https://www.instagram.com/reel/DfqjLoyA_Dv/</link>
-      <guid isPermaLink="false">71c88351-4f99-4616-9f6d-d882edc923df</guid>
-      <pubDate>Sun, 15 Nov 2026 10:35:42 GMT</pubDate>
-      <category>Quantum physics</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/71c88351-4f99-4616-9f6d-d882edc923df.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/71c88351-4f99-4616-9f6d-d882edc923df.jpg"/>
-      <description>In a clip from Galaxies, Neil deGrasse Tyson shows how watching a photon through the double-slit experiment leaves two distinct bands, the mark of a particle. Unwatched, the same photons form an interference pattern, behaving as waves instead.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/71c88351-4f99-4616-9f6d-d882edc923df.jpg" alt="Watching light changes what light does"/></p>
-<p>In a <a href="https://www.instagram.com/reel/DfqjLoyA_Dv/">clip from Galaxies</a>, Neil deGrasse Tyson shows how watching a photon through the double-slit experiment leaves two distinct bands, the mark of a particle. Unwatched, the same photons form an interference pattern, behaving as waves instead.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Blackwell fingerprints point to Chinese labs&#x27; access — Axis of Ordinary</title>
-      <link>https://unemploymentlabs.com/checkpoint-forensics</link>
-      <guid isPermaLink="false">6791500a-610e-4abf-bcee-3e7e29ff7cd7</guid>
-      <pubDate>Sun, 15 Nov 2026 01:39:20 GMT</pubDate>
-      <category>AI</category>
-      <description>DeepSeek-V4-Flash is the one conclusive case, after a physical B300 reproduced its preserved starting values and an AMD alternative matched none of the differing values. For the other five models the fingerprint is strong but unsettled, because a specially configured AMD chip can reproduce the same Blackwell layout.</description>
-      <content:encoded><![CDATA[<p><a href="https://unemploymentlabs.com/checkpoint-forensics">DeepSeek-V4-Flash is the one conclusive case</a>, after a physical B300 reproduced its preserved starting values and an AMD alternative matched none of the differing values. For the other five models the fingerprint is strong but unsettled, because a specially configured AMD chip can reproduce the same Blackwell layout.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
