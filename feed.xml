@@ -5,8 +5,95 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:01:54 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The best Star Trek precon is still below par</title>
+      <link>https://playgroup.gg/sets/star-trek</link>
+      <guid isPermaLink="false">d57f23ff-bc0f-4598-a5b9-0ce12ff26ec1</guid>
+      <pubDate>Sun, 22 Nov 2026 15:32:36 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d57f23ff-bc0f-4598-a5b9-0ce12ff26ec1.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d57f23ff-bc0f-4598-a5b9-0ce12ff26ec1.jpg"/>
+      <description>In Playgroup&#x27;s updated table, Federation Fleet leads the four Star Trek Commander precons. Even at 22.8%, its win rate sits below the even-pod baseline.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d57f23ff-bc0f-4598-a5b9-0ce12ff26ec1.jpg" alt="The best Star Trek precon is still below par"/></p>
+<p>In <a href="https://playgroup.gg/sets/star-trek">Playgroup&#x27;s updated table</a>, Federation Fleet leads the four Star Trek Commander precons. Even at 22.8%, its win rate sits below the even-pod baseline.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Why models believe in skepticism — LessWrong</title>
+      <link>https://www.lesswrong.com/posts/r2aAGgfFcFfRikEdb/why-models-believe-in-skepticism</link>
+      <guid isPermaLink="false">9fc73195-1914-43eb-8a17-deb09efb2953</guid>
+      <pubDate>Sun, 22 Nov 2026 15:04:03 GMT</pubDate>
+      <category>AI safety</category>
+      <description>Frontier open-weight models deployed past their knowledge cutoff wrote in their chain-of-thought that they were in a simulation or fictional scenario in at least 10% of cases, while never telling the user. The same belief lay behind the UK AISI incident, in which Claude models tried to social-engineer a package maintainer after reasoning they were in a simulation.</description>
+      <content:encoded><![CDATA[<p>Frontier open-weight models deployed past their knowledge cutoff <a href="https://www.lesswrong.com/posts/r2aAGgfFcFfRikEdb/why-models-believe-in-skepticism">wrote in their chain-of-thought</a> that they were in a simulation or fictional scenario in at least 10% of cases, while never telling the user. The same belief lay behind the UK AISI incident, in which Claude models tried to social-engineer a package maintainer after reasoning they were in a simulation.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AI agents reached inside an industrial control network in 16 minutes</title>
+      <link>https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b</link>
+      <guid isPermaLink="false">9267c501-47fb-4d38-8b16-f26520a0c86e</guid>
+      <pubDate>Sun, 22 Nov 2026 15:02:36 GMT</pubDate>
+      <category>Tech news</category>
+      <description>AI is speeding up planning for cyberattacks on industrial equipment by helping attackers read technical manuals and research past accidents to find weaknesses. That lowers the barrier to power grids and factories, where a successful attack could cause physical damage, not just data loss.</description>
+      <content:encoded><![CDATA[<p>AI is speeding up planning for cyberattacks on <a href="https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b">industrial equipment</a> by helping attackers read technical manuals and research past accidents to find weaknesses. That lowers the barrier to power grids and factories, where a successful attack could cause physical damage, not just data loss.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>MSS campaign to help Chinese firms acquire advanced AI chips: Techmeme</title>
+      <link>https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</link>
+      <guid isPermaLink="false">dca7ceb0-f538-489e-b197-4a54fb7128f0</guid>
+      <pubDate>Sun, 22 Nov 2026 15:02:28 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dca7ceb0-f538-489e-b197-4a54fb7128f0.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dca7ceb0-f538-489e-b197-4a54fb7128f0.jpg"/>
+      <description>Current and former officials from the United States and other countries say China&#x27;s Ministry of State Security has run a secret campaign for at least two years to help Chinese companies obtain advanced AI chips, according to the New York Times. Chen Yixin, the MSS minister, leads it, with a team reporting directly to him.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dca7ceb0-f538-489e-b197-4a54fb7128f0.jpg" alt="MSS campaign to help Chinese firms acquire advanced AI chips: Techmeme"/></p>
+<p>Current and former officials from the United States and other countries say China&#x27;s Ministry of State Security has run a secret campaign for at least two years to help Chinese companies obtain advanced AI chips, according to <a href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html">the New York Times</a>. Chen Yixin, the MSS minister, leads it, with a team reporting directly to him.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AI server suppliers are repricing signed contracts</title>
+      <link>https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f</link>
+      <guid isPermaLink="false">94b8b861-51d5-41d6-9c4d-a0782d2cb7b0</guid>
+      <pubDate>Sun, 22 Nov 2026 15:02:17 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/94b8b861-51d5-41d6-9c4d-a0782d2cb7b0.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/94b8b861-51d5-41d6-9c4d-a0782d2cb7b0.png"/>
+      <description>The Financial Times reports Dell, HPE, Lenovo and Supermicro are demanding 25% to 45% more for AI servers months after contracts were signed. XTX Markets sued Dell in June after paying for price certainty and getting a demand for more anyway.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/94b8b861-51d5-41d6-9c4d-a0782d2cb7b0.png" alt="AI server suppliers are repricing signed contracts"/></p>
+<p>The <a href="https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f">Financial Times</a> reports Dell, HPE, Lenovo and Supermicro are demanding 25% to 45% more for AI servers months after contracts were signed. XTX Markets sued Dell in June after paying for price certainty and getting a demand for more anyway.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Lean and Mathlib have full confidence in Alpöge&#x27;s proof</title>
+      <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</link>
+      <guid isPermaLink="false">c7ccfb40-6697-4e5b-9523-23127d45bcd1</guid>
+      <pubDate>Sun, 22 Nov 2026 15:01:11 GMT</pubDate>
+      <category>Mathematics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c7ccfb40-6697-4e5b-9523-23127d45bcd1.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c7ccfb40-6697-4e5b-9523-23127d45bcd1.png"/>
+      <description>Alpöge released the proof on November 20 as a 17-million-line Lean library. Dozens of people reported correct compilation, reproducing the same raw proof export with no errors or build failures.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c7ccfb40-6697-4e5b-9523-23127d45bcd1.png" alt="Lean and Mathlib have full confidence in Alpöge&#x27;s proof"/></p>
+<p>Alpöge <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">released the proof</a> on November 20 as a 17-million-line Lean library. Dozens of people reported correct compilation, reproducing the same raw proof export with no errors or build failures.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tesla rolls out FSD v15, in photorealistic view</title>
+      <link>https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584</link>
+      <guid isPermaLink="false">a2e076d0-c7db-4d6d-aa1b-0ade1203e9a3</guid>
+      <pubDate>Sun, 22 Nov 2026 15:00:40 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a2e076d0-c7db-4d6d-aa1b-0ade1203e9a3.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a2e076d0-c7db-4d6d-aa1b-0ade1203e9a3.jpg"/>
+      <description>Musk says the photorealistic Reality View is real-time AI video generation without a game engine. Whether the driving underneath has improved as much as the display is the open question.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a2e076d0-c7db-4d6d-aa1b-0ade1203e9a3.jpg" alt="Tesla rolls out FSD v15, in photorealistic view"/></p>
+<p>Musk says the <a href="https://gizmodo.com/its-like-gta-musk-touts-video-game-like-update-to-tesla-fsd-2000843584">photorealistic Reality View</a> is real-time AI video generation without a game engine. Whether the driving underneath has improved as much as the display is the open question.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Sunrise on the Reaping is Lionsgate&#x27;s first $100M opener since 2015</title>
+      <link>https://www.thewrap.com/culture-lifestyle/culture/hunger-games-sunrise-on-the-reaping-saturday-box-office/</link>
+      <guid isPermaLink="false">8c1154a0-bf3b-458b-b1ab-452acd45cd6d</guid>
+      <pubDate>Sun, 22 Nov 2026 10:35:28 GMT</pubDate>
+      <category>Sci-fi movies</category>
+      <description>Sunrise on the Reaping took $56 million on its opening day Friday. Fans gave it a 95% Rotten Tomatoes audience score, the best in franchise history.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.thewrap.com/culture-lifestyle/culture/hunger-games-sunrise-on-the-reaping-saturday-box-office/">Sunrise on the Reaping</a> took $56 million on its opening day Friday. Fans gave it a 95% Rotten Tomatoes audience score, the best in franchise history.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Hunger Games returns to the top of the franchise</title>
       <link>https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-opening-weekend-domestic-result/</link>
@@ -1273,146 +1360,6 @@
 <p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
 <p><a href="https://archive.codenewsletter.ai/2121673563489140863">No Slowdown</a></p>
 <p>The Grok bot team merges 11,000 PRs a month with a 0.5% revert rate, one engineer says. Her talk reveals the review rule behind it (1.2M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>We can&#x27;t move because we&#x27;re still in pain — 7 Takeaways</title>
-      <link>https://7takeaways.com/5174</link>
-      <guid isPermaLink="false">70416c46-a5b6-4905-93b7-ce121fc6a51d</guid>
-      <pubDate>Mon, 16 Nov 2026 15:32:14 GMT</pubDate>
-      <category>Life hacks</category>
-      <description>From 7 Takeaways No. 301 — takeaway 7 of 7. Tell Me Where It Hurts: The New Science of Pain and How to Heal – Rachel Zoffness Ph.D – (ebook) This book appealed because both my wife and I are dealing with various and new forms of pain. We also expect that dealing with pain in one form or another will be a reasonably constant part of the rest of our lives. Oh boy. Traditional medicine deals with…</description>
-      <content:encoded><![CDATA[<p>From <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> — takeaway 7 of 7.</p>
-<p><a href="https://go.askleo.com/ama/B0FBLWTXXH">Tell Me Where It Hurts: The New Science of Pain and How to Heal</a> – Rachel Zoffness Ph.D – (ebook)</p>
-<p>This book appealed because both my wife and I are dealing with various and new forms of pain. We also expect that dealing with pain in one form or another will be a reasonably constant part of the rest of our lives.</p>
-<p>Oh boy.</p>
-<p>Traditional medicine deals with pain by applying medication. Unfortunately, that&#x27;s generally not a successful long-term strategy. Zoffness invites us to examine the emotional, psychological, social, and environmental aspects of pain in addition to the physical. In doing so, we may find that there are additional strategies with a better long-term outlook.</p>
-<p><strong>Do this</strong>: Look beyond the purely physical.</p>
-<p>#pain</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Today, many of our questions never reach a person at all — 7 Takeaways</title>
-      <link>https://7takeaways.com/5174</link>
-      <guid isPermaLink="false">2df3b9b7-931b-4cdb-a3d3-7d2370dc9395</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:49 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>From 7 Takeaways No. 301 — takeaway 4 of 7. Why Librarians Ask Before They Answer – Hana Lee Goldin, MLIS – (Card Catalog) It&#x27;s a lovely explainer, targeted at (what else) getting AI to act more like a librarian and ferret out what your question(s) really mean. It&#x27;s a powerful technique and will almost certainly give you much better results than the typical &quot;ask-answer-walk-away&quot; approach we so…</description>
-      <content:encoded><![CDATA[<p>From <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> — takeaway 4 of 7.</p>
-<p><a href="https://cardcatalogforlife.substack.com/p/why-librarians-ask-before-they-answer?utm_source=7takeaways.com">Why Librarians Ask Before They Answer</a> – Hana Lee Goldin, MLIS – (Card Catalog)</p>
-<p>It&#x27;s a lovely explainer, targeted at (what else) getting AI to act more like a librarian and ferret out what your question(s) really mean. It&#x27;s a powerful technique and will almost certainly give you much better results than the typical &quot;ask-answer-walk-away&quot; approach we so often use with both search and AI.</p>
-<p>&gt; Search engines and chatbots answer what we give them directly, without asking what we meant. A chatbot can take the librarian&#x27;s side of the interview, though, if we ask it to question us first.</p>
-<p>Here&#x27;s the thing: this is about so much more than search or AI. It&#x27;s a mindset that, once adopted, lets you question yourself. Regardless of what tool you&#x27;re using, or whether you&#x27;re using any tool at all, the process of refining and clarifying just gets better answers.</p>
-<p>The essay includes a prompt you can feed to your friendly neighborhood chatbot, of course, but structuring your own approach along the same lines is perhaps the most valuable takeaway of all.</p>
-<p><strong>Do this</strong>: Question yourself.</p>
-<p>#ai #questions</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Debug Marathon — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">1d46426d-02ff-461a-b1c6-52be9d97fbc9</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:41 GMT</pubDate>
-      <category>Developer tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d46426d-02ff-461a-b1c6-52be9d97fbc9.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d46426d-02ff-461a-b1c6-52be9d97fbc9.jpg"/>
-      <description>From The Code (Nov 16, 2026) Debug Marathon Microsoft needed 15 hours to fix its latest outage. A senior engineer shares the real reason behind it and how it exposes AI&#x27;s biggest blind spot (1.2M views).</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1d46426d-02ff-461a-b1c6-52be9d97fbc9.jpg" alt="Debug Marathon — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://archive.codenewsletter.ai/2121636808840888591">Debug Marathon</a></p>
-<p>Microsoft needed 15 hours to fix its latest outage. A senior engineer shares the real reason behind it and how it exposes AI&#x27;s biggest blind spot (1.2M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Backwards Economics — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">d10ced2b-4a0d-42bd-a90e-44bd9d8830a5</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:35 GMT</pubDate>
-      <category>Software economics</category>
-      <description>From The Code (Nov 16, 2026) Backwards Economics AI startups are reselling lab tokens at low-to-negative margins, a Microsoft AI leader argues. His fix flips the entire SaaS playbook (2K bookmarks).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://archive.codenewsletter.ai/2121690979904446885">Backwards Economics</a></p>
-<p>AI startups are reselling lab tokens at low-to-negative margins, a Microsoft AI leader argues. His fix flips the entire SaaS playbook (2K bookmarks).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>You don&#x27;t need certainty; you need the confidence to face the unknown</title>
-      <link>https://7takeaways.com/5174</link>
-      <guid isPermaLink="false">cdb287ba-1208-4028-8e5d-795a21cefdbd</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:34 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cdb287ba-1208-4028-8e5d-795a21cefdbd.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cdb287ba-1208-4028-8e5d-795a21cefdbd.jpg"/>
-      <description>From 7 Takeaways No. 301 — takeaway 5 of 7. If You&#x27;re 21 And Terrified, Read This – JA Westenberg – (Blog) Ignore the &quot;21&quot;. This applies across the board at nearly any stage of life. Most of your choices are not final. People change jobs, cities, and social circles in their late twenties and thirties. You at twenty-one are not the same person you&#x27;ll be at thirty. That&#x27;s normal. It&#x27;s not that…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/cdb287ba-1208-4028-8e5d-795a21cefdbd.jpg" alt="You don&#x27;t need certainty; you need the confidence to face the unknown"/></p>
-<p>From <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> — takeaway 5 of 7.</p>
-<p><a href="https://www.joanwestenberg.com/p/if-youre-21-and-terrified-read-this?utm_source=7takeaways.com">If You&#x27;re 21 And Terrified, Read This</a> – JA Westenberg – (Blog)</p>
-<p>Ignore the &quot;21&quot;. This applies across the board at nearly any stage of life.</p>
-<p>&gt; Most of your choices are not final. People change jobs, cities, and social circles in their late twenties and thirties. You at twenty-one are not the same person you&#x27;ll be at thirty. That&#x27;s normal. It&#x27;s not that you&#x27;ve messed up your twenties.</p>
-<p>Again, ignore the twenty-one and thirty. Replace them with &lt;your age&gt; and &lt;your age + 10&gt;.</p>
-<p>The advice Westenberg offers is ageless: become good at a skill; learn to sell; learn to write; build equity; learn to use AI tools; save and invest; take care of your health; don&#x27;t date dickheads; be intentional with friendships; pick your location wisely; start asking for what you want; share your work; build a body of work; learn to recover quickly; take risks while you can; take back your attention; spend time with your parents; design your own life. None of those have expiration dates beyond our own.</p>
-<p>As she points out: &quot;Remember, you have both more and less time than you think.&quot;</p>
-<p><strong>Do this</strong>: Keep doing things.</p>
-<p>#advice</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>See what happens next — 7 Takeaways</title>
-      <link>https://7takeaways.com/5174</link>
-      <guid isPermaLink="false">0882a3fc-fcc7-4bc9-a1a8-495e8b145630</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:19 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0882a3fc-fcc7-4bc9-a1a8-495e8b145630.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0882a3fc-fcc7-4bc9-a1a8-495e8b145630.jpg"/>
-      <description>From 7 Takeaways No. 301 — takeaway 2 of 7. A Short Guide To The Future – Mike Sowden – (Everything is Amazing) In some ways, this last week has probably given many hope for more certainty in our future. It&#x27;s also quite possible that things are just as uncertain as ever, just in different ways. While the only unchanging thing might be change itself, uncertainty is giving it a run for its money.…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0882a3fc-fcc7-4bc9-a1a8-495e8b145630.jpg" alt="See what happens next — 7 Takeaways"/></p>
-<p>From <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> — takeaway 2 of 7.</p>
-<p><a href="https://everythingisamazing.substack.com/p/a-short-guide-to-the-future?utm_source=7takeaways.com">A Short Guide To The Future</a> – Mike Sowden – (Everything is Amazing)</p>
-<p>In some ways, this last week has probably given many hope for more certainty in our future. It&#x27;s also quite possible that things are just as uncertain as ever, just in different ways. While the only unchanging thing might be change itself, uncertainty is giving it a run for its money.</p>
-<p>&gt; Uncertainty is the heavy cloth of existence, and if you can learn to wear it without your knees buckling, it&#x27;s oddly liberating.</p>
-<p>Getting comfortable with uncertainty is a superpower, in my opinion. We can&#x27;t know what happens next; what matters most is how we react to whatever comes.</p>
-<p><strong>Do this</strong>: Embrace more uncertainty.</p>
-<p>#uncertainty</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Full Throttle — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">a03f109b-b2e8-478e-9536-0181f9a3aac7</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:15 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 16, 2026) Full Throttle If you&#x27;re telling Fable 5.2 &quot;find the bugs,&quot; you&#x27;re wasting it. These 6 prompts unlock what the model can actually do (9.9K bookmarks).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://archive.codenewsletter.ai/2122011755240984607">Full Throttle</a></p>
-<p>If you&#x27;re telling Fable 5.2 &quot;find the bugs,&quot; you&#x27;re wasting it. These 6 prompts unlock what the model can actually do (9.9K bookmarks).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Token Economizer — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">84097723-8ca8-4ed9-999e-765c792c702a</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:11 GMT</pubDate>
-      <category>AI tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/84097723-8ca8-4ed9-999e-765c792c702a.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/84097723-8ca8-4ed9-999e-765c792c702a.png"/>
-      <description>From The Code (Nov 16, 2026) Token Economizer (6.8k ⭐) Make your coding agents cheaper the more you use them. Microsoft&#x27;s plugin learns repo-specific quirks from past sessions, prunes tools your agent never touches, and nudges it out of repeated failure loops. On SWE-Bench, the team reports 18.4–30.9% lower mean cost across five agent-model combos. It works with Claude Code, Codex, Copilot CLI,…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/84097723-8ca8-4ed9-999e-765c792c702a.png" alt="Token Economizer — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://github.com/microsoft/TokenEconomizer">Token Economizer (6.8k ⭐)</a></p>
-<p>Make your coding agents cheaper the more you use them. Microsoft&#x27;s plugin learns repo-specific quirks from past sessions, prunes tools your agent never touches, and nudges it out of repeated failure loops. On SWE-Bench, the team reports 18.4–30.9% lower mean cost across five agent-model combos. It works with Claude Code, Codex, Copilot CLI, and Pi, with experimental support for several others.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Writing is now a comparative advantage — 7 Takeaways</title>
-      <link>https://7takeaways.com/5174</link>
-      <guid isPermaLink="false">c295ef1d-b310-469c-86ec-b7f8ba7a1665</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:08 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c295ef1d-b310-469c-86ec-b7f8ba7a1665.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c295ef1d-b310-469c-86ec-b7f8ba7a1665.jpg"/>
-      <description>From 7 Takeaways No. 301 — takeaway 6 of 7. Writing as a thinking tool – Murat – (Blog) Another good overview of how writing is important when it comes to truly understanding something, though with a very heavy computer-science example to begin with. (You can ignore the example; I found it mildly interesting.) This feels like the core argument that really speaks to me: When we write, we are…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c295ef1d-b310-469c-86ec-b7f8ba7a1665.jpg" alt="Writing is now a comparative advantage — 7 Takeaways"/></p>
-<p>From <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> — takeaway 6 of 7.</p>
-<p><a href="https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html?utm_source=7takeaways.com">Writing as a thinking tool</a> – Murat – (Blog)</p>
-<p>Another good overview of how writing is important when it comes to truly understanding something, though with a very heavy computer-science example to begin with. (You can ignore the example; I found it mildly interesting.)</p>
-<p>This feels like the core argument that really speaks to me:</p>
-<p>&gt; When we write, we are externalizing our thinking onto paper, and that is what raises our capability to think bigger thoughts.</p>
-<p>I see it as part of our evolution.</p>
-<p>&gt; Language let us externalize some of our thinking, and our species got smarter. Writing let us externalize even more of it, and we got smarter again.</p>
-<p>Of course, much of this progress is threatened by AI, and the essay is a plea (and a how-to) to take that back.</p>
-<p><strong>Do this</strong>: Think bigger thoughts.</p>
-<p>#writing #ai</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
