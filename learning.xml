@@ -5,8 +5,41 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:01:55 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: Mary&#x27;s Room — Daily Learning</title>
+      <link>http://seop.illc.uva.nl/entries/qualia-knowledge/</link>
+      <guid isPermaLink="false">f9f3cce6-8324-4e6c-a425-f1c6ebd91af2</guid>
+      <pubDate>Sun, 22 Nov 2026 15:05:13 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f9f3cce6-8324-4e6c-a425-f1c6ebd91af2.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f9f3cce6-8324-4e6c-a425-f1c6ebd91af2.png"/>
+      <description>Frank Jackson&#x27;s Knowledge Argument imagines Mary, a brilliant colour scientist who knows all the physical facts about vision yet has spent her whole life in a black-and-white room and never seen colour. When she steps out and sees a red tomato for the first time, Jackson says she learns something new, what it is like to see red, and that leaves the question of whether a machine that knew…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f9f3cce6-8324-4e6c-a425-f1c6ebd91af2.png" alt="Big Idea: Mary&#x27;s Room — Daily Learning"/></p>
+<p>Frank Jackson&#x27;s <a href="http://seop.illc.uva.nl/entries/qualia-knowledge/">Knowledge Argument</a> imagines Mary, a brilliant colour scientist who knows all the physical facts about vision yet has spent her whole life in a black-and-white room and never seen colour. When she steps out and sees a red tomato for the first time, Jackson says she learns something new, what it is like to see red, and that leaves the question of whether a machine that knew everything about a mind would know what having one feels like.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: quiddity — Daily Learning</title>
+      <link>https://www.merriam-webster.com/wordplay/great-big-list-of-beautiful-and-useless-words-vol-4/quiddity</link>
+      <guid isPermaLink="false">f9387b39-e1a9-4014-875d-b6214fca0076</guid>
+      <pubDate>Sun, 22 Nov 2026 15:04:13 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Quiddity (KWID-i-tee) is a noun for the essential nature of a thing, its whatness, from Latin quidditas, from quid (&quot;what&quot;). The quiddity of a good poker bluff is the story it tells.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.merriam-webster.com/wordplay/great-big-list-of-beautiful-and-useless-words-vol-4/quiddity">Quiddity</a> (KWID-i-tee) is a noun for the essential nature of a thing, its whatness, from Latin quidditas, from quid (&quot;what&quot;). The quiddity of a good poker bluff is the story it tells.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Bootstrapping — Daily Learning</title>
+      <link>https://casrai.org/guides/bootstrapping-statistics</link>
+      <guid isPermaLink="false">8dd83dea-5b86-4050-818b-d36a8afda9a5</guid>
+      <pubDate>Sun, 22 Nov 2026 15:01:15 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8dd83dea-5b86-4050-818b-d36a8afda9a5.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8dd83dea-5b86-4050-818b-d36a8afda9a5.png"/>
+      <description>When you can&#x27;t collect more data, resample the data you already have, drawing many new samples of the same size with replacement and recomputing your statistic each time. The spread of those values is your uncertainty: 100 poker sessions averaging +$12 a session might land between +$4 and +$20 in 95% of 10,000 resamples.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8dd83dea-5b86-4050-818b-d36a8afda9a5.png" alt="Statistics: Bootstrapping — Daily Learning"/></p>
+<p>When you can&#x27;t collect more data, <a href="https://casrai.org/guides/bootstrapping-statistics">resample the data you already have</a>, drawing many new samples of the same size with replacement and recomputing your statistic each time. The spread of those values is your uncertainty: 100 poker sessions averaging +$12 a session might land between +$4 and +$20 in 95% of 10,000 resamples.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Big Idea: Roko&#x27;s Basilisk — Daily Learning</title>
       <link>https://www.lesswrong.com/w/rokos-basilisk?version=1.7.0</link>
@@ -450,33 +483,6 @@
       <category>Daily Learning</category>
       <description>Adding a road can make everyone&#x27;s trip slower, because each driver picks the route that looks fastest for them alone. In the traffic-network example, a zero-time connector pulls everyone onto one route, and the trip becomes 80 minutes for everyone.</description>
       <content:encoded><![CDATA[<p>Adding a road can make everyone&#x27;s trip slower, because each driver picks the route that looks fastest for them alone. In the <a href="https://www.cs.cornell.edu/~rafael/networks-html/chapter7.html">traffic-network example</a>, a zero-time connector pulls everyone onto one route, and the trip becomes 80 minutes for everyone.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: perspicacious - Daily Learning</title>
-      <link>https://www.merriam-webster.com/thesaurus/perspicacious</link>
-      <guid isPermaLink="false">cb8b4f3b-5c14-4942-81d6-8effc1d92c32</guid>
-      <pubDate>Thu, 05 Nov 2026 15:27:08 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Perspicacious (per-spih-KAY-shus) is an adjective meaning having keen insight and understanding, able to notice and understand things that others miss, especially in judging people or situations. “She considers herself a perspicacious judge of character.”</description>
-      <content:encoded><![CDATA[<p><a href="https://www.merriam-webster.com/thesaurus/perspicacious">Perspicacious</a> (per-spih-KAY-shus) is an adjective meaning having keen insight and understanding, able to notice and understand things that others miss, especially in judging people or situations. “She considers herself a perspicacious judge of character.”</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: The Central Limit Theorem — Daily Learning</title>
-      <link>https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_2e_(OpenStax</link>
-      <guid isPermaLink="false">279a557a-f762-4773-8fbe-f7fa3e34559c</guid>
-      <pubDate>Wed, 04 Nov 2026 15:28:48 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>No matter how weird or skewed the underlying data looks, the average of many independent samples tends to settle into a bell-shaped pattern/07%3ATheCentralLimitTheorem/7.02%3ATheCentralLimitTheoremforSampleMeans(Averages)) around the true mean. A single die roll is flat, but the average of 100 rolls lands near 3.5.</description>
-      <content:encoded><![CDATA[<p>No matter how weird or skewed the underlying data looks, the average of many independent samples tends to settle into a <a href="https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Introductory_Statistics_2e_(OpenStax">bell-shaped pattern</a>/07%3A_The_Central_Limit_Theorem/7.02%3A_The_Central_Limit_Theorem_for_Sample_Means_(Averages)) around the true mean. A single die roll is flat, but the average of 100 rolls lands near 3.5.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Hard Problem of Consciousness — Daily Learning</title>
-      <link>https://www.taskade.com/wiki/cognitive-science/hard-problem-consciousness</link>
-      <guid isPermaLink="false">5439cf2f-7627-422f-beac-34947e095514</guid>
-      <pubDate>Wed, 04 Nov 2026 15:27:27 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In 1995, philosopher David Chalmers asked why brain processing should feel like anything from the inside. A perfect physical replica that behaved identically would still leave open whether it actually experiences anything.</description>
-      <content:encoded><![CDATA[<p>In 1995, philosopher <a href="https://www.taskade.com/wiki/cognitive-science/hard-problem-consciousness">David Chalmers</a> asked why brain processing should feel like anything from the inside. A <a href="http://cogsci.uwaterloo.ca/courses/Phil255/Phil255.week8.html">perfect physical replica</a> that behaved identically would still leave open whether it actually experiences anything.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
