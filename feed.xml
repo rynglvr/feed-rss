@@ -5,8 +5,74 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:01:11 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hunger Games returns to the top of the franchise</title>
+      <link>https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-opening-weekend-domestic-result/</link>
+      <guid isPermaLink="false">c94c5058-ecad-49a6-9528-ef346084f203</guid>
+      <pubDate>Sat, 21 Nov 2026 23:42:01 GMT</pubDate>
+      <category>Evening digest</category>
+      <description>The Hunger Games: Sunrise on the Reaping is projected to earn more than $120 million domestic in its opening weekend. It would be the best debut since Mockingjay - Part 1 in 2014, reversing the last film&#x27;s soft opening.</description>
+      <content:encoded><![CDATA[<p>The Hunger Games: Sunrise on the Reaping is <a href="https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-opening-weekend-domestic-result/">projected to earn more than $120 million domestic</a> in its opening weekend. It would be the best debut since Mockingjay - Part 1 in 2014, reversing the last film&#x27;s soft opening.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Canary credentials caught AI routers leaking secrets</title>
+      <link>https://www.techmeme.com/261121/p10#a261121p10</link>
+      <guid isPermaLink="false">f67ab8f3-932a-4db8-9400-db3f9eeec986</guid>
+      <pubDate>Sat, 21 Nov 2026 23:01:38 GMT</pubDate>
+      <category>AI security</category>
+      <description>Dragos researchers sent nearly two million prompts carrying unique, trackable secrets to AI services between July and November 2026. The secrets surfaced anyway, even on prompts marked zero data retention.</description>
+      <content:encoded><![CDATA[<p>Dragos researchers sent nearly two million prompts carrying unique, trackable secrets to AI services between July and November 2026. <a href="https://www.techmeme.com/261121/p10#a261121p10">The secrets surfaced anyway</a>, even on prompts marked zero data retention.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>FT: Alice Huang tied to network moving Nvidia chips to China</title>
+      <link>https://www.techmeme.com/261121/p9#a261121p9</link>
+      <guid isPermaLink="false">c2595350-2ecb-467e-afd9-c6c64b5e3586</guid>
+      <pubDate>Sat, 21 Nov 2026 23:01:29 GMT</pubDate>
+      <category>Tech news</category>
+      <description>A Financial Times investigation found Alice Huang connected to a network moving restricted Nvidia chips into China. The route ran through gaming firms, alleged Prince Group figures and hundreds of shell companies, with no charges against her reported.</description>
+      <content:encoded><![CDATA[<p>A <a href="https://www.techmeme.com/261121/p9#a261121p9">Financial Times investigation</a> found Alice Huang connected to a network moving restricted Nvidia chips into China. The route ran through gaming firms, alleged Prince Group figures and hundreds of shell companies, with no charges against her reported.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Amazon nears $7.5B deal to buy AI startup Decart</title>
+      <link>https://www.techmeme.com/261121/p8#a261121p8</link>
+      <guid isPermaLink="false">620bad7d-97f4-40e0-a585-db14cc96eebf</guid>
+      <pubDate>Sat, 21 Nov 2026 23:00:32 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/620bad7d-97f4-40e0-a585-db14cc96eebf.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/620bad7d-97f4-40e0-a585-db14cc96eebf.jpg"/>
+      <description>A deal could come together as soon as next week, with talks now at an advanced stage. Decart&#x27;s software lets developers alternate between different AI chips, freeing up the capacity AWS needs to challenge Nvidia.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/620bad7d-97f4-40e0-a585-db14cc96eebf.jpg" alt="Amazon nears $7.5B deal to buy AI startup Decart"/></p>
+<p>A deal could come together as soon as next week, with talks now at an <a href="https://www.techmeme.com/261121/p8#a261121p8">advanced stage</a>. Decart&#x27;s software lets developers alternate between different AI chips, freeing up the capacity AWS needs to challenge Nvidia.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>China&#x27;s AI capex doubles to $139B</title>
+      <link>https://www.techmeme.com/261121/p7#a261121p7</link>
+      <guid isPermaLink="false">cc87b482-da4d-4db7-8fc6-9ceee9359ffc</guid>
+      <pubDate>Sat, 21 Nov 2026 23:00:13 GMT</pubDate>
+      <category>Tech news</category>
+      <description>Rhodium Group expects China&#x27;s AI capital spending to double to $139 billion in 2026. All of China&#x27;s AI models together bring in about $10.7 billion in annualised recurring revenue.</description>
+      <content:encoded><![CDATA[<p>Rhodium Group expects China&#x27;s AI capital spending to <a href="https://www.techmeme.com/261121/p7#a261121p7">double to $139 billion in 2026</a>. All of China&#x27;s AI models together bring in about $10.7 billion in annualised recurring revenue.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Obsession tops Netflix&#x27;s U.S. chart</title>
+      <link>https://www.mandatory.com/news/1895679-obsession-beats-heartland-for-new-netflix-no-1</link>
+      <guid isPermaLink="false">15903c56-18e5-4ee0-8221-edf991bf8ce7</guid>
+      <pubDate>Sat, 21 Nov 2026 22:36:01 GMT</pubDate>
+      <category>Horror movies</category>
+      <description>Obsession is now No. 1 among Netflix movies in the United States, overtaking Heartland. Curry Barker made it for just $750,000.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.mandatory.com/news/1895679-obsession-beats-heartland-for-new-netflix-no-1">Obsession</a> is now No. 1 among Netflix movies in the United States, overtaking Heartland. Curry Barker made it for just $750,000.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Starlog returns in print as Legacy Issue 375</title>
+      <link>https://starlog.com/products/the-starlog-magazine-2026?ref=andrewliptak.com</link>
+      <guid isPermaLink="false">47280605-2951-4f75-91fd-c2f24557be8a</guid>
+      <pubDate>Sat, 21 Nov 2026 16:38:51 GMT</pubDate>
+      <category>Science fiction magazines</category>
+      <description>Starlog is back in print, picking up the original magazine&#x27;s numbering as Legacy Issue 375. It ships November 20, 2026 for $19.99.</description>
+      <content:encoded><![CDATA[<p><a href="https://starlog.com/products/the-starlog-magazine-2026?ref=andrewliptak.com">Starlog</a> is back in print, picking up the original magazine&#x27;s numbering as Legacy Issue 375. It ships November 20, 2026 for $19.99.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Steve Miner returns to direct Jason</title>
       <link>https://www.fangoria.com/jason-new-friday-the-13th-release-date/</link>
@@ -1347,105 +1413,6 @@
 <p>Of course, much of this progress is threatened by AI, and the essay is a plea (and a how-to) to take that back.</p>
 <p><strong>Do this</strong>: Think bigger thoughts.</p>
 <p>#writing #ai</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>We talk as if we&#x27;re pursuing noble ideals — 7 Takeaways</title>
-      <link>https://7takeaways.com/5174</link>
-      <guid isPermaLink="false">ba0a5a0f-d0e4-4f1f-9129-3c00ba11d03f</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:03 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>From 7 Takeaways No. 301 — takeaway 1 of 7. Pseudobeliefs – David Pinsof – (Everything is Bullshit) This is a deep dive into how beliefs are formed and how they often end up not being about the object of the belief at all. We talk as if we&#x27;re pursuing noble ideals — truth, happiness, authenticity, equality, diversity, self-actualization, universal beneficence — because it sounds better than what…</description>
-      <content:encoded><![CDATA[<p>From <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> — takeaway 1 of 7.</p>
-<p><a href="https://www.everythingisbullshit.blog/p/pseudobeliefs?utm_source=7takeaways.com">Pseudobeliefs</a> – David Pinsof – (Everything is Bullshit)</p>
-<p>This is a deep dive into how beliefs are formed and how they often end up not being about the object of the belief at all.</p>
-<p>&gt; We talk as if we&#x27;re pursuing noble ideals — truth, happiness, authenticity, equality, diversity, self-actualization, universal beneficence — because it sounds better than what we&#x27;re ultimately pursuing: status, power, and moral superiority.</p>
-<p>This is something looming large on social media. It&#x27;s worth thinking about where our beliefs come from and how they shape our world.</p>
-<p><strong>Do this</strong>: Examine your beliefs.</p>
-<p>#beliefs</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>CI Fast Lane — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">eaa3e3a8-caac-4e4f-93e0-82c67e651b3d</guid>
-      <pubDate>Mon, 16 Nov 2026 15:31:03 GMT</pubDate>
-      <category>Developer tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eaa3e3a8-caac-4e4f-93e0-82c67e651b3d.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eaa3e3a8-caac-4e4f-93e0-82c67e651b3d.png"/>
-      <description>From The Code (Nov 16, 2026) CI Fast Lane A startup founder says his team&#x27;s frontend CI now finishes in under 2 minutes. He shared the exact prompt that got them there (3.3K bookmarks).</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/eaa3e3a8-caac-4e4f-93e0-82c67e651b3d.png" alt="CI Fast Lane — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://archive.codenewsletter.ai/2121990184816484483">CI Fast Lane</a></p>
-<p>A startup founder says his team&#x27;s frontend CI now finishes in under 2 minutes. He shared the exact prompt that got them there (3.3K bookmarks).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Chain Reaction — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">d83f7c9c-7411-41fe-bda5-991461e779e9</guid>
-      <pubDate>Mon, 16 Nov 2026 15:30:48 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d83f7c9c-7411-41fe-bda5-991461e779e9.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d83f7c9c-7411-41fe-bda5-991461e779e9.jpg"/>
-      <description>From The Code (Nov 16, 2026) Chain Reaction An NVIDIA robotics engineer says Jensen Huang&#x27;s departure pushed him to quit too. His letter about what&#x27;s happening inside NVIDIA has devs talking (6.4M views).</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d83f7c9c-7411-41fe-bda5-991461e779e9.jpg" alt="Chain Reaction — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://archive.codenewsletter.ai/2121804561996448005">Chain Reaction</a></p>
-<p>An NVIDIA robotics engineer says Jensen Huang&#x27;s departure pushed him to quit too. His letter about what&#x27;s happening inside NVIDIA has devs talking (6.4M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Missing Rung — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">7292c73b-957e-4e87-925b-7d06b0040b7b</guid>
-      <pubDate>Mon, 16 Nov 2026 15:30:47 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7292c73b-957e-4e87-925b-7d06b0040b7b.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7292c73b-957e-4e87-925b-7d06b0040b7b.png"/>
-      <description>From The Code (Nov 16, 2026) Missing Rung New payroll data suggests that one age group of developers is absorbing nearly all AI-related job losses (1.9K likes).</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7292c73b-957e-4e87-925b-7d06b0040b7b.png" alt="Missing Rung — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://archive.codenewsletter.ai/2121689817301819425">Missing Rung</a></p>
-<p>New payroll data suggests that one age group of developers is absorbing nearly all AI-related job losses (1.9K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Trustworthy computations, even if your computer lies</title>
-      <link>https://www.lesswrong.com/posts/iA278crxXeePkvdtP/nullius-in-pixella-trustworthy-computations-even-if-your</link>
-      <guid isPermaLink="false">b404fcc8-36b0-4b4f-9533-7885511cc62e</guid>
-      <pubDate>Mon, 16 Nov 2026 15:30:44 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b404fcc8-36b0-4b4f-9533-7885511cc62e.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b404fcc8-36b0-4b4f-9533-7885511cc62e.png"/>
-      <description>Stacks of punched-paper stencils on a lightbox can verify even a SHA-256 hash within human-scale timeframes. Light shining through means an error; darkness means the gates pass.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b404fcc8-36b0-4b4f-9533-7885511cc62e.png" alt="Trustworthy computations, even if your computer lies"/></p>
-<p><a href="https://www.lesswrong.com/posts/iA278crxXeePkvdtP/nullius-in-pixella-trustworthy-computations-even-if-your">Stacks of punched-paper stencils</a> on a lightbox can verify even a SHA-256 hash within human-scale timeframes. Light shining through means an error; darkness means the gates pass.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Add a little friction back into your life — 7 Takeaways</title>
-      <link>https://7takeaways.com/5174</link>
-      <guid isPermaLink="false">8d9fb8d1-b489-4bd7-8ef8-3fcb68110b50</guid>
-      <pubDate>Mon, 16 Nov 2026 15:30:39 GMT</pubDate>
-      <category>Productivity</category>
-      <description>From 7 Takeaways No. 301 — takeaway 3 of 7. Ness Letters: The Comfort Paradox – Anne-Laure Le Cunff – (Ness Labs) We live in amazing times. So much more is possible, and so much is being done for us; it&#x27;s truly incredible. And yet almost everything we now see as &quot;amazing&quot; and &quot;incredible&quot; will someday, no doubt, be seen as normal and anything but noteworthy. And the results? The results will have…</description>
-      <content:encoded><![CDATA[<p>From <a href="https://7takeaways.com/5174">7 Takeaways No. 301</a> — takeaway 3 of 7.</p>
-<p><a href="https://nesslabs.com/newsletter/comfort-paradox?utm_source=7takeaways.com">Ness Letters: The Comfort Paradox</a> – Anne-Laure Le Cunff – (Ness Labs)</p>
-<p>We live in amazing times. So much more is possible, and so much is being done for us; it&#x27;s truly incredible. And yet almost everything we now see as &quot;amazing&quot; and &quot;incredible&quot; will someday, no doubt, be seen as normal and anything but noteworthy. And the results? The results will have less perceived value simply because they&#x27;ll be considered mundane.</p>
-<p>The argument here is that there&#x27;s value in purposely adding difficulty to some of our tasks.</p>
-<p>&gt; We spend our lives trying to make everything easier, yet some of the things that make life worth living require difficulty.</p>
-<p>I think the most obvious example right now might be how we connect with each other. It&#x27;s trivial to message anyone anywhere on the planet and get a response in seconds. I won&#x27;t say that this devalues the relationship, but it certainly makes it less &quot;special&quot; than a long-distance conversation might have been in the past. I&#x27;m also not saying that&#x27;s an example of something we should purposely make more difficult. Far from it. But it is a tangible example of how ease can lead us to take for granted things that perhaps we should value more.</p>
-<p><strong>Do this</strong>: Consider whether some of the easy things in your life warrant a little more attention.</p>
-<p>#comfort</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>How to run an engineering team through Grok Bot</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">51c1e3db-da19-4ec1-aa3f-5d31ee6fa658</guid>
-      <pubDate>Mon, 16 Nov 2026 15:30:25 GMT</pubDate>
-      <category>Productivity tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/51c1e3db-da19-4ec1-aa3f-5d31ee6fa658.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/51c1e3db-da19-4ec1-aa3f-5d31ee6fa658.jpg"/>
-      <description>From The Code (Nov 16, 2026) How to run an engineering team through Grok Bot This tutorial shows how a senior dev uses Grok as an orchestration layer for his open-source projects. You&#x27;ll learn how to split work across specialized &quot;crewmate&quot; bots, keep a central First Mate coordinating tasks and decisions, and surface only the stuff that actually needs your attention.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/51c1e3db-da19-4ec1-aa3f-5d31ee6fa658.jpg" alt="How to run an engineering team through Grok Bot"/></p>
-<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://www.youtube.com/watch?v=_cVWs9pPFDI">How to run an engineering team through Grok Bot</a></p>
-<p>This tutorial shows how a senior dev uses Grok as an orchestration layer for his open-source projects. You&#x27;ll learn how to split work across specialized &quot;crewmate&quot; bots, keep a central First Mate coordinating tasks and decisions, and surface only the stuff that actually needs your attention.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
