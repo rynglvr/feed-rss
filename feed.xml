@@ -5,8 +5,71 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:58:34 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wu-Tang Clan headlines Thanksgiving halftime with Chad Smith</title>
+      <link>https://allhiphop.com/news/wu-tang-clan-chad-smith-detroit-lions-thanksgiving-halftime/</link>
+      <guid isPermaLink="false">19d043dc-8b73-4812-b5ed-ae57a8fca8cb</guid>
+      <pubDate>Sun, 22 Nov 2026 23:31:58 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/19d043dc-8b73-4812-b5ed-ae57a8fca8cb.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/19d043dc-8b73-4812-b5ed-ae57a8fca8cb.jpg"/>
+      <description>Red Hot Chili Peppers drummer Chad Smith will join Wu-Tang Clan on stage for the Detroit Lions&#x27; Thanksgiving halftime show on Thursday, November 26, for the Bears at Lions game at Ford Field. Smith previously played drums on Wu-Tang&#x27;s Loud Rocks version of &#x27;Wu-Tang Clan Ain&#x27;t Nothin&#x27; Ta Fk Wit&#x27; in 2000.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/19d043dc-8b73-4812-b5ed-ae57a8fca8cb.jpg" alt="Wu-Tang Clan headlines Thanksgiving halftime with Chad Smith"/></p>
+<p>Red Hot Chili Peppers drummer Chad Smith will join Wu-Tang Clan on stage for the <a href="https://allhiphop.com/news/wu-tang-clan-chad-smith-detroit-lions-thanksgiving-halftime/">Detroit Lions&#x27; Thanksgiving halftime show</a> on Thursday, November 26, for the Bears at Lions game at Ford Field. Smith previously played drums on Wu-Tang&#x27;s Loud Rocks version of &#x27;Wu-Tang Clan Ain&#x27;t Nothin&#x27; Ta F**k Wit&#x27; in 2000.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI urges limits tied to perplexity ahead of a 2027 surge</title>
+      <link>https://openai.com/index/perplexity-and-intelligence</link>
+      <guid isPermaLink="false">871d14c9-7c52-4335-9fcd-86819dc1334d</guid>
+      <pubDate>Sun, 22 Nov 2026 23:02:44 GMT</pubDate>
+      <category>AI safety</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/871d14c9-7c52-4335-9fcd-86819dc1334d.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/871d14c9-7c52-4335-9fcd-86819dc1334d.png"/>
+      <description>OpenAI published its models&#x27; log-perplexity figures, a measure of how well they predict the next token, with recent models now below 0.8. It proposes common development limits based on perplexity and other measurements, not to be crossed until monitoring catches up.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/871d14c9-7c52-4335-9fcd-86819dc1334d.png" alt="OpenAI urges limits tied to perplexity ahead of a 2027 surge"/></p>
+<p><a href="https://openai.com/index/perplexity-and-intelligence">OpenAI published its models&#x27; log-perplexity figures</a>, a measure of how well they predict the next token, with recent models now below 0.8. It proposes common development limits based on perplexity and other measurements, not to be crossed until monitoring catches up.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Bessent ties Huang&#x27;s return to Nvidia chip-sales probe</title>
+      <link>https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html</link>
+      <guid isPermaLink="false">8822e0e9-2d12-4cf7-88b1-d3a652295f2c</guid>
+      <pubDate>Sun, 22 Nov 2026 23:02:29 GMT</pubDate>
+      <category>Tech news</category>
+      <description>Treasury Secretary Scott Bessent said on CBS&#x27;s Face the Nation on Sunday that the United States still needs answers from Nvidia about its China chip sales. Any judgment on Jensen Huang&#x27;s return, he said, must wait until the probes establish who was in charge of compliance.</description>
+      <content:encoded><![CDATA[<p>Treasury Secretary Scott Bessent said on <a href="https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html">CBS&#x27;s Face the Nation</a> on Sunday that the United States still needs answers from Nvidia about its China chip sales. Any judgment on Jensen Huang&#x27;s return, he said, must wait until the probes establish who was in charge of compliance.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Physicists use light to detect anyons</title>
+      <link>https://www.technology.org/2026/11/22/physicists-use-light-to-detect-anyons/</link>
+      <guid isPermaLink="false">f00e1e2d-4189-495f-a577-d1a28cda0344</guid>
+      <pubDate>Sun, 22 Nov 2026 23:01:18 GMT</pubDate>
+      <category>Quantum physics</category>
+      <description>Emory physicists predicted that light can pinpoint an anyon in a material, by watching an exciton bind to one and give off a detectable shift in energy. Anyons could anchor topological quantum computers, since they hide from many of the disturbances that wreck ordinary qubits.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.technology.org/2026/11/22/physicists-use-light-to-detect-anyons/">Emory physicists predicted that light can pinpoint an anyon in a material</a>, by watching an exciton bind to one and give off a detectable shift in energy. Anyons could anchor topological quantum computers, since they hide from many of the disturbances that wreck ordinary qubits.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Sources: Anthropic sought bans on advising its rivals</title>
+      <link>https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/</link>
+      <guid isPermaLink="false">bcbd4f54-0e8d-4526-baae-35ad8c425663</guid>
+      <pubDate>Sun, 22 Nov 2026 23:00:57 GMT</pubDate>
+      <category>AI</category>
+      <description>Sources told Reuters that Anthropic limited some of its IPO underwriters to teams of four senior bankers. It shared deal documents through NetRoadshow, which logged who viewed each page.</description>
+      <content:encoded><![CDATA[<p>Sources told <a href="https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/">Reuters</a> that Anthropic limited some of its IPO underwriters to teams of four senior bankers. It shared deal documents through NetRoadshow, which logged who viewed each page.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Clayton warns of &#x27;bumps in the road&#x27; as systems upgrade for AI</title>
+      <link>https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html</link>
+      <guid isPermaLink="false">aa9d5e5f-ebb8-41cb-b0e1-56a04d4e902e</guid>
+      <pubDate>Sun, 22 Nov 2026 23:00:01 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/aa9d5e5f-ebb8-41cb-b0e1-56a04d4e902e.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/aa9d5e5f-ebb8-41cb-b0e1-56a04d4e902e.jpg"/>
+      <description>On CNN&#x27;s &quot;State of the Union&quot; on Sunday, Director of National Intelligence Jay Clayton warned Americans to expect more technology outages as companies and government agencies upgrade aging systems for the AI age. Officials say the recent disruptions had different causes and showed no sign of a coordinated attack.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/aa9d5e5f-ebb8-41cb-b0e1-56a04d4e902e.jpg" alt="Clayton warns of &#x27;bumps in the road&#x27; as systems upgrade for AI"/></p>
+<p>On CNN&#x27;s &quot;State of the Union&quot; on Sunday, Director of National Intelligence Jay Clayton <a href="https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html">warned Americans to expect more technology outages</a> as companies and government agencies upgrade aging systems for the AI age. Officials say the recent disruptions had different causes and showed no sign of a coordinated attack.</p>]]></content:encoded>
+    </item>
     <item>
       <title>The best Star Trek precon is still below par</title>
       <link>https://playgroup.gg/sets/star-trek</link>
@@ -1299,67 +1362,6 @@
       <category>Biohacking</category>
       <description>Researchers at UC San Diego found centenarians carried higher ratios of certain bile acids modified by gut microbes than both younger groups did. Engineering gut bacteria to boost that same activity improved insulin sensitivity in aged mice about 20 weeks after treatment.</description>
       <content:encoded><![CDATA[<p><a href="https://medicalxpress.com/news/2026-11-gut-microbiome-linked-exceptional-longevity.html">Researchers at UC San Diego</a> found centenarians carried higher ratios of certain bile acids modified by gut microbes than both younger groups did. Engineering gut bacteria to boost that same activity improved insulin sensitivity in aged mice about 20 weeks after treatment.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Remain trailer turns supernatural romance terrifying at night</title>
-      <link>https://bloody-disgusting.com/movie/3975896/remain-final-trailer-m-night-shyamalans-supernatural-romance-gets-terrifying-at-night/</link>
-      <guid isPermaLink="false">86d0335f-d965-4a28-b0e1-339f9b826477</guid>
-      <pubDate>Mon, 16 Nov 2026 20:48:05 GMT</pubDate>
-      <category>Horror movies</category>
-      <description>Warner Bros. released the first trailer for Remain, the supernatural thriller M. Night Shyamalan co-created with Nicholas Sparks. Jake Gyllenhaal stars as a grieving architect who meets Phoebe Dynevor&#x27;s mysterious woman and gets pulled into a deadly mystery hanging over a Cape Cod town.</description>
-      <content:encoded><![CDATA[<p>Warner Bros. released the first trailer for <a href="https://bloody-disgusting.com/movie/3975896/remain-final-trailer-m-night-shyamalans-supernatural-romance-gets-terrifying-at-night/">Remain</a>, the supernatural thriller M. Night Shyamalan co-created with Nicholas Sparks. Jake Gyllenhaal stars as a grieving architect who meets Phoebe Dynevor&#x27;s mysterious woman and gets pulled into a deadly mystery hanging over a Cape Cod town.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Weaker entanglement still teleports a logical qubit</title>
-      <link>https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html</link>
-      <guid isPermaLink="false">8da06017-bb24-4978-a42a-e74ead9979e1</guid>
-      <pubDate>Mon, 16 Nov 2026 16:39:05 GMT</pubDate>
-      <category>Quantum physics</category>
-      <description>Researchers at Zhejiang University and the Hong Kong University of Science and Technology (Guangzhou) teleported a logical qubit&#x27;s state between two groups of qubits on one 125-qubit processor. Balancing bit-flip and phase-flip errors let the transfer survive a much weaker entanglement channel.</description>
-      <content:encoded><![CDATA[<p>Researchers at Zhejiang University and the Hong Kong University of Science and Technology (Guangzhou) <a href="https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html">teleported a logical qubit&#x27;s state</a> between two groups of qubits on one 125-qubit processor. Balancing bit-flip and phase-flip errors let the transfer survive a much weaker entanglement channel.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Two studios race to make an SCP movie</title>
-      <link>https://www.screamify.com/blog/2026-11-16%23f41030b5-3343-4c8b-abd8-9c5a9b0e2988</link>
-      <guid isPermaLink="false">b6a00943-2ee0-4b20-abbb-9f1d4df24bd2</guid>
-      <pubDate>Mon, 16 Nov 2026 15:38:52 GMT</pubDate>
-      <category>Daily digest</category>
-      <description>A24 is distributing “V/H/S: SCP” for a 2027 theatrical release, and NEON has announced a competing SCP anthology feature for the same year, released under the same CC BY-SA license as the SCP Wiki. SCP Wiki staff said they had no communication with the A24 project and that A24 cannot claim exclusive rights to the Foundation.</description>
-      <content:encoded><![CDATA[<p>A24 is distributing <a href="https://www.screamify.com/blog/2026-11-16%23f41030b5-3343-4c8b-abd8-9c5a9b0e2988">“V/H/S: SCP”</a> for a 2027 theatrical release, and NEON has announced a competing SCP anthology feature for the same year, released under the same CC BY-SA license as the SCP Wiki. SCP Wiki staff said they had no communication with the A24 project and that A24 cannot claim exclusive rights to the Foundation.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Weekly Music Update — November 16, 2026</title>
-      <link>https://music.apple.com/us/album/infinite-ep/6831186026?uo=4</link>
-      <guid isPermaLink="false">65562b57-49f6-4da1-ae62-b95e2edd4a04</guid>
-      <pubDate>Mon, 16 Nov 2026 15:36:46 GMT</pubDate>
-      <category>Music</category>
-      <description>New from your artists: Eminem&#x27;s Infinite EP, EP, released November 12, 2026, a 30th-anniversary reissue of his 1996 debut Infinite with six newly mixed tracks, five streaming officially for the first time; IDK, Eminem and J Dilla&#x27;s WELCOME, single, released November 13, 2026, IDK&#x27;s first single since signing to Shady Records/Interscope, with Eminem on the hook over a posthumous J Dilla beat; and…</description>
-      <content:encoded><![CDATA[<p>New from your artists: Eminem&#x27;s <a href="https://music.apple.com/us/album/infinite-ep/6831186026?uo=4">Infinite EP</a>, EP, released November 12, 2026, a 30th-anniversary reissue of his 1996 debut Infinite with six newly mixed tracks, five streaming officially for the first time; IDK, Eminem and J Dilla&#x27;s <a href="https://music.apple.com/us/album/welcome-single/6828648030?uo=4">WELCOME</a>, single, released November 13, 2026, IDK&#x27;s first single since signing to Shady Records/Interscope, with Eminem on the hook over a posthumous J Dilla beat; and Oskama Esteban and Fetty Wap&#x27;s <a href="https://music.apple.com/us/album/ziploczoo-single/6832852859?uo=4">ZiplocZoo</a>, single, released November 13, 2026. Critics&#x27; picks: Armand Hammer&#x27;s <a href="https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/">Snakes &amp; Ladders</a>, album, released November 11, 2026, Pitchfork Best New Music, 8.3/10, reviewed by Andre Gee; and Kim Deal&#x27;s <a href="https://readdork.com/news/kim-deal-has-dropped-her-new-album-live-at-the-barbican">Live at the Barbican</a>, live album, released November 13, 2026, Metacritic 85, a March 1, 2025 Barbican show with a 25-piece ensemble, orchestral versions of Nobody Loves You More plus Breeders material.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>How to build always-on agents: The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">9d1ad217-586f-49fe-ab39-e59a4d46d8fb</guid>
-      <pubDate>Mon, 16 Nov 2026 15:32:34 GMT</pubDate>
-      <category>AI</category>
-      <description>From The Code (Nov 16, 2026) How to build always-on agents (by Anthropic) This guide breaks down the architecture behind agents that can keep working across sessions without constant supervision. You&#x27;ll learn how to combine event inboxes, timers, memory, permissions, and an outbox so agents can wake up, act, remember what happened, and pick work back up later.</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://claude.com/resources/articles/building-always-on-agents">How to build always-on agents (by Anthropic)</a></p>
-<p>This guide breaks down the architecture behind agents that can keep working across sessions without constant supervision. You&#x27;ll learn how to combine event inboxes, timers, memory, permissions, and an outbox so agents can wake up, act, remember what happened, and pick work back up later.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>No Slowdown — The Code</title>
-      <link>https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap</link>
-      <guid isPermaLink="false">3aa237f4-2c80-4af0-8b2d-926b6215aaf3</guid>
-      <pubDate>Mon, 16 Nov 2026 15:32:17 GMT</pubDate>
-      <category>AI tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3aa237f4-2c80-4af0-8b2d-926b6215aaf3.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3aa237f4-2c80-4af0-8b2d-926b6215aaf3.jpg"/>
-      <description>From The Code (Nov 16, 2026) No Slowdown The Grok bot team merges 11,000 PRs a month with a 0.5% revert rate, one engineer says. Her talk reveals the review rule behind it (1.2M views).</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3aa237f4-2c80-4af0-8b2d-926b6215aaf3.jpg" alt="No Slowdown — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/alibaba-s-new-flagship-comes-cheap">The Code (Nov 16, 2026)</a></p>
-<p><a href="https://archive.codenewsletter.ai/2121673563489140863">No Slowdown</a></p>
-<p>The Grok bot team merges 11,000 PRs a month with a 0.5% revert rate, one engineer says. Her talk reveals the review rule behind it (1.2M views).</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
