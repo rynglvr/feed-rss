@@ -5,7 +5,7 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 16:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:58:34 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Big Idea: Mary&#x27;s Room — Daily Learning</title>
@@ -217,11 +217,8 @@
       <guid isPermaLink="false">3cea371c-4976-4a2e-86e9-aa1913650037</guid>
       <pubDate>Sun, 15 Nov 2026 15:32:32 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3cea371c-4976-4a2e-86e9-aa1913650037.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3cea371c-4976-4a2e-86e9-aa1913650037.png"/>
       <description>When a posterior is too tangled to calculate directly, a random walk can map it, the way you would map a dark room, by where you spend the most time. A proposed spot is accepted with probability equal to its probability divided by the current spot&#x27;s, capped at one, so a spot half as likely is taken half the time.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3cea371c-4976-4a2e-86e9-aa1913650037.png" alt="Statistics: Markov Chain Monte Carlo (MCMC) — Daily Learning"/></p>
-<p>When a posterior is too tangled to calculate directly, a <a href="https://www.asingh.tech/blog/mcmc-intuition-algorithms-diagnostics">random walk</a> can map it, the way you would map a dark room, by where you spend the most time. A proposed spot is accepted with probability equal to its probability divided by the current spot&#x27;s, capped at one, so a spot half as likely is taken half the time.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>When a posterior is too tangled to calculate directly, a <a href="https://www.asingh.tech/blog/mcmc-intuition-algorithms-diagnostics">random walk</a> can map it, the way you would map a dark room, by where you spend the most time. A proposed spot is accepted with probability equal to its probability divided by the current spot&#x27;s, capped at one, so a spot half as likely is taken half the time.</p>]]></content:encoded>
     </item>
     <item>
       <title>Big Idea: The Ship of Theseus — Daily Learning</title>
