@@ -5,7 +5,7 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:58:18 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Big Idea: The Anthropic Principle — Daily Learning</title>
@@ -229,11 +229,8 @@
       <guid isPermaLink="false">17e23f0b-b225-48a9-a64b-88aae8360f87</guid>
       <pubDate>Mon, 16 Nov 2026 15:31:05 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/17e23f0b-b225-48a9-a64b-88aae8360f87.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/17e23f0b-b225-48a9-a64b-88aae8360f87.png"/>
       <description>If you count yourself as a randomly drawn human from everyone who will ever live, the Bayesian version puts humanity&#x27;s total under 2 trillion. The catch is that merely existing favors worlds with far more humans, so your rank may not be the random draw the math assumes.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/17e23f0b-b225-48a9-a64b-88aae8360f87.png" alt="Big Idea: The Doomsday Argument — Daily Learning"/></p>
-<p>If you count yourself as a randomly drawn human from everyone who will ever live, the <a href="https://en.wikipedia.org/wiki/Doomsday_argument">Bayesian version</a> puts humanity&#x27;s total under 2 trillion. The catch is that merely existing favors worlds with far more humans, so your rank may not be the random draw the math assumes.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>If you count yourself as a randomly drawn human from everyone who will ever live, the <a href="https://en.wikipedia.org/wiki/Doomsday_argument">Bayesian version</a> puts humanity&#x27;s total under 2 trillion. The catch is that merely existing favors worlds with far more humans, so your rank may not be the random draw the math assumes.</p>]]></content:encoded>
     </item>
     <item>
       <title>Statistics: Hierarchical Models and Partial Pooling — Daily Learning</title>
