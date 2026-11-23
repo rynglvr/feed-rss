@@ -5,8 +5,41 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:01:45 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: The Anthropic Principle — Daily Learning</title>
+      <link>https://mendel-preview.dev-ext.britannica.com/science/anthropic-principle</link>
+      <guid isPermaLink="false">1f7a27d0-204c-47db-b7c5-7224f8e42c75</guid>
+      <pubDate>Mon, 23 Nov 2026 15:05:08 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1f7a27d0-204c-47db-b7c5-7224f8e42c75.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1f7a27d0-204c-47db-b7c5-7224f8e42c75.jpg"/>
+      <description>The weak anthropic principle, as Britannica sets it out in an update dated November 9, 2026, says we could only ever wake up in a universe where waking up is possible. The strong version goes further, saying the universe must in some sense permit observers to exist.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/1f7a27d0-204c-47db-b7c5-7224f8e42c75.jpg" alt="Big Idea: The Anthropic Principle — Daily Learning"/></p>
+<p>The <a href="https://mendel-preview.dev-ext.britannica.com/science/anthropic-principle">weak anthropic principle</a>, as Britannica sets it out in an update dated November 9, 2026, says we could only ever wake up in a universe where waking up is possible. The strong version goes further, saying the universe must in some sense permit observers to exist.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Importance Sampling — Daily Learning</title>
+      <link>https://aaronstevenwhite.io/stats-in-ling/statistical-inference/importance-sampling.html</link>
+      <guid isPermaLink="false">7305c629-c642-4f81-9a22-b58239111300</guid>
+      <pubDate>Mon, 23 Nov 2026 15:03:16 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>When a distribution is too hard to sample from directly, importance sampling draws from an easier one instead and reweights each draw by how likely it would have been under the target, so the weighted average still answers the original question. A poker player might simulate a rare river card 10 times as often as fair dealing would produce it, then count each such hand as one-tenth as much.</description>
+      <content:encoded><![CDATA[<p>When a distribution is too hard to sample from directly, <a href="https://aaronstevenwhite.io/stats-in-ling/statistical-inference/importance-sampling.html">importance sampling</a> draws from an easier one instead and reweights each draw by how likely it would have been under the target, so the weighted average still answers the original question. A poker player might simulate a rare river card 10 times as often as fair dealing would produce it, then count each such hand as one-tenth as much.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: eristic — Daily Learning</title>
+      <link>https://www.vocabulary.com/dictionary/eristic</link>
+      <guid isPermaLink="false">32fad7ee-8aed-4c64-866c-6e0bb835c95d</guid>
+      <pubDate>Mon, 23 Nov 2026 15:03:06 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32fad7ee-8aed-4c64-866c-6e0bb835c95d.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32fad7ee-8aed-4c64-866c-6e0bb835c95d.png"/>
+      <description>Eristic (eh-RIS-tik) is an adjective given to arguing for the sake of argument, where winning the dispute matters more than finding the truth. The meeting started as a genuine question about the budget, but it turned eristic once winning the argument mattered more than getting the numbers right.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32fad7ee-8aed-4c64-866c-6e0bb835c95d.png" alt="Word of the Day: eristic — Daily Learning"/></p>
+<p><a href="https://www.vocabulary.com/dictionary/eristic">Eristic</a> (eh-RIS-tik) is an adjective given to arguing for the sake of argument, where winning the dispute matters more than finding the truth. The meeting started as a genuine question about the budget, but it turned eristic once winning the argument mattered more than getting the numbers right.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Big Idea: Mary&#x27;s Room — Daily Learning</title>
       <link>http://seop.illc.uva.nl/entries/qualia-knowledge/</link>
@@ -453,33 +486,6 @@
       <category>Daily Learning</category>
       <description>On Sunday Beauty is put to sleep, and a fair coin decides whether she wakes on Monday only or on Monday and Tuesday with her memory erased, so she never knows which day it is or whether she has woken before. The Sleeping Beauty problem still splits Bayesians between 1/2 and 1/3, over what counts as evidence when you are the one being sampled.</description>
       <content:encoded><![CDATA[<p>On Sunday Beauty is put to sleep, and a fair coin decides whether she wakes on Monday only or on Monday and Tuesday with her memory erased, so she never knows which day it is or whether she has woken before. The <a href="https://en.wikipedia.org/wiki/Sleeping_Beauty_problem">Sleeping Beauty problem</a> still splits Bayesians between 1/2 and 1/3, over what counts as evidence when you are the one being sampled.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: aporia — Daily Learning</title>
-      <link>https://en.wikipedia.org/wiki/Aporia</link>
-      <guid isPermaLink="false">bdc43f7c-41cd-4448-92f8-415a62bb6b5e</guid>
-      <pubDate>Fri, 06 Nov 2026 15:27:44 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Aporia (uh-POR-ee-uh) is a noun from Greek a-poros, literally “no way through,” for the genuine puzzlement when two equally strong arguments collide and force you to rethink the question itself. “After an hour of debate, the team hit an aporia: every fix for the bug introduced a worse one, and nobody could say which trade-off was right.”</description>
-      <content:encoded><![CDATA[<p><a href="https://en.wikipedia.org/wiki/Aporia">Aporia</a> (uh-POR-ee-uh) is a noun from Greek a-poros, literally “no way through,” for the genuine puzzlement when two equally strong arguments collide and force you to rethink the question itself. “After an hour of debate, the team hit an aporia: every fix for the bug introduced a worse one, and nobody could say which trade-off was right.”</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Overfitting and the Bias–Variance Tradeoff — Daily Learning</title>
-      <link>https://telnyx.com/learn-ai/bias-variance-tradeoff</link>
-      <guid isPermaLink="false">5512966d-e021-4066-8b7f-d82f34747151</guid>
-      <pubDate>Thu, 05 Nov 2026 15:28:23 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Say a betting model tuned to every quirk of the last 100 games looks unbeatable on those games, yet predicts the next 20 worse than a simpler model. That gap is the bias–variance tradeoff, the balance between a model too stiff to catch real patterns and one too jumpy to ignore noise, judged on unseen data rather than zero error on the past.</description>
-      <content:encoded><![CDATA[<p>Say a betting model tuned to every quirk of the last 100 games looks unbeatable on those games, yet predicts the next 20 worse than a simpler model. That gap is the <a href="https://telnyx.com/learn-ai/bias-variance-tradeoff">bias–variance tradeoff</a>, the balance between a model too stiff to catch real patterns and one too jumpy to ignore noise, judged on unseen data rather than zero error on the past.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: Braess&#x27;s Paradox — Daily Learning</title>
-      <link>https://www.cs.cornell.edu/~rafael/networks-html/chapter7.html</link>
-      <guid isPermaLink="false">614ab415-531a-46c7-b469-bfdd2b20e06d</guid>
-      <pubDate>Thu, 05 Nov 2026 15:27:24 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Adding a road can make everyone&#x27;s trip slower, because each driver picks the route that looks fastest for them alone. In the traffic-network example, a zero-time connector pulls everyone onto one route, and the trip becomes 80 minutes for everyone.</description>
-      <content:encoded><![CDATA[<p>Adding a road can make everyone&#x27;s trip slower, because each driver picks the route that looks fastest for them alone. In the <a href="https://www.cs.cornell.edu/~rafael/networks-html/chapter7.html">traffic-network example</a>, a zero-time connector pulls everyone onto one route, and the trip becomes 80 minutes for everyone.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
