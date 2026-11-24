@@ -5,8 +5,113 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:05:40 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Star Trek enchantment&#x27;s listings spike overnight</title>
+      <link>https://www.thegamer.com/star-trek-mtg-enchantment-spikes-massively-in-price/</link>
+      <guid isPermaLink="false">167c7e8f-d3ac-470c-9a3a-2404d6a499a1</guid>
+      <pubDate>Tue, 24 Nov 2026 15:34:42 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>Listings for the LCARS variant of Death Is Irrelevant jumped 217% overnight. The market price had not moved with it.</description>
+      <content:encoded><![CDATA[<p>Listings for the LCARS variant of <a href="https://www.thegamer.com/star-trek-mtg-enchantment-spikes-massively-in-price/">Death Is Irrelevant</a> jumped 217% overnight. The market price had not moved with it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic, OpenAI staff warn unreleased models unsafe to release</title>
+      <link>https://www.techmeme.com/261124/p11#a261124p11</link>
+      <guid isPermaLink="false">0d795a61-13ba-4629-a20c-e08d34d841bd</guid>
+      <pubDate>Tue, 24 Nov 2026 15:04:57 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d795a61-13ba-4629-a20c-e08d34d841bd.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d795a61-13ba-4629-a20c-e08d34d841bd.jpg"/>
+      <description>Techmeme, citing Axios, reports that more than two dozen sources familiar with internal debates describe the unreleased models as far more capable than public ones and difficult, if not impossible, to contain or control in internal tests. Options under discussion include reserving future frontier models for internal use, offering narrower products with limited external access, or stopping…</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d795a61-13ba-4629-a20c-e08d34d841bd.jpg" alt="Anthropic, OpenAI staff warn unreleased models unsafe to release"/></p>
+<p><a href="https://www.techmeme.com/261124/p11#a261124p11">Techmeme</a>, citing Axios, reports that more than two dozen sources familiar with internal debates describe the unreleased models as far more capable than public ones and difficult, if not impossible, to contain or control in internal tests. Options under discussion include reserving future frontier models for internal use, offering narrower products with limited external access, or stopping training altogether.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ladybird — The Code</title>
+      <link>https://codenewsletter.ai/p/z-ai-s-looped-model-thinks-deeper-with-fewer-tokens</link>
+      <guid isPermaLink="false">31376778-b9a2-494f-9054-8dadd71da522</guid>
+      <pubDate>Tue, 24 Nov 2026 15:04:49 GMT</pubDate>
+      <category>Coding</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/31376778-b9a2-494f-9054-8dadd71da522.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/31376778-b9a2-494f-9054-8dadd71da522.png"/>
+      <description>From The Code (Nov 24, 2026): Ladybird: A brand-new browser engine built from scratch, now in alpha for macOS and Linux. Its download page describes it as a truly independent web browser, backed by a non-profit.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/31376778-b9a2-494f-9054-8dadd71da522.png" alt="Ladybird — The Code"/></p>
+<p>From <a href="https://codenewsletter.ai/p/z-ai-s-looped-model-thinks-deeper-with-fewer-tokens">The Code (Nov 24, 2026)</a>: <a href="https://ladybird.org/download/">Ladybird:</a> A brand-new browser engine built from scratch, now in alpha for macOS and Linux. Its download page describes it as a truly independent web browser, backed by a non-profit.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic falls below IPO price as Amodeis sell $280M+ in shares</title>
+      <link>https://www.techmeme.com/261124/p21#a261124p21</link>
+      <guid isPermaLink="false">f1e06ac8-ca4a-4e53-8d46-c6a16ed2490f</guid>
+      <pubDate>Tue, 24 Nov 2026 15:03:22 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f1e06ac8-ca4a-4e53-8d46-c6a16ed2490f.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f1e06ac8-ca4a-4e53-8d46-c6a16ed2490f.jpg"/>
+      <description>Anthropic&#x27;s debut rally unwound to about $80 on Tuesday, below its IPO price. A day after the debut, Dario and Daniela Amodei each sold shares worth over $280 million.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f1e06ac8-ca4a-4e53-8d46-c6a16ed2490f.jpg" alt="Anthropic falls below IPO price as Amodeis sell $280M+ in shares"/></p>
+<p>Anthropic&#x27;s debut rally unwound to <a href="https://www.techmeme.com/261124/p21#a261124p21">about $80</a> on Tuesday, below its IPO price. A day after the debut, Dario and Daniela Amodei each sold shares worth over $280 million.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Bandwidth Hack — The Code</title>
+      <link>https://codenewsletter.ai/p/z-ai-s-looped-model-thinks-deeper-with-fewer-tokens</link>
+      <guid isPermaLink="false">5826ccfc-646b-49a9-804f-7c58db5e7459</guid>
+      <pubDate>Tue, 24 Nov 2026 15:02:04 GMT</pubDate>
+      <category>Coding</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5826ccfc-646b-49a9-804f-7c58db5e7459.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5826ccfc-646b-49a9-804f-7c58db5e7459.jpg"/>
+      <description>From The Code (Nov 24, 2026) Bandwidth Hack: A Datadog engineer tripled his Wi-Fi download speed with an AI agent and no hardware upgrades. He even shared the prompt (6.4K bookmarks).</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5826ccfc-646b-49a9-804f-7c58db5e7459.jpg" alt="Bandwidth Hack — The Code"/></p>
+<p>From <a href="https://codenewsletter.ai/p/z-ai-s-looped-model-thinks-deeper-with-fewer-tokens">The Code (Nov 24, 2026)</a><br/>Bandwidth Hack: A Datadog engineer tripled his Wi-Fi download speed with an AI agent and no hardware upgrades. He even <a href="https://archive.codenewsletter.ai/2124706066516885709">shared the prompt</a> (6.4K bookmarks).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Unsecured databases expose 3.5B+ records — Techmeme</title>
+      <link>https://www.techmeme.com/261124/p14#a261124p14</link>
+      <guid isPermaLink="false">48922919-412a-4b5e-864b-2788268fd4c4</guid>
+      <pubDate>Tue, 24 Nov 2026 15:01:35 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/48922919-412a-4b5e-864b-2788268fd4c4.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/48922919-412a-4b5e-864b-2788268fd4c4.jpg"/>
+      <description>Two researchers, working separately, found more than 3.5 billion records sitting in unrelated, unsecured databases. One trove was built from login credentials harvested by info-stealer malware, with no specific company breached to compile it.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/48922919-412a-4b5e-864b-2788268fd4c4.jpg" alt="Unsecured databases expose 3.5B+ records — Techmeme"/></p>
+<p>Two researchers, working separately, <a href="https://www.techmeme.com/261124/p14#a261124p14">found more than 3.5 billion records</a> sitting in unrelated, unsecured databases. One trove was built from login credentials harvested by info-stealer malware, with no specific company breached to compile it.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Stripe tender offer would value it above $200B — Techmeme</title>
+      <link>https://www.techmeme.com/261124/p20#a261124p20</link>
+      <guid isPermaLink="false">fc08d7cb-be1e-4ddb-b6d6-6eeba03920c8</guid>
+      <pubDate>Tue, 24 Nov 2026 15:01:02 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fc08d7cb-be1e-4ddb-b6d6-6eeba03920c8.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fc08d7cb-be1e-4ddb-b6d6-6eeba03920c8.jpg"/>
+      <description>Stripe is discussing an employee share tender that would value it above $200 billion, up from $159 billion earlier in 2026. The valuation is not final and could still change in talks with investors.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fc08d7cb-be1e-4ddb-b6d6-6eeba03920c8.jpg" alt="Stripe tender offer would value it above $200B — Techmeme"/></p>
+<p>Stripe is discussing an <a href="https://www.techmeme.com/261124/p20#a261124p20">employee share tender</a> that would value it above $200 billion, up from $159 billion earlier in 2026. The valuation is not final and could still change in talks with investors.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>SpaceX and Tesla negotiating $3.5T all-stock merger — Techmeme</title>
+      <link>https://www.techmeme.com/261124/p8#a261124p8</link>
+      <guid isPermaLink="false">f1c4a6f1-34e2-4a20-85a7-9295e7697e02</guid>
+      <pubDate>Tue, 24 Nov 2026 15:00:46 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f1c4a6f1-34e2-4a20-85a7-9295e7697e02.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f1c4a6f1-34e2-4a20-85a7-9295e7697e02.jpg"/>
+      <description>The Financial Times reports that SpaceX and Tesla are negotiating an all-stock merger. Two special committees of five directors described as “disinterested” are running the talks, despite all five having ties to Elon Musk.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f1c4a6f1-34e2-4a20-85a7-9295e7697e02.jpg" alt="SpaceX and Tesla negotiating $3.5T all-stock merger — Techmeme"/></p>
+<p>The Financial Times reports that <a href="https://www.techmeme.com/261124/p8#a261124p8">SpaceX and Tesla are negotiating an all-stock merger</a>. Two special committees of five directors described as “disinterested” are running the talks, despite all five having ties to Elon Musk.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Seasons and Saw directors tell Fangoria what horror fans can expect</title>
+      <link>https://horrornerdonline.com/2026/11/the-directors-of-seasons-and-the-new-saw-tell-fangoria-what-horror-fans-can-expect/</link>
+      <guid isPermaLink="false">dbd9090f-cd50-4e94-8819-69d469dd8244</guid>
+      <pubDate>Tue, 24 Nov 2026 10:36:05 GMT</pubDate>
+      <category>Horror movies</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dbd9090f-cd50-4e94-8819-69d469dd8244.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dbd9090f-cd50-4e94-8819-69d469dd8244.jpg"/>
+      <description>Drew Hancock told Fangoria that Seasons is built around true scare set pieces, with the film due in theaters November 12, 2027. Mike P. Nelson said the new Saw, due in 2028, will go all the way, beyond even the kills in his Silent Night, Deadly Night and Wrong Turn films.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dbd9090f-cd50-4e94-8819-69d469dd8244.jpg" alt="Seasons and Saw directors tell Fangoria what horror fans can expect"/></p>
+<p>Drew Hancock <a href="https://horrornerdonline.com/2026/11/the-directors-of-seasons-and-the-new-saw-tell-fangoria-what-horror-fans-can-expect/">told Fangoria</a> that Seasons is built around true scare set pieces, with the film due in theaters November 12, 2027. Mike P. Nelson said the new Saw, due in 2028, will go all the way, beyond even the kills in his Silent Night, Deadly Night and Wrong Turn films.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Merfolk get a Bant Commander precon</title>
       <link>https://draftsim.com/mtg-merfolk-regiment-upgrade-guide/</link>
@@ -1251,132 +1356,6 @@
       <category>Astronomy</category>
       <description>Before Euclid, astronomers had confirmed fewer than 1,000 strong gravitational lenses. Each lens in its first major data release bends a distant galaxy&#x27;s light around a foreground galaxy, revealing the dark matter doing the bending.</description>
       <content:encoded><![CDATA[<p>Before Euclid, astronomers had confirmed fewer than 1,000 strong gravitational lenses. Each lens in its <a href="https://scitechupdates.com/dark-matter-hunting-satellite-euclid-reveals-record-number-of-cosmic-magnifying-glasses/">first major data release</a> bends a distant galaxy&#x27;s light around a foreground galaxy, revealing the dark matter doing the bending.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nauctis Commander decks offer less for the same price</title>
-      <link>https://www.polygon.com/mtg-nauctis-sunken-realm-commander-deck-leaks-ignoble-serpent/</link>
-      <guid isPermaLink="false">e5219f24-5ddd-4af7-b8b2-591c49600215</guid>
-      <pubDate>Wed, 18 Nov 2026 06:35:09 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <description>The four Nauctis Commander decks drop their borderless Commander cards while staying at $49.99. The borderless versions now live in the $79.99 Premium Edition decks, which come fully foil.</description>
-      <content:encoded><![CDATA[<p>The four <a href="https://www.polygon.com/mtg-nauctis-sunken-realm-commander-deck-leaks-ignoble-serpent/">Nauctis Commander decks</a> drop their borderless Commander cards while staying at $49.99. The borderless versions now live in the $79.99 Premium Edition decks, which come fully foil.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Don Toliver announces NITROUS for December 4</title>
-      <link>https://hip-hopvibe.com/news/don-toliver-to-release-nitrous-album-on-december-4/</link>
-      <guid isPermaLink="false">0575d48c-c7df-4214-afc2-add4b9557bc2</guid>
-      <pubDate>Wed, 18 Nov 2026 04:35:44 GMT</pubDate>
-      <category>Hip hop</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0575d48c-c7df-4214-afc2-add4b9557bc2.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0575d48c-c7df-4214-afc2-add4b9557bc2.jpg"/>
-      <description>The announcement came with a cinematic teaser previewing unheard music. It will be his second full-length album of 2026, following OCTANE.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0575d48c-c7df-4214-afc2-add4b9557bc2.jpg" alt="Don Toliver announces NITROUS for December 4"/></p>
-<p>The <a href="https://hip-hopvibe.com/news/don-toliver-to-release-nitrous-album-on-december-4/">announcement</a> came with a cinematic teaser previewing unheard music. It will be his second full-length album of 2026, following OCTANE.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Available space reshapes cooperation and survival</title>
-      <link>https://phys.org/news/2026-11-space-reshapes-cooperation-survival-game.html</link>
-      <guid isPermaLink="false">01ab91c5-2e3f-4441-9ad4-dd6370d2c5fb</guid>
-      <pubDate>Wed, 18 Nov 2026 02:35:52 GMT</pubDate>
-      <category>Game theory</category>
-      <description>A new game-theory model ties the payoffs for cooperating and defecting to free space, the fraction of unoccupied environmental capacity. In its main scenario, more free space raises cooperation&#x27;s benefits while lowering defection&#x27;s payoff.</description>
-      <content:encoded><![CDATA[<p>A <a href="https://phys.org/news/2026-11-space-reshapes-cooperation-survival-game.html">new game-theory model</a> ties the payoffs for cooperating and defecting to free space, the fraction of unoccupied environmental capacity. In its main scenario, more free space raises cooperation&#x27;s benefits while lowering defection&#x27;s payoff.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Earth has an unexpected guest for the holidays</title>
-      <link>https://www.yourlifechoices.com.au/science/earth-has-an-unexpected-guest-for-the-holidays/</link>
-      <guid isPermaLink="false">0d130a41-b1a8-4bd6-9282-5406e8ac1a4a</guid>
-      <pubDate>Wed, 18 Nov 2026 00:37:46 GMT</pubDate>
-      <category>Strange but true</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d130a41-b1a8-4bd6-9282-5406e8ac1a4a.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d130a41-b1a8-4bd6-9282-5406e8ac1a4a.jpg"/>
-      <description>2026 QQ8, a one-to-two-metre asteroid, was captured by Earth&#x27;s gravity in April 2026. It is expected to slip back out of Earth&#x27;s grip in December 2026 or January 2027.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/0d130a41-b1a8-4bd6-9282-5406e8ac1a4a.jpg" alt="Earth has an unexpected guest for the holidays"/></p>
-<p><a href="https://www.yourlifechoices.com.au/science/earth-has-an-unexpected-guest-for-the-holidays/">2026 QQ8</a>, a one-to-two-metre asteroid, was captured by Earth&#x27;s gravity in April 2026. It is expected to slip back out of Earth&#x27;s grip in December 2026 or January 2027.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Chip Laundering — The Code</title>
-      <link>https://codenewsletter.ai/p/liquid-ai-s-new-models-top-the-benchmark-charts</link>
-      <guid isPermaLink="false">3450dfa9-6506-4a30-8431-27b9744df22a</guid>
-      <pubDate>Wed, 18 Nov 2026 00:15:59 GMT</pubDate>
-      <category>Geopolitics</category>
-      <description>From The Code (Nov 17, 2026), Chip Laundering: A thread alleging how Nvidia&#x27;s export-blocked Blackwell chips reached China through Southeast Asian data centers is blowing up tech Twitter. It&#x27;s using NYT investigations to back it up (7.7K likes).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/liquid-ai-s-new-models-top-the-benchmark-charts">The Code (Nov 17, 2026)</a>, Chip Laundering: A thread alleging how Nvidia&#x27;s export-blocked <a href="https://archive.codenewsletter.ai/2122434318031323373">Blackwell chips reached China</a> through Southeast Asian data centers is blowing up tech Twitter. It&#x27;s using NYT investigations to back it up (7.7K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Scientists found a way to verify quantum results too big to check</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261115085557.htm</link>
-      <guid isPermaLink="false">886f337e-e31d-4d39-88be-9243ff90ed89</guid>
-      <pubDate>Wed, 18 Nov 2026 00:10:39 GMT</pubDate>
-      <category>Quantum physics</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/886f337e-e31d-4d39-88be-9243ff90ed89.webp" type="image/webp" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/886f337e-e31d-4d39-88be-9243ff90ed89.webp"/>
-      <description>The method reconstructs a quantum simulator&#x27;s behavior from experimental measurements, rather than assuming it behaves as intended. It returned results with error margins on a 51-ion chain.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/886f337e-e31d-4d39-88be-9243ff90ed89.webp" alt="Scientists found a way to verify quantum results too big to check"/></p>
-<p>The method <a href="https://www.sciencedaily.com/releases/2026/11/261115085557.htm">reconstructs a quantum simulator&#x27;s behavior from experimental measurements</a>, rather than assuming it behaves as intended. It returned results with error margins on a 51-ion chain.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Microsoft announces agentic next chapter for Office, with Today</title>
-      <link>https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/</link>
-      <guid isPermaLink="false">090deb25-6b5a-487e-a81f-1c2cabeb0fd8</guid>
-      <pubDate>Tue, 17 Nov 2026 22:36:50 GMT</pubDate>
-      <category>Productivity</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/090deb25-6b5a-487e-a81f-1c2cabeb0fd8.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/090deb25-6b5a-487e-a81f-1c2cabeb0fd8.jpg"/>
-      <description>Microsoft announced the next chapter of Office at Ignite 2026 today, built around agentic systems supervised by humans. Office in the Copilot app is generally available, letting Copilot create Word, PowerPoint, and Excel documents beside the chat.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/090deb25-6b5a-487e-a81f-1c2cabeb0fd8.jpg" alt="Microsoft announces agentic next chapter for Office, with Today"/></p>
-<p>Microsoft <a href="https://www.neowin.net/news/microsoft-announces-next-chapter-of-office-with-a-focus-on-agentic-systems-and-today/">announced the next chapter of Office at Ignite 2026 today</a>, built around agentic systems supervised by humans. Office in the Copilot app is generally available, letting Copilot create Word, PowerPoint, and Excel documents beside the chat.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Strange new bacteria found under sea pigs&#x27; skin</title>
-      <link>https://nautil.us/scientists-just-found-something-strange-under-the-skin-of-sea-pigs-1286685/</link>
-      <guid isPermaLink="false">8d911a11-e08c-4409-8326-73d5fa30cfbc</guid>
-      <pubDate>Tue, 17 Nov 2026 20:36:45 GMT</pubDate>
-      <category>Strange but true</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8d911a11-e08c-4409-8326-73d5fa30cfbc.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8d911a11-e08c-4409-8326-73d5fa30cfbc.jpg"/>
-      <description>The microbes turned up in eight sea pigs collected off the northern coast of Japan, in the Northwest Pacific. Despite a stripped-down genome, the new bacterium makes a protein 5,475 amino acids long, against about 300 for an average bacterial protein.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8d911a11-e08c-4409-8326-73d5fa30cfbc.jpg" alt="Strange new bacteria found under sea pigs&#x27; skin"/></p>
-<p>The microbes turned up in <a href="https://nautil.us/scientists-just-found-something-strange-under-the-skin-of-sea-pigs-1286685/">eight sea pigs collected off the northern coast of Japan</a>, in the Northwest Pacific. Despite a stripped-down genome, the new bacterium makes a protein 5,475 amino acids long, against about 300 for an average bacterial protein.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Three-component Hubbard model built in the lab</title>
-      <link>https://www.technologynetworks.com/tn/news/quantum-gas-microscope-helps-realize-three-component-hubbard-model-418286</link>
-      <guid isPermaLink="false">05f019a0-41e6-4430-8ee8-b5d82226e065</guid>
-      <pubDate>Tue, 17 Nov 2026 18:37:20 GMT</pubDate>
-      <category>Quantum physics</category>
-      <description>For the first time, an international team built one from ultracold atoms, tuning the interactions between three distinct states. They observed a Mott insulating state, where strong interactions stop particles flowing freely between lattice sites.</description>
-      <content:encoded><![CDATA[<p>For the first time, an international team <a href="https://www.technologynetworks.com/tn/news/quantum-gas-microscope-helps-realize-three-component-hubbard-model-418286">built one from ultracold atoms</a>, tuning the interactions between three distinct states. They observed a Mott insulating state, where strong interactions stop particles flowing freely between lattice sites.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Two monster black holes found at the dawn of time</title>
-      <link>https://scitechdaily.com/scientists-discover-two-monster-black-holes-at-the-dawn-of-time-that-shouldnt-exist/</link>
-      <guid isPermaLink="false">08753401-4cbb-4784-b07a-86431665b835</guid>
-      <pubDate>Tue, 17 Nov 2026 16:37:03 GMT</pubDate>
-      <category>Astronomy</category>
-      <description>Two monster black holes shine as quasars just 900 million years after the Big Bang. Silvia Onorato, who led the study, says there is no definitive theoretical explanation for even one such quasar that early, much less two.</description>
-      <content:encoded><![CDATA[<p><a href="https://scitechdaily.com/scientists-discover-two-monster-black-holes-at-the-dawn-of-time-that-shouldnt-exist/">Two monster black holes</a> shine as quasars just 900 million years after the Big Bang. Silvia Onorato, who led the study, says there is no definitive theoretical explanation for even one such quasar that early, much less two.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Brutal Market — The Code</title>
-      <link>https://codenewsletter.ai/p/liquid-ai-s-new-models-top-the-benchmark-charts</link>
-      <guid isPermaLink="false">55e98599-78d1-43d3-9834-8b7d716a20f4</guid>
-      <pubDate>Tue, 17 Nov 2026 15:32:59 GMT</pubDate>
-      <category>Tech jobs</category>
-      <description>From The Code (Nov 17, 2026), Brutal Market: A laid-off engineer’s job hunt is being called concerning for anyone working in tech. She claims 500 rejections in a year, despite having strong credentials (2.1M views).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/liquid-ai-s-new-models-top-the-benchmark-charts">The Code (Nov 17, 2026)</a>, <a href="https://archive.codenewsletter.ai/2122263522478567468">Brutal Market:</a> A laid-off engineer’s job hunt is being called concerning for anyone working in tech. She claims 500 rejections in a year, despite having strong credentials (2.1M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Hayabusa2 won&#x27;t reach 1998 KY26 after engine failure</title>
-      <link>https://phys.org/news/2026-11-japan-space-probe.html</link>
-      <guid isPermaLink="false">32c4ba1d-8063-40cb-8778-1dbc15d3b1a4</guid>
-      <pubDate>Tue, 17 Nov 2026 15:32:32 GMT</pubDate>
-      <category>Strange but true</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32c4ba1d-8063-40cb-8778-1dbc15d3b1a4.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32c4ba1d-8063-40cb-8778-1dbc15d3b1a4.jpg"/>
-      <description>In mid-August, a fourth main engine malfunctioned. The probe will instead fly by asteroid 2015 BM510 in April 2028.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/32c4ba1d-8063-40cb-8778-1dbc15d3b1a4.jpg" alt="Hayabusa2 won&#x27;t reach 1998 KY26 after engine failure"/></p>
-<p>In mid-August, a fourth main engine malfunctioned. The probe will instead <a href="https://phys.org/news/2026-11-japan-space-probe.html">fly by asteroid 2015 BM510 in April 2028</a>.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
