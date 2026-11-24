@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:05:40 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: The Sleeping Beauty Problem — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Sleeping_Beauty_problem</link>
+      <guid isPermaLink="false">12005f1f-850c-4550-8f31-51558358b3b2</guid>
+      <pubDate>Tue, 24 Nov 2026 15:04:30 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/12005f1f-850c-4550-8f31-51558358b3b2.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/12005f1f-850c-4550-8f31-51558358b3b2.png"/>
+      <description>Beauty is put to sleep on Sunday and a fair coin is tossed, heads waking her on Monday only and tails waking her on Monday and Tuesday with her memory erased, so she cannot tell which waking this is. The sharpest reading is that 1/2 and 1/3 answer two different questions, the chance the coin landed heads and the chance this awakening followed heads.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/12005f1f-850c-4550-8f31-51558358b3b2.png" alt="Big Idea: The Sleeping Beauty Problem — Daily Learning"/></p>
+<p>Beauty is put to sleep on Sunday and a fair coin is tossed, heads waking her on Monday only and tails waking her on Monday and Tuesday with her memory erased, so she cannot tell which waking this is. The sharpest reading is that 1/2 and 1/3 answer <a href="https://en.wikipedia.org/wiki/Sleeping_Beauty_problem">two different questions</a>, the chance the coin landed heads and the chance this awakening followed heads.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Overfitting and the Bias–Variance Tradeoff — Daily Learning</title>
+      <link>https://ds100.org/course-notes/cv-reg/</link>
+      <guid isPermaLink="false">8326a58a-6633-449d-beb1-90c374537825</guid>
+      <pubDate>Tue, 24 Nov 2026 15:04:07 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Say a betting model fitted to 200 past games nails 68% of them, then only 51% of the next 100. It chased quirks of the old sample instead of the real pattern, and that is the bias–variance tradeoff: simple models stay stable but miss real patterns, while complex ones catch more and swing with each new sample.</description>
+      <content:encoded><![CDATA[<p>Say a betting model fitted to 200 past games nails 68% of them, then only 51% of the next 100. It chased quirks of the old sample instead of the real pattern, and that is the <a href="https://ds100.org/course-notes/cv-reg/">bias–variance tradeoff</a>: simple models stay stable but miss real patterns, while complex ones catch more and swing with each new sample.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: ineluctable - Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/ineluctable</link>
+      <guid isPermaLink="false">3e95f7e7-f29a-4f5a-a839-02b42d548fe3</guid>
+      <pubDate>Tue, 24 Nov 2026 15:01:19 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>ineluctable (in-ih-LUK-tuh-bul) is an adjective meaning impossible to avoid or escape, inescapable, inevitable. From Latin in- (not) + eluctari (to struggle out of), it literally means “cannot be struggled out of,” as in the ineluctable pull of a deadline.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.merriam-webster.com/dictionary/ineluctable">ineluctable</a> (in-ih-LUK-tuh-bul) is an adjective meaning impossible to avoid or escape, inescapable, inevitable. From Latin in- (not) + eluctari (to struggle out of), it literally means “cannot be struggled out of,” as in the ineluctable pull of a deadline.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Big Idea: The Anthropic Principle — Daily Learning</title>
       <link>https://mendel-preview.dev-ext.britannica.com/science/anthropic-principle</link>
@@ -456,33 +486,6 @@
       <category>Daily Learning</category>
       <description>Zugzwang (TSOOK-tsvahng) is a noun from German Zug, move, and Zwang, compulsion, naming a chess position where you must move but every legal move worsens your position. In the negotiation, she was in zugzwang: conceding on price would cost her margin, walking away would cost her the client, and stalling would cost her trust.</description>
       <content:encoded><![CDATA[<p><a href="http://www.dictionary.com/browse/zugzwang">Zugzwang</a> (TSOOK-tsvahng) is a noun from German Zug, move, and Zwang, compulsion, naming a chess position where you must move but every legal move worsens your position. In the negotiation, she was in zugzwang: conceding on price would cost her margin, walking away would cost her the client, and stalling would cost her trust.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Monty Hall Problem — Daily Learning</title>
-      <link>http://allendowney.github.io/ThinkBayes2/chap02.html</link>
-      <guid isPermaLink="false">113fc2e0-8412-4ab6-af2d-70ae2251ace9</guid>
-      <pubDate>Sat, 07 Nov 2026 15:26:35 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>When the host, who knows where the car is, opens a door to reveal a goat, switching doubles your chance of winning from 1/3 to 2/3. Your first pick was probably wrong, so that 2/3 now rests on the one door still closed.</description>
-      <content:encoded><![CDATA[<p>When the host, who knows where the car is, opens a door to reveal a goat, <a href="http://allendowney.github.io/ThinkBayes2/chap02.html">switching doubles your chance of winning</a> from 1/3 to 2/3. Your first pick was probably wrong, so that 2/3 now rests on the one door still closed.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: Benford&#x27;s Law — Daily Learning</title>
-      <link>https://www.mathsisfun.com/numbers/benfords-law.html</link>
-      <guid isPermaLink="false">8f8ed0d8-d9d4-4ec5-b5a1-e89443f72f80</guid>
-      <pubDate>Fri, 06 Nov 2026 15:30:01 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In many real-world datasets, 1 is the leading digit about 30% of the time and 9 only about 5%, far from the roughly 11% each you would expect if digits were random. That uneven falloff is a tripwire for made-up numbers.</description>
-      <content:encoded><![CDATA[<p>In many real-world datasets, <a href="https://www.mathsisfun.com/numbers/benfords-law.html">1 is the leading digit about 30% of the time and 9 only about 5%</a>, far from the roughly 11% each you would expect if digits were random. That uneven falloff is a tripwire for made-up numbers.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Sleeping Beauty Problem — Daily Learning</title>
-      <link>https://en.wikipedia.org/wiki/Sleeping_Beauty_problem</link>
-      <guid isPermaLink="false">bd5d0c69-8718-49cd-83d5-c6a99ec9142e</guid>
-      <pubDate>Fri, 06 Nov 2026 15:28:19 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>On Sunday Beauty is put to sleep, and a fair coin decides whether she wakes on Monday only or on Monday and Tuesday with her memory erased, so she never knows which day it is or whether she has woken before. The Sleeping Beauty problem still splits Bayesians between 1/2 and 1/3, over what counts as evidence when you are the one being sampled.</description>
-      <content:encoded><![CDATA[<p>On Sunday Beauty is put to sleep, and a fair coin decides whether she wakes on Monday only or on Monday and Tuesday with her memory erased, so she never knows which day it is or whether she has woken before. The <a href="https://en.wikipedia.org/wiki/Sleeping_Beauty_problem">Sleeping Beauty problem</a> still splits Bayesians between 1/2 and 1/3, over what counts as evidence when you are the one being sampled.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
