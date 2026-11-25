@@ -5,8 +5,35 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:02:38 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Statistics: The Birthday Paradox — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Birthday_problem</link>
+      <guid isPermaLink="false">fed99801-280a-4a16-b51d-6aa74bfd3419</guid>
+      <pubDate>Wed, 25 Nov 2026 15:04:26 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In a group of just 23 people, the chance at least two share a birthday is 50.7%. Count pairs instead of people, and the group makes 253 chances for a match.</description>
+      <content:encoded><![CDATA[<p>In a group of just 23 people, the chance at least two <a href="https://en.wikipedia.org/wiki/Birthday_problem">share a birthday</a> is 50.7%. Count pairs instead of people, and the group makes 253 chances for a match.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: apricity - Daily Learning</title>
+      <link>https://www.merriam-webster.com/wordplay/winter-words</link>
+      <guid isPermaLink="false">493ac9ce-15f4-4e22-88ac-20a733bc0037</guid>
+      <pubDate>Wed, 25 Nov 2026 15:03:59 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Merriam-Webster&#x27;s 2023 winter-words guide defines apricity (uh-PRISS-ih-tee) as a noun meaning the warmth of the sun on a cold winter&#x27;s day. On a cold November morning, I stepped out of the shade and stood in the apricity for a minute before going back inside.</description>
+      <content:encoded><![CDATA[<p>Merriam-Webster&#x27;s 2023 winter-words guide defines <a href="https://www.merriam-webster.com/wordplay/winter-words">apricity</a> (uh-PRISS-ih-tee) as a noun meaning the warmth of the sun on a cold winter&#x27;s day. On a cold November morning, I stepped out of the shade and stood in the apricity for a minute before going back inside.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Experience Machine — Daily Learning</title>
+      <link>https://archive.org/stream/Nozick1974TheExperienceMachine/Nozick%20-%201974%20-%20The%20Experience%20Machine_djvu.txt</link>
+      <guid isPermaLink="false">1c256449-304f-4aeb-be7c-93b4282475fe</guid>
+      <pubDate>Wed, 25 Nov 2026 15:02:00 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>In 1974, Robert Nozick imagined a machine that could stimulate your brain to give you any experience you wanted, pre-programmed two years at a time, while you floated in a tank with electrodes attached and never knew you were there. He thought most people would refuse it, calling plugging in &quot;a kind of suicide&quot; because we want to actually do things and be a certain kind of person.</description>
+      <content:encoded><![CDATA[<p>In 1974, <a href="https://archive.org/stream/Nozick1974TheExperienceMachine/Nozick%20-%201974%20-%20The%20Experience%20Machine_djvu.txt">Robert Nozick imagined a machine</a> that could stimulate your brain to give you any experience you wanted, pre-programmed two years at a time, while you floated in a tank with electrodes attached and never knew you were there. He thought most people would refuse it, calling plugging in &quot;a kind of suicide&quot; because we want to actually do things and be a certain kind of person.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Big Idea: The Sleeping Beauty Problem — Daily Learning</title>
       <link>https://en.wikipedia.org/wiki/Sleeping_Beauty_problem</link>
@@ -456,33 +483,6 @@
       <category>Daily Learning</category>
       <description>Antediluvian (an-tee-di-LOO-vee-un) is an adjective meaning absurdly old-fashioned, literally from before the Flood. My office still runs on a fax machine and a filing cabinet full of printed emails, an antediluvian setup in a paperless world.</description>
       <content:encoded><![CDATA[<p><a href="https://www.dictionary.com/browse/antediluvian">Antediluvian</a> (an-tee-di-LOO-vee-un) is an adjective meaning absurdly old-fashioned, literally from before the Flood. My office still runs on a fax machine and a filing cabinet full of printed emails, an antediluvian setup in a paperless world.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Twin Earth Thought Experiment — Daily Learning</title>
-      <link>https://openlearninglibrary.mit.edu/assets/courseware/v1/a96487011e62ca26f1685f7a5f0565b9/asset-v1:MITx%2B24.09x%2B3T2019%2Btype%40asset%2Bblock/16_putnam_meaning_of__meaning_.pdf</link>
-      <guid isPermaLink="false">7ba203ba-b8d3-4e90-b51d-0a84771e2780</guid>
-      <pubDate>Sun, 08 Nov 2026 15:27:56 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In Hilary Putnam&#x27;s 1975 paper, imagine a planet exactly like Earth, where the clear liquid everyone calls “water” is not H2O but a different chemical, XYZ, and where you and your Twin Earth double are molecule-for-molecule identical inside, with the same thoughts about “water” in your heads before anyone knew the chemistry in 1750. Putnam argued you still are not referring to the same thing,…</description>
-      <content:encoded><![CDATA[<p>In <a href="https://openlearninglibrary.mit.edu/assets/courseware/v1/a96487011e62ca26f1685f7a5f0565b9/asset-v1:MITx%2B24.09x%2B3T2019%2Btype%40asset%2Bblock/16_putnam_meaning_of__meaning_.pdf">Hilary Putnam&#x27;s 1975 paper</a>, imagine a planet exactly like Earth, where the clear liquid everyone calls “water” is not H2O but a different chemical, XYZ, and where you and your Twin Earth double are molecule-for-molecule identical inside, with the same thoughts about “water” in your heads before anyone knew the chemistry in 1750. Putnam argued you still are not referring to the same thing, because your “water” picks out H2O and theirs picks out XYZ, so meaning is not just in the head, and that raises whether a mind, or a machine trained only on text, could ever mean what we mean.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: ineffable — Daily Learning</title>
-      <link>https://www.merriam-webster.com/dictionary/ineffable?pronunciation&amp;lang=en_us&amp;dir=i&amp;file=ineffa02</link>
-      <guid isPermaLink="false">03d8f18d-186b-4e9f-904b-be001d6e974b</guid>
-      <pubDate>Sun, 08 Nov 2026 15:26:31 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Ineffable, pronounced in-EFF-uh-bul, is an adjective for what is too great, intense, or sacred to be expressed in words. The last song of the set left the room in an ineffable hush, and nobody tried to describe it on the way home.</description>
-      <content:encoded><![CDATA[<p>Ineffable, pronounced in-EFF-uh-bul, is an adjective for what is <a href="https://www.merriam-webster.com/dictionary/ineffable?pronunciation&amp;lang=en_us&amp;dir=i&amp;file=ineffa02">too great, intense, or sacred to be expressed in words</a>. The last song of the set left the room in an ineffable hush, and nobody tried to describe it on the way home.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: zugzwang — Daily Learning</title>
-      <link>http://www.dictionary.com/browse/zugzwang</link>
-      <guid isPermaLink="false">c7594713-ac4f-4e2f-a926-d1fddaf8fe74</guid>
-      <pubDate>Sat, 07 Nov 2026 15:26:56 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Zugzwang (TSOOK-tsvahng) is a noun from German Zug, move, and Zwang, compulsion, naming a chess position where you must move but every legal move worsens your position. In the negotiation, she was in zugzwang: conceding on price would cost her margin, walking away would cost her the client, and stalling would cost her trust.</description>
-      <content:encoded><![CDATA[<p><a href="http://www.dictionary.com/browse/zugzwang">Zugzwang</a> (TSOOK-tsvahng) is a noun from German Zug, move, and Zwang, compulsion, naming a chess position where you must move but every legal move worsens your position. In the negotiation, she was in zugzwang: conceding on price would cost her margin, walking away would cost her the client, and stalling would cost her trust.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
