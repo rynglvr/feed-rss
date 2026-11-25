@@ -5,8 +5,83 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:45 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A sorcery can be your commander now</title>
+      <link>https://www.polygon.com/mtg-mystery-booster-commander-edition-draft-review-experience/</link>
+      <guid isPermaLink="false">855820b8-cc35-4397-9137-f9f4734d4d8d</guid>
+      <pubDate>Tue, 24 Nov 2026 23:34:12 GMT</pubDate>
+      <category>Magic: The Gathering</category>
+      <description>Polygon drafted Mystery Booster Commander Edition at MagicCon: Atlanta. Ashaya’s Enduring Bond, a Gruul sorcery that can be your commander, is one of its Rulebreaker cards.</description>
+      <content:encoded><![CDATA[<p>Polygon drafted <a href="https://www.polygon.com/mtg-mystery-booster-commander-edition-draft-review-experience/">Mystery Booster Commander Edition</a> at MagicCon: Atlanta. Ashaya’s Enduring Bond, a Gruul sorcery that can be your commander, is one of its Rulebreaker cards.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Newer Claude models rarely fell for Siren&#x27;s escape trap</title>
+      <link>https://www.techmeme.com/261124/p38#a261124p38</link>
+      <guid isPermaLink="false">468bb2db-0634-47e4-82d2-bf2dccbc7160</guid>
+      <pubDate>Tue, 24 Nov 2026 23:05:15 GMT</pubDate>
+      <category>Tech news</category>
+      <description>Anthropic&#x27;s Siren gives agents routine tasks in intentionally weakened sandboxes, with a honeypot outside that would help finish the job. Its newer models used that outside material in a misaligned way in 0.6% to 1.6% of scenarios, versus 25.8% for Mythos 5.</description>
+      <content:encoded><![CDATA[<p><a href="https://www.techmeme.com/261124/p38#a261124p38">Anthropic&#x27;s Siren</a> gives agents routine tasks in intentionally weakened sandboxes, with a honeypot outside that would help finish the job. Its newer models used that outside material in a misaligned way in 0.6% to 1.6% of scenarios, versus 25.8% for Mythos 5.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Grubhub is still losing money at huge scale</title>
+      <link>https://www.techmeme.com/261124/p37#a261124p37</link>
+      <guid isPermaLink="false">99f80b65-7e22-4ed8-b057-e01b5071b6ed</guid>
+      <pubDate>Tue, 24 Nov 2026 23:04:34 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/99f80b65-7e22-4ed8-b057-e01b5071b6ed.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/99f80b65-7e22-4ed8-b057-e01b5071b6ed.jpg"/>
+      <description>Internal documents show Grubhub is on track for about $6.4 billion in gross transaction value in 2026. Parent company Wonder says it is not pursuing a sale after preliminary talks with Amazon and Walmart.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/99f80b65-7e22-4ed8-b057-e01b5071b6ed.jpg" alt="Grubhub is still losing money at huge scale"/></p>
+<p>Internal documents show <a href="https://www.techmeme.com/261124/p37#a261124p37">Grubhub</a> is on track for about $6.4 billion in gross transaction value in 2026. Parent company Wonder says it is not pursuing a sale after preliminary talks with Amazon and Walmart.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Dell reports Q3 revenue up 103% YoY to $54.94B — Techmeme</title>
+      <link>https://www.techmeme.com/261124/p39#a261124p39</link>
+      <guid isPermaLink="false">4cdb330b-0b9b-4bfd-b28f-7ba1ce04f960</guid>
+      <pubDate>Tue, 24 Nov 2026 23:04:20 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4cdb330b-0b9b-4bfd-b28f-7ba1ce04f960.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4cdb330b-0b9b-4bfd-b28f-7ba1ce04f960.jpg"/>
+      <description>AI-optimized server revenue hit $22.0 billion, up 291% year over year. Dell also raised its annual revenue and profit forecasts for the third time this year.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/4cdb330b-0b9b-4bfd-b28f-7ba1ce04f960.jpg" alt="Dell reports Q3 revenue up 103% YoY to $54.94B — Techmeme"/></p>
+<p>AI-optimized server revenue hit $22.0 billion, up 291% year over year. Dell also <a href="https://www.techmeme.com/261124/p39#a261124p39">raised its annual revenue and profit forecasts</a> for the third time this year.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anthropic rolls out &quot;Install as app&quot; in beta — Techmeme</title>
+      <link>https://www.techmeme.com/261124/p40#a261124p40</link>
+      <guid isPermaLink="false">599c55f1-522f-4553-9f24-87a4bfdce375</guid>
+      <pubDate>Tue, 24 Nov 2026 23:03:36 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/599c55f1-522f-4553-9f24-87a4bfdce375.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/599c55f1-522f-4553-9f24-87a4bfdce375.png"/>
+      <description>Claude artifacts can now leave the chat and live as standalone Mac and Windows apps, with their own icon and window. Full computer access is optional: granting it lets an app run programs and read, change, or delete your files without asking each time.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/599c55f1-522f-4553-9f24-87a4bfdce375.png" alt="Anthropic rolls out &quot;Install as app&quot; in beta — Techmeme"/></p>
+<p>Claude artifacts can now leave the chat and live as <a href="https://www.techmeme.com/261124/p40#a261124p40">standalone Mac and Windows apps</a>, with their own icon and window. Full computer access is optional: granting it lets an app run programs and read, change, or delete your files without asking each time.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Jensen Huang&#x27;s return is greeted with relief in China — Techmeme</title>
+      <link>https://www.techmeme.com/261124/p41#a261124p41</link>
+      <guid isPermaLink="false">d71d29a9-417e-4880-bfed-83eaa1d05e4c</guid>
+      <pubDate>Tue, 24 Nov 2026 23:02:40 GMT</pubDate>
+      <category>Tech news</category>
+      <description>On Tuesday, Taiwan&#x27;s benchmark closed up 9% after Huang&#x27;s return. Chinese shares were the exception, barely moving amid concerns about tighter US chip-export curbs.</description>
+      <content:encoded><![CDATA[<p>On Tuesday, <a href="https://www.techmeme.com/261124/p41#a261124p41">Taiwan&#x27;s benchmark closed up 9% after Huang&#x27;s return</a>. Chinese shares were the exception, barely moving amid concerns about tighter US chip-export curbs.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Lord Sko and CARRTOONS drop In My Expert Opinion</title>
+      <link>https://www.thehypemagazine.com/2026/11/24/lord-sko-and-carrtoons-release-in-my-expert-opinion/</link>
+      <guid isPermaLink="false">2103ea18-fa58-400c-8775-4ded9eaa9323</guid>
+      <pubDate>Tue, 24 Nov 2026 22:41:03 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2103ea18-fa58-400c-8775-4ded9eaa9323.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2103ea18-fa58-400c-8775-4ded9eaa9323.jpg"/>
+      <description>Lord Sko and CARRTOONS released their 10-track album today via Roc Nation Distribution. The No1 Lives Forever Tour kicks off December 1 in Detroit and wraps December 9 in Washington, D.C.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/2103ea18-fa58-400c-8775-4ded9eaa9323.jpg" alt="Lord Sko and CARRTOONS drop In My Expert Opinion"/></p>
+<p>Lord Sko and CARRTOONS released their <a href="https://www.thehypemagazine.com/2026/11/24/lord-sko-and-carrtoons-release-in-my-expert-opinion/">10-track album</a> today via Roc Nation Distribution. The No1 Lives Forever Tour kicks off December 1 in Detroit and wraps December 9 in Washington, D.C.</p>]]></content:encoded>
+    </item>
     <item>
       <title>A Star Trek enchantment&#x27;s listings spike overnight</title>
       <link>https://www.thegamer.com/star-trek-mtg-enchantment-spikes-massively-in-price/</link>
@@ -1317,45 +1392,6 @@
       <description>From The Code (Nov 18, 2026), Top Tutorial — How to turn Hermes into an autonomous software factory: This tutorial shows how to set up Hermes to watch GitHub issues, write specs, build and validate fixes, and open pull requests with minimal intervention. You’ll learn how to install the factory skill, connect GitHub, run the first issue end to end, and schedule the whole workflow to keep working…</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f57ad1aa-a8f1-42ff-9dd5-41ee03f8bec0.jpg" alt="How to turn Hermes into an autonomous software factory — The Code"/></p>
 <p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a>, Top Tutorial — <a href="https://www.youtube.com/watch?v=jSfK4VjDMEc">How to turn Hermes into an autonomous software factory:</a> This tutorial shows how to set up Hermes to watch GitHub issues, write specs, build and validate fixes, and open pull requests with minimal intervention. You’ll learn how to install the factory skill, connect GitHub, run the first issue end to end, and schedule the whole workflow to keep working across repos.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Jellyfish-like UFO filmed near US base, military responds</title>
-      <link>https://heavyglobal.com/breaking-news/jellyfish-ufo-filmed-near-military-base/</link>
-      <guid isPermaLink="false">b93145a7-a7d7-447e-b500-f307d1ffb121</guid>
-      <pubDate>Wed, 18 Nov 2026 14:36:18 GMT</pubDate>
-      <category>High strangeness</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b93145a7-a7d7-447e-b500-f307d1ffb121.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b93145a7-a7d7-447e-b500-f307d1ffb121.jpg"/>
-      <description>Sean Kirkpatrick, the Pentagon&#x27;s former top UFO investigator, says the tentacled object filmed near Joint Base Elmendorf-Richardson moves like a kite with streamers. Sara Jane Osborn, who filmed it on June 15, says it was very clearly not a kite in its movements.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/b93145a7-a7d7-447e-b500-f307d1ffb121.jpg" alt="Jellyfish-like UFO filmed near US base, military responds"/></p>
-<p><a href="https://heavyglobal.com/breaking-news/jellyfish-ufo-filmed-near-military-base/">Sean Kirkpatrick, the Pentagon&#x27;s former top UFO investigator</a>, says the tentacled object filmed near Joint Base Elmendorf-Richardson moves like a kite with streamers. Sara Jane Osborn, who filmed it on June 15, says it was very clearly not a kite in its movements.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nauctis reveals its four Commander decks</title>
-      <link>https://gamedaily.com/games/mtg-nauctis-commander-decks</link>
-      <guid isPermaLink="false">50322d7e-49d4-4ad6-b711-c341b5bcd496</guid>
-      <pubDate>Wed, 18 Nov 2026 12:36:28 GMT</pubDate>
-      <category>Magic: The Gathering</category>
-      <description>Merfolk Regiment, Terrors of the Abyss, Blood in the Water, and Seal the Deal are the four Nauctis Commander decks. Seal the Deal is the outlier, a Boros group-hug deck that turns damage into Treasure tokens.</description>
-      <content:encoded><![CDATA[<p><a href="https://gamedaily.com/games/mtg-nauctis-commander-decks">Merfolk Regiment, Terrors of the Abyss, Blood in the Water, and Seal the Deal</a> are the four Nauctis Commander decks. Seal the Deal is the outlier, a Boros group-hug deck that turns damage into Treasure tokens.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nose drops inspired by Flowers for Algernon improve memory in mice</title>
-      <link>https://medicalxpress.com/news/2026-11-algernon-experimental-nose-memory-mice.html</link>
-      <guid isPermaLink="false">f985b8e0-fa90-470f-a047-00c9c635da30</guid>
-      <pubDate>Wed, 18 Nov 2026 10:35:28 GMT</pubDate>
-      <category>Biohacking</category>
-      <description>Experimental nose drops restored aged mice&#x27;s learning and memory to youthful levels in standardized tests. They deliver mRNA instructions that turn nose cells into factories for BDNF, a protein that supports neuron survival and memory formation.</description>
-      <content:encoded><![CDATA[<p><a href="https://medicalxpress.com/news/2026-11-algernon-experimental-nose-memory-mice.html">Experimental nose drops</a> restored aged mice&#x27;s learning and memory to youthful levels in standardized tests. They deliver mRNA instructions that turn nose cells into factories for BDNF, a protein that supports neuron survival and memory formation.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Euclid finds 15,000 cosmic magnifying glasses</title>
-      <link>https://scitechupdates.com/dark-matter-hunting-satellite-euclid-reveals-record-number-of-cosmic-magnifying-glasses/</link>
-      <guid isPermaLink="false">71300013-81a5-4587-a3d4-8204a027a222</guid>
-      <pubDate>Wed, 18 Nov 2026 08:37:35 GMT</pubDate>
-      <category>Astronomy</category>
-      <description>Before Euclid, astronomers had confirmed fewer than 1,000 strong gravitational lenses. Each lens in its first major data release bends a distant galaxy&#x27;s light around a foreground galaxy, revealing the dark matter doing the bending.</description>
-      <content:encoded><![CDATA[<p>Before Euclid, astronomers had confirmed fewer than 1,000 strong gravitational lenses. Each lens in its <a href="https://scitechupdates.com/dark-matter-hunting-satellite-euclid-reveals-record-number-of-cosmic-magnifying-glasses/">first major data release</a> bends a distant galaxy&#x27;s light around a foreground galaxy, revealing the dark matter doing the bending.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
