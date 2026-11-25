@@ -5,7 +5,7 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:45 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Big Idea: The Sleeping Beauty Problem — Daily Learning</title>
@@ -238,11 +238,8 @@
       <guid isPermaLink="false">5bb91ecd-6f40-48c8-a324-335ab365e6ef</guid>
       <pubDate>Tue, 17 Nov 2026 15:28:05 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5bb91ecd-6f40-48c8-a324-335ab365e6ef.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5bb91ecd-6f40-48c8-a324-335ab365e6ef.jpg"/>
       <description>In the raven paradox, “all ravens are black” is logically equivalent to “all non-black things are non-ravens,” so a white shoe counts as evidence for a claim about ravens. Under Bayesian thinking, a black raven tells you far more than a white shoe, because ravens are rare and non-black things are everywhere.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5bb91ecd-6f40-48c8-a324-335ab365e6ef.jpg" alt="Big Idea: The Raven Paradox — Daily Learning"/></p>
-<p>In <a href="https://en.wikipedia.org/wiki/Raven_paradox">the raven paradox</a>, “all ravens are black” is logically equivalent to “all non-black things are non-ravens,” so a white shoe counts as evidence for a claim about ravens. Under Bayesian thinking, a black raven tells you far more than a white shoe, because ravens are rare and non-black things are everywhere.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>In <a href="https://en.wikipedia.org/wiki/Raven_paradox">the raven paradox</a>, “all ravens are black” is logically equivalent to “all non-black things are non-ravens,” so a white shoe counts as evidence for a claim about ravens. Under Bayesian thinking, a black raven tells you far more than a white shoe, because ravens are rare and non-black things are everywhere.</p>]]></content:encoded>
     </item>
     <item>
       <title>Word of the Day: palimpsest - Daily Learning</title>
