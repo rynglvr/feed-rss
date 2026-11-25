@@ -5,8 +5,98 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:02:38 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stranger Things 5 opens with 4 hours 31 minutes</title>
+      <link>https://dhanuksoftwares.com/blog/stranger-things-5-volume-1-how-long-episodes-runtime-guide/</link>
+      <guid isPermaLink="false">9c82d8e5-0443-48c0-9815-5afe3263ee30</guid>
+      <pubDate>Wed, 25 Nov 2026 15:32:52 GMT</pubDate>
+      <category>Entertainment</category>
+      <description>Volume 1 arrives Thursday, November 26 at 8pm ET on Netflix with the first four episodes. The final season then rolls out in three holiday drops ending December 31.</description>
+      <content:encoded><![CDATA[<p><a href="https://dhanuksoftwares.com/blog/stranger-things-5-volume-1-how-long-episodes-runtime-guide/">Volume 1</a> arrives Thursday, November 26 at 8pm ET on Netflix with the first four episodes. The final season then rolls out in three holiday drops ending December 31.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Behind Closed Doors — The Code</title>
+      <link>https://codenewsletter.ai/p/former-xai-engineers-let-your-agents-travel-back-in-time</link>
+      <guid isPermaLink="false">79ef7aa5-92b6-4070-9c47-dc361377d78d</guid>
+      <pubDate>Wed, 25 Nov 2026 15:06:12 GMT</pubDate>
+      <category>Coding</category>
+      <description>From The Code (November 25, 2026), Behind Closed Doors: An Axios scoop citing two dozen insiders reveals why OpenAI and Anthropic may soon stop releasing models publicly (1.1M views). Many employees believe the internal, unreleased models are becoming too powerful to safely release.</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/former-xai-engineers-let-your-agents-travel-back-in-time">The Code (November 25, 2026)</a>, Behind Closed Doors: An Axios scoop citing two dozen insiders reveals why OpenAI and Anthropic may soon <a href="https://archive.codenewsletter.ai/2125194635534369145">stop releasing models</a> publicly (1.1M views). Many employees believe the internal, unreleased models are becoming too powerful to safely release.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Trump to Lead Dec. 4 Groundbreaking for TSMC Phoenix Expansion</title>
+      <link>https://www.techmeme.com/261125/p23#a261125p23</link>
+      <guid isPermaLink="false">bd988282-8bf0-4bf0-a1a1-ee72f258676d</guid>
+      <pubDate>Wed, 25 Nov 2026 15:05:07 GMT</pubDate>
+      <category>Tech news</category>
+      <description>The groundbreaking is set for December 4 in Phoenix, with Trump headlining the ceremony. It puts the White House at the center of the push to onshore advanced semiconductor manufacturing.</description>
+      <content:encoded><![CDATA[<p>The <a href="https://www.techmeme.com/261125/p23#a261125p23">groundbreaking</a> is set for December 4 in Phoenix, with Trump headlining the ceremony. It puts the White House at the center of the push to onshore advanced semiconductor manufacturing.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>PhonePe Resumes IPO Prep, Eyes Q1 2027 Debut at $12B–$15B Valuation</title>
+      <link>https://www.techmeme.com/261125/p19#a261125p19</link>
+      <guid isPermaLink="false">8c5b2dd9-be54-43e5-bcce-5ae00f5b2112</guid>
+      <pubDate>Wed, 25 Nov 2026 15:03:23 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8c5b2dd9-be54-43e5-bcce-5ae00f5b2112.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8c5b2dd9-be54-43e5-bcce-5ae00f5b2112.jpg"/>
+      <description>The offering aims to raise $1.2 billion to $1.5 billion. It is an entirely secondary sale, with Walmart trimming its stake by about 12%.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/8c5b2dd9-be54-43e5-bcce-5ae00f5b2112.jpg" alt="PhonePe Resumes IPO Prep, Eyes Q1 2027 Debut at $12B–$15B Valuation"/></p>
+<p>The offering aims to <a href="https://www.techmeme.com/261125/p19#a261125p19">raise $1.2 billion to $1.5 billion</a>. It is an <a href="https://www.reuters.com/world/india/walmart-backed-phonepe-restarts-ipo-process-eyes-up-15-billion-valuation-market-2026-11-25/">entirely secondary sale</a>, with Walmart trimming its stake by about 12%.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI Claims Proof That Matrix Multiplication Exponent Is 9/4</title>
+      <link>https://www.techmeme.com/261125/p21#a261125p21</link>
+      <guid isPermaLink="false">40308101-cc66-4880-8346-4d4389ead8d1</guid>
+      <pubDate>Wed, 25 Nov 2026 15:03:02 GMT</pubDate>
+      <category>Data science</category>
+      <description>The exponent governing how fast matrices can be multiplied may now have an exact value, with an OpenAI preprint claiming a proof that ω is 9/4. The preprint has not been peer reviewed, so the claim still awaits scrutiny by mathematicians.</description>
+      <content:encoded><![CDATA[<p>The exponent governing how fast matrices can be multiplied may now have an exact value, with an <a href="https://www.techmeme.com/261125/p21#a261125p21">OpenAI preprint</a> claiming a proof that ω is 9/4. The preprint has not been peer reviewed, so the claim still awaits scrutiny by mathematicians.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Closed Loop — The Code</title>
+      <link>https://codenewsletter.ai/p/former-xai-engineers-let-your-agents-travel-back-in-time</link>
+      <guid isPermaLink="false">bcad2f75-a2c2-475a-8558-8040f06c7890</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:54 GMT</pubDate>
+      <category>Coding</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bcad2f75-a2c2-475a-8558-8040f06c7890.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bcad2f75-a2c2-475a-8558-8040f06c7890.jpg"/>
+      <description>From The Code (November 25, 2026), Closed Loop: Uber built a full software lifecycle around AI agent skills, 5,000 of them running a million times monthly. One feedback trick keeps them improving in production (1.4K likes).</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bcad2f75-a2c2-475a-8558-8040f06c7890.jpg" alt="Closed Loop — The Code"/></p>
+<p>From <a href="https://codenewsletter.ai/p/former-xai-engineers-let-your-agents-travel-back-in-time">The Code (November 25, 2026)</a>, Closed Loop: Uber built a full software lifecycle around AI agent skills, 5,000 of them running a million times monthly. <a href="https://archive.codenewsletter.ai/2125208627460141093">One feedback trick</a> keeps them improving in production (1.4K likes).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Blackwell B300 Servers Now $3M+ on Shenzhen Gray Market</title>
+      <link>https://www.techmeme.com/261125/p20#a261125p20</link>
+      <guid isPermaLink="false">bfb97b3e-05db-4880-87eb-9cdbd8f0ee57</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:41 GMT</pubDate>
+      <category>Tech news</category>
+      <description>Vendors in Shenzhen&#x27;s Huaqiangbei market are quoting $3M+ for Blackwell B300 servers. The Washington Post could not independently verify the authenticity of the B300 systems offered.</description>
+      <content:encoded><![CDATA[<p>Vendors in Shenzhen&#x27;s Huaqiangbei market are <a href="https://www.techmeme.com/261125/p20#a261125p20">quoting $3M+ for Blackwell B300 servers</a>. The Washington Post could not independently verify the authenticity of the B300 systems offered.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tether and Circle Freeze $2B+ After Binance&#x27;s $6.3B Hack — Techmeme</title>
+      <link>https://www.techmeme.com/261125/p22#a261125p22</link>
+      <guid isPermaLink="false">5a3263a5-1065-4312-b315-8bedb7c6b0e1</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:03 GMT</pubDate>
+      <category>Tech news</category>
+      <description>Tether and Circle froze more than $2.6 billion in crypto as the October 29 theft from Binance unfolded. Circle had previously waited for court orders before freezing funds, but this time it moved at what it called &quot;machine speed.&quot;</description>
+      <content:encoded><![CDATA[<p>Tether and Circle <a href="https://www.techmeme.com/261125/p22#a261125p22">froze more than $2.6 billion in crypto</a> as the October 29 theft from Binance unfolded. Circle had previously waited for court orders before freezing funds, but this time it moved at what it called &quot;machine speed.&quot;</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>A packed two weeks of hip-hop starts November 27</title>
+      <link>https://www.instagram.com/reel/DgIyIiAOXi6/</link>
+      <guid isPermaLink="false">7a25ef50-60ac-47ce-b7bb-0f717891e2db</guid>
+      <pubDate>Wed, 25 Nov 2026 10:35:12 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7a25ef50-60ac-47ce-b7bb-0f717891e2db.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7a25ef50-60ac-47ce-b7bb-0f717891e2db.jpg"/>
+      <description>Aaron Hampshire&#x27;s rundown of the next two weeks opens November 27 with Czarface&#x27;s 14-song Special Presentation. The God Fahim follows on December 2 with Thirst to Blaze.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7a25ef50-60ac-47ce-b7bb-0f717891e2db.jpg" alt="A packed two weeks of hip-hop starts November 27"/></p>
+<p><a href="https://www.instagram.com/reel/DgIyIiAOXi6/">Aaron Hampshire&#x27;s rundown</a> of the next two weeks opens November 27 with Czarface&#x27;s 14-song Special Presentation. The God Fahim follows on December 2 with Thirst to Blaze.</p>]]></content:encoded>
+    </item>
     <item>
       <title>A sorcery can be your commander now</title>
       <link>https://www.polygon.com/mtg-mystery-booster-commander-edition-draft-review-experience/</link>
@@ -1275,123 +1365,6 @@
       <description>From The Code (Nov 18, 2026) Windows Watching: A researcher found Windows 11 quietly logging which AI coding agents you run and uploading it to Microsoft. The way it spots them is almost comically simple (3.6K likes).</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/75fc5340-5224-4694-a7c1-a82a0f310100.jpg" alt="Windows Watching — The Code"/></p>
 <p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a><br/><a href="https://archive.codenewsletter.ai/2122147747390468384">Windows Watching</a>: A researcher found Windows 11 quietly logging which AI coding agents you run and uploading it to Microsoft. The way it spots them is almost comically simple (3.6K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Autonomous Attacks — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">5cd8cd64-3ecd-48b1-89b3-e86cc9f15bb7</guid>
-      <pubDate>Wed, 18 Nov 2026 15:32:18 GMT</pubDate>
-      <category>Cybersecurity</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5cd8cd64-3ecd-48b1-89b3-e86cc9f15bb7.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5cd8cd64-3ecd-48b1-89b3-e86cc9f15bb7.jpg"/>
-      <description>From The Code (Nov 18, 2026), Autonomous Attacks: Google&#x27;s threat team found attacks that exploit fresh bugs faster than any team can patch, entirely without humans. The full report shows how they pick targets (4.2M views).</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/5cd8cd64-3ecd-48b1-89b3-e86cc9f15bb7.jpg" alt="Autonomous Attacks — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a>, Autonomous Attacks: Google&#x27;s threat team found attacks that exploit fresh bugs faster than any team can patch, entirely without humans. <a href="https://archive.codenewsletter.ai/2122446058370597070">The full report</a> shows how they pick targets (4.2M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Jensen&#x27;s Plea — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">3080d906-9beb-44d7-ad4f-b08306aa8d69</guid>
-      <pubDate>Wed, 18 Nov 2026 15:32:16 GMT</pubDate>
-      <category>AI</category>
-      <description>From The Code (Nov 18, 2026), Jensen&#x27;s Plea: NVIDIA&#x27;s ousted founder broke his silence in an emotional open statement. It closes with an offer the board has reportedly already answered (45.6M views).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a>, Jensen&#x27;s Plea: NVIDIA&#x27;s ousted founder broke his silence in an <a href="https://archive.codenewsletter.ai/2122726005219737649">emotional open statement</a>. It closes with an offer the board has <a href="https://archive.codenewsletter.ai/2122813215172166133">reportedly</a> already answered (45.6M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Quickly, There&#x27;s No Time — LessWrong</title>
-      <link>https://www.lesswrong.com/posts/KyEuyNAoz3AsJf6RW/quickly-there-s-no-time</link>
-      <guid isPermaLink="false">962bf786-57e9-4198-80a0-41ab616576b1</guid>
-      <pubDate>Wed, 18 Nov 2026 15:32:03 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <description>Zvi&#x27;s synthesis opens with the AI Futures Project forecasting a superhuman AI researcher likely arriving in 2027. Paul Christiano puts the risk of AI takeover in the next 6–12 months at roughly 10%.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.lesswrong.com/posts/KyEuyNAoz3AsJf6RW/quickly-there-s-no-time">Zvi&#x27;s synthesis</a> opens with the AI Futures Project forecasting a superhuman AI researcher likely arriving in 2027. Paul Christiano puts the risk of AI takeover in the next 6–12 months at roughly 10%.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Brain Drain — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">bc07b105-29dc-4bc4-9506-3ce9d2715761</guid>
-      <pubDate>Wed, 18 Nov 2026 15:31:59 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>An engineering manager&#x27;s brutal self-audit of what agents did to his skills is making the rounds, in The Code (Nov 18, 2026). Symptom four already has a nickname (3.1K likes).</description>
-      <content:encoded><![CDATA[<p>An engineering manager&#x27;s brutal self-audit of what agents did to his skills is making the rounds, in <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a>. Symptom four <a href="https://archive.codenewsletter.ai/2122674421492040082">already has a nickname</a> (3.1K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Quantum matter snaps at 180 qubits</title>
-      <link>https://www.prnewswire.com/news-releases/quera-computing-and-lawrence-berkeley-national-laboratory-publish-nature-study-of-quantum-dynamics-on-up-to-180-qubits-302943182.html</link>
-      <guid isPermaLink="false">64bb84f3-fe2f-4529-93de-6ae4906d7e32</guid>
-      <pubDate>Wed, 18 Nov 2026 15:31:48 GMT</pubDate>
-      <category>Quantum physics</category>
-      <description>QuEra Computing and Lawrence Berkeley National Laboratory published a Nature study of quantum dynamics on arrays of up to 180 atoms. Watching the system settle after a sudden change, they found a first-order dynamical phase transition with no direct equilibrium counterpart.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.prnewswire.com/news-releases/quera-computing-and-lawrence-berkeley-national-laboratory-publish-nature-study-of-quantum-dynamics-on-up-to-180-qubits-302943182.html">QuEra Computing and Lawrence Berkeley National Laboratory published a Nature study</a> of quantum dynamics on arrays of up to 180 atoms. Watching the system settle after a sudden change, they found a first-order dynamical phase transition with no direct equilibrium counterpart.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Rapid Router — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">7cdeda50-e0bd-4fa8-8282-9cf763f60cd0</guid>
-      <pubDate>Wed, 18 Nov 2026 15:31:30 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 18, 2026) Top Tool — Rapid Router: Use Claude, GPT, Gemini, DeepSeek, and other major models through one API key and balance. Point your existing SDK at it and each request is automatically routed to the cheapest healthy provider, with failover built in and live latency, uptime, metering, and spend tracking handled for you.</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a> Top Tool — <a href="https://rapidrouter.ai/">Rapid Router:</a> Use Claude, GPT, Gemini, DeepSeek, and other major models through one API key and balance. Point your existing SDK at it and each request is automatically routed to the cheapest healthy provider, with failover built in and live latency, uptime, metering, and spend tracking handled for you.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Raised Ceiling — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">39a5d13c-5089-4024-b86d-bbad55055a62</guid>
-      <pubDate>Wed, 18 Nov 2026 15:30:59 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 18, 2026). Raised Ceiling: AI may write most code, but a SpaceXAI engineer explains why the best software will still come from people who care, and she has the perfect analogy (2K likes).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a>. Raised Ceiling: AI may write most code, but a SpaceXAI engineer <a href="https://archive.codenewsletter.ai/1984403065571848511">explains why</a> the best software will still come from people who care, and she has the perfect analogy (2K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>No Coincidence — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">08681cd8-acc3-470e-ae8c-eaf9f3cae19e</guid>
-      <pubDate>Wed, 18 Nov 2026 15:30:48 GMT</pubDate>
-      <category>Cybersecurity</category>
-      <description>Palo Alto Networks&#x27; CEO says this week&#x27;s cyberattacks are connected, and there is no silver bullet, The Code (Nov 18, 2026) reports. His advice on what to do before you&#x27;re next is to rebuild your SOC around a real-time data lake with proactive ML detectors, so it can detect and remediate in record time.</description>
-      <content:encoded><![CDATA[<p>Palo Alto Networks&#x27; CEO says this week&#x27;s cyberattacks are connected, and there is no silver bullet, <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a> reports. His advice on <a href="https://archive.codenewsletter.ai/2122788568817123551">what to do before you&#x27;re next</a> is to rebuild your SOC around a real-time data lake with proactive ML detectors, so it can detect and remediate in record time.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>App Origami — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">59ef6a3c-c7db-4507-ac99-0ba860c86474</guid>
-      <pubDate>Wed, 18 Nov 2026 15:30:16 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 18, 2026), App Origami: Devs are already testing their apps on Apple&#x27;s foldable iPhone Duo without ever touching one. The way Claude Code pulls it off is oddly satisfying to watch (1M views).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a>, App Origami: Devs are already testing their apps on Apple&#x27;s foldable iPhone Duo without ever touching one. The way Claude Code pulls it off is oddly <a href="https://archive.codenewsletter.ai/2122439098740674839">satisfying to watch</a> (1M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>How to verify coding agent work at scale — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">da50818b-8f51-4eac-8c23-8c72bb4804de</guid>
-      <pubDate>Wed, 18 Nov 2026 15:30:02 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 18, 2026) Trending Cookbook — How to verify coding agent work at scale (by Anthropic): This guide breaks down the verification system behind Claude Code, where ~90% of the code is written and reviewed by Claude. You&#x27;ll learn which tests are actually worth investing in, how to build fast verification loops agents can trust, and how to turn misses into rules so you can delegate…</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a> Trending Cookbook — <a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/">How to verify coding agent work at scale (by Anthropic):</a> This guide breaks down the verification system behind Claude Code, where ~90% of the code is written and reviewed by Claude. You&#x27;ll learn which tests are actually worth investing in, how to build fast verification loops agents can trust, and how to turn misses into rules so you can delegate more without manually checking every diff.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Varieties Of Discourseposting — Astral Codex Ten</title>
-      <link>https://www.astralcodexten.com/p/varieties-of-discourseposting</link>
-      <guid isPermaLink="false">669dc689-3883-4561-aed2-9036dcdfbc30</guid>
-      <pubDate>Wed, 18 Nov 2026 15:29:52 GMT</pubDate>
-      <category>Thought-provoking ideas</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/669dc689-3883-4561-aed2-9036dcdfbc30.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/669dc689-3883-4561-aed2-9036dcdfbc30.jpg"/>
-      <description>Scott Alexander sorts online discourseposting by the psychological need each genre fulfills for writer and audience, in his new essay. With almost nobody writing to convince anyone or reading to be convinced, the useful question is who a post is really for and what it is doing for them.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/669dc689-3883-4561-aed2-9036dcdfbc30.jpg" alt="Varieties Of Discourseposting — Astral Codex Ten"/></p>
-<p>Scott Alexander sorts online discourseposting by the psychological need each genre fulfills for writer and audience, in <a href="https://www.astralcodexten.com/p/varieties-of-discourseposting">his new essay</a>. With almost nobody writing to convince anyone or reading to be convinced, the useful question is who a post is really for and what it is doing for them.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>How to turn Hermes into an autonomous software factory — The Code</title>
-      <link>https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents</link>
-      <guid isPermaLink="false">f57ad1aa-a8f1-42ff-9dd5-41ee03f8bec0</guid>
-      <pubDate>Wed, 18 Nov 2026 15:29:45 GMT</pubDate>
-      <category>Developer tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f57ad1aa-a8f1-42ff-9dd5-41ee03f8bec0.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f57ad1aa-a8f1-42ff-9dd5-41ee03f8bec0.jpg"/>
-      <description>From The Code (Nov 18, 2026), Top Tutorial — How to turn Hermes into an autonomous software factory: This tutorial shows how to set up Hermes to watch GitHub issues, write specs, build and validate fixes, and open pull requests with minimal intervention. You’ll learn how to install the factory skill, connect GitHub, run the first issue end to end, and schedule the whole workflow to keep working…</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f57ad1aa-a8f1-42ff-9dd5-41ee03f8bec0.jpg" alt="How to turn Hermes into an autonomous software factory — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/sid-ai-s-new-models-swap-your-rag-pipeline-for-ai-agents">The Code (Nov 18, 2026)</a>, Top Tutorial — <a href="https://www.youtube.com/watch?v=jSfK4VjDMEc">How to turn Hermes into an autonomous software factory:</a> This tutorial shows how to set up Hermes to watch GitHub issues, write specs, build and validate fixes, and open pull requests with minimal intervention. You’ll learn how to install the factory skill, connect GitHub, run the first issue end to end, and schedule the whole workflow to keep working across repos.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
