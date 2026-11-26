@@ -5,7 +5,7 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:53 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Statistics: The Birthday Paradox — Daily Learning</title>
@@ -22,8 +22,11 @@
       <guid isPermaLink="false">493ac9ce-15f4-4e22-88ac-20a733bc0037</guid>
       <pubDate>Wed, 25 Nov 2026 15:03:59 GMT</pubDate>
       <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/493ac9ce-15f4-4e22-88ac-20a733bc0037.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/493ac9ce-15f4-4e22-88ac-20a733bc0037.webp"/>
       <description>Merriam-Webster&#x27;s 2023 winter-words guide defines apricity (uh-PRISS-ih-tee) as a noun meaning the warmth of the sun on a cold winter&#x27;s day. On a cold November morning, I stepped out of the shade and stood in the apricity for a minute before going back inside.</description>
-      <content:encoded><![CDATA[<p>Merriam-Webster&#x27;s 2023 winter-words guide defines <a href="https://www.merriam-webster.com/wordplay/winter-words">apricity</a> (uh-PRISS-ih-tee) as a noun meaning the warmth of the sun on a cold winter&#x27;s day. On a cold November morning, I stepped out of the shade and stood in the apricity for a minute before going back inside.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/493ac9ce-15f4-4e22-88ac-20a733bc0037.webp" alt="Word of the Day: apricity - Daily Learning"/></p>
+<p>Merriam-Webster&#x27;s 2023 winter-words guide defines <a href="https://www.merriam-webster.com/wordplay/winter-words">apricity</a> (uh-PRISS-ih-tee) as a noun meaning the warmth of the sun on a cold winter&#x27;s day. On a cold November morning, I stepped out of the shade and stood in the apricity for a minute before going back inside.</p>]]></content:encoded>
     </item>
     <item>
       <title>Big Idea: The Experience Machine — Daily Learning</title>
