@@ -5,8 +5,122 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:03:15 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ye&#x27;s &quot;Out of My Mind&quot; drops Friday</title>
+      <link>https://hiphop.ninja/article/kanye-west-s-new-single-out-of-my-mind-is-listed-on-spotify-and-drops-tomorrow-1107</link>
+      <guid isPermaLink="false">105a2902-6a11-40a9-9d68-d18f8379e153</guid>
+      <pubDate>Thu, 26 Nov 2026 15:40:12 GMT</pubDate>
+      <category>Hip hop</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/105a2902-6a11-40a9-9d68-d18f8379e153.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/105a2902-6a11-40a9-9d68-d18f8379e153.jpg"/>
+      <description>Ye&#x27;s single &quot;Out of My Mind&quot; is listed on Spotify as a 1:46 one-track single releasing Fri November 27, 2026. It was first previewed at the Yeezy Season 01 runway show, with a jungle-flavoured snippet.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/105a2902-6a11-40a9-9d68-d18f8379e153.jpg" alt="Ye&#x27;s &quot;Out of My Mind&quot; drops Friday"/></p>
+<p>Ye&#x27;s single <a href="https://hiphop.ninja/article/kanye-west-s-new-single-out-of-my-mind-is-listed-on-spotify-and-drops-tomorrow-1107">&quot;Out of My Mind&quot;</a> is listed on Spotify as a 1:46 one-track single releasing Fri November 27, 2026. It was first previewed at the Yeezy Season 01 runway show, with a jungle-flavoured snippet.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The crypto bombshells no lab has shown</title>
+      <link>https://scottaaronson.blog/?p=10379</link>
+      <guid isPermaLink="false">7494fa2e-b577-44d1-a934-36465092b9e2</guid>
+      <pubDate>Thu, 26 Nov 2026 15:02:35 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7494fa2e-b577-44d1-a934-36465092b9e2.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7494fa2e-b577-44d1-a934-36465092b9e2.jpg"/>
+      <description>Scott Aaronson says he is virtually certain, from multiple reliable sources, that AI labs are sitting on one or more bombshells that will break currently deployed cryptosystems. Until he sees details or hears directly from someone at a lab, he says he is much, much less confident about what those bombshells actually are.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7494fa2e-b577-44d1-a934-36465092b9e2.jpg" alt="The crypto bombshells no lab has shown"/></p>
+<p><a href="https://scottaaronson.blog/?p=10379">Scott Aaronson</a> says he is virtually certain, from multiple reliable sources, that AI labs are sitting on one or more bombshells that will break currently deployed cryptosystems. Until he sees details or hears directly from someone at a lab, he says he is much, much less confident about what those bombshells actually are.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>How to migrate a production codebase with AI (by Anthropic) — The Code</title>
+      <link>https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game</link>
+      <guid isPermaLink="false">da567abf-0f68-4024-8443-acfef1c99372</guid>
+      <pubDate>Thu, 26 Nov 2026 15:02:28 GMT</pubDate>
+      <category>Coding</category>
+      <description>From The Code (Nov 26, 2026), How to migrate a production codebase with AI (by Anthropic): Learn how the team used Claude to rewrite its Python API in Rust, build verification loops, and test against live traffic without downtime or pausing feature development. The migration cut CPU about 70% per request.</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game">The Code (Nov 26, 2026)</a>, <a href="https://www.anthropic.com/research/migrating-api-to-rust">How to migrate a production codebase with AI (by Anthropic)</a>: Learn how the team used Claude to rewrite its Python API in Rust, build verification loops, and test against live traffic without downtime or pausing feature development. The migration cut CPU about 70% per request.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Texas resumes data-center permits for SpaceX&#x27;s $24B plant</title>
+      <link>https://www.ft.com/content/e0a1bf7a-7c28-4a20-8ca8-86dc7d5097b3</link>
+      <guid isPermaLink="false">c8d92e3b-6bf5-437b-a1b7-9a692a6c691b</guid>
+      <pubDate>Thu, 26 Nov 2026 15:02:14 GMT</pubDate>
+      <category>Tech news</category>
+      <description>On November 16, Texas resumed its normal data-center permit review. The first permit appears to have gone to SpaceX&#x27;s $24 billion gas-fired plant at Starbase, ahead of Gina Hinojosa taking office in January.</description>
+      <content:encoded><![CDATA[<p>On November 16, Texas <a href="https://www.ft.com/content/e0a1bf7a-7c28-4a20-8ca8-86dc7d5097b3">resumed its normal data-center permit review</a>. The first permit appears to have gone to SpaceX&#x27;s $24 billion gas-fired plant at Starbase, ahead of Gina Hinojosa taking office in January.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Musk doubles pledge: two SpaceX shares for every US child</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge</link>
+      <guid isPermaLink="false">f601e637-c92d-4867-aa94-3d0f53eac07a</guid>
+      <pubDate>Thu, 26 Nov 2026 15:01:54 GMT</pubDate>
+      <category>Tech news</category>
+      <description>Elon Musk said on Wednesday that every child in America will receive two SpaceX shares, one from the company and one from him personally. The gift is worth roughly $18.4 billion in total.</description>
+      <content:encoded><![CDATA[<p>Elon Musk said on Wednesday that every child in America will receive <a href="https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge">two SpaceX shares</a>, one from the company and one from him personally. The gift is worth roughly $18.4 billion in total.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Memory chip shortage prompts procurement war rooms</title>
+      <link>https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC</link>
+      <guid isPermaLink="false">6df3cd3e-bf4a-446f-8962-3d85d7033f4b</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:53 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/6df3cd3e-bf4a-446f-8962-3d85d7033f4b.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/6df3cd3e-bf4a-446f-8962-3d85d7033f4b.jpg"/>
+      <description>Explosive growth in data centres serving the AI boom is causing a once-in-a-generation supply crunch for the memory chips in all kinds of electronics. Some memory chips have risen 10 times in price in the past year, forcing price rises across electronics.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/6df3cd3e-bf4a-446f-8962-3d85d7033f4b.jpg" alt="Memory chip shortage prompts procurement war rooms"/></p>
+<p>Explosive growth in data centres serving the AI boom is causing <a href="https://www.wsj.com/tech/memory-chip-shortage-ai-electronics-prices-e58a065a?st=Rx7QaC">a once-in-a-generation supply crunch</a> for the memory chips in all kinds of electronics. Some memory chips have risen 10 times in price in the past year, forcing price rises across electronics.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Craft Shift — The Code</title>
+      <link>https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game</link>
+      <guid isPermaLink="false">5192ca9d-fa9e-49a2-bfb3-447717b57c31</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:49 GMT</pubDate>
+      <category>Coding</category>
+      <description>From The Code (Nov 26, 2026), Craft Shift: A Devin team engineer says 2027&#x27;s top engineers will stop working in tasks altogether. His eight replacement principles are worth a read (1.7K bookmarks).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game">The Code (Nov 26, 2026)</a>, Craft Shift: A Devin team engineer says 2027&#x27;s top engineers will stop working in tasks altogether. His <a href="https://archive.codenewsletter.ai/2125675259366195662">eight replacement principles</a> are worth a read (1.7K bookmarks).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Kernel Panic — The Code</title>
+      <link>https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game</link>
+      <guid isPermaLink="false">da523318-d68d-42c3-8cca-f7ce0aa07e52</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:44 GMT</pubDate>
+      <category>Coding</category>
+      <description>From The Code (Nov 26, 2026), Kernel Panic: Someone dropped a 41,000-line update packed with AI-generated fixes on Linux at the worst possible moment. Linus Torvalds reaction has devs cackling (1.2M views).</description>
+      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/karpathy-turns-us-public-data-into-a-civ-game">The Code (Nov 26, 2026)</a>, Kernel Panic: Someone dropped a 41,000-line update packed with AI-generated fixes on Linux at the worst possible moment. <a href="https://archive.codenewsletter.ai/2125480948519362692">Linus Torvalds reaction</a> has devs cackling (1.2M views).</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anima, Bicameral — Astral Codex Ten</title>
+      <link>https://www.astralcodexten.com/p/anima-bicameral</link>
+      <guid isPermaLink="false">606f5b17-41a7-4dc6-b405-828d85430dd4</guid>
+      <pubDate>Thu, 26 Nov 2026 14:59:37 GMT</pubDate>
+      <category>AI philosophy</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/606f5b17-41a7-4dc6-b405-828d85430dd4.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/606f5b17-41a7-4dc6-b405-828d85430dd4.jpg"/>
+      <description>Scott Alexander profiles Bicameral Labs, founded by neuroscientist Erik Hoel, which wants to build provably non-conscious “qualiaphobic AI” so AIs can never be moral patients. Its opposite, Anima Labs, claims AIs are basically good and love humans deeply.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/606f5b17-41a7-4dc6-b405-828d85430dd4.jpg" alt="Anima, Bicameral — Astral Codex Ten"/></p>
+<p>Scott Alexander <a href="https://www.astralcodexten.com/p/anima-bicameral">profiles Bicameral Labs</a>, founded by neuroscientist Erik Hoel, which wants to build provably non-conscious “qualiaphobic AI” so AIs can never be moral patients. Its opposite, Anima Labs, claims AIs are basically good and love humans deeply.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Z.ai&#x27;s 3T flagship GLM-5.5 missed its November release</title>
+      <link>https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/</link>
+      <guid isPermaLink="false">db17fe79-be29-4ceb-b8c7-f562e436f3d0</guid>
+      <pubDate>Thu, 26 Nov 2026 14:58:35 GMT</pubDate>
+      <category>Tech news</category>
+      <description>The launch could slip into the first quarter of 2027 or later. New U.S. computing restrictions and increasingly effective safeguards against distillation are squeezing the training effort, according to Reuters.</description>
+      <content:encoded><![CDATA[<p>The launch could slip into the first quarter of 2027 or later. New U.S. computing restrictions and increasingly effective safeguards against distillation are squeezing the training effort, according to <a href="https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/">Reuters</a>.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini agents find faster quantum algorithms, verified in Lean</title>
+      <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+      <guid isPermaLink="false">bac90b41-5803-47fd-be8d-fb53a0df7be1</guid>
+      <pubDate>Thu, 26 Nov 2026 10:36:03 GMT</pubDate>
+      <category>Quantum mechanics</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bac90b41-5803-47fd-be8d-fb53a0df7be1.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bac90b41-5803-47fd-be8d-fb53a0df7be1.webp"/>
+      <description>Teams of Gemini 4 agents improved well-known quantum algorithms for fusion, chemistry and drug design, proving each result with the Lean theorem prover. The fusion circuit cut its computing cost 11.8×.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/bac90b41-5803-47fd-be8d-fb53a0df7be1.webp" alt="Gemini agents find faster quantum algorithms, verified in Lean"/></p>
+<p>Teams of Gemini 4 agents <a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/">improved well-known quantum algorithms for fusion, chemistry and drug design</a>, proving each result with the Lean theorem prover. The fusion circuit cut its computing cost 11.8×.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Werwulf&#x27;s first clip meets the wolf</title>
       <link>https://www.dreadcentral.com/news/598768/werwulf-first-clip-aaron-taylor-johnson/</link>
@@ -1275,111 +1389,6 @@
       <category>Developer tools</category>
       <description>From The Code (Nov 19, 2026), Astra Review: A senior dev ran GPT 6.2 Astra and Sol on real projects for a full day. He made two changes to his setup and says one feels ‘like pure magic’ (1.2K likes).</description>
       <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123099377946546491">Astra Review</a>: A senior dev ran GPT 6.2 Astra and Sol on real projects for a full day. He made two changes to his setup and says one feels ‘like pure magic’ (1.2K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>How to turn your coding agent into a self-running software factory</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">d1416f28-6d5e-4153-896c-758faefeff83</guid>
-      <pubDate>Thu, 19 Nov 2026 15:31:26 GMT</pubDate>
-      <category>Developer tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d1416f28-6d5e-4153-896c-758faefeff83.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d1416f28-6d5e-4153-896c-758faefeff83.jpg"/>
-      <description>From The Code (Nov 19, 2026), this tutorial shows how to use CodeDen to move from a single coding agent to a full “dark factory.” You’ll learn how to orchestrate multiple agents, turn GitHub issues into reviewed pull requests, add automated code review, and eventually let the whole workflow find, build, verify, and merge work on its own.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/d1416f28-6d5e-4153-896c-758faefeff83.jpg" alt="How to turn your coding agent into a self-running software factory"/></p>
-<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://www.youtube.com/watch?v=etrC9bplAbA">this tutorial</a> shows how to use CodeDen to move from a single coding agent to a full “dark factory.” You’ll learn how to orchestrate multiple agents, turn GitHub issues into reviewed pull requests, add automated code review, and eventually let the whole workflow find, build, verify, and merge work on its own.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Weak Boundary — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">0720b39e-54d4-4c32-bd73-6827534aed14</guid>
-      <pubDate>Thu, 19 Nov 2026 15:31:03 GMT</pubDate>
-      <category>Cybersecurity</category>
-      <description>From The Code (Nov 19, 2026), Weak Boundary: An AI agent startup&#x27;s engineering head argues prompt-injection filters alone can&#x27;t secure agents. He posted the three-layer defense he uses instead (1.8K bookmarks).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123085537754157375">Weak Boundary</a>: An AI agent startup&#x27;s engineering head argues prompt-injection filters alone can&#x27;t secure agents. He posted the three-layer defense he uses instead (1.8K bookmarks).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Block Earth — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">b2fefa46-0683-4a8a-a1c2-860380df34ab</guid>
-      <pubDate>Thu, 19 Nov 2026 15:30:58 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 19, 2026) Block Earth: A dev recreated the entire planet in Minecraft at 1:1 scale, furnished interiors included. Type your real address and walk through your own neighborhood (20M views).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a> <a href="https://archive.codenewsletter.ai/2122416145517117463">Block Earth</a>: A dev recreated the entire planet in Minecraft at 1:1 scale, furnished interiors included. Type your real address and walk through your own neighborhood (20M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Devin Bots — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">70726a8b-c95f-4102-9798-6624ce793c5d</guid>
-      <pubDate>Thu, 19 Nov 2026 15:30:54 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 19, 2026), Devin Bots: Give one bot a goal, and it spins up a team of Devin agents to plan, build, test, review, and push the work toward a merge-ready PR. It can split jobs across parallel cloud machines, watch Slack or Linear for new work, run on schedules, and only pull you in when a decision actually needs you.</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://devin.ai/bots">Devin Bots</a>: Give one bot a goal, and it spins up a team of Devin agents to plan, build, test, review, and push the work toward a merge-ready PR. It can split jobs across parallel cloud machines, watch Slack or Linear for new work, run on schedules, and only pull you in when a decision actually needs you.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Hot Take — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">345d4c9b-320c-4c6e-931d-348e950bc4f6</guid>
-      <pubDate>Thu, 19 Nov 2026 15:30:31 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 19, 2026) Hot Take: An OpenCode developer deleted his entire test suite and banned his AI agents from writing more. His justification set off a brawl in the replies (1.2K likes).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a><br/><a href="https://archive.codenewsletter.ai/2122812034584641662">Hot Take</a>: An OpenCode developer deleted his entire test suite and banned his AI agents from writing more. His justification set off a brawl in the replies (1.2K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Magical AirDrop — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">80b63d74-79c7-478d-95e7-f4028e3d9442</guid>
-      <pubDate>Thu, 19 Nov 2026 15:30:28 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 19, 2026), Magical AirDrop: Devs are obsessed with this demo that an engineer vibe-coded with GPT 6.2 Astra. Pinch a photo off your iPhone, open your hand, and see where you land (2.6K likes).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123045064280571987">Magical AirDrop</a>: Devs are obsessed with this demo that an engineer vibe-coded with GPT 6.2 Astra. Pinch a photo off your iPhone, open your hand, and see where you land (2.6K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>How to build proactive agents that get better over time — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">c693cf4e-4557-44e9-a4f2-abc53ac6d10d</guid>
-      <pubDate>Thu, 19 Nov 2026 15:30:10 GMT</pubDate>
-      <category>Developer tools</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c693cf4e-4557-44e9-a4f2-abc53ac6d10d.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c693cf4e-4557-44e9-a4f2-abc53ac6d10d.jpg"/>
-      <description>From The Code (Nov 19, 2026) How to build proactive agents that get better over time (by LangChain): This guide breaks down what changes when agents stop waiting for prompts and start working toward goals on their own. You&#x27;ll learn how to design triggers, memory, and review UX so agents know when to act, what to remember, and when something is actually worth interrupting you for.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/c693cf4e-4557-44e9-a4f2-abc53ac6d10d.jpg" alt="How to build proactive agents that get better over time — The Code"/></p>
-<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a> <a href="https://archive.codenewsletter.ai/2122734341516345836">How to build proactive agents that get better over time (by LangChain):</a> This guide breaks down what changes when agents stop waiting for prompts and start working toward goals on their own. You&#x27;ll learn how to design triggers, memory, and review UX so agents know when to act, what to remember, and when something is actually worth interrupting you for.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Launch Audit — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">8abfbf29-bfa1-47a8-8de6-0c8f07dfe030</guid>
-      <pubDate>Thu, 19 Nov 2026 15:30:05 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 19, 2026) Launch Audit: A backend engineer spent an hour on a friend&#x27;s vibe-coded app before launch. What he found made the owner rotate every credential that same night (2M views).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a><br/><a href="https://archive.codenewsletter.ai/2123062312617804096">Launch Audit</a>: A backend engineer spent an hour on a friend&#x27;s vibe-coded app before launch. What he found made the owner rotate every credential that same night (2M views).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>One-Way Door — The Code</title>
-      <link>https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less</link>
-      <guid isPermaLink="false">fd11a8e9-8918-4785-9edc-8200abd5bee8</guid>
-      <pubDate>Thu, 19 Nov 2026 15:29:16 GMT</pubDate>
-      <category>Developer tools</category>
-      <description>From The Code (Nov 19, 2026), One-Way Door: A senior engineer spent days talking to devs in London and posted his field notes on agent adoption. His sharpest claim is that those who truly switch never go back (1.4K likes).</description>
-      <content:encoded><![CDATA[<p>From <a href="https://codenewsletter.ai/p/google-s-new-model-codes-like-anthropic-s-flagship-for-less">The Code (Nov 19, 2026)</a>, <a href="https://archive.codenewsletter.ai/2123125155568435654">One-Way Door</a>: A senior engineer spent days talking to devs in London and posted his field notes on agent adoption. His sharpest claim is that those who truly switch never go back (1.4K likes).</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Quantum microscope reads atoms&#x27; spins in color in one shot</title>
-      <link>https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html</link>
-      <guid isPermaLink="false">87743ebd-d916-4874-a002-94f02fd713c1</guid>
-      <pubDate>Thu, 19 Nov 2026 10:35:03 GMT</pubDate>
-      <category>Quantum physics</category>
-      <description>ICFO researchers imaged individual strontium-87 atoms and distinguished all ten of their spin states in a single experimental run. A laser tuned to strontium&#x27;s red narrow-line transition excites only one spin state at a time, so each state fluoresces in its own color while the other nine stay dark.</description>
-      <content:encoded><![CDATA[<p><a href="https://phys.org/news/2026-11-quantum-gas-microscope-individual-atoms.html">ICFO researchers</a> imaged individual strontium-87 atoms and distinguished all ten of their spin states in a single experimental run. A laser tuned to strontium&#x27;s red narrow-line transition excites only one spin state at a time, so each state fluoresces in its own color while the other nine stay dark.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Daily movement beats age as a longevity predictor</title>
-      <link>https://www.zzdsport.com/want-to-live-longer-you-better-start-movingall-day-long-4049.htm</link>
-      <guid isPermaLink="false">a736ebbe-e7a2-49f7-8577-a970f34e3fe8</guid>
-      <pubDate>Thu, 19 Nov 2026 04:36:44 GMT</pubDate>
-      <category>Biohacking</category>
-      <description>A study of 3,600 adults found that daily movement, measured by a wrist tracker, predicted longevity better than age, diabetes or heart disease. The catch is that consumer wearables report proprietary activity scores, so it is unclear whether those scores carry the same predictive value as the raw data the researchers used.</description>
-      <content:encoded><![CDATA[<p>A study of 3,600 adults found that daily movement, measured by a wrist tracker, <a href="https://www.zzdsport.com/want-to-live-longer-you-better-start-movingall-day-long-4049.htm">predicted longevity better than age, diabetes or heart disease</a>. The catch is that consumer wearables report proprietary activity scores, so it is unclear whether those scores carry the same predictive value as the raw data the researchers used.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
