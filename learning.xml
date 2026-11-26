@@ -5,8 +5,41 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:03:15 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: Braess&#x27;s Paradox — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Braess_Paradox</link>
+      <guid isPermaLink="false">fb9ef54f-2c04-47af-9adf-27795459fc59</guid>
+      <pubDate>Thu, 26 Nov 2026 15:04:55 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Adding a road can slow everyone down, which is Braess&#x27;s paradox. In the classic example, drivers chasing the fastest route for themselves turn a 65-minute trip into an 80-minute one for everyone.</description>
+      <content:encoded><![CDATA[<p>Adding a road can slow everyone down, which is <a href="https://en.wikipedia.org/wiki/Braess_Paradox">Braess&#x27;s paradox</a>. In the classic example, drivers chasing the fastest route for themselves turn a 65-minute trip into an 80-minute one for everyone.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: The Prosecutor&#x27;s Fallacy — Daily Learning</title>
+      <link>https://sigmasquared.co/education/bayes</link>
+      <guid isPermaLink="false">641846f8-6533-40c4-8b68-7701560e5550</guid>
+      <pubDate>Thu, 26 Nov 2026 15:04:44 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/641846f8-6533-40c4-8b68-7701560e5550.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/641846f8-6533-40c4-8b68-7701560e5550.jpg"/>
+      <description>A mammography test that usually catches cancer and sometimes flags healthy women still leaves a positive result meaning only about a 9.2% chance of cancer when the condition is rare. Most gynecologists asked got that wrong, reading the chance of a positive given cancer as the chance of cancer given a positive.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/641846f8-6533-40c4-8b68-7701560e5550.jpg" alt="Statistics: The Prosecutor&#x27;s Fallacy — Daily Learning"/></p>
+<p>A mammography test that usually catches cancer and sometimes flags healthy women still leaves a positive result meaning <a href="https://sigmasquared.co/education/bayes">only about a 9.2% chance of cancer</a> when the condition is rare. Most gynecologists asked got that wrong, reading the chance of a positive given cancer as the chance of cancer given a positive.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: parallax — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/parallax</link>
+      <guid isPermaLink="false">dc6dc70d-2b9c-4949-a6ee-9ace0345e522</guid>
+      <pubDate>Thu, 26 Nov 2026 15:00:53 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dc6dc70d-2b9c-4949-a6ee-9ace0345e522.gif" type="image/gif" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dc6dc70d-2b9c-4949-a6ee-9ace0345e522.gif"/>
+      <description>Parallax (PAR-uh-laks) is the apparent shift in an object&#x27;s position when you look at it from two different vantage points. From the passenger seat, parallax made the speedometer needle look faster than it really was.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/dc6dc70d-2b9c-4949-a6ee-9ace0345e522.gif" alt="Word of the Day: parallax — Daily Learning"/></p>
+<p>Parallax (PAR-uh-laks) is <a href="https://www.merriam-webster.com/dictionary/parallax">the apparent shift in an object&#x27;s position</a> when you look at it from two different vantage points. From the passenger seat, parallax made the speedometer needle look faster than it really was.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Statistics: The Birthday Paradox — Daily Learning</title>
       <link>https://en.wikipedia.org/wiki/Birthday_problem</link>
@@ -459,33 +492,6 @@
       <category>Daily Learning</category>
       <description>The prosecutor&#x27;s fallacy is confusing the chance of seeing this evidence if someone were innocent with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</description>
       <content:encoded><![CDATA[<p>The prosecutor&#x27;s fallacy is <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy">confusing the chance of seeing this evidence if someone were innocent</a> with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Münchhausen Trilemma — Daily Learning</title>
-      <link>https://the-philosophers-shirt.com/blogs/philosophical-dictionary/munchhausen-trilemma-explained-knowledge-justification-philosophy</link>
-      <guid isPermaLink="false">232c8896-ea62-4320-9e55-af7d7424f8c8</guid>
-      <pubDate>Mon, 09 Nov 2026 15:29:42 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>The Münchhausen Trilemma says every attempt to justify a belief ends in an infinite regress of reasons, a circle in which the conclusion supports itself, or an arbitrary stopping point where you declare something true without proof. The honest move is to name your starting points, your priors, and let evidence move them when they fail.</description>
-      <content:encoded><![CDATA[<p>The <a href="https://the-philosophers-shirt.com/blogs/philosophical-dictionary/munchhausen-trilemma-explained-knowledge-justification-philosophy">Münchhausen Trilemma</a> says every attempt to justify a belief ends in an infinite regress of reasons, a circle in which the conclusion supports itself, or an arbitrary stopping point where you declare something true without proof. The honest move is to name your starting points, your priors, and let evidence move them when they fail.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: The Law of Large Numbers — Daily Learning</title>
-      <link>https://www.mathwords.com/l/law_of_large_numbers.htm</link>
-      <guid isPermaLink="false">cd6b4a42-2af9-4f51-aab2-424c4653b3f3</guid>
-      <pubDate>Mon, 09 Nov 2026 15:28:56 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>The more times you repeat something, the closer your observed average drifts toward its true long-run average. A bettor with a true 55% win rate might win only 4 of their first 10 bets, yet over 1,000 bets that rate tends to sit close to 55%, which is why casinos and sharp bettors trust volume over single outcomes.</description>
-      <content:encoded><![CDATA[<p>The more times you repeat something, the closer your <a href="https://www.mathwords.com/l/law_of_large_numbers.htm">observed average drifts toward its true long-run average</a>. A bettor with a true 55% win rate might win only 4 of their first 10 bets, yet over 1,000 bets that rate tends to sit close to 55%, which is why casinos and sharp bettors trust volume over single outcomes.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: antediluvian — Daily Learning</title>
-      <link>https://www.dictionary.com/browse/antediluvian</link>
-      <guid isPermaLink="false">781190d2-0c2e-4f52-b44e-c02747cbfc2c</guid>
-      <pubDate>Mon, 09 Nov 2026 15:28:01 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>Antediluvian (an-tee-di-LOO-vee-un) is an adjective meaning absurdly old-fashioned, literally from before the Flood. My office still runs on a fax machine and a filing cabinet full of printed emails, an antediluvian setup in a paperless world.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.dictionary.com/browse/antediluvian">Antediluvian</a> (an-tee-di-LOO-vee-un) is an adjective meaning absurdly old-fashioned, literally from before the Flood. My office still runs on a fax machine and a filing cabinet full of printed emails, an antediluvian setup in a paperless world.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
