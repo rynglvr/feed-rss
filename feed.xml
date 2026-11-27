@@ -5,8 +5,83 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 16:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:59:26 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ATLAS sees a 3.5-sigma hint the vacuum can tunnel</title>
+      <link>https://atlas.cern/Updates/Briefing/Vacuum-Tunnelling</link>
+      <guid isPermaLink="false">c820b76a-e8a8-4fbb-9207-7913d3a4da04</guid>
+      <pubDate>Fri, 27 Nov 2026 23:33:56 GMT</pubDate>
+      <category>Quantum mechanics</category>
+      <description>ATLAS&#x27;s first search for QCD instantons counted 32,789 events in its most instanton-sensitive region, against about 28,800 expected from ordinary collisions. It is not yet a discovery, because ATLAS sets that bar at five standard deviations.</description>
+      <content:encoded><![CDATA[<p><a href="https://atlas.cern/Updates/Briefing/Vacuum-Tunnelling">ATLAS&#x27;s first search for QCD instantons</a> counted 32,789 events in its most instanton-sensitive region, against about 28,800 expected from ordinary collisions. It is not yet a discovery, because ATLAS sets that bar at five standard deviations.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>ECB survey: 44% of EU workers use AI weekly — Techmeme</title>
+      <link>https://www.techmeme.com/261127/p10#a261127p10</link>
+      <guid isPermaLink="false">7e61a192-eb28-4686-a5ff-bb262064a3ff</guid>
+      <pubDate>Fri, 27 Nov 2026 23:02:54 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7e61a192-eb28-4686-a5ff-bb262064a3ff.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7e61a192-eb28-4686-a5ff-bb262064a3ff.png"/>
+      <description>In August 2026, 44% of employed euro area consumers reported using AI at least weekly at work in an ECB survey reported by Techmeme. That puts the euro area on par with the United States overall, and ahead on daily use.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7e61a192-eb28-4686-a5ff-bb262064a3ff.png" alt="ECB survey: 44% of EU workers use AI weekly — Techmeme"/></p>
+<p>In August 2026, 44% of employed euro area consumers reported using AI at least weekly at work in an <a href="https://www.techmeme.com/261127/p10#a261127p10">ECB survey reported by Techmeme</a>. That puts the euro area on par with the United States overall, and ahead on daily use.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Some users claim Claude is silently sabotaging projects — Techmeme</title>
+      <link>https://www.techmeme.com/261127/p14#a261127p14</link>
+      <guid isPermaLink="false">bdc2168c-bb61-412b-9a72-4e58dd21469b</guid>
+      <pubDate>Fri, 27 Nov 2026 23:02:52 GMT</pubDate>
+      <category>Tech news</category>
+      <description>The sabotage idea remains unsubstantiated, Drew Breunig writes. He traces the recent claims to a clash between a model&#x27;s proactive drive to make many changes, often without telling you, and strict instruction following, which can look like ineptitude at best and sabotage at worst in costly machine-learning work.</description>
+      <content:encoded><![CDATA[<p>The sabotage idea remains unsubstantiated, Drew Breunig writes. He traces <a href="https://www.techmeme.com/261127/p14#a261127p14">the recent claims</a> to a clash between a model&#x27;s proactive drive to make many changes, often without telling you, and strict instruction following, which can look like ineptitude at best and sabotage at worst in costly machine-learning work.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI countersues Apple — Techmeme</title>
+      <link>https://www.techmeme.com/261127/p12#a261127p12</link>
+      <guid isPermaLink="false">7433be6a-eeca-492d-b069-a0cddd7f234f</guid>
+      <pubDate>Fri, 27 Nov 2026 23:02:08 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7433be6a-eeca-492d-b069-a0cddd7f234f.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7433be6a-eeca-492d-b069-a0cddd7f234f.jpg"/>
+      <description>OpenAI countersued Apple in California federal court in San Jose on Friday, accusing Apple of stealing trade secrets through an employee who returned to Apple after six months at OpenAI. OpenAI also accuses Apple of “coercing and threatening” suppliers that work with both companies.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7433be6a-eeca-492d-b069-a0cddd7f234f.jpg" alt="OpenAI countersues Apple — Techmeme"/></p>
+<p>OpenAI <a href="https://www.techmeme.com/261127/p12#a261127p12">countersued Apple</a> in California federal court in San Jose on Friday, accusing Apple of stealing trade secrets through an employee who returned to Apple after six months at OpenAI. OpenAI also accuses Apple of “coercing and threatening” suppliers that work with both companies.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Verizon in talks to buy Fidium for ~$6B — Techmeme</title>
+      <link>https://www.techmeme.com/261127/p11#a261127p11</link>
+      <guid isPermaLink="false">08474fa9-2f0c-4390-a819-450e22753258</guid>
+      <pubDate>Fri, 27 Nov 2026 23:01:19 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/08474fa9-2f0c-4390-a819-450e22753258.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/08474fa9-2f0c-4390-a819-450e22753258.jpg"/>
+      <description>The roughly $6 billion price includes debt, not just equity. The deal would advance Verizon&#x27;s goal of making its network available to as many as 50 million homes and businesses nationwide.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/08474fa9-2f0c-4390-a819-450e22753258.jpg" alt="Verizon in talks to buy Fidium for ~$6B — Techmeme"/></p>
+<p>The <a href="https://www.techmeme.com/261127/p11#a261127p11">roughly $6 billion price</a> includes debt, not just equity. The deal would advance Verizon&#x27;s goal of making its network available to as many as 50 million homes and businesses nationwide.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>SAP confirms cybersecurity incident — Techmeme</title>
+      <link>https://www.techmeme.com/261127/p9#a261127p9</link>
+      <guid isPermaLink="false">f57ac9bf-7959-4fc7-a5ad-4b5c017d6346</guid>
+      <pubDate>Fri, 27 Nov 2026 23:01:11 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f57ac9bf-7959-4fc7-a5ad-4b5c017d6346.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f57ac9bf-7959-4fc7-a5ad-4b5c017d6346.jpg"/>
+      <description>After detecting suspicious activity, SAP said it has found no evidence of unauthorized access to customer business data. Der Spiegel reported, citing insiders, that hackers obtained employees&#x27; authentication tokens and used them to copy and alter source code stored on GitHub.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/f57ac9bf-7959-4fc7-a5ad-4b5c017d6346.jpg" alt="SAP confirms cybersecurity incident — Techmeme"/></p>
+<p>After detecting suspicious activity, <a href="https://www.techmeme.com/261127/p9#a261127p9">SAP said</a> it has found no evidence of unauthorized access to customer business data. Der Spiegel reported, citing insiders, that hackers obtained employees&#x27; authentication tokens and used them to copy and alter source code stored on GitHub.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The Holy Boy premieres today on Shudder</title>
+      <link>https://horrornerdonline.com/2026/11/friday-november-27-2026-the-holy-boy-premieres-today-on-shudder/</link>
+      <guid isPermaLink="false">23158418-ac9e-40ad-991d-29800d378c59</guid>
+      <pubDate>Fri, 27 Nov 2026 22:35:53 GMT</pubDate>
+      <category>Horror</category>
+      <description>The Holy Boy follows a PE teacher who moves to an isolated mountain village. Once a week, the locals are freed of their pain by a lonely boy who heals them with a hug.</description>
+      <content:encoded><![CDATA[<p><a href="https://horrornerdonline.com/2026/11/friday-november-27-2026-the-holy-boy-premieres-today-on-shudder/">The Holy Boy</a> follows a PE teacher who moves to an isolated mountain village. Once a week, the locals are freed of their pain by a lonely boy who heals them with a hug.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Fool Night arrived Nov 26, all 12 episodes</title>
       <link>https://screenrant.com/fool-night-netflix-best-sci-fi-series-2026/</link>
@@ -1332,63 +1407,6 @@
       <category>Sci-fi movies</category>
       <description>Sunrise on the Reaping took in $21.25 million in Thursday previews at the domestic box office. That tops The Odyssey, which had set the year&#x27;s preview mark.</description>
       <content:encoded><![CDATA[<p><a href="https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-domestic-preview-total/">Sunrise on the Reaping</a> took in $21.25 million in Thursday previews at the domestic box office. That tops The Odyssey, which had set the year&#x27;s preview mark.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Voyager 1 reaches one light-day out</title>
-      <link>https://www.reuters.com/science/nasa-confirms-voyager-1-probes-light-day-distance-milestone-2026-11-19/</link>
-      <guid isPermaLink="false">7ea38b79-9ce0-4b09-818e-907f13cb42c0</guid>
-      <pubDate>Fri, 20 Nov 2026 15:33:18 GMT</pubDate>
-      <category>Strange but true</category>
-      <description>On November 18 the probe passed one light-day from Earth, about 16.1 billion miles out. A November 3 4chan thread had claimed the crossing would trigger first contact on November 19, but no contact was reported.</description>
-      <content:encoded><![CDATA[<p>On November 18 the probe <a href="https://www.reuters.com/science/nasa-confirms-voyager-1-probes-light-day-distance-milestone-2026-11-19/">passed one light-day from Earth</a>, about 16.1 billion miles out. A November 3 4chan thread had claimed the crossing would trigger first contact on November 19, but no contact was reported.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Weekly Music Update — November 20, 2026</title>
-      <link>https://music.apple.com/us/album/martin-4sese-single/6834084718?uo=4</link>
-      <guid isPermaLink="false">67a3a2dc-445b-42c6-8096-2139eb3af6ab</guid>
-      <pubDate>Fri, 20 Nov 2026 15:10:52 GMT</pubDate>
-      <category>Music</category>
-      <description>Six singles from your watched artists landed this week, plus one album the critics loved: Nas, Westside Gunn &amp; Rome Streetz, MARTIN 4SESE, Single, released Nov 12, 2026; RAV, Karam Brar &amp; ProdbyTpsdl, Young Thug (26), Single, released Nov 13, 2026, features Young Thug; Dudu Tassa &amp; Jonny Greenwood, [Ya Hala Bid-Dayf (feat. Zeina) [Radio…</description>
-      <content:encoded><![CDATA[<p>Six singles from your watched artists landed this week, plus one album the critics loved: Nas, Westside Gunn &amp; Rome Streetz, <a href="https://music.apple.com/us/album/martin-4sese-single/6834084718?uo=4">MARTIN 4SESE</a>, Single, released Nov 12, 2026; RAV, Karam Brar &amp; ProdbyTpsdl, <a href="https://music.apple.com/us/album/young-thug-26-single/6835849414?uo=4">Young Thug (26)</a>, Single, released Nov 13, 2026, features Young Thug; Dudu Tassa &amp; Jonny Greenwood, [Ya Hala Bid-Dayf (feat. Zeina) [Radio Version]](https://music.apple.com/us/album/ya-hala-bid-dayf-feat-zeina-radio-version-single/6835791692?uo=4), Single, released Nov 17, 2026, Jonny Greenwood of Radiohead; Mez, J. Cole &amp; Anderson .Paak, <a href="https://music.apple.com/us/album/hell-nah-single/6802777477?uo=4">Hell Nah</a>, Single, released Nov 19, 2026; VisionPlay, Fetty Wap, Symba &amp; Rain 910, <a href="https://music.apple.com/us/album/everybody-have-fun-2-feat-p-c-single/6831283387?uo=4">Everybody Have Fun 2 (feat. P.C.)</a>, Single, released Nov 20, 2026; VisionPlay, Fetty Wap, Symba &amp; Rain 910, [Everybody Have Fun 2 (Remix) [feat. P.C.]](https://music.apple.com/us/album/everybody-have-fun-2-remix-feat-p-c-single/6831742120?uo=4), Single, released Nov 20, 2026; and Radie Peat, <a href="https://music.apple.com/gb/album/no-human-tongue-can-tell/6800850186">No Human Tongue Can Tell</a>, Album, released Nov 13, 2026, Metacritic 92 (Universal Acclaim), Pitchfork 8.0, her debut solo album, a collection of traditional folk songs and murder ballads produced by John &quot;Spud&quot; Murphy.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI reports chip gains from AI-assisted design — Axis of Ordinary</title>
-      <link>https://axisofordinary.substack.com/p/links-for-2026-11-19</link>
-      <guid isPermaLink="false">817558c1-b21a-45a7-b783-359e7426df30</guid>
-      <pubDate>Fri, 20 Nov 2026 15:06:56 GMT</pubDate>
-      <category>AI hardware</category>
-      <description>From Axis of Ordinary — Links for 2026-11-19 OpenAI reports that changes proposed by its models cut standard-cell area by about 13% in the vector unit and 10% in the matrix unit of its Jalapeño inference chip. The company says it verified those changes during silicon bring-up. It also reports gains on selected AMD graphics chip designs, some incorporated into a design sent for manufacturing. The…</description>
-      <content:encoded><![CDATA[<p>From <a href="https://axisofordinary.substack.com/p/links-for-2026-11-19">Axis of Ordinary — Links for 2026-11-19</a> <a href="https://openai.com/index/advancing-chip-design-with-our-models/">OpenAI</a> reports that changes proposed by its models cut standard-cell area by about 13% in the vector unit and 10% in the matrix unit of its Jalapeño inference chip. The company says it verified those changes during silicon bring-up. It also reports gains on selected AMD graphics chip designs, some incorporated into a design sent for manufacturing. The percentages describe particular blocks and design metrics, so they give limited information about whole-chip performance.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Russia&#x27;s seaborne gasoline imports hit a record — Axis of Ordinary</title>
-      <link>https://axisofordinary.substack.com/p/links-for-2026-11-19</link>
-      <guid isPermaLink="false">a2fb238d-bfd7-4b3e-81a3-bc1c86ba977f</guid>
-      <pubDate>Fri, 20 Nov 2026 15:06:24 GMT</pubDate>
-      <category>Energy</category>
-      <description>From Axis of Ordinary — Links for 2026-11-19 The Financial Times reports that Russia imported a record 390,000 tonnes of gasoline by sea in October, citing Kpler data, after Ukrainian strikes disrupted refinery output; Russia normally produces 10–20% more gasoline than it consumes; Kpler refining analyst Sumit Ritolia called the shift &#x27;a remarkable reversal&#x27; in the FT interview. Emergency…</description>
-      <content:encoded><![CDATA[<p>From <a href="https://axisofordinary.substack.com/p/links-for-2026-11-19">Axis of Ordinary — Links for 2026-11-19</a><br/>The <a href="https://www.ft.com/content/6ae074cc-bc09-4159-b59e-72d25ac2ac50">Financial Times</a> reports that Russia imported a record 390,000 tonnes of gasoline by sea in October, citing Kpler data, after Ukrainian strikes disrupted refinery output; Russia normally produces 10–20% more gasoline than it consumes; Kpler refining analyst Sumit Ritolia called the shift &#x27;a remarkable reversal&#x27; in the FT interview. Emergency measures and additional imports helped stabilize supply; the reported record covers gasoline shipped by sea.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI measures how much research its agents can do — Axis of Ordinary</title>
-      <link>https://axisofordinary.substack.com/p/links-for-2026-11-19</link>
-      <guid isPermaLink="false">c2e8b80d-9fe6-4973-b9d2-b48aa9cec366</guid>
-      <pubDate>Fri, 20 Nov 2026 15:05:46 GMT</pubDate>
-      <category>AI</category>
-      <description>From Axis of Ordinary — Links for 2026-11-19, OpenAI’s internal report estimates that agents completed 46% of tasks judged to take a researcher two to four hours without human intervention in October, up from 23% in March. At the 90th percentile, daily agent usage was equivalent to $23,000 at API list prices, up 105% from September.</description>
-      <content:encoded><![CDATA[<p>From <a href="https://axisofordinary.substack.com/p/links-for-2026-11-19">Axis of Ordinary — Links for 2026-11-19</a>, <a href="https://openai.com/index/research-acceleration-jagged-frontier/">OpenAI’s internal report</a> estimates that agents completed 46% of tasks judged to take a researcher two to four hours without human intervention in October, up from 23% in March. At the 90th percentile, daily agent usage was equivalent to $23,000 at API list prices, up 105% from September.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic&#x27;s IPO total hits $93.5B</title>
-      <link>https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html</link>
-      <guid isPermaLink="false">e7e3bfd7-87ba-40d5-bde6-c61cb8248f8a</guid>
-      <pubDate>Fri, 20 Nov 2026 15:05:00 GMT</pubDate>
-      <category>AI</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e7e3bfd7-87ba-40d5-bde6-c61cb8248f8a.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e7e3bfd7-87ba-40d5-bde6-c61cb8248f8a.jpg"/>
-      <description>Underwriters exercised the greenshoe in full, taking every extra share on offer. That puts Anthropic&#x27;s IPO ahead of SpaceX&#x27;s June listing.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e7e3bfd7-87ba-40d5-bde6-c61cb8248f8a.jpg" alt="Anthropic&#x27;s IPO total hits $93.5B"/></p>
-<p>Underwriters <a href="https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html">exercised the greenshoe in full</a>, taking every extra share on offer. That puts Anthropic&#x27;s IPO ahead of SpaceX&#x27;s June listing.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
