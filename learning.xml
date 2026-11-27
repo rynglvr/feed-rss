@@ -5,7 +5,7 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:59:46 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Big Idea: Braess&#x27;s Paradox — Daily Learning</title>
@@ -235,11 +235,8 @@
       <guid isPermaLink="false">7c241c63-2558-46e6-b20f-b7590ff6194a</guid>
       <pubDate>Thu, 19 Nov 2026 15:29:23 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7c241c63-2558-46e6-b20f-b7590ff6194a.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7c241c63-2558-46e6-b20f-b7590ff6194a.png"/>
       <description>In the Prisoner&#x27;s Dilemma, betraying beats staying silent whatever the other prisoner does, so self-interest pushes both to betray even though staying silent together would serve them both better. When the game repeats, tit-for-tat can make cooperation pay by cooperating first and then copying whatever the other player did last.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/7c241c63-2558-46e6-b20f-b7590ff6194a.png" alt="Big Idea: The Prisoner&#x27;s Dilemma — Daily Learning"/></p>
-<p>In the <a href="https://en.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner&#x27;s Dilemma</a>, betraying beats staying silent whatever the other prisoner does, so self-interest pushes both to betray even though staying silent together would serve them both better. When the game repeats, tit-for-tat can make cooperation pay by cooperating first and then copying whatever the other player did last.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>In the <a href="https://en.wikipedia.org/wiki/Prisoner%27s_dilemma">Prisoner&#x27;s Dilemma</a>, betraying beats staying silent whatever the other prisoner does, so self-interest pushes both to betray even though staying silent together would serve them both better. When the game repeats, tit-for-tat can make cooperation pay by cooperating first and then copying whatever the other player did last.</p>]]></content:encoded>
     </item>
     <item>
       <title>Word of the Day: crepuscular — Daily Learning</title>
