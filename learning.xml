@@ -5,8 +5,38 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:04:37 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Statistics: The Monty Hall Problem — Daily Learning</title>
+      <link>https://www.britannica.com/topic/Monty-Hall-problem</link>
+      <guid isPermaLink="false">16b68c12-ef7e-4ab5-94d3-72da7540f476</guid>
+      <pubDate>Fri, 27 Nov 2026 15:06:01 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>When the host, who knows where the car is, opens door 3 to reveal a goat after you pick door 1, switching to door 2 wins 2 times out of 3 while staying wins only 1 time in 3. With 100 doors instead, the door left standing after the host opens 98 goat doors is almost certainly the car.</description>
+      <content:encoded><![CDATA[<p>When the host, who knows where the car is, opens door 3 to reveal a goat after you pick door 1, <a href="https://www.britannica.com/topic/Monty-Hall-problem">switching to door 2 wins 2 times out of 3</a> while staying wins only 1 time in 3. With 100 doors instead, the door left standing after the host opens 98 goat doors is almost certainly the car.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Big Idea: The Trolley Problem — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Trolley_problem</link>
+      <guid isPermaLink="false">55d659b3-15e3-4deb-b4c6-1dbeaf611419</guid>
+      <pubDate>Fri, 27 Nov 2026 15:04:24 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/55d659b3-15e3-4deb-b4c6-1dbeaf611419.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/55d659b3-15e3-4deb-b4c6-1dbeaf611419.png"/>
+      <description>Pulling the lever would kill one person to save five, and the argument is whether causing a death is morally different from letting five die. A self-driving car would have to settle that argument in advance, in code.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/55d659b3-15e3-4deb-b4c6-1dbeaf611419.png" alt="Big Idea: The Trolley Problem — Daily Learning"/></p>
+<p>Pulling the lever would kill one person to save five, and the argument is whether causing a death is morally different from letting five die. A <a href="https://en.wikipedia.org/wiki/Trolley_problem">self-driving car</a> would have to settle that argument in advance, in code.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: ineffable — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/ineffable?pronunciation&amp;lang=en_us&amp;dir=i&amp;file=ineffa02</link>
+      <guid isPermaLink="false">fd0edd76-a3a4-4b17-b529-4531589dc6d8</guid>
+      <pubDate>Fri, 27 Nov 2026 15:02:27 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Ineffable (in-EFF-uh-buhl) means too great, extreme, or beautiful to be expressed in words. An ineffable beauty descends upon the canyon as the sun begins to set.</description>
+      <content:encoded><![CDATA[<p>Ineffable (in-EFF-uh-buhl) means too great, extreme, or beautiful to be expressed in words. <a href="https://www.merriam-webster.com/dictionary/ineffable?pronunciation&amp;lang=en_us&amp;dir=i&amp;file=ineffa02">An ineffable beauty descends upon the canyon as the sun begins to set.</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>Big Idea: Braess&#x27;s Paradox — Daily Learning</title>
       <link>https://en.wikipedia.org/wiki/Braess_Paradox</link>
@@ -462,33 +492,6 @@
       <category>Daily Learning</category>
       <description>petrichor (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</description>
       <content:encoded><![CDATA[<p><a href="https://owad.de/word/petrichor">petrichor</a> (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Ultimatum Game — Daily Learning</title>
-      <link>http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/</link>
-      <guid isPermaLink="false">d258fe43-133b-4202-8740-6c098c41efc8</guid>
-      <pubDate>Tue, 10 Nov 2026 15:30:00 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In a 2009 paper on experiments around the world, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</description>
-      <content:encoded><![CDATA[<p>In a 2009 paper on <a href="http://pmc.ncbi.nlm.nih.gov/articles/PMC2703666/">experiments around the world</a>, one player proposes a split of $100 and the other can reject it and leave both with nothing, yet people routinely reject offers below roughly 20–30% rather than accept an unfair split. What is the smallest split you would accept, and what does that number say about you?</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: sonder — Daily Learning</title>
-      <link>https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p</link>
-      <guid isPermaLink="false">f3cecbd1-2bb9-4000-b3ee-20b8beed48c9</guid>
-      <pubDate>Tue, 10 Nov 2026 15:28:56 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>In Holstee&#x27;s 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware…</description>
-      <content:encoded><![CDATA[<p>In <a href="https://www.holstee.com/blogs/mindful-matter/sonder?srsltid=AfmBOorLoX_vTCDtqmLqVjamaClqBp7JdEKDoadiTUHTfcuOd48V7y0p">Holstee&#x27;s</a> 2018 account, sonder (noun, pronounced SON-der, rhymes with ponder) is the sudden realization that each random passerby is living a life as vivid and complex as your own, with their own ambitions, friendships, routines, and worries, just as real as yours. “Stuck in airport traffic, I had a moment of sonder watching the driver in the next lane sing along to the radio, suddenly aware of the whole invisible life behind that windshield.”</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: The Prosecutor&#x27;s Fallacy — Daily Learning</title>
-      <link>https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</link>
-      <guid isPermaLink="false">a3327685-4622-4398-b366-7572b7105535</guid>
-      <pubDate>Tue, 10 Nov 2026 15:28:33 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>The prosecutor&#x27;s fallacy is confusing the chance of seeing this evidence if someone were innocent with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</description>
-      <content:encoded><![CDATA[<p>The prosecutor&#x27;s fallacy is <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy">confusing the chance of seeing this evidence if someone were innocent</a> with the chance they are innocent given that evidence. A 1-in-a-million DNA match sounds like near-certain guilt, but in a city of 10 million you would expect about 10 innocent matches by chance alone.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
