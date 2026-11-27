@@ -5,7 +5,7 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 16:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:59:26 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Statistics: The Monty Hall Problem — Daily Learning</title>
@@ -226,11 +226,8 @@
       <guid isPermaLink="false">3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e</guid>
       <pubDate>Fri, 20 Nov 2026 15:05:26 GMT</pubDate>
       <category>Daily Learning</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e.png" type="image/png" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e.png"/>
       <description>Flip a fair coin until it first lands tails, and if that takes n flips the prize is $2^n, so the game&#x27;s expected value is infinite. Bernoulli&#x27;s answer, published in 1738, was that each extra dollar is worth a little less than the one before, so the game is worth only $4.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3f1098a5-2b68-4b6f-889d-c6aa6e0bc56e.png" alt="Big Idea: The St. Petersburg Paradox — Daily Learning"/></p>
-<p>Flip a fair coin until it first lands tails, and if that takes n flips the prize is $2^n, so the game&#x27;s <a href="https://plato.stanford.edu/archives/sum2014/entries/paradox-stpetersburg/">expected value</a> is infinite. Bernoulli&#x27;s answer, published in 1738, was that each extra dollar is worth a little less than the one before, so the game is worth only $4.</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Flip a fair coin until it first lands tails, and if that takes n flips the prize is $2^n, so the game&#x27;s <a href="https://plato.stanford.edu/archives/sum2014/entries/paradox-stpetersburg/">expected value</a> is infinite. Bernoulli&#x27;s answer, published in 1738, was that each extra dollar is worth a little less than the one before, so the game is worth only $4.</p>]]></content:encoded>
     </item>
     <item>
       <title>Word of the Day: vellichor — Daily Learning</title>
