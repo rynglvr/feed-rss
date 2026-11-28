@@ -5,8 +5,41 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Word of the Day, Big Idea, and Statistics — the daily learning posts from Ryan&#x27;s Muse Feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:59:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 16:01:12 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/learning.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Idea: The Simulation Argument — Daily Learning</title>
+      <link>https://ora.ox.ac.uk/objects/uuid:44c386c4-5d9e-4ecf-a47c-9631a2a59747/download_file?file_format=pdf&amp;safe_filename=Are%2Byou%2Bliving%2Bin%2Ba%2Bcomputer%2Bsimulation%253F&amp;type_of_work=Journal+article</link>
+      <guid isPermaLink="false">fd17dfe4-d72a-46f4-8d3e-9fac0d366dda</guid>
+      <pubDate>Sat, 28 Nov 2026 15:04:26 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fd17dfe4-d72a-46f4-8d3e-9fac0d366dda.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fd17dfe4-d72a-46f4-8d3e-9fac0d366dda.jpg"/>
+      <description>Bostrom himself would not pick a winner among the three options in his 2003 argument, suggesting we split our belief roughly evenly between them. Unless we are living in a simulation, our descendants will almost certainly never run an ancestor simulation.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fd17dfe4-d72a-46f4-8d3e-9fac0d366dda.jpg" alt="Big Idea: The Simulation Argument — Daily Learning"/></p>
+<p>Bostrom himself would not pick a winner among the three options in <a href="https://ora.ox.ac.uk/objects/uuid:44c386c4-5d9e-4ecf-a47c-9631a2a59747/download_file?file_format=pdf&amp;safe_filename=Are%2Byou%2Bliving%2Bin%2Ba%2Bcomputer%2Bsimulation%253F&amp;type_of_work=Journal+article">his 2003 argument</a>, suggesting we split our belief roughly evenly between them. Unless we are living in a simulation, our descendants will almost certainly never run an ancestor simulation.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Statistics: Credible vs Confidence Intervals — Daily Learning</title>
+      <link>https://en.wikipedia.org/wiki/Credible_interval</link>
+      <guid isPermaLink="false">ea67bf3d-9fcc-4baa-8a4a-83afb8e5f33f</guid>
+      <pubDate>Sat, 28 Nov 2026 15:02:08 GMT</pubDate>
+      <category>Daily Learning</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea67bf3d-9fcc-4baa-8a4a-83afb8e5f33f.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea67bf3d-9fcc-4baa-8a4a-83afb8e5f33f.png"/>
+      <description>After 7 made free throws out of 10, a 95% credible interval of about 39% to 89% means there is a 95% probability the true percentage lies inside it, given your model and prior. A 95% confidence interval from the same shots runs about 40% to 89%, but it says only that repeating the procedure many times would catch the true value in about 95% of the intervals it produced.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ea67bf3d-9fcc-4baa-8a4a-83afb8e5f33f.png" alt="Statistics: Credible vs Confidence Intervals — Daily Learning"/></p>
+<p>After 7 made free throws out of 10, a 95% <a href="https://en.wikipedia.org/wiki/Credible_interval">credible interval</a> of about 39% to 89% means there is a 95% probability the true percentage lies inside it, given your model and prior. A 95% confidence interval from the same shots runs about 40% to 89%, but it says only that repeating the procedure many times would catch the true value in about 95% of the intervals it produced.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Word of the Day: liminal — Daily Learning</title>
+      <link>https://www.merriam-webster.com/dictionary/liminal</link>
+      <guid isPermaLink="false">18a67655-7ab5-4b87-be07-797c43e2b7d9</guid>
+      <pubDate>Sat, 28 Nov 2026 15:00:50 GMT</pubDate>
+      <category>Daily Learning</category>
+      <description>Liminal, pronounced LIM-in-ul, is an adjective for occupying a position at, or on both sides of, a boundary or threshold. The days between Christmas and New Year feel liminal, with nobody quite sure what day it is.</description>
+      <content:encoded><![CDATA[<p>Liminal, pronounced LIM-in-ul, is an adjective for <a href="https://www.merriam-webster.com/dictionary/liminal">occupying a position at, or on both sides of, a boundary or threshold</a>. The days between Christmas and New Year feel liminal, with nobody quite sure what day it is.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Statistics: The Monty Hall Problem — Daily Learning</title>
       <link>https://www.britannica.com/topic/Monty-Hall-problem</link>
@@ -462,33 +495,6 @@
       <category>Daily Learning</category>
       <description>Publication bias, as Scribbr defined it in October 2022, is what happens when exciting, positive results get published while null or boring ones stay unpublished in a drawer, the file-drawer problem. Imagine 20 labs test a useless betting system and, by chance, one finds a “significant” edge, and only that study gets published, so readers see a system that works.</description>
       <content:encoded><![CDATA[<p><a href="https://www.scribbr.com/research-bias/publication-bias/">Publication bias</a>, as Scribbr defined it in October 2022, is what happens when exciting, positive results get published while null or boring ones stay unpublished in a drawer, the file-drawer problem. Imagine 20 labs test a useless betting system and, by chance, one finds a “significant” edge, and only that study gets published, so readers see a system that works.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Statistics: The Kelly Criterion — Daily Learning</title>
-      <link>https://xg.football/blog/kelly-criterion-betting</link>
-      <guid isPermaLink="false">041a1744-37d9-4073-8ead-c357620a7ca0</guid>
-      <pubDate>Wed, 11 Nov 2026 15:28:59 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>The Kelly criterion sizes a bet from your edge and the odds, so a 55% chance at even money calls for 10% of your bankroll. Because that 55% is only an estimate, half-Kelly keeps about 75% of the growth while roughly halving the swings.</description>
-      <content:encoded><![CDATA[<p>The <a href="https://xg.football/blog/kelly-criterion-betting">Kelly criterion</a> sizes a bet from your edge and the odds, so a 55% chance at even money calls for 10% of your bankroll. Because that 55% is only an estimate, half-Kelly keeps about 75% of the growth while roughly halving the swings.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Big Idea: The Grandfather Paradox — Daily Learning</title>
-      <link>https://en.wikipedia.org/wiki/Grandfather_paradox</link>
-      <guid isPermaLink="false">77281a27-7097-40fb-8915-2e63d3f4bb2d</guid>
-      <pubDate>Wed, 11 Nov 2026 15:28:18 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a fixed timeline, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</description>
-      <content:encoded><![CDATA[<p>If you go back before your grandfather has children and stop him from having any, you are never born, so nobody goes back to stop him. The ways out are a <a href="https://en.wikipedia.org/wiki/Grandfather_paradox">fixed timeline</a>, where the attempt must fail, or a branching one, where you arrive in a timeline without you.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Word of the Day: petrichor — Daily Learning</title>
-      <link>https://owad.de/word/petrichor</link>
-      <guid isPermaLink="false">ef18bc15-2f8a-4ee7-b672-0ba276a98a89</guid>
-      <pubDate>Wed, 11 Nov 2026 15:27:58 GMT</pubDate>
-      <category>Daily Learning</category>
-      <description>petrichor (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</description>
-      <content:encoded><![CDATA[<p><a href="https://owad.de/word/petrichor">petrichor</a> (PET-ri-kor) is a noun for the distinctive, earthy scent produced when rain falls on dry soil, caused by plant oils and geosmin released from the ground. After weeks without rain, I stepped outside and breathed in the petrichor rising from the dry garden path.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
