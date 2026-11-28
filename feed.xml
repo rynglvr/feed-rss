@@ -5,8 +5,74 @@
     <link>https://github.com/rynglvr/feed-rss</link>
     <description>Ryan&#x27;s personal Muse Feed — daily digests, Daily Learning, music updates and more, as an RSS feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:59:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 16:01:12 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/rynglvr/feed-rss/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A 52 KB engine runs a model in a browser tab</title>
+      <link>https://tesseracted.com/experiments-llm-os/</link>
+      <guid isPermaLink="false">c885941f-61d0-40e1-ad66-d73619825c49</guid>
+      <pubDate>Sat, 28 Nov 2026 15:30:45 GMT</pubDate>
+      <category>New tools</category>
+      <description>LLM.OS runs quantized Qwen models entirely in a browser tab on CPU, with no server, GPU, or API key involved. On an Apple M3 Max with 8 threads, Qwen3.5-2B measured about 39 tokens per second in headless Chrome.</description>
+      <content:encoded><![CDATA[<p><a href="https://tesseracted.com/experiments-llm-os/">LLM.OS</a> runs quantized Qwen models entirely in a browser tab on CPU, with no server, GPU, or API key involved. On an Apple M3 Max with 8 threads, Qwen3.5-2B measured about 39 tokens per second in headless Chrome.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>R&amp;D compute explains much of Anthropic&#x27;s acceleration — LessWrong</title>
+      <link>https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration</link>
+      <guid isPermaLink="false">3777611c-313e-4543-b040-a8e21176e3a1</guid>
+      <pubDate>Sat, 28 Nov 2026 15:08:56 GMT</pubDate>
+      <category>AI research</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3777611c-313e-4543-b040-a8e21176e3a1.png" type="image/png" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3777611c-313e-4543-b040-a8e21176e3a1.png"/>
+      <description>METR estimated that 80% of Anthropic&#x27;s AI R&amp;D acceleration over the past year was due to AI itself. Tadepalli&#x27;s correction splits that credit between AI uplift and the extra R&amp;D compute it made worthwhile.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/3777611c-313e-4543-b040-a8e21176e3a1.png" alt="R&amp;D compute explains much of Anthropic&#x27;s acceleration — LessWrong"/></p>
+<p>METR estimated that 80% of Anthropic&#x27;s AI R&amp;D acceleration over the past year was due to AI itself. <a href="https://www.lesswrong.com/posts/Foq3GrbvKoLGbfxdc/r-and-d-compute-explains-much-of-anthropic-s-acceleration">Tadepalli&#x27;s correction</a> splits that credit between AI uplift and the extra R&amp;D compute it made worthwhile.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Grid operators squeeze more power from existing lines</title>
+      <link>https://www.ft.com/content/7db3c2c9-dfad-4b5d-a8dc-aabf6fa87440</link>
+      <guid isPermaLink="false">a32c6dbb-6cda-4dbd-9260-10acb5ef5078</guid>
+      <pubDate>Sat, 28 Nov 2026 15:04:38 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a32c6dbb-6cda-4dbd-9260-10acb5ef5078.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a32c6dbb-6cda-4dbd-9260-10acb5ef5078.jpg"/>
+      <description>Operators are using sensors and sophisticated software to dynamically adjust the safety limits on existing transmission lines, eking out more capacity from the network already in place as AI-driven demand rises. The IEA says such sensing and dynamic ratings can unlock capacity more quickly and at lower cost than building new lines.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/a32c6dbb-6cda-4dbd-9260-10acb5ef5078.jpg" alt="Grid operators squeeze more power from existing lines"/></p>
+<p>Operators are using sensors and sophisticated software to <a href="https://www.ft.com/content/7db3c2c9-dfad-4b5d-a8dc-aabf6fa87440">dynamically adjust the safety limits on existing transmission lines</a>, eking out more capacity from the network already in place as AI-driven demand rises. The IEA says such sensing and dynamic ratings can unlock capacity more quickly and at lower cost than building new lines.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>A profile of Jensen Huang — Techmeme</title>
+      <link>https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq</link>
+      <guid isPermaLink="false">94189693-b80c-4772-bc2e-11e71bf9eba7</guid>
+      <pubDate>Sat, 28 Nov 2026 15:04:18 GMT</pubDate>
+      <category>Tech news</category>
+      <description>The Wall Street Journal profile presents Huang&#x27;s return as CEO on November 23 as the latest instance of his unrelenting ability to make the most of any situation. The comeback does not settle the scrutiny, with three House committees scheduled to interview him privately on December 1 and the Senate Banking Committee to hear him publicly on December 3.</description>
+      <content:encoded><![CDATA[<p>The <a href="https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq">Wall Street Journal profile</a> presents Huang&#x27;s return as CEO on November 23 as the latest instance of his unrelenting ability to make the most of any situation. The comeback does not settle the scrutiny, with three House committees scheduled to interview him privately on December 1 and the Senate Banking Committee to hear him publicly on December 3.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Q&amp;A with Q.ANT CEO Michael Förtsch on AI photonic processors — Techmeme</title>
+      <link>https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/</link>
+      <guid isPermaLink="false">ebbfb12f-235e-4be1-81a9-3d4b410f0c16</guid>
+      <pubDate>Sat, 28 Nov 2026 15:02:38 GMT</pubDate>
+      <category>Tech news</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ebbfb12f-235e-4be1-81a9-3d4b410f0c16.jpg" type="image/jpeg" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ebbfb12f-235e-4be1-81a9-3d4b410f0c16.jpg"/>
+      <description>Q.ANT&#x27;s photonic processors use waves of light as a coprocessor alongside GPUs for the heaviest nonlinear AI calculations. They do complicated math in a single step where regular chips need thousands, cutting the memory access that now drives cost.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/ebbfb12f-235e-4be1-81a9-3d4b410f0c16.jpg" alt="Q&amp;A with Q.ANT CEO Michael Förtsch on AI photonic processors — Techmeme"/></p>
+<p>Q.ANT&#x27;s <a href="https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/">photonic processors</a> use waves of light as a coprocessor alongside GPUs for the heaviest nonlinear AI calculations. They do complicated math in a single step where regular chips need thousands, cutting the memory access that now drives cost.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Drones over Wright-Patterson, radios that wouldn&#x27;t transmit</title>
+      <link>https://www.unexplained.co/news/wright-patterson-drones-radio-failure-files</link>
+      <guid isPermaLink="false">fdf1060f-1e4d-49c0-9c80-76b13da792d8</guid>
+      <pubDate>Sat, 28 Nov 2026 10:36:20 GMT</pubDate>
+      <category>High strangeness</category>
+      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fdf1060f-1e4d-49c0-9c80-76b13da792d8.webp" type="image/webp" medium="image"/>
+      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fdf1060f-1e4d-49c0-9c80-76b13da792d8.webp"/>
+      <description>Newly released investigative records say an airman at Wright-Patterson Air Force Base was about 80 feet from drones in December 2024, and his patrol radio would not transmit while they were nearby. The records leave the operators unidentified and offer no technical finding for the radio trouble.</description>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/fdf1060f-1e4d-49c0-9c80-76b13da792d8.webp" alt="Drones over Wright-Patterson, radios that wouldn&#x27;t transmit"/></p>
+<p>Newly released investigative records say an airman at Wright-Patterson Air Force Base was about 80 feet from drones in December 2024, and <a href="https://www.unexplained.co/news/wright-patterson-drones-radio-failure-files">his patrol radio would not transmit while they were nearby</a>. The records leave the operators unidentified and offer no technical finding for the radio trouble.</p>]]></content:encoded>
+    </item>
     <item>
       <title>ATLAS sees a 3.5-sigma hint the vacuum can tunnel</title>
       <link>https://atlas.cern/Updates/Briefing/Vacuum-Tunnelling</link>
@@ -1317,96 +1383,6 @@
       <description>Conway the Machine released OTIS on Friday, November 20. “Lupita!” puts Ghostface Killah, Raekwon, and Method Man together on one track.</description>
       <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/42bf587c-3b0e-4168-a44a-2e19b6718f08.jpg" alt="Conway the Machine releases new album OTIS"/></p>
 <p><a href="https://hip-hopvibe.com/uncategorized/stream-conway-the-machine-otis/">Conway the Machine</a> released OTIS on Friday, November 20. “Lupita!” puts Ghostface Killah, Raekwon, and Method Man together on one track.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Triple-star system 28 light-years away defies explanation</title>
-      <link>https://www.abovethenormnews.com/2026/11/20/triple-star-system/</link>
-      <guid isPermaLink="false">2a292689-a8bb-47e8-ad89-f12c506f91f2</guid>
-      <pubDate>Sat, 21 Nov 2026 04:36:48 GMT</pubDate>
-      <category>Astronomy</category>
-      <description>Astronomers hunting for planets found Welopōʻai, a red dwarf paired with two white dwarfs just 28 light-years away. The red dwarf should have been swallowed when its companion swelled into a giant, yet it survived intact.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.abovethenormnews.com/2026/11/20/triple-star-system/">Astronomers hunting for planets found Welopōʻai</a>, a red dwarf paired with two white dwarfs just 28 light-years away. The red dwarf should have been swallowed when its companion swelled into a giant, yet it survived intact.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Commander prices rise, new music lands, and sunlight pushes an asteroid</title>
-      <link>https://www.polygon.com/mtg-nauctis-sunken-realm-commander-deck-leaks-ignoble-serpent/</link>
-      <guid isPermaLink="false">5142b3dc-a92b-46fb-95a4-2f59ed1a5a8c</guid>
-      <pubDate>Fri, 20 Nov 2026 23:42:25 GMT</pubDate>
-      <category>Evening digest</category>
-      <description>Nauctis moves borderless Commander cards to a $79.99 Premium Edition; Darkhold Destiny is priced at $74.99 for April 9, 2027; Conway released OTIS today with Ghostface Killah, Raekwon, and Method Man; GTA VI: The Album landed today; and Return of the Living Dead returns with Johnny Knoxville and no CGI. Superhuman turned Go into a personal assistant; a stick-on patch pulled REM about 43 minutes…</description>
-      <content:encoded><![CDATA[<p><a href="https://www.polygon.com/mtg-nauctis-sunken-realm-commander-deck-leaks-ignoble-serpent/">Nauctis</a> moves borderless Commander cards to a $79.99 Premium Edition; <a href="https://attractmo.de/tabletop/mtg-darkhold-destiny-marvel-commander-decks-first-look">Darkhold Destiny</a> is priced at $74.99 for April 9, 2027; <a href="https://uristocrat.com/new-music-friday-conway-the-machine-november-20-2026/">Conway released OTIS today</a> with Ghostface Killah, Raekwon, and Method Man; <a href="https://gameinformer.com/2026/11/20/grand-theft-auto-vi-the-album-is-now-available">GTA VI: The Album</a> landed today; and <a href="https://www.dreadcentral.com/news/598101/return-of-the-living-dead-sequel-ramping-up-with-johnny-knoxville-joining-the-cast/">Return of the Living Dead</a> returns with Johnny Knoxville and no CGI. <a href="https://blog.superhuman.com/superhuman-expands-go-unveils-personal-ai-assistant/">Superhuman turned Go</a> into a personal assistant; a <a href="https://sciencedaily.com/releases/2026/11/261116014842.htm">stick-on patch</a> pulled REM about 43 minutes earlier in a small fixed-order study; JWST detected <a href="https://www.techno-science.net/en/news/james-webb-detects-forbidden-hydrogen-29782">forbidden H3+ light</a> sought for 40 years; and sunlight may be pushing asteroid <a href="https://earthsky.org/space/mystery-space-object-1998-ky26-asteroid/">1998 KY26</a>.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Hackers breached USDA&#x27;s farmer-payment system</title>
-      <link>https://www.techmeme.com/261120/p38#a261120p38</link>
-      <guid isPermaLink="false">e36cdb03-51f3-46cd-a192-88b2d4c37319</guid>
-      <pubDate>Fri, 20 Nov 2026 23:02:42 GMT</pubDate>
-      <category>Cybersecurity</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e36cdb03-51f3-46cd-a192-88b2d4c37319.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e36cdb03-51f3-46cd-a192-88b2d4c37319.jpg"/>
-      <description>NBC News reported Friday that hackers gained access to the U.S. Department of Agriculture&#x27;s system that facilitates payments to farmers this week, citing two former USDA officials. The agency told employees about the access on Thursday.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/e36cdb03-51f3-46cd-a192-88b2d4c37319.jpg" alt="Hackers breached USDA&#x27;s farmer-payment system"/></p>
-<p>NBC News reported Friday that hackers gained access to <a href="https://www.techmeme.com/261120/p38#a261120p38">the U.S. Department of Agriculture&#x27;s system that facilitates payments to farmers</a> this week, citing two former USDA officials. The agency told employees about the access on Thursday.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Cognition eyes new raise at $75B valuation</title>
-      <link>https://www.techmeme.com/261120/p36#a261120p36</link>
-      <guid isPermaLink="false">890c4ff7-34d3-4bb1-bb9c-9485c2daa1d2</guid>
-      <pubDate>Fri, 20 Nov 2026 23:02:24 GMT</pubDate>
-      <category>Tech news</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/890c4ff7-34d3-4bb1-bb9c-9485c2daa1d2.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/890c4ff7-34d3-4bb1-bb9c-9485c2daa1d2.jpg"/>
-      <description>Cognition is considering a new funding round at a $75 billion valuation, according to Bloomberg&#x27;s Rebecca Torrence. It has already raised over $3 billion in 2026 so far.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/890c4ff7-34d3-4bb1-bb9c-9485c2daa1d2.jpg" alt="Cognition eyes new raise at $75B valuation"/></p>
-<p><a href="https://www.techmeme.com/261120/p36#a261120p36">Cognition is considering a new funding round at a $75 billion valuation</a>, according to Bloomberg&#x27;s Rebecca Torrence. It has already raised over $3 billion in 2026 so far.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Inkling 2 Mini ties Qwen3.8 27B with ~5x fewer active parameters</title>
-      <link>https://www.techmeme.com/261120/p37#a261120p37</link>
-      <guid isPermaLink="false">f596af32-7372-46f1-a490-375f24f807a5</guid>
-      <pubDate>Fri, 20 Nov 2026 23:02:00 GMT</pubDate>
-      <category>AI models</category>
-      <description>Inkling 2 Mini scores 20 on Artificial Analysis&#x27;s Intelligence Index, according to Techmeme. It gets there by looping its middle layers three times for every token.</description>
-      <content:encoded><![CDATA[<p>Inkling 2 Mini scores 20 on Artificial Analysis&#x27;s Intelligence Index, according to <a href="https://www.techmeme.com/261120/p37#a261120p37">Techmeme</a>. It gets there by looping its middle layers three times for every token.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Zscaler jumps 15%+ after hours on CrowdStrike talks</title>
-      <link>https://www.techmeme.com/261120/p34#a261120p34</link>
-      <guid isPermaLink="false">6d41e477-8c3e-495e-868f-051f547bd748</guid>
-      <pubDate>Fri, 20 Nov 2026 23:01:33 GMT</pubDate>
-      <category>Tech news</category>
-      <media:content url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/6d41e477-8c3e-495e-868f-051f547bd748.jpg" type="image/jpeg" medium="image"/>
-      <media:thumbnail url="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/6d41e477-8c3e-495e-868f-051f547bd748.jpg"/>
-      <description>CrowdStrike is in talks to acquire Zscaler, according to people familiar with the matter. A combination would create a cybersecurity company worth about $265 billion.</description>
-      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/rynglvr/feed-rss/main/media/6d41e477-8c3e-495e-868f-051f547bd748.jpg" alt="Zscaler jumps 15%+ after hours on CrowdStrike talks"/></p>
-<p>CrowdStrike is <a href="https://www.techmeme.com/261120/p34#a261120p34">in talks to acquire Zscaler</a>, according to people familiar with the matter. A combination would create a cybersecurity company worth about $265 billion.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Sellers leave Etsy over AI-training terms</title>
-      <link>https://www.techmeme.com/261120/p35#a261120p35</link>
-      <guid isPermaLink="false">42a71f9d-c242-45df-a3b1-91ff76035cdd</guid>
-      <pubDate>Fri, 20 Nov 2026 23:01:13 GMT</pubDate>
-      <category>Tech news</category>
-      <description>Many longtime Etsy sellers say they are leaving the marketplace after Etsy updated its terms to allow Etsy and its third-party partners to use sellers&#x27; content for AI training. Etsy says it does not train models to copy original work, but it has not clarified whether its partners can use sellers&#x27; content for applications unrelated to Etsy.</description>
-      <content:encoded><![CDATA[<p>Many longtime Etsy sellers say they are leaving the marketplace after Etsy <a href="https://www.techmeme.com/261120/p35#a261120p35">updated its terms</a> to allow Etsy and its third-party partners to use sellers&#x27; content for AI training. Etsy says it does not train models to copy original work, but it has not clarified whether its partners can use sellers&#x27; content for applications unrelated to Etsy.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pentagon UFO files add vault plan, psychic spies, Mach 2.5 track</title>
-      <link>https://www.abovethenormnews.com/2026/11/20/pentagon-ufo-files-november-2026/</link>
-      <guid isPermaLink="false">f1efc057-0689-4ad5-b0e5-faa9414a220d</guid>
-      <pubDate>Fri, 20 Nov 2026 22:36:44 GMT</pubDate>
-      <category>High strangeness</category>
-      <description>The Department of War released its eighth batch of UAP files on November 20, 2026, centred on a contractor report on Skinwalker Ranch. The report plans a 5,000-square-foot buried vault to hold exotic material or tissue.</description>
-      <content:encoded><![CDATA[<p><a href="https://www.abovethenormnews.com/2026/11/20/pentagon-ufo-files-november-2026/">The Department of War released its eighth batch of UAP files on November 20, 2026</a>, centred on a contractor report on Skinwalker Ranch. The report plans a 5,000-square-foot buried vault to hold exotic material or tissue.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Sunrise on the Reaping beats The Odyssey&#x27;s preview record</title>
-      <link>https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-domestic-preview-total/</link>
-      <guid isPermaLink="false">12b8d67c-9a66-433d-9162-970396bfc486</guid>
-      <pubDate>Fri, 20 Nov 2026 16:36:55 GMT</pubDate>
-      <category>Sci-fi movies</category>
-      <description>Sunrise on the Reaping took in $21.25 million in Thursday previews at the domestic box office. That tops The Odyssey, which had set the year&#x27;s preview mark.</description>
-      <content:encoded><![CDATA[<p><a href="https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-domestic-preview-total/">Sunrise on the Reaping</a> took in $21.25 million in Thursday previews at the domestic box office. That tops The Odyssey, which had set the year&#x27;s preview mark.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
